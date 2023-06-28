@@ -1,0 +1,7 @@
+ numpy==1.24  # For Whisper
+ torchaudio
+ jiwer
+ git+https://github.com/openai/whisper.git
+ datasets
+ librosa
+ soundfile

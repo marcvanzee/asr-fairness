@@ -78,9 +78,10 @@ def get_batch_size(model_size):
 
 
 def get_model(model_size, lang):
-  model_type = model_size + ".en" if get_lang(lang) == "en" else model_size
-  model = whisper.load_model(model_type)
-  return model
+  model_type = model_size
+  if 'large' not in model_size and get_lang(lang) == 'en':
+    model_type += ".en"
+  return whisper.load_model(model_type)
 
 
 def get_sentence_key():
@@ -177,10 +178,10 @@ def eval(model, ds, lang):
 
 
 def save_results(result_path, results):
-  print(f'Saving {len(results)} results to {result_path}.')
+  keys = results.keys()
+  print(f'Saving {len(results.keys()[0])} results to {result_path}.')
 
   with open(result_path, 'w') as f:
-    keys = results.keys()
     writer = csv.writer(f, delimiter='\t')
     writer.writerow(keys)
     writer.writerows(zip(*[results[key] for key in keys]))

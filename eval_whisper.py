@@ -95,7 +95,7 @@ def get_dataset(dataset_name, split, lang, batch_size):
   def preprocess_audio(e):
     audio = whisper.pad_or_trim(e['audio']['array'].flatten())
     mels = whisper.log_mel_spectrogram(audio)
-    return { 'mels': mels, 'text':  e['normalized_text'] }
+    return { 'mels': mels, 'text':  e[get_sentence_key()] }
 
   def stack_ds(examples):
     return {
@@ -139,36 +139,21 @@ def get_dataset(dataset_name, split, lang, batch_size):
   return ds
 
 
-def add_voxpopuli_results(results, batch, outputs):
-  for key in ['gender', 'speaker_id', 'accent']:
-    results[key].extend(batch[key])
-
-  results['reference_original'].extend(batch['normalized_text'])
-  results['inferred_original'].extend([x.text for x in outputs])
-  return results
-  
-
-def add_commonvoice_results(results, batch, outputs):
-  for key in ['age', 'gender', 'accent', 'locale']:
-    results[key].extend(batch[key])
-
-  results['reference_original'].extend(batch['sentence'])
-  results['inferred_original'].extend([x.text for x in outputs])
-  return results
-
-
 def eval(model, ds, lang):
   options = whisper.DecodingOptions(language=get_lang(lang), without_timestamps=True)
   results = collections.defaultdict(list)
 
-  add_results_fn = {
-    'commonvoice': add_commonvoice_results,
-    'voxpopuli': add_voxpopuli_results,
+  keys_to_map = {
+    'commonvoice': ['age', 'gender', 'accent', 'locale'],
+    'voxpopuli': ['gender', 'speaker_id', 'accent'],
   }[FLAGS.dataset]
 
   for batch in tqdm(ds):
-    outputs = model.decode(batch['mels'].to("cuda"), options)
-    results = add_results_fn(results, batch, outputs)
+    outputs = model.decode(batch['mels'].to('cuda'), options)
+    results['reference_original'].extend(batch[get_sentence_key()])
+    results['inferred_original'].extend([x.text for x in outputs])
+    for key in keys_to_map:
+      results[key].extend(batch[key])
   
   normalizer = EnglishTextNormalizer() if lang == 'en' else BasicTextNormalizer()
   results['reference'] = [normalizer(x) for x in results['reference_original']]

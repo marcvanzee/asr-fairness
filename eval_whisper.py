@@ -16,21 +16,22 @@ from absl import flags
 FLAGS = flags.FLAGS
 
 flags.DEFINE_string('db_cache_dir',
-                    '~/.cache/huggingface/preprocessed_datasets/',
+                    '/home/marcvanzee/.cache/huggingface/preprocessed_datasets/',
                     'Directory to cache HF datasets after preprocessed')
 
 flags.DEFINE_enum('dataset', 'commonvoice', ['commonvoice', 'voxpopuli'],
                   'Name of dataset to evaluate.')
 
 flags.DEFINE_string('eval_results_dir',
+                    './eval_results',
                     'Directory to store eval results tsv files')
 
 flags.DEFINE_list('model_sizes',
-                  ['tiny', 'base', 'small', 'medium', 'large', 'large-v2']
+                  ['tiny', 'base', 'small', 'medium', 'large', 'large-v2'],
                   'Whisper model sizes to evaluate.')
 
 
-# TODO: parallel mapping sometimes gets stuck, investigate why.
+# TODO: parallel dataset mapping sometimes gets stuck, investigate why.
 _NUM_CORES = 1  # os.cpu_count
 
 # Always evaluate on 'test'.
@@ -60,9 +61,11 @@ _COMMONVOICE9_LANGS = [
 ]
 
 _VOXPOPULI_LANGS = [
-    'cs_cz', 'de_de', 'en_us', 'es_es', 'fi_fi', 'fr_fr', 'hr_hr', 'hu_hu',
-    'it_it', 'nl_nl', 'pl_pl', 'ro_ro', 'sk_sk', 'sl_si']
+    'lt', 'en', 'de', 'fr', 'es', 'pl', 'it', 'ro', 'hu', 'cs', 'nl', 'fi', 'hr',
+    'sk', 'sl', 'et',
+]
 
+ 
 def get_batch_size(model_size):
   return {
       'tiny': 64,
@@ -73,16 +76,25 @@ def get_batch_size(model_size):
       'large-v2': 8,
   }[model_size]
 
+
 def get_model(model_size, lang):
   model_type = model_size + ".en" if get_lang(lang) == "en" else model_size
   model = whisper.load_model(model_type)
   return model
 
+
+def get_sentence_key():
+  return {
+    'commonvoice': 'sentence',
+    'voxpopuli': 'normalized_text'
+  }[FLAGS.dataset]
+
+
 def get_dataset(dataset_name, split, lang, batch_size):
   def preprocess_audio(e):
     audio = whisper.pad_or_trim(e['audio']['array'].flatten())
     mels = whisper.log_mel_spectrogram(audio)
-    return { 'mels': mels, 'text':  e['sentence'] }
+    return { 'mels': mels, 'text':  e['normalized_text'] }
 
   def stack_ds(examples):
     return {
@@ -112,7 +124,7 @@ def get_dataset(dataset_name, split, lang, batch_size):
       'commonvoice': 'mozilla-foundation/common_voice_9_0',
       'voxpopuli': 'facebook/voxpopuli'
     }[dataset_name]
-    ds = load_dataset(dataset lang, split=split, use_auth_token=True,
+    ds = load_dataset(dataset, lang, split=split, use_auth_token=True,
                       num_proc=_NUM_CORES)
     ds = ds.cast_column("audio", Audio(sampling_rate=16000)).with_format("torch")
     ds = ds.map(preprocess_audio, num_proc=_NUM_CORES)
@@ -125,7 +137,8 @@ def get_dataset(dataset_name, split, lang, batch_size):
   
   return ds
 
-def add_results(results, batch, outputs):
+
+def add_voxpopuli_results(results, batch, outputs):
   for key in ['gender', 'speaker_id', 'accent']:
     results[key].extend(batch[key])
 
@@ -133,19 +146,35 @@ def add_results(results, batch, outputs):
   results['inferred_original'].extend([x.text for x in outputs])
   return results
   
+
+def add_commonvoice_results(results, batch, outputs):
+  for key in ['age', 'gender', 'accent', 'locale']:
+    results[key].extend(batch[key])
+
+  results['reference_original'].extend(batch['sentence'])
+  results['inferred_original'].extend([x.text for x in outputs])
+  return results
+
+
 def eval(model, ds, lang):
   options = whisper.DecodingOptions(language=get_lang(lang), without_timestamps=True)
   results = collections.defaultdict(list)
 
+  add_results_fn = {
+    'commonvoice': add_commonvoice_results,
+    'voxpopuli': add_voxpopuli_results,
+  }[FLAGS.dataset]
+
   for batch in tqdm(ds):
     outputs = model.decode(batch['mels'].to("cuda"), options)
-    results = add_results(results, batch, outputs)
+    results = add_results_fn(results, batch, outputs)
   
   normalizer = EnglishTextNormalizer() if lang == 'en' else BasicTextNormalizer()
   results['reference'] = [normalizer(x) for x in results['reference_original']]
   results['inferred'] = [normalizer(x) for x in results['inferred_original']]
 
   return results
+
 
 def save_results(result_path, results):
   print(f'Saving {len(results)} results to {result_path}.')
@@ -155,6 +184,7 @@ def save_results(result_path, results):
     writer = csv.writer(f, delimiter='\t')
     writer.writerow(keys)
     writer.writerows(zip(*[results[key] for key in keys]))
+
 
 def get_lang(code):
   return re.split('_|-', code)[0] if code else None
@@ -178,7 +208,7 @@ def main(_):
   for lang in langs_to_eval:
     print('=== Language', lang)
     for model_size in FLAGS.model_sizes:
-      result_path = f'./eval_results/whisper_{model_size}_commonvoice_{lang}_{_SPLIT}.tsv'
+      result_path = f'./eval_results/whisper_{model_size}_{FLAGS.dataset}_{lang}_{_SPLIT}.tsv'
       if os.path.exists(result_path):
         print(f'Results exist already -- skipping:', result_path)
         continue

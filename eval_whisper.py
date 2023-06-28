@@ -81,7 +81,8 @@ def get_dataset(dataset_name, split, lang, batch_size=8):
   def preprocess_audio(e):
     audio = whisper.pad_or_trim(e['audio']['array'].flatten())
     mels = whisper.log_mel_spectrogram(audio)
-    return { 'mels': mels, 'text':  e['sentence'] }
+    key = 'sentence' if dataset_name == 'commonvoice' else 'normalized_text'
+    return { 'mels': mels, 'text':  e[key] }
 
   def stack_ds(examples):
     return {
@@ -101,7 +102,6 @@ def get_dataset(dataset_name, split, lang, batch_size=8):
     print(f'Loading db cache from: {db_cache_path}')
     ds = load_from_disk(db_cache_path)
   else:
-    print(db_cache_path + '_nobatch')
     if os.path.exists(db_cache_path + '_nobatch'):  # Legacy: remove
       print('Loading legacy preprocessed dataset')
       ds = load_from_disk(db_cache_path + '_nobatch')

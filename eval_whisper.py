@@ -145,8 +145,8 @@ def eval(model, ds, lang):
 
 
 def save_results(result_path, results):
-  keys = results.keys()
-  print(f'Saving {len(results.keys()[0])} results to {result_path}.')
+  keys = list(results.keys())
+  print(f'Saving {len(keys[0])} results to {result_path}.')
 
   with open(result_path, 'w') as f:
     writer = csv.writer(f, delimiter='\t')

@@ -90,8 +90,8 @@ class WhisperModel:
   @staticmethod
   def preprocess_audio(x):
     # Note: this is a staticmethod since Arrow datasets cannot serialize the
-    # Whisper object, os we cannot pass an instance of this class since the
-    # cached dataset will not be properly hased.
+    # Whisper object, so we cannot pass an instance of this class since the
+    # cached dataset will not be properly hashed.
     return whisper.log_mel_spectrogram(whisper.pad_or_trim(x))
   
   def decode(self, batch):
@@ -153,11 +153,8 @@ def get_batches(dataset, lang, audio_preprocess_fn, batch_size):
             batch_size=batch_size)
     return ds
     
-  dataset_cache_name = dataset
-  if dataset == 'commonvoice':  # Legacy, remove.
-    dataset_cache_name = 'common_voice_9_0'
   db_cache_path = os.path.join(FLAGS.db_cache_dir,
-                                 f'{dataset_cache_name}_{lang}_{_SPLIT}')
+                                 f'{dataset}_{lang}_{_SPLIT}')
 
   if os.path.exists(db_cache_path):
     print(f'Loading db cache from: {db_cache_path}')

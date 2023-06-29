@@ -233,13 +233,13 @@ def get_model_sizes():
   }[FLAGS.model]
 
 
-def load_state(hf_name, lang):
+def load_state(hf_name, lang_code):
   print('=== Loading new model', hf_name)
   if FLAGS.model == 'whisper':
     model = WhisperModel(
       hf_name=hf_name,
       model=whisper.load_model(hf_name),
-      options=whisper.DecodingOptions(language=get_lang_code(lang),
+      options=whisper.DecodingOptions(language=lang_code,
                                       without_timestamps=True))
     preprocessor = WhisperModel.preprocess_audio
   elif FLAGS.model == 'mms':
@@ -255,6 +255,7 @@ def load_state(hf_name, lang):
 
 def update_model_state(state, model_size, lang):
   model = state.model
+  lang_code = get_lang_code(lang)
   use_en_model = lang == 'en' and 'large' not in model_size
   hf_name = {
     'mms': 'facebook/' + model_size,
@@ -262,10 +263,17 @@ def update_model_state(state, model_size, lang):
   }[FLAGS.model]
 
   if not model or model.hf_name != hf_name:
-    state = load_state(hf_name, lang)
+    state = load_state(hf_name, lang_code)
+  elif FLAGS.model == 'whisper':
+    print('Updating Whisper decoder with new language', lang_code)
+    # Whisper is multilingual or en-only, which is indicated by hf_name. If
+    # we switch language we only have to update the decoding options.
+    state.model.options = whisper.DecodingOptions(
+      language=lang_code, without_timestamps=True)
   elif FLAGS.model == 'mms':
+    print('Updating MMS tokenizer and adapter with new language', lang_code)
     # Keep the same model in memory and simply switch out the language.
-    lang_alpha3 = lang_alpha2_to_3(lang)
+    lang_alpha3 = lang_alpha2_to_3(lang_code)
     model.processor.tokenizer.set_target_lang(lang_alpha3)
     model.model.load_adapter(lang_alpha3)
 
@@ -302,15 +310,19 @@ def main(_):
 
       state = update_model_state(state, model_size, lang)
       results = collections.defaultdict(list)
-      normalize = get_text_normalizer(lang)
+      i = 0
       for batch in tqdm(get_batches(dataset, lang, state.preprocess_fn)):
         texts = state.model.decode(batch)
         results['reference_original'].extend(batch['reference_original'])
         results['inferred_original'].extend(texts)
-        results['reference'].extend(normalize(results['reference_original']))
-        results['inferred'].extend(normalize(results['inferred_original']))
         for key in get_protected_attrs(dataset):
           results[key].extend(batch[key])
+        i += 1
+        if i == 2: break
+
+      normalize = get_text_normalizer(lang)
+      results['reference'] = normalize(results['reference_original'])
+      results['inferred'] = normalize(results['inferred_original'])
 
       save_results(result_path, results)
 

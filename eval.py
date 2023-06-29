@@ -310,15 +310,12 @@ def main(_):
 
       state = update_model_state(state, model_size, lang)
       results = collections.defaultdict(list)
-      i = 0
       for batch in tqdm(get_batches(dataset, lang, state.preprocess_fn)):
         texts = state.model.decode(batch)
         results['reference_original'].extend(batch['reference_original'])
         results['inferred_original'].extend(texts)
         for key in get_protected_attrs(dataset):
           results[key].extend(batch[key])
-        i += 1
-        if i == 2: break
 
       normalize = get_text_normalizer(lang)
       results['reference'] = normalize(results['reference_original'])

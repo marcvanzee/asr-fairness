@@ -12,7 +12,7 @@ import re
 from absl import app
 from absl import flags
 from transformers import Wav2Vec2ForCTC, AutoProcessor
-import pycountry
+from langs import COMMONVOICE9_LANGS, VOXPOPULI_LANGS, get_lang_code, ISO_2_TO_3
 import dataclasses
 import functools
 
@@ -38,7 +38,7 @@ flags.DEFINE_list('whisper_model_sizes',
                   'Whisper model sizes to evaluate.')
 
 flags.DEFINE_list('mms_model_sizes',
-                  ['mms-1b-fl102', 'mms-1b-l1107', 'mmb-1b-all'],
+                  ['mms-1b-fl102', 'mms-1b-l1107', 'mms-1b-all'],
                   'MMS model sizes to evaluate.')
 
 
@@ -47,25 +47,6 @@ _NUM_CORES = 1  # os.cpu_count
 
 # We always evaluate on the test split.
 _SPLIT = 'test'
-
-# TODO: extract this from the dataset directly.
-_COMMONVOICE9_LANGS = [
-    'ab', 'ar', 'as', 'az', 'ba', 'bas', 'be', 'bg', 'bn', 'br', 'ca', 
-    'cnh', 'cs', 'cv', 'cy', 'da', 'de', 'dv', 'el', 'eo', 'es', 'et', 'ckb',
-    'eu', 'fa', 'fi', 'fr', 'fy-NL', 'ga-IE', 'gl', 'gn', 'ha', 'hi', 'hsb',
-    'hu', 'hy-AM', 'ia', 'id', 'ig', 'it', 'ja', 'ka', 'kab', 'kk', 'kmr', 'ky',
-    'lg', 'lt', 'lv', 'mdf', 'mhr', 'mk', 'ml', 'mn', 'mr', 'mt', 'myv',
-    'nan-tw', 'nl', 'nn-NO', 'or', 'pa-IN', 'pl', 'pt', 'rm-sursilv',
-    'rm-vallader', 'ro', 'ru', 'rw', 'sah', 'sat', 'sk', 'sl', 'sr', 'sv-SE',
-    'sw', 'ta', 'th', 'tig', 'tok', 'tr', 'tt', 'ug', 'uk', 'ur', 'uz', 'vi',
-    'vot', 'yue', 'zh-CN', 'zh-HK', 'zh-TW', 'en'
-]
-
-# TODO: extract this from the dataset directly.
-_VOXPOPULI_LANGS = [
-    'lt', 'de', 'fr', 'es', 'pl', 'it', 'ro', 'hu', 'cs', 'nl', 'fi', 'hr',
-    'sk', 'sl', 'et', 'en'
-]
 
 
 @dataclasses.dataclass
@@ -76,9 +57,6 @@ class WhisperModel:
 
   @staticmethod
   def preprocess_audio(x):
-    # Note: this is a staticmethod since Arrow datasets cannot serialize the
-    # Whisper object, so we cannot pass an instance of this class since the
-    # cached dataset will not be properly hashed.
     return whisper.log_mel_spectrogram(whisper.pad_or_trim(x))
   
   def decode(self, batch):
@@ -123,9 +101,9 @@ def get_protected_attrs(dataset):
 
 def get_batch_size():
   return {
-    # Note: we can use larger batch sizes for smaller models, but batching
-    # the dataset takes a lot of time so we just use the same batch size
-    # everywhere and cache the preprocessed dataset.
+    # Note: we can use larger batch sizes for smaller models, but to avoid
+    # too much preprocessing we just use the same batch size everywhere and
+    # cache the preprocessed dataset.
     'whisper': 8,
     # The Huggingface interface to MMS only seems to work for single examples.
     'mms': 1,
@@ -196,23 +174,10 @@ def save_results(result_path, results):
     writer.writerows(zip(*[results[key] for key in keys]))
 
 
-def get_lang_code(code):
-  return code[:code.index('-')] if '-' in code else code
-
-
-def lang_alpha2_to_3(code):
-  # TODO: pycountry seems to miss a lot of alpha_3 languages. Investigate
-  # further.
-  lang = pycountry.countries.get(alpha_2=get_lang_code(code))
-  if lang:
-    lang = lang.alpha_3.lower()
-  return lang
-
-
 def get_langs_to_eval(dataset_name, model_size):
   ds_langs = {
-    'commonvoice': _COMMONVOICE9_LANGS,
-    'voxpopuli': _VOXPOPULI_LANGS
+    'commonvoice': COMMONVOICE9_LANGS,
+    'voxpopuli': VOXPOPULI_LANGS
   }[dataset_name]
   if FLAGS.model == 'whisper':
     whisper_langs = whisper.tokenizer.LANGUAGES
@@ -221,8 +186,8 @@ def get_langs_to_eval(dataset_name, model_size):
     # We create a temporary processor here just to retrieve all languages.
     # The processor loads very fast so it doesn't affect performance much.
     processor = AutoProcessor.from_pretrained('facebook/' + model_size)
-    mms_langs_alpha3 = list(processor.tokenizer.vocab.keys())
-    langs = [lang for lang in ds_langs if lang_alpha2_to_3(lang) in mms_langs_alpha3]
+    mms_langs_iso3 = list(processor.tokenizer.vocab.keys())
+    langs = [lang for lang in ds_langs if ISO_2_TO_3.get(lang) in mms_langs_iso3]
   return langs
   
 
@@ -273,7 +238,8 @@ def update_model_state(state, model_size, lang):
   elif FLAGS.model == 'mms':
     print('Updating MMS tokenizer and adapter with new language', lang_code)
     # Keep the same model in memory and simply switch out the language.
-    lang_alpha3 = lang_alpha2_to_3(lang_code)
+    lang_alpha3 = ISO_2_TO_3.get(lang_code)
+    assert lang_alpha3, f'Invalid language for MMS: {lang_alpha3}'
     model.processor.tokenizer.set_target_lang(lang_alpha3)
     model.model.load_adapter(lang_alpha3)
 

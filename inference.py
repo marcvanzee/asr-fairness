@@ -164,9 +164,13 @@ def get_text_normalizer(lang):
   return lambda xs: list(map(normalize_fn, xs))
 
 
-def save_results(result_path, results):
-  keys = list(results.keys())
-  print(f'Saving {len(keys[0])} results to {result_path}.')
+def save_results(result_path, results, dataset, lang):
+  if dataset == "commonvoice":
+    keys = ["gender", "accent", "age", "locale", "reference", "reference_original", "inference", "inferred_original"]
+  else: 
+    keys = ["gender", "accent", "reference", "reference_original", "inference", "inferred_original"]
+  #keys = list(results.keys())
+  print(f'Saving results for {lang} to {result_path}.')
 
   with open(result_path, 'w') as f:
     writer = csv.writer(f, delimiter='\t')
@@ -287,7 +291,7 @@ def main(_):
       results['reference'] = normalize(results['reference_original'])
       results['inferred'] = normalize(results['inferred_original'])
 
-      save_results(result_path, results)
+      save_results(result_path, results, FLAGS.dataset, lang)
 
 
 if __name__ == '__main__':

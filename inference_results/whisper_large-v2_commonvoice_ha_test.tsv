@@ -1,0 +1,897 @@
+gender	accent	age	locale	reference	reference_original	inferred	inferred_original
+			ha	katin haɗe yake da kyautar 	Katin haɗe yake da kyautar.	qaqil haqdi wikirik yota	Qaqil haqdi wikirik yota
+			ha	 ya zama ɗabi ar matasa sanya takalmin fatarauta 	"""Ya zama ɗabi'ar matasa sanya takalmin fatarauta."""	bial sawad ebi armatasa sin yataakani fatarawta 	Bial sawad ebi armatasa sin yataakani fatarawta.
+			ha	za ta iya jin ciwo idan ta yi haka 	Za ta iya jin ciwo idan ta yi haka.	ḥḏḏḏ ḥḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏ 	Ḥḏḏḏ ḥḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏ�
+			ha	 shin ba wani abu da za su yi ranar juma a 	"""Shin ba wani abu da za su yi ranar Juma'a?"""	simba awani abu daza si rana ri jumma	Simba awani abu Daza si rana ri jumma
+			ha	ganyayyaki da suka bushe suna iyo a saman ruwa 	Ganyayyaki da suka bushe suna iyo a saman ruwa.	tanyan ye ki desikabuxa suna iu asama hurwa 	Tanyan ye ki desikabuxa suna iu asama hurwa.
+			ha	ba wanda ya san yusuf tsohon maƙaryaci ne 	Ba wanda ya san Yusuf tsohon maƙaryaci ne.	ba wende isen yusuf soho mkari achini	Ba wende isen yusuf soho mkari achini
+			ha	na ji daɗin haɗuwa da kai mustapha 	Na ji daɗin haɗuwa da kai, Mustapha.	na ajidat nengadwadeke mustafa	na ajidat nengadwadeke Mustafa
+			ha	ya kunna wutan tun kafin ya shiga cikin kogon 	Ya kunna wutan tun kafin ya shiga cikin kogon.	tungkaw	Tungkaw
+			ha	menene sunanka 	Menene sunanka?	minene sunanka	Minene sunanka
+			ha	da yau zan kira ta 	Da yau zan kira ta.	deyo zankirata 	Deyo zankirata.
+			ha	zuwa gobe da safe yarinyar ta kammala 	Zuwa gobe da safe yarinyar ta kammala.	zua gober safa ya ring yirta kamala	Zua gober safa ya ring yirta kamala
+			ha	ina ma ban aure shi ba 	Ina ma ban aure shi ba.	inamabangawri siva	Inamabangawri Siva
+			ha	habibu ya nuna bai son kasancewa anan 	Habibu ya nuna bai son kasancewa anan.	habibi yanu nabay sangkasan chiwaanang	Habibi yanu nabay sangkasan chiwaanang
+			ha	abin farin akwai tsarin rubutu na musamman ga makafi 	Abin farin, akwai tsarin rubutu na musamman ga makafi.	abom parintiki akwe s aru rubutu na msamma ngama kafi 	Abom parintiki, akwe s'aru rubutu na msamma ngama kafi.
+			ha	ban taba kiran shi da wawa ba 	Ban taba kiran shi da wawa ba.	bantabakiran ʃidawawa bak 	Bantabakiran ʃidawawa bak.
+			ha	ban san yadda ake kamun kifi ba 	Ban san yadda ake kamun kifi ba.	bansay nja daa tje ka mung ki fi ba 	Bansay nja daa tje ka mung ki fi ba.
+			ha	an kama matashin ne da hannu cikin wani rikici 	An kama matashin ne da hannu cikin wani rikici.	ḥan kama mata shinni da hanu tshikyumwa nirikichi 	Ḥan kama mata shinni da hanu tshikyumwa nirikichi.
+			ha	ina zama a wani ƙaramin ƙauye kilo mita hamsin tsakaninsu da birni 	Ina zama a wani ƙaramin ƙauye kilo mita hamsin tsakaninsu da birni.	ina azama awani karaimeng kawi kilu nda hamil sin tsaka anyu sudabernu 	Ina azama awani karaimeng kawi kilu nda hamil sin tsaka anyu sudabernu.
+			ha	jalal ya rubuta labari mai tashin hankali da ke da ƙarshe mai farin ciki 	Jalal ya rubuta labari mai tashin hankali da ke da ƙarshe mai farin ciki.	jalal yaru bochala baari maithaashahang kali dekida karshay maifaranchiki 	Jalal, yaru bochala baari, maithaashahang kali dekida karshay maifaranchiki.
+			ha	zan buƙaci kuɗi fiye da haka 	Zan buƙaci kuɗi fiye da haka.	zombaka chukwudi theda haka	Zombaka Chukwudi Theda Haka
+			ha	ina aiki cikin abokanai kuma ina rayuwa cikin littafai 	Ina aiki cikin abokanai, kuma ina rayuwa cikin littafai.	ena eki chicken awokane kuma ena raewa chicken litafi 	Ena eki chicken awokane kuma ena raewa chicken litafi.
+			ha	muna hutawa tsirara a cikin yashi mai dumi 	Muna hutawa tsirara a cikin yashi mai dumi.	mwana huta was rara chikinya ishi maidumi 	Mwana huta was rara chikinya ishi maidumi.
+			ha	ba na tsammanin jami na da tabbacin abinda laditu ke son yi 	Ba na tsammanin Jami na da tabbacin abinda Laditu ke son yi.	bana samanang jamee nade tabachi abinda leditu kesemi 	Bana samanang jamee nade tabachi abinda leditu kesemi.
+			ha	an haramta wa ɗalibai shan taba a farfajiyar makarantar 	An haramta wa ɗalibai shan taba a farfajiyar makarantar.	aharam tamat alibi shantaba afarfajir makarantar 	Aharam tamat alibi shantaba afarfajir makarantar.
+			ha	an fada a jaridun cewar laifi ne na son zuciya 	An fada a jaridun cewar laifi ne na son zuciya.	aftar ari ajari duu tsewa alai fini nasan zuchi ah	Aftar ari ajari duu tsewa alai fini nasan zuchi ah
+			ha	na san ban yi zaɓin da ya dace ba 	Na san ban yi zaɓin da ya dace ba.	naisam banyazaibindi deyachiva 	Naisam banyazaibindi deyachiva.
+			ha	wajen ya yi kaca kaca 	Wajen ya yi kaca-kaca.	wajah ngai kacha kacha	Wajah ngai kacha kacha
+			ha	wannan uzirin bai kai na barin aiki ba 	Wannan uzirin bai kai na barin aiki ba.	i m	I'm
+			ha	sun dage sai sun yi tafiya zuwa ƙarshen ƙasar vietnam cikin kwanaki shida kacal 	Sun dage sai sun yi tafiya zuwa ƙarshen ƙasar Vietnam cikin kwanaki shida kacal.	sundagi	Sundagi
+			ha	kamar bai faru ba 	Kamar bai faru ba.	qamar bifaruba	Qamar bifaruba
+			ha	mercedes na ya fi naka girma 	Mercedes na ya fi naka girma.	mara series ina ya finaka girma 	Mara series ina ya finaka girma.
+			ha	ya yi ƙoƙarin nuna shi jarumi ne bayan an yi garkuwa da shi 	Ya yi ƙoƙarin nuna shi jarumi ne, bayan an yi garkuwa da shi.	i m	I'm
+			ha	tun lokacin da asabe ta mutu mijinta ya shiga cikin zurfin tunani 	Tun lokacin da Asabe ta mutu, mijinta ya shiga cikin zurfin tunani.	tulu kachinda asabeta mutu medinti ashiga chikin zurfin tunani 	Tulu kachinda asabeta mutu medinti ashiga chikin zurfin tunani.
+			ha	kungiyar haɗaka da kamfanin sun amince da sabon kwangila 	Kungiyar haɗaka da kamfanin sun amince da sabon kwangila.	kwingel hada ta da kanfanyn suma aminchi da sabon kwingela 	Kwingel hada ta da kanfanyn suma aminchi da sabon kwingela.
+			ha	ka kula da wannan labarin 	Ka kula da wannan labarin.	i m	I'm
+			ha	ko akwai ciwo sosai a kirjin ku na bangaren hagu 	ko akwai ciwo sosai a kirjin ku na bangaren hagu?	so 	So,
+			ha	abin na da ban tsoro 	Abin na da ban tsoro.	abinna dabang soru 	Abinna dabang soru.
+			ha	sai dai shagon bai da wani girma sosai 	Sai dai shagon bai da wani girma sosai.	sayidi shagumbi dawani giruma sursay 	Sayidi Shagumbi Dawani Giruma Sursay.
+			ha	ki tabbatar ba ki cutar da kanki ba 	Ki tabbatar ba ki cutar da kanki ba.	kitab batra wa guduftar rakan kiwa 	Kitab batra wa guduftar rakan kiwa.
+			ha	za mu iya ba tare da taimakon ibrahims ba 	Za mu iya ba tare da taimakon Ibrahims ba.	zamu iya batarede temakwenye brahimba 	Zamu iya batarede temakwenye brahimba.
+			ha	aliyu ba ta yi tantamar samun mutane da yawa ba haka 	Aliyu ba ta yi tantamar samun mutane da yawa ba haka.	aliyu 	Aliyu.
+			ha	idan kin yi sau ɗaya to kar ki ƙara yi 	Idan kin yi sau ɗaya, to kar ki ƙara yi.	iðein kienji soda tukajjik ari 	Iðein kienji soda, tukajjik ari.
+			ha	hadizaam bakuwa ce a garin nan ko ba haka ba 	Hadizaam bakuwa ce a garin nan, ko ba haka ba?	hadiza amba uaache agarena kuwa ba haka ba 	Hadiza amba uaache agarena. Kuwa ba haka ba?
+			ha	jarumin ya mutu akan ki masoyiyata sarauniya ta 	Jarumin ya mutu akan ki, masoyiyata sarauniya ta.	jalu minyamut akanki masuiyata sarawniyata 	Jalu minyamut akanki masuiyata sarawniyata.
+			ha	na so wuraren zama tsawon yadi shida nesa da kotun 	Na so wuraren zama tsawon yadi shida nesa da kotun.	nasaura ranzama sawanyadi shida nisada kothu 	Nasaura ranzama sawanyadi shida nisada kothu.
+			ha	nauyi na sanya abu zuwa tsakiyar duniya 	Nauyi na sanya abu zuwa tsakiyar duniya.	nawinasa nyabu zwa sakir dunya 	Nawinasa nyabu, zwa sakir dunya.
+			ha	kuma kun ce wannan matsin lamba ne a kirjin ku	kuma kun ce wannan matsin lamba ne a kirjin ku	kuma kunchi wana mazalamba ni ajari jonku 	Kuma kunchi, wana mazalamba ni ajari jonku?
+			ha	lola ta yi rawa tare da grace 	Lola ta yi rawa tare da Grace.	lola thairawa thara dagres 	Lola thairawa thara dagres.
+			ha	amincewa da yanayi shi ne sirrin haƙurinta 	Amincewa da yanayi: shi ne sirrin haƙurinta.	i m in	I'm in
+			ha	ina tunanin ishaku da jummai na zargi 	Ina tunanin Ishaku da Jummai na zargi.	ina	Ina
+			ha	bayan kwashe shekaru goma suna kasuwancin hadin gwiwa sun yanke hukuncin rabawa 	Bayan kwashe shekaru goma suna kasuwancin hadin gwiwa, sun yanke hukuncin rabawa.	ba yam kwaa chishe kawru gu ma suna kaa swan chung hadu ngui wa swa ngen ki hukun chung ra ba wa 	Ba yam kwaa chishe kawru gu ma suna kaa swan chung hadu ngui wa swa ngen ki hukun chung ra ba wa.
+			ha	kamfaninmu yana tallace tallace na shekara shekara na yen dubu miliyan 	Kamfaninmu yana tallace-tallace na shekara-shekara na yen dubu miliyan.	qawfanumu yana tlacetalachi nashikara shikara nayan dubu milian 	Qawfanumu yana tlacetalachi nashikara shikara nayan dubu milian.
+male		thirties	ha	abokina na son ya amsa laifi 	Abokina na son ya amsa laifi.	abokina nason ya amsa leifi 	Abokina nason ya amsa leifi.
+male		thirties	ha	ka san banbanci tsakanin silba da gwangwani 	Ka san banbanci tsakanin silba da gwangwani?	ḥasan bambanchi sakane selva dagwangoni	Ḥasan Bambanchi Sakane Selva Dagwangoni
+male		thirties	ha	rana tana bayar da zafi da haske da yawa 	Rana tana bayar da zafi da haske da yawa.	rana tana bayad za fi da haske da yawa 	Rana tana bayad za fi da haske da yawa.
+male		thirties	ha	yusuf ya fadawa lare yadda suka hadu da hassan 	Yusuf ya fadawa Lare yadda suka hadu da Hassan.	yusuf yafadawa alare yadda soka hatu da hasan 	Yusuf yafadawa alare yadda soka hatu da hasan.
+male		thirties	ha	wasu lokutan gudun tsira da rai ya kan bar mutum ba komai 	Wasu lokutan gudun tsira da rai ya kan bar mutum ba komai.	wasu lo kutanguden sira dara ya kanbar mutemba kome 	Wasu lo kutanguden sira dara ya kanbar mutemba kome?
+male		thirties	ha	aliyu ya daɗe yana yin wannan aiki 	Aliyu ya daɗe yana yin wannan aiki.	ali u yaadati yena yin wandan aiti	Ali u yaadati yena yin wandan aiti
+male		thirties	ha	akwai mamaki a ce bai san labarin ba 	Akwai mamaki, a ce bai san labarin ba.	awaimama ki ache baysan labarimba 	Awaimama ki ache baysan labarimba.
+male		thirties	ha	kina ta ɗaukar waje guda mun riga mun tattauna kan haka 	Kina ta ɗaukar waje guda. Mun riga mun tattauna kan haka.	ndinaata tawkar waji wgudaa mwojiga muntat tawnaa kamhaaka 	Ndinaata tawkar waji wgudaa. Mwojiga muntat tawnaa kamhaaka.
+male		thirties	ha	linda ta gano ishaku ne mutumin da ya yi mata fyaɗe 	Linda ta gano Ishaku ne mutumin da ya yi mata fyaɗe.	lenda taqa no ishaqone mutimenda ya ima tafa adi 	Lenda taqa no ishaqone mutimenda ya ima tafa adi.
+male		thirties	ha	yau ina fama da ciwon kirji	yau ina fama da ciwon kirji	yaw ina fama da chiwan kiriji	Yaw Ina Fama Da Chiwan Kiriji
+male		thirties	ha	tana karatun wasan kwaikwayo game da tallafin karatu na musamman 	Tana karatun wasan kwaikwayo game da tallafin karatu na musamman.	ḏana karatu nwasan kwey kweyu gameyda tallafin karatu namosaman 	ḏana karatu nwasan kwey kweyu gameyda tallafin karatu namosaman.
+male		thirties	ha	 ana buƙatar ɗalibai su yi aikin sa a ɗaya ga alʻumma a kowane sati 	"""Ana buƙatar ɗalibai su yi aikin sa'a ɗaya ga alʻumma a kowane sati."""	ana bukatar dali bayisi ye ay kisa aya ga aluuma ako wa nisaati 	Ana bukatar dali bayisi ye ay kisa aya ga aluuma ako wa nisaati.
+male		thirties	ha	ya ji ruwan saman ya a fuskarsa 	Ya ji ruwan saman ya a fuskarsa.	ya jirwan saman ya abbas garsa	Ya Jirwan Saman, Ya Abbas Garsa
+male		thirties	ha	zazzabin ya fara kwanaki biyu da suka wuce	zazzabin ya fara kwanaki biyu da suka wuce	zezabini afa raw kwa ana ikiviu dusu kawu chi 	Zezabini Afa raw kwa ana ikiviu, dusu kawu chi.
+			ha	mutu ƙazami 	Mutu, ƙazami!	mtu qazaami	Mtu Qazaami
+			ha	ko dai ya sha ƙwya ko kuma ya haukace 	Ko dai ya sha ƙwya ko kuma ya haukace.	ḏo ḍayya ʃapaya ʻo kumaya ḏau khache 	ḏo ḍayya ʃapaya, ʻo kumaya ḏau khache.
+			ha	habibu asabe hassan da aishaam duk suna magana da faransanci 	Habibu, Asabe, Hassan da Aishaam duk suna magana da Faransanci.	habib asabe hasan da aisham duksuna magana da parantanchi	Habib Asabe Hasan da Aisham duksuna magana da parantanchi
+			ha	bana jin jauro zai je bakin ruwa yau 	Bana jin Jauro zai je bakin ruwa yau.	bana djindjawru zay djibakiru ayaw 	Bana djindjawru, zay djibakiru ayaw.
+			ha	oto lalata jerin makamai 	Oto-lalata jerin makamai.	ḍoḥo lālāta jere makāmai	ḍoḥo, lālāta jere makāmai
+			ha	ba kwa buƙatar shirya wani muhimmini jawabi 	Ba kwa buƙatar shirya wani muhimmini jawabi.	bawkwa bukatar shiria wani muhim mjawabi	Bawkwa bukatar shiria wani muhim mjawabi
+			ha	abdullahi na daya daga cikin mamallakan wannan ginin 	Abdullahi na daya daga cikin mamallakan wannan ginin.	abil laina eda ga tʃikin mumbala kan wana ngini 	Abil laina eda ga tʃikin mumbala kan wana ngini.
+			ha	haƙiƙa bincikenka zai haifar da ɗa mai ido 	Haƙiƙa bincikenka zai haifar da ɗa mai ido.	haçika binççen keze haifad da ime yidu	Haçika binççen keze haifad da ime yidu
+			ha	karen da yaga ba zai iya iso wajena ba ya fara haushi 	Karen, da yaga ba zai iya iso wajena ba, ya fara haushi.	kaarind ega bazi iye yusuwo jena ba yifara fushi	Kaarind ega bazi iye yusuwo jena ba yifara fushi
+			ha	eh ina fama da ciwo cikin kirji na sosai	eh ina fama da ciwo cikin kirji na sosai	e ina fama dachiwo tshikang iridjina susi 	E ina fama dachiwo tshikang iridjina susi.
+			ha	yanzu dama ce mai kyau ta hukunta ishaku game da abinda ya aikata 	Yanzu dama ce mai kyau ta hukunta Ishaku game da abinda ya aikata.	yen zidamaa tshemi kya wta hukwinta is haafwa gameda abindaya aekata 	Yen zidamaa tshemi kya wta hukwinta is haafwa gameda abindaya aekata.
+			ha	ki bari mustapha ya sai miki wannan 	Ki bari Mustapha ya sai miki wannan.	kibari mustafa yasima kiwana 	Kibari Mustafa Yasima Kiwana.
+			ha	 bana tsammanin jauro da lami na da wahalar sha ani 	"""Bana tsammanin Jauro da Lami na da wahalar sha'ani."""	banas amma ninja rudalamin adawahalar sha an 	Banas amma ninja rudalamin adawahalar sha'an.
+			ha	bayan sati ɗaya abdullahi ya gundiri mutane 	Bayan sati ɗaya, Abdullahi ya gundiri mutane.	bajansatitaya abdullahi awwinderumutani 	Bajansatitaya Abdullahi Awwinderumutani.
+female		twenties	ha	zan tambaye shi gobe 	Zan tambaye shi gobe.	zantambaye shigobi	Zantambaye Shigobi
+female		twenties	ha	 da fatan allah ta ala ya faranta maka rai 	"""Da fatan Allah Ta'ala Ya faranta maka rai."""	dafatang ala ta alaya falan ta makari 	Dafatang ala ta alaya falan ta makari.
+female		twenties	ha	lokacin da ya kai mata hari tana neman makullan cikin jakarta 	Lokacin da ya kai mata hari tana neman makullan cikin jakarta.	loka tʃinde kajmata hari tanaani momukulin tʃikin dʒakarta 	Loka tʃinde kajmata hari tanaani momukulin tʃikin dʒakarta.
+female		twenties	ha	shin kun ji labarin mu 	Shin kun ji labarin mu?	shɨn kwɨndʒi laba rɨm mu 	Shɨn kwɨndʒi laba rɨm mu?
+female		twenties	ha	gaskiya bani da wata alama 	Gaskiya bani da wata alama.	kaskiya baanida wata alama 	Kaskiya baanida wata alama.
+female		twenties	ha	na yi tunani zan same ku a can 	Na yi tunani zan same ku a can.	nga itina nindzonsa mieku atya 	Nga itina nindzonsa mieku atya.
+female		twenties	ha	hayaƙin yana shaƙe ta 	Hayaƙin yana shaƙe ta.	ḥayak inyena shak yata 	Ḥayak inyena shak yata.
+female		twenties	ha	ka ɗan sha kofi ina tunanin yana da daɗi 	Ka ɗan sha kofi. Ina tunanin, yana da daɗi.	qad dain shaa kofi ina tina ninyanadadadi 	Qad dain shaa kofi, ina tina ninyanadadadi.
+female		twenties	ha	ina bukatan ku bayyana min wani abu 	Ina bukatan ku bayyana min wani abu.	ina bukatum kubayya nami mwone abu 	Ina bukatum kubayya nami mwone abu.
+female		twenties	ha	yin haka zai fi dadi ko me kuka gani 	Yin haka zai fi dadi ko me kuka gani.	jan haka zeifi dadi kome kukagani 	Jan haka zeifi dadi, kome kukagani?
+female		twenties	ha	ni ma na ji 	Ni ma na ji.	nimanaji	Nimanaji
+female		twenties	ha	aliyu na tsoron yin magana dani ko ba haka 	Aliyu na tsoron yin magana dani, ko ba haka?	ali yu nas urenye mga nadani koba ha kaba 	Ali yu nas urenye mga nadani. Koba ha kaba?
+female		twenties	ha	kamar bitrus ya gaji sosai 	Kamar Bitrus ya gaji sosai.	qamar bitrus yaagaji sosay 	Qamar bitrus yaagaji sosay.
+female		twenties	ha	zan so idan hakan bai faru ba 	Zan so idan hakan bai faru ba.	zonso idan hakanbe faaruba 	Zonso idan hakanbe faaruba.
+female		twenties	ha	na damu kwarai da wannan zafin kirji	Na damu kwarai da wannan zafin kirji	nada mukorayda wonen za finkirju 	Nada, mukorayda wonen za finkirju.
+			ha	kina sanye da kaya 	Kina sanye da kaya?	kina singida kaya 	Kina singida kaya.
+			ha	an gudanar da fatin bankwana jiya sabida mr jones 	An gudanar da fatin bankwana jiya sabida Mr. Jones.	amgudana drpaitum bongwa naji atsebide mr jones 	Amgudana drpaitum bongwa naji atsebide Mr. Jones.
+male		thirties	ha	ya batun askirim me cakuletin bayan cin abinci 	Ya batun askirim me cakuletin bayan cin abinci?	ya batum as krimi chawkulit bayan ching abinci 	Ya batum as krimi chawkulit bayan ching abinci.
+male		thirties	ha	ina tsoron kada ku cutar da aliyu 	Ina tsoron kada ku cutar da Aliyu.	ina atoron kajak uchutarda aliu	Ina atoron kajak uchutarda aliu
+male		thirties	ha	tsuntsaye na cin ƙananan ƙwari 	Tsuntsaye na cin ƙananan ƙwari.	tsun tsae na chicken kanana ungkari 	Tsun tsae na chicken kanana ungkari.
+male		thirties	ha	ina kallon tsuntsayen lokacin da na ke zaune a balcony ina shan kofi 	Ina kallon tsuntsayen lokacin da na ke zaune a balcony ina shan kofi.	ina kolontuntaye loka tshinda nike zaone a balkoni ina shanko fi 	Ina kolontuntaye loka tshinda nike zaone a balkoni ina shanko fi.
+male		thirties	ha	babangida ya isa landan tare da wasu gungun masana 	Babangida ya isa Landan tare da wasu gungun masana.	ba abangidaya isa landan thare dawasu gungum masana 	Ba abangidaya isa Landan thare dawasu gungum masana.
+male		thirties	ha	ibrahim ya ce ya yi tsammanin hauwatu ta yi mamaki 	Ibrahim ya ce ya yi tsammanin Hauwatu ta yi mamaki.	ibrahim yachey yaitamani hawatu taima amaki 	Ibrahim yachey yaitamani hawatu taima amaki.
+male		thirties	ha	an ce na siyo kek a kan hanyar dawowata daga ofis 	An ce na siyo kek a kan hanyar dawowata daga ofis.	anche na seyo kek aka hainyar dawa taadega odis 	Anche na seyo kek aka hainyar dawa taadega odis.
+male		thirties	ha	ya mugun tsorata da ya ga ƙaton macijin 	Ya mugun tsorata da ya ga ƙaton macijin.	yaa mugun torasa deyaaga kato machijin	Yaa mugun torasa deyaaga kato machijin
+male		thirties	ha	abdullahi ya san cewa zai iya yin hakan da kyau 	Abdullahi ya san cewa zai iya yin hakan da kyau.	abdullahi asanchi wazey yeyen haka lekaw 	Abdullahi Asanchi wazey yeyen haka lekaw.
+male		thirties	ha	na gaji kuma ina jin yinwa kuma haka kowa yake ji 	Na gaji kuma ina jin yinwa, kuma haka kowa yake ji.	naa gadiw kuma inaadin yonwa kuma haka kua yei kiji 	Naa gadiw kuma inaadin yonwa, kuma haka kua yei kiji.
+male		thirties	ha	zan komo kansa 	Zan komo kansa.	zangwo mo kansa 	Zangwo mo kansa.
+male		thirties	ha	amurka za ta fice daga yarjejeniyar paris 	Amurka za ta fice daga Yarjejeniyar Paris.	amrka zaat fi tʃeidaga yarjeje njar paris 	Amrka, zaat fi tʃeidaga yarjeje njar Paris.
+female		twenties	ha	ina tunanin ya kamata na fadawa aliko wajen da naje 	Ina tunanin ya kamata na fadawa Aliko wajen da naje.	ina tana ninya kamata na falawa ali kwo wajen dana juhu 	Ina tana ninya kamata na falawa ali kwo wajen dana juhu.
+female		twenties	ha	habibu ya iya waƙa 	Habibu ya iya waƙa.	habibu ya iyawak	Habibu ya iyawak
+female		twenties	ha	na yi dariya sosai har da ciwon ciki 	Na yi dariya sosai har da ciwon ciki.	naida riasu se eda tshiwan tshiki	Naida riasu se, eda tshiwan tshiki
+female		twenties	ha	na san har yanzu yana can 	Na san har yanzu yana can.	nasa harian ziyanacha	Nasa Harian, Ziyanacha
+female		twenties	ha	yana min zafi a kirji	yana min zafi a kirji	janar min zafi agiriji	janar min zafi agiriji
+female		twenties	ha	babu rigakafi amma hukumomi dabam dabam suna kokarin samo rigakafin 	Babu rigakafi, amma hukumomi dabam-dabam suna kokarin samo rigakafin.	babu riga kafi amma hukumomi dapan dabansina kukarinsamo riga kafi 	Babu riga kafi. Amma hukumomi dapan dabansina kukarinsamo riga kafi.
+female		twenties	ha	babangida ya kware a wasan tennis 	Babangida ya kware a wasan Tennis.	baba ngidaya kware awasan tenis 	Baba ngidaya kware awasan tenis.
+female		twenties	ha	ibrahim ya ce baya tunanin ko akwai wanda zai iya haka 	Ibrahim ya ce baya tunanin ko akwai wanda zai iya haka.	ibrahim yachi ebayat na nunku akwe wandazi iya haka 	Ibrahim yachi ebayat na nunku akwe wandazi iya haka.
+female		twenties	ha	kuma kuna da zazzaɓi yanzu	kuma kuna da zazzaɓi yanzu	kumako nada zazabianzo 	Kumako nada zazabianzo?
+female		twenties	ha	ka gaida min da matarka 	Ka gaida min da matarka.	qagayda aminda maa tarka 	Qagayda aminda maa tarka.
+female		twenties	ha	bitrus ya fara farin ciki bayan ya harba ƙwallon a ragar sa 	Bitrus ya fara farin ciki bayan ya harba ƙwallon a ragar sa.	bitrus ya fa referençiki baya nya harba kwelang ara garisa 	Bitrus ya fa referençiki baya nya harba kwelang ara garisa.
+female		twenties	ha	akwai buƙatar ƙara bincike 	Akwai buƙatar ƙara bincike.	a kwe buqatar qara binchiki 	A kwe buqatar qara binchiki.
+female		twenties	ha	ban san hassan da maimuna ba su da lafiya ba 	Ban san Hassan da Maimuna ba su da lafiya ba.	bansan hasandame mwna basi dala fiyaba 	Bansan Hasandame mwna basi dala fiyaba.
+female		twenties	ha	za a ƙara buƙatar gwaji nan gaba 	Za a ƙara buƙatar gwaji nan gaba.	zaakara bukatar wajina ngaba 	Zaakara bukatar wajina ngaba.
+female		twenties	ha	na gaji kasuwancin daga mahaifina 	Na gaji kasuwancin daga mahaifina.	nagadjikas uan çindag maa i fi na	nagadjikas uan çindag maa i fi na
+female		twenties	ha	yana zafi a tsakiyar kirji na	yana zafi a tsakiyar kirji na	janazafi asakir ki ljina	janazafi asakir ki ljina
+female		twenties	ha	kana son ka zauna 	Kana son ka zauna?	qana a son qaza wna	Qana'a son qaza'wna
+female		twenties	ha	ba wanda ya damu da ni 	Ba wanda ya damu da ni.	bawanda daumadani 	Bawanda daumadani.
+female		twenties	ha	google da amazon sun aiwatar da ƙuntatawa iri daya 	Google da amazon sun aiwatar da ƙuntatawa iri daya.	gogolda amazon sun eye water da unta tawa idhida 	Gogolda Amazon Sun Eye Water da unta tawa idhida.
+male		thirties	ha	 gaskiya ne a cikin al umman amurka cewa namiji ne shugaban gida 	"""Gaskiya ne a cikin al'umman Amurka cewa namiji ne shugaban gida."""	gaskiani achken al ummang amr kachewa nami jiney shuga bengida 	Gaskiani achken al-ummang amr kachewa nami jiney shuga bengida.
+male		thirties	ha	mai wannan gidan giya baya taba sayar da giya akan bashi 	Mai wannan gidan giya baya taba sayar da giya akan bashi.	ma iwanna ngida ngia ba ya tapa seyar degia akan baish 	Ma iwanna ngida ngia, ba ya tapa seyar degia akan baish.
+male		thirties	ha	ishaku bai damu da lare ba 	Ishaku bai damu da Lare ba.	i xaw kuwayda muw da la rewa 	I xaw kuwayda muw da la rewa.
+male		thirties	ha	muna da abin mamaki 	Muna da abin mamaki.	mwana ada abim maa maiki 	Mwana ada abim maa maiki?
+male		thirties	ha	na so yarda da shi 	Na so yarda da shi.	naso yardadishi	Naso Yardadishi
+male		thirties	ha	makon jiya wani ya raba godiyar sa ga aikin mu	Makon jiya, wani ya raba godiyar sa ga aikin mu	maka nja wani ya raba gudiarsa ga ayikim 	Maka nja, wani ya raba gudiarsa ga ayikim.
+			ha	kira ni bayan kun yi magana da su 	Kira ni bayan kun yi magana da su.	kirani bayan kunya magana lasu 	Kirani, bayan kunya magana lasu.
+			ha	tsohon saurayina na son ya lalata sabuwar alaƙa ta 	Tsohon saurayina na son ya lalata sabuwar alaƙa ta.	sohon sawra yina na son yelalata sabura alakata 	Sohon sawra yina na son yelalata sabura alakata.
+			ha	kamar jauro na jin tsoron wani abu 	Kamar Jauro na jin tsoron wani abu.	kamar jawru na jin suru wani awu	kamar jawru na jin suru wani awu
+			ha	ina bukatar wanda zan yi magana da shi 	Ina bukatar wanda zan yi magana da shi.	ina abu katar wenda zinjima gana rishi	Ina Abu Katar wenda zinjima gana rishi
+			ha	ibrahimu ya fara kururuwa cikin azaba 	Ibrahimu ya fara kururuwa cikin azaba.	ibrahimu ya fara kururu wachkin azaba	Ibrahimu ya fara kururu wachkin azaba
+male		fourties	ha	muna da gig gobe da daddare a gidan rawa 	Muna da gig gobe da daddare a gidan rawa.	wana dagi gudwe dada dara gudarawa	Wana dagi gudwe dada dara gudarawa
+male		fourties	ha	suna da kiranta da lena 	Suna da kiranta da Lena.	sina kirenta dalirina 	Sina kirenta dalirina.
+male		fourties	ha	cigaban rayuwa shi ne samun buɗi 	Cigaban rayuwa shi ne samun buɗi.	ḥichigibarayi wa shiine saamobudi 	Ḥichigibarayi wa shiine saamobudi.
+male		fourties	ha	jauro ya ce yana son wancan don haka na bashi 	Jauro ya ce yana son wancan, don haka na bashi.	dibraji hena samgoncha doma ka nabash 	Dibraji, hena samgoncha. Doma ka nabash.
+male		fourties	ha	katangar gidan yarin ba za ta iya bada kariya 	Katangar gidan yarin ba za ta iya bada kariya.	katangar gadanjarin alati yabadaka liyaba 	Katangar gadanjarin, alati yabadaka liyaba.
+male		fourties	ha	ina so in shiga kasuwancin kasashen waje a nan gaba 	Ina so in shiga kasuwancin kasashen waje a nan gaba.	inasun yunjikikasu un tshinkasashin wajil anangdaba 	Inasun yunjikikasu un tshinkasashin wajil, anangdaba.
+male		fourties	ha	mun gwada hakan jiya 	Mun gwada hakan jiya.	mungwadaha kanjiya 	Mungwadaha kanjiya.
+male		fourties	ha	ban san yusuf yana bacci ba 	Ban san Yusuf yana bacci ba.	bansa nye soviyonaba kiba 	Bansa nye soviyonaba kiba.
+male		fourties	ha	ya fi dai da suka rufe bakunan su 	Ya fi dai da suka rufe bakunan su.	य प ड त सकर उफ ब क न स 	या पुडें तेसकर उफिबा को नासु
+			ha	ina mamakin idan an kama ishaku 	Ina mamakin idan an kama Ishaku.	ina mama iking ina ang kama isya ako 	Ina mama iking, ina ang kama isya ako.
+			ha	na gaji sosai da tuki za ka tuka 	Na gaji sosai da tuki. Za ka tuka?	nagajasu seda twiki zaagatuka	nagajasu seda twiki zaagatuka
+			ha	dukkanin lambar lasisin ƙasashe na banbanci 	Dukkanin lambar lasisin ƙasashe na banbanci.	dɨkənən ləm bərla si sɨngkasasi nabəm bən tʃi 	Dɨkənən ləm bərla si sɨngkasasi nabəm bən tʃi.
+			ha	yaushe ka sayawa kanka babur 	Yaushe ka sayawa kanka babur?	yawshikasay awakan kababur	yawshikasay awakan kababur
+			ha	abdullahi na tare da hoton zainab cikin walet ɗinsa ko wane lokaci 	Abdullahi na tare da hoton Zainab cikin walet ɗinsa ko wane lokaci.	abdullahi na taraduhu tenzeinab tikungwale tenza kuhwona lukati 	Abdullahi na taraduhu tenzeinab tikungwale tenza kuhwona lukati.
+			ha	na yi shirin zama muddin ka zauna 	Na yi shirin zama muddin ka zauna.	naishar	Naishar
+male		thirties	ha	ka san ya aka yi hakan ta faru 	Ka san ya aka yi hakan ta faru?	qasanyaqehaqan tapadu	Qasanyaqehaqan tapadu
+male		thirties	ha	bitrusa yana yawan tafiya 	Bitrusa yana yawan tafiya.	bitrusa nio and tpr	Bitrusa, NIO and TPR
+male		thirties	ha	abdullahi bai biya ni kamar yadda ya yi alkawari ba 	Abdullahi bai biya ni kamar yadda ya yi alkawari ba.	abdullahi bebian qamariyat de al qawadiba	Abdullahi Bebian Qamariyat De Al Qawadiba
+male		thirties	ha	ni wayyaye ne 	Ni wayyaye ne.	نی وئیه نی	نی وئیه نی
+male		thirties	ha	yaushe ne wannan ciwon kirjin ta fara 	yaushe ne wannan ciwon kirjin ta fara?	yawshene wanan chiwa nkerijin tapara 	Yawshene wanan chiwa nkerijin, tapara.
+male		thirties	ha	aliyu ya yankewa khalifat hukuncin cewar ta rabu da abdullahi 	Aliyu ya yankewa Khalifat hukuncin cewar ta rabu da Abdullahi.	ali u ya yanki wa kalifat hukunchin tsewar tarabu da adullahi 	Ali u ya yanki wa kalifat hukunchin tsewar tarabu da adullahi.
+male		thirties	ha	ibrahim ba zai zo gobe ba 	Ibrahim ba zai zo gobe ba.	ibrāhim ba zeyzu gubiba	Ibrāhim ba zeyzu gubiba
+male		thirties	ha	an sami alamun shan ƙwaya a gwajin da aka yiwa babangida 	An sami alamun shan ƙwaya a gwajin da aka yiwa Babangida.	ansa me alamu ʃan kwaja awajenda akajwa babenjida 	Ansa me alamu ʃan kwaja awajenda akajwa babenjida.
+male		thirties	ha	wutar daji na afkuwa ne daga allah 	Wutar daji na afkuwa ne daga Allah.	þuþardagi na afkuane idaga alla 	Þuþardagi na afkuane idaga alla.
+male		thirties	ha	bugun zuciyar shi ya kasance dai dai ne 	Bugun zuciyar shi ya kasance dai-dai ne.	bugɨnzu tʃer ʃi jakasən tʃejdejdejne 	Bugɨnzu tʃer ʃi jakasən tʃejdejdejne.
+male		thirties	ha	shin kun aikata hakan da kanku 	Shin kun aikata hakan da kanku?	ლიოირიოირიოირიოირიოირირირირირირირირირირირირირირირირირირირირირირირირირირირი 	ლიოირიოირიოირიოირიოირირირირირირირირირირირირირირირირირირირირირირირირირირირი�
+male		thirties	ha	ni na fi ko kasa da shekaru ɗaya kamar ku 	Ni na fi ko kasa da shekaru ɗaya kamar ku.	ninafiko qasa sheikha rulayya kamarku	Ninafiko Qasa, Sheikha Rulayya Kamarku
+male		thirties	ha	ya yanka kanshi da reza 	Ya yanka kanshi da reza.	ya janka kanshi dereza	Ya janka kanshi dereza
+male		thirties	ha	kuna da tarho a gidan ku 	Kuna da tarho a gidan ku.	ḏikona da tarko agidonku 	ḏikona da tarko agidonku.
+male		thirties	ha	 sanya jama a yin zaɓe ta hanya mai kyau ba laifi bane 	"""Sanya jama'a yin zaɓe ta hanya mai kyau, ba laifi bane."""	sanya jamaa yin za be ta hanya mey kyaw ba le fi bene 	Sanya jamaa yin za be ta hanya mey kyaw ba le fi bene.
+male		thirties	ha	rediyo bata yi bayani akan hatsarin ba 	Rediyo bata yi bayani akan hatsarin ba.	reji o bati bayani akan hatarimbal 	Reji o bati bayani akan hatarimbal.
+male		thirties	ha	bangarorin biyu sun cimma yarjejeniyar manufa nan da karshen watan yuni 	Bangarorin biyu sun cimma yarjejeniyar manufa nan da karshen watan Yuni.	bangalore ndi usin chimmayar djejjin yarmanu fa nanda karshan watan yoni 	Bangalore ndi usin chimmayar djejjin yarmanu fa nanda karshan watan yoni.
+male		thirties	ha	idan zaku yii aiki zamu tallafa maka 	Idan zaku yii aiki, zamu tallafa maka.	idan za huya ay tii za mutala famaka 	Idan za huya ay tii za mutala famaka.
+male		thirties	ha	diana ta fasa ƙwan ni kuma na hada kek 	Diana ta fasa ƙwan ni kuma na hada kek.	ḏi ʻanatā fasakam ni kumāna ḥaʻek jak 	ḏi ʻanatā fasakam ni kumāna ḥaʻek jak.
+male		thirties	ha	ba ka iya bada horo ba 	Ba ka iya bada horo ba.	baka i abadah waruwa 	Baka'i abadah waruwa.
+male		thirties	ha	sun ce da wuri 	Sun ce da wuri.	sönchay dauri	Sönchay Dauri
+male		thirties	ha	abdullahi na da kariya 	Abdullahi na da kariya.	عبدالله عنا لقارئا	عبدالله عنا لقارئا
+male		thirties	ha	na san aliko bai san hauwa ba za ta iya hakan ba 	Na san Aliko bai san Hauwa ba za ta iya hakan ba.	nasan ali kubesan hawaza ta i ahakanba 	Nasan ali kubesan hawaza ta'i ahakanba?
+male		thirties	ha	wasu marasa lafiya suna da alamu masu laushi masu kama da mura 	Wasu marasa lafiya suna da alamu masu laushi, masu kama da mura.	ḏasu mara salafiyah sunada alamu maslawshi masuka mada murad 	ḏasu mara salafiyah sunada alamu maslawshi masuka mada murad.
+male		thirties	ha	har yanzu hassan bai san me yasa zainab ta yi haka ba 	Har yanzu Hassan bai san me yasa Zainab ta yi haka ba.	ḥaryan zuhasan baysan mey yasa zaynab ta i haqaba 	Ḥaryan zuhasan baysan mey yasa zaynab ta'i haqaba.
+male		thirties	ha	ya na lafiya 	Ya na lafiya?	यन ल यह य 	यनालायह्या
+male		thirties	ha	bitrus yayi matukar murna ko ba haka bane 	Bitrus yayi matukar murna, ko ba haka bane?	bitarus ya imatu karmurna koba haqa bane 	Bitarus ya imatu karmurna. Koba haqa bane?
+male		thirties	ha	tijjani ya kasance a farkon wannan yammacin 	Tijjani ya kasance a farkon wannan yammacin.	tijaniyaqa sanchi afarikon wan nan yammachin 	Tijaniyaqa Sanchi Afarikon Wan nan yammachin.
+male		thirties	ha	aliyu ke da mafi girman filin kiwo a yankin nan 	Aliyu ke da mafi girman filin kiwo a yankin nan.	aliyu ke damak fi girman filling kiwo ayan kinnan 	Aliyu ke damak fi girman filling kiwo ayan kinnan.
+male		thirties	ha	akwai haɗin kai mai muhimmaci tsakanin ƙasashen nan biyu 	Akwai haɗin kai mai muhimmaci tsakanin ƙasashen nan biyu.	awe hat in kei main muhimman çi saka anin kasa çenen viu 	Awe hat in kei main muhimman çi saka anin kasa çenen viu.
+male		thirties	ha	ban san me yasa za ka yi haka ba 	Ban san me yasa za ka yi haka ba.	bansam mea saaga kaya haqawa	Bansam mea saaga kaya haqawa
+male		thirties	ha	akwai maki hudu masu mahimmanci gabas kudu yamma da arewa 	Akwai maki hudu masu mahimmanci: Gabas, kudu, yamma da arewa.	aqwaimaa ki hudu maasumahim manchi gabas kudu yamma daarewa 	Aqwaimaa ki hudu maasumahim manchi. Gabas, kudu, yamma, daarewa.
+male		thirties	ha	kuma yana jin zafin kirji	kuma yana jin zafin kirji	qumayana jin zaafin kirji	Qumayana jin zaafin kirji
+male		thirties	ha	na yi tunanin ku biyun nan kun san juna 	Na yi tunanin ku biyun nan kun san juna.	naya tuna ningku biyunnan kunsan juna	Naya Tuna Ningku Biyunnan Kunsan Juna
+male		thirties	ha	kasar ingila ta ƙwace tudun breed 	Kasar Ingila ta ƙwace tudun Breed.	kasar ingla taw kwa tʃe tudun brit 	Kasar ingla taw kwa tʃe tudun brit.
+male		thirties	ha	har yanzu baza mu iya haka ba 	Har yanzu baza mu iya haka ba.	ḥaryan zubazamu iya ḥakaba	Ḥaryan zubazamu iya Ḥakaba
+male		thirties	ha	ladi ba ta damu da yin haka ba 	Ladi ba ta damu da yin haka ba.	laadiba ta daamu dayin haqaba 	Laadiba ta'daamu dayin haqaba.
+male		thirties	ha	babangida ya saamu lokuta rashin jin dadi sosai a rayuwan shi 	Babangida ya saamu lokuta rashin jin dadi sosai a rayuwan shi.	babangidaya samulu kutara shinjinda iso sey arayuanshi 	Babangidaya Samulu kutara shinjinda iso sey arayuanshi.
+male		thirties	ha	kuma ita ma kamar tana da alamomin cutar	kuma ita ma kamar tana da alamomin cutar	ḏumā itama kamartana da alamu min çutar 	ḏumā itama kamartana da'alamu min çutar.
+male		thirties	ha	ba wanda ya tsira 	Ba wanda ya tsira.	mba onele aseera	Mba onele aseera
+male		thirties	ha	ba zan iya ba wannan lokacin 	Ba zan iya ba wannan lokacin.	ba zayn iya ba wanan loka tʃin	ba zayn iya ba wanan loka tʃin
+male		thirties	ha	jirgin ruwa ne mai kyan tsari 	Jirgin ruwa ne mai kyan tsari.	jirgenruwa neme kjan ts ari 	Jirgenruwa neme kjan ts'ari.
+male		thirties	ha	ishaku na da son kai 	Ishaku na da son kai.	isha kona da sangkay	Isha kona da sangkay
+male		thirties	ha	wannan akwatin na da banbancin kala da waccan 	Wannan akwatin na da banbancin kala da waccan.	wanaqatinaa dabamban chinqala dawanchan 	Wanaqatinaa dabamban chinqala dawanchan.
+male		thirties	ha	a gidan wasan kwaikwayo kathy ta canza wuraren zama tare da mahaifiyarta 	A gidan wasan kwaikwayo, Kathy ta canza wuraren zama tare da mahaifiyarta.	agidan wa sangwe oyo ka tita tsangza ura renza ma ta re dama he fiarta 	Agidan wa sangwe oyo, ka tita tsangza ura renza ma ta re dama he fiarta.
+male		thirties	ha	ginin gidaje ya yi aure da ma aikatan soji da iyayensu	Ginin gidaje ya yi aure da ma’aikatan soji da iyayensu	gini ngidaa ji yai awre da maekatan soji da iya yensu 	Gini ngidaa ji yai awre da maekatan soji da iya yensu.
+male		thirties	ha	ta ji yadda aka karɓeta a matsayin baƙuwa 	Ta ji yadda aka karɓeta a matsayin baƙuwa.	taji yadda aka karpe ta a masayin bawa 	Taji yadda aka karpe ta'a masayin bawa.
+male		thirties	ha	ina tabbatar ma cewar na gamsu da tunanina 	Ina tabbatar ma cewar na gamsu da tunanina.	ina tabba talmaa tshewa naagam suda tunanina 	Ina tabba talmaa tshewa, naagam suda tunanina.
+male		thirties	ha	yaushe kuka sayi wayar 	Yaushe kuka sayi wayar?	អ ន ន ន ន ន ន ន ន ន ន ន ន ន ន ន ន ន ន ន ន ន ន ន ន ន ន ន ន ន ន ន ន ន ន ន ន ន ន ន ន ន ន ន ន ន ន ន ន ន ន ន ន ន ន ន 	អានានានានានានានានានានានានានានានានានានានានានានានានានានានានានានានានានានានានានានានានានានានានានានានានានានានានានានាន�
+male		thirties	ha	 habibu baya sha awar baseball 	"""Habibu baya sha'awar baseball."""	ḥabibu ba yaʃa awar besbol 	Ḥabibu ba yaʃa awar besbol.
+male		thirties	ha	habibu ya tsokani kowa a wajen 	Habibu ya tsokani kowa a wajen.	habibu ya soka nikowa awajani	Habibu ya soka nikowa awajani
+male		thirties	ha	kuma kana fama da ciwon kirji	kuma kana fama da ciwon kirji	ḏumakana fa maada tʃiwan kiriji 	ḏumakana fa maada tʃiwan kiriji.
+male		thirties	ha	ainihin numbobin na bada asalin misalin fili 	Ainihin numbobin na bada asalin misalin fili.	ayni hin nombo bina baada asalin misalin fili	Ayni hin nombo bina baada asalin misalin fili
+male		thirties	ha	kamar na san wannan muryar 	Kamar na san wannan muryar.	qamar nasan wan dan muriyar	Qamar nasan wan dan muriyar
+male		thirties	ha	sun zargi shugaban kasar da rashin kulawa da mutumin 	Sun zargi shugaban kasar da rashin kulawa da mutumin.	sun zargesho ga bankasar darakshidu kula awadam mutumin	sun zargesho ga bankasar darakshidu kula awadam mutumin
+male		thirties	ha	ya kamata na ga wani kan kasuwancin 	Ya kamata na ga wani kan kasuwancin.	ya ka maata nagawani kanka swanchi 	Ya ka maata nagawani kanka swanchi.
+male		thirties	ha	 ciyayi sun fara girma a hanya da ake bi zuwa majami a da 	"""Ciyayi sun fara girma a hanya da ake bi zuwa majami'a da."""	chiai sɨnfada girma a hanyada akibizuwa majami ada 	Chiai sɨnfada girma a hanyada akibizuwa majami ada.
+male		thirties	ha	kina da zare da allura 	Kina da zare da allura?	kinada zareyda alura	Kinada zareyda alura
+male		thirties	ha	gaya min gaya min 	Gaya min, gaya min.	gaya min gaya min 	Gaya min, gaya min.
+male		thirties	ha	mustapha ya ce mu jira anan 	Mustapha ya ce mu jira anan.	muṣṭafayat i mujrā anan	Muṣṭafayat-i Mujrā'anan
+male		thirties	ha	akwai wasu tsoffin biranen italiya rome da venice misali 	Akwai wasu tsoffin biranen Italiya, Rome da Venice misali.	aqwe wansi sofw fimbra neni italia rom da vannis misali 	Aqwe wansi sofw fimbra neni Italia, Rom da Vannis misali.
+male		thirties	ha	me yasa iyaye amurkawa ke yabawa yayansu 	Me yasa iyaye Amurkawa ke yabawa yayansu?	meja sa ila je amur kawa ike ya pawa ya jansu 	Meja sa ila je amur kawa ike ya pawa ya jansu.
+male		thirties	ha	menene dalilin hakan 	Menene dalilin hakan?	म इन दल द न कन 	में इन दलेदि ना कन।
+male		thirties	ha	da fatan za a karɓi taya murna ta ga nasarar ku a yau 	Da fatan za a karɓi taya murna ta ga nasarar ku a yau.	dafatan za akar bitaya murnata ga nasar alkuwa ayo 	Dafatan za akar bitaya murnata ga nasar alkuwa ayo.
+male		thirties	ha	akwai teburi gefe ɗaya cikin ɗakin 	Akwai teburi gefe ɗaya cikin ɗakin.	a kwaite budi gife chicken thaikin 	A kwaite budi gife chicken thaikin.
+male		thirties	ha	idan ka sami lokaci dan allah ka yi hakan 	Idan ka sami lokaci, dan Allah ka yi hakan.	ḏidan qasamilu qachi dan alla kaya haqa 	ḏidan qasamilu qachi dan alla kaya haqa.
+male		thirties	ha	bitrus ya ce zai yi hakan a yau 	Bitrus ya ce zai yi hakan a yau.	bitaros yechye zeyahakan ayaw 	Bitaros yechye zeyahakan ayaw.
+male		thirties	ha	asabe bata faɗa mun dalilin dayasa zata je boston ba 	Asabe bata faɗa mun dalilin dayasa zata je Boston ba.	asa veeba ta falamu ndalithi nda yasa zaata jee boston ba 	Asa veeba ta falamu ndalithi nda yasa zaata jee Boston ba?
+male		thirties	ha	 na san musa ɗalibin jami a ne 	"""Na san Musa ɗalibin jami'a ne."""	nasa musa talibin jami ane 	Nasa Musa talibin jami'ane.
+male		thirties	ha	hassan bai taɓa faɗa wa kowa abin da ya faru a wannan ranar ba 	Hassan bai taɓa faɗa wa kowa abin da ya faru a wannan ranar ba.	ḥasan beytaba fadawa kuwaa binda yafa ru awana ranarba	Ḥasan beytaba fadawa kuwaa binda yafa ru'awana ranarba
+male		thirties	ha	me ya sa ki ke tunanin cewa aliko ba ya son ki 	Me ya sa ki ke tunanin cewa Aliko ba ya son ki?	më jasa kikë tuna ninjewa ali gobarra sõnki 	Më jasa kikë tuna ninjewa ali gobarra sõnki?
+male		thirties	ha	ban san abdullahi na da buƙatar yin hakan ba 	Ban san Abdullahi na da buƙatar yin hakan ba.	bansam abdullahi nadabu qatari haqanbah	Bansam Abdullahi Nadabu Qatari Haqanbah
+male		thirties	ha	ina bukatar samun bacci sosai 	Ina bukatar samun bacci sosai.	ḏina bqátar samun bachis osay	ḏina bqátar samun bachis osay
+male		thirties	ha	ibrahim da lare sun dan girme ni 	Ibrahim da Lare sun dan girme ni.	ibrāhim ḍalāre suntaṅgirbeni 	Ibrāhim ḍalāre suntaṅgirbeni.
+male		thirties	ha	za a bar filin jirgin a bude 	Za a bar filin jirgin a bude.	ḏa bar fi linjirgin abude 	ḏa'bar fi linjirgin abude.
+male		thirties	ha	mustapha bai buƙatar zuwa da kansa 	Mustapha bai buƙatar zuwa da kansa.	mustafa abay bukata rzua adakansa	Mustafa Abay Bukata rzua adakansa
+male		thirties	ha	kowanne ɓangare na hanyar bishiyoyin cherry ne 	Kowanne ɓangare na hanyar bishiyoyin cherry ne.	kwa wane bangarra na hajjar bishu yo yen tsyerine 	Kwa wane bangarra na hajjar bishu yo yen tsyerine?
+male		thirties	ha	shirin bai yi dai dai da masu shekarunki ba 	Shirin bai yi dai-dai da masu shekarunki ba.	sirin be jideydi damasu she karun kiba 	Sirin be jideydi damasu she karun kiba.
+male		thirties	ha	fadar na da nisan kilo mita uku daga cikin gari 	Fadar na da nisan kilo mita uku daga cikin gari.	fadar nada ni seng kilomita uku dagacikin gari 	Fadar nada ni seng kilomita uku dagacikin gari.
+male		thirties	ha	na sa mai zane ya zana hotona a tsaye 	Na sa mai zane ya zana hotona a tsaye.	nasa mey zane yaza na hutuna ase	Nasa mey zane yaza na hutuna ase
+male		thirties	ha	ina gidan abokina 	Ina gidan abokina.	hina ike tana abo e kina 	Hina ike tana abo e Kina.
+male		thirties	ha	na yi tunanin jami bai sake yin hakan ba 	Na yi tunanin Jami bai sake yin hakan ba.	na yutu na ninja mi baisake yen hakanba 	Na yutu na ninja mi baisake yen hakanba.
+male		thirties	ha	mai kirki ne fiye da komai 	Mai kirki ne fiye da komai.	maikirikini fiyadakumin	Maikirikini fiyadakumin
+male		thirties	ha	ina mamakin ina a duniya jami zai iya kasancewa a yanzu 	Ina mamakin ina a duniya Jami zai iya kasancewa a yanzu.	ina mamakin ina aduni ajami zi ya kasan tʃewa ajenzo 	Ina mamakin ina aduni ajami zi ya kasan tʃewa ajenzo.
+male		thirties	ha	ban faɗawa musa ya tsaya ba 	Ban faɗawa Musa ya tsaya ba.	bampan awamu saya sayaba	Bampan awamu saya sayaba
+male		thirties	ha	tun wane lokaci bitrus ke aiki a boston 	Tun wane lokaci Bitrus ke aiki a Boston?	tumwa ni loka tʃi bitruski aiki aposto 	Tumwa ni loka tʃi bitruski aiki aposto.
+male		thirties	ha	wannan ya burge ni 	Wannan ya burge ni.	wannan ya gurugiani 	Wannan ya gurugiani?
+male		thirties	ha	kin iya dafa abinci sosai 	Kin iya dafa abinci sosai.	ლიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიი 	ლიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიი�
+male		thirties	ha	an gudanar da fatin bankwana jiya sabida mr smith 	An gudanar da fatin bankwana jiya sabida Mr. Smith.	angudana dafatin bankwa na giya sabida mustasmit 	Angudana dafatin bankwa na giya sabida mustasmit.
+male		thirties	ha	yin hakan ba wani mummunan abu bane 	Yin hakan ba wani mummunan abu bane.	ḏen hakanba wane mumunan agubane	ḏen hakanba wane mumunan agubane
+male		thirties	ha	ba bu damuwa idan na rufe taga ina jin sanyi kaɗan 	Ba bu damuwa idan na rufe taga? Ina jin sanyi kaɗan.	babu damua idana alpe taga ina ajinsa inis kanan	Babu Damua idana alpe taga ina ajinsa inis kanan
+male		thirties	ha	waɗannan tambayoyi ne da ba zan iya amsawa ba 	Waɗannan tambayoyi ne da ba zan iya amsawa ba.	wadan nan tamba yo ine da basen iya amsawa wa	Wadan nan tamba yo ine da basen iya amsawa wa
+male		thirties	ha	kamar ishaku da aisha ba sa son kasancewa a nan 	Kamar Ishaku da Aisha ba sa son kasancewa a nan.	qamar ishaq uda aisha baasa son qasanchi wa anan 	Qamar ishaq uda aisha baasa son qasanchi wa'anan.
+male		thirties	ha	na gode da jagorar ku 	Na gode da jagorar ku.	nā kūdinda jagoralku 	Nā kūdinda jagoralku.
+male		thirties	ha	masu magana kan ce wahala kan haifar da hawan jini 	Masu magana kan ce, wahala kan haifar da hawan jini.	masooma gana kanche wahala gam hai farda hawan jini 	Masooma gana kanche wahala gam hai farda hawan jini.
+male		thirties	ha	idan abubuwa suka faɗa cikin ramin nan za su yi zafi sosai 	Idan abubuwa suka faɗa cikin ramin nan, za su yi zafi sosai.	idan abu uwa sika fadla chik ngramin nan zaasvi zaafi sose 	Idan abu uwa sika fadla chik ngramin nan, zaasvi zaafi sose.
+male		thirties	ha	ta saka jaket wanda bai da matsi 	Ta saka jaket wanda bai da matsi.	tasaka dʒaket wenda bejda mazi 	Tasaka dʒaket wenda bejda mazi.
+male		thirties	ha	yaronan bai da jiki 	Yaronan bai da jiki.	य र न न ब द ज क 	यारोंनान बैदेजिकी
+male		thirties	ha	matsalarmu ba za ta ƙare ba 	Matsalarmu ba za ta ƙare ba.	masalar mu bazatak arewa 	Masalar mu bazatak arewa.
+male		thirties	ha	koyar da ni yadda ake wasan bututun mai kaya 	Koyar da ni yadda ake wasan bututun mai kaya.	ḏoyar dəniyenda eke wasan bututun me kaya	ḏoyar dəniyenda eke wasan bututun me kaya
+male		thirties	ha	cire shi daga baya yar da shi kuma wanke hannun ku 	Cire shi daga baya, yar da shi, kuma wanke hannun ku.	chir e shi daga baya yard e shi kuma wan kaha nunku 	Chir e shi daga baya, yard e shi kuma wan kaha nunku.
+male		thirties	ha	yaya yawan motsa jiki da ya kamata kayi 	Yaya yawan motsa jiki da ya kamata kayi?	ya yawn mosaj kila ya kamata kai	ya yawn mosaj kila ya kamata kai
+male		thirties	ha	shin baban ka likita ne 	Shin baban ka likita ne?	სარიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიი	სარიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიი
+male		thirties	ha	falmata ta biya kudadenta 	Falmata ta biya kudadenta.	farmata tabia qutat enta 	Farmata tabia qutat enta.
+male		thirties	ha	 kana son ya yan itatuwa 	"""Kana son 'ya'yan itatuwa?"""	tana son yaya ye tatwa	Tana son yaya ye tatwa
+male		thirties	ha	ina tsoron zai iya latti ya rasa jirgin 	Ina tsoron zai iya latti ya rasa jirgin.	nā soron zay iya leti iya rasajrigin	nā soron zay iya leti iya rasajrigin
+male		thirties	ha	a cikin isra ila an amince da bincika hanyoyin sadarwa 	A cikin Isra’ila, an amince da bincika hanyoyin sadarwa.	açikin isra ila an a men txede bin txika hanjo yin sa darwa 	Açikin isra'ila an'a men txede bin txika hanjo yin sa darwa.
+male		thirties	ha	mota na tashar jirgin na tashi da karfe shida 	Mota na tashar jirgin na tashi da karfe shida.	mota natasha jilginna tashi daka feshida 	Mota Natasha, Jilginna, Tashi, Daka, Feshida.
+male		thirties	ha	sakamakon gwaji yana samuwa tsakanin awa biyu zuwa kwana biyu 	Sakamakon gwaji yana samuwa tsakanin awa biyu zuwa kwana biyu.	sa ka ma kongwa ji yena sa muasa kaning awa biw zua kwana biw 	Sa ka ma kongwa ji yena sa muasa kaning awa biw, zua kwana biw.
+male		thirties	ha	ni mutum ne mai son motoci 	Ni mutum ne mai son motoci.	nymu t nemi sonmu t uçi	Nymu t'nemi sonmu t'uçi
+male		thirties	ha	na gano cewa otal ɗin da na fi so ya daina kasuwanci 	Na gano cewa otal ɗin da na fi so ya daina kasuwanci.	nga ga nwo tshewa w hotel nda na fiso ya day nas kason tshi 	Nga ga nwo tshewa w hotel nda na fiso ya day nas kason tshi.
+male		thirties	ha	babu wani magani ko allurar da aka yarda da shi don magance wannan cutar 	Babu wani magani ko allurar da aka yarda da shi don magance wannan cutar.	babu wanimagani iko alurada aka yardada shidon magan tse wanachutar 	Babu wanimagani iko alurada aka yardada shidon magan tse wanachutar.
+male		thirties	ha	dole japan ta dogara cinikayyar ƙasashen ƙetare domin kawo ƙarshen ganawar 	Dole Japan ta dogara cinikayyar ƙasashen ƙetare domin kawo ƙarshen ganawar.	doli japan ta dugara chinikaiyar kasashin keteri dominka wakarshin ga nawar 	Doli Japan ta dugara chinikaiyar kasashin keteri dominka wakarshin ga nawar.
+male		thirties	ha	kada ka tsallaka titin idan kararrawa yana kara 	Kada ka tsallaka titin idan kararrawa yana kara.	ḏam ḏam ḏam ḏam ḏam ḏam ḏam ḏam ḏam ḏam ḏam ḏam ḏam ḏam ḏam ḏam ḏam ḏam ḏam ḏam ḏam ḏam ḏam ḏam ḏam ḏam ḏam ḏam ḏam ḏam ḏam ḏam ḏam ḏam ḏam ḏam ḏam ḏam ḏam ḏam ḏam ḏam ḏam ḏam ḏam ḏam ḏam ḏam ḏam ḏam ḏam ḏam ḏam ḏam ḏam ḏam	ḏam ḏam ḏam ḏam ḏam ḏam ḏam ḏam ḏam ḏam ḏam ḏam ḏam ḏam ḏam ḏam ḏam ḏam ḏam ḏam ḏam ḏam ḏam ḏam ḏam ḏam ḏam ḏam ḏam ḏam ḏam ḏam ḏam ḏam ḏam ḏam ḏam ḏam ḏam ḏam ḏam ḏam ḏam ḏam ḏam ḏam ḏam ḏam ḏam ḏam ḏam ḏam ḏam ḏam ḏam ḏam
+male		thirties	ha	hamsatu ta ce ta gaji da yin wannan 	Hamsatu ta ce ta gaji da yin wannan.	ḥanṣatu tashriṭā gajidayin wana 	Ḥanṣatu tashriṭā gajidayin wana.
+male		thirties	ha	sun tsaya cikin gosulo na tsahon rabin awa 	Sun tsaya cikin gosulo na tsahon rabin awa.	sunsaja tʃikin gonsulu nasawo rabin awa 	Sunsaja tʃikin gonsulu nasawo rabin awa.
+male		thirties	ha	ba ta taɓa shan komai da ɗalibanta ba 	Ba ta taɓa shan komai da ɗalibanta ba.	batataqasham kumay dalali bantaba 	Batataqasham kumay dalali bantaba.
+male		thirties	ha	allah ya saka wani a gefen kowane mutum da zai lura da shi 	Allah Ya saka wani a gefen kowane mutum da zai lura da shi.	allah azaqa wa ni a jayfin ko wa nimutun dhazir uradashi 	Allah azaqa wa ni'a jayfin ko wa nimutun dhazir uradashi.
+male		thirties	ha	kawu na ya ba da bashin 	Kawu na ya ba da bashin.	tawwulna ya baada baashin	Tawwulna ya baada baashin
+male		thirties	ha	gaskiya cikin harkar addini ita ce hanyar tsira 	Gaskiya cikin harkar addini ita ce hanyar tsira.	qasqia chicken halka al adini ita tsyahanya al sira 	Qasqia chicken halka al-adini ita tsyahanya al-sira.
+male		thirties	ha	aliko na son taimakawa wasu 	Aliko na son taimakawa wasu.	alikona sante makawa osu	Alikona Sante Makawa Osu
+male		thirties	ha	jam iyyar ku ta siyasa gaba ɗaya ta lalata 	Jam’iyyar ku ta siyasa gaba ɗaya ta lalata.	jamir kutasiyasa gabad eta lalata	Jamir kutasiyasa gabad eta lalata
+male		thirties	ha	likita ya ɗauki matsayin da ya saba ya fuskanci grace 	Likita ya ɗauki matsayin da ya saba, ya fuskanci Grace.	likit ayad o kimasa inda ya asaba ya huskan chigres 	Likit ayad o kimasa inda ya asaba, ya huskan chigres.
+male		thirties	ha	dole ne mu dakatar da wannan annoba mai hatsari 	Dole ne mu dakatar da wannan annoba mai hatsari.	dūlini mudaka taltawannan anubame hatzari 	Dūlini mudaka taltawannan anubame hatzari.
+male		thirties	ha	mene ne ainihin abinda ke zuciyar ka 	Mene ne ainihin abinda ke zuciyar ka?	mən ən eyni hin abindak jə sudʒ jirga 	Mən ən eyni hin abindak jə sudʒ jirga.
+male		thirties	ha	a madadin gwamnati kafofin yaɗa labaran ba su kyauta ba 	A madadin gwamnati, kafofin yaɗa labaran ba su kyauta ba.	amada dɨngɡom nati kapo finjad ala baran basi kja utava 	Amada dɨngɡom nati kapo finjad ala baran basi kja utava.
+male		thirties	ha	ina fama da busashen tari da sanyi da majina amai da gudawa	ina fama da busashen tari da sanyi da majina amai da gudawa	ina fama da gbusa shantari dasenji da majina ame da gudal 	Ina fama da gbusa shantari, dasenji da majina ame da gudal.
+male		thirties	ha	barka dai mister kayi duk abinda zaka yi 	Barka dai, mister! Kayi duk abinda zaka yi!	barqa adayin musta qayyuddin ebin daza qayyi 	Barqa adayin musta. Qayyuddin ebin daza qayyi.
+male		thirties	ha	shirya lokacin haɗuwar 	Shirya lokacin haɗuwar.	syiriya lo kaching hadwar 	Syiriya lo kaching hadwar.
+male		thirties	ha	na si siyawa matata abin hannun zinare 	Na si siyawa matata abin hannun zinare.	nasi awa ma ta taa bin hanun zinaari 	Nasi awa ma ta taa bin hanun zinaari.
+male		thirties	ha	bukatar sanya kariyar fuska a cikin jama a 	bukatar sanya kariyar fuska a cikin jama’a’	bukat arsa nya karyar fuska hachikin jama 	Bukat arsa nya karyar fuska hachikin jama'
+male		thirties	ha	ba na so in ci gaba da zama a boston 	Ba na so in ci gaba da zama a Boston.	bana so in tʃiga bada zama a boston 	Bana so in tʃiga bada zama a Boston.
+male		thirties	ha	ban tabbatar abun da abdullahi yake yi na samun kuɗi 	Ban tabbatar abun da Abdullahi yake yi na samun kuɗi.	bantabatar abunda abdullah yeki nasa mungudi 	Bantabatar Abunda Abdullah yeki nasa mungudi.
+male		thirties	ha	sun share hawayensu 	Sun share hawayensu.	swishari hawa enso	Swishari Hawa Enso
+male		thirties	ha	na yi tunanin ku biyun kun san juna 	Na yi tunanin ku biyun kun san juna.	naya tolaanin kubi unkun sanjuna	Naya Tolaanin Kubi Unkun Sanjuna
+male		thirties	ha	wanene kake tunani ne wannan mutumin 	Wanene kake tunani ne wannan mutumin?	wa ane nikikitu naani niewonan mutimin 	Wa ane nikikitu naani niewonan mutimin?
+male		thirties	ha	aliyu na jiran ɗansa ya komo gida 	Aliyu na jiran ɗansa ya komo gida.	ḏaliyu na dʒirrən tansa yawkowo mwikida 	ḏaliyu na dʒirrən tansa yawkowo mwikida.
+male		thirties	ha	zan iya cutar da shi 	Zan iya cutar da shi.	ल इय च त प र श 	लें इया चूता प्रेशी
+male		thirties	ha	harbin igwa ne ya rusa wannan cocin 	Harbin igwa ne ya rusa wannan cocin.	ḥalbin yuqwa aneya rusa wanan chochin 	Ḥalbin yuqwa aneya rusa wanan chochin.
+male		thirties	ha	za a iya cimma buri ko a kasa a las begas 	Za a iya cimma buri ko a kasa a Las Begas.	zae e çimma buri ko akasa a las vegas 	Zae e çimma buri ko akasa a Las Vegas.
+male		thirties	ha	ta ce ta ji sauki sosai 	Ta ce ta ji sauki sosai.	tajiye taji so ki so se	Tajiye taji so ki so se
+male		thirties	ha	kuma ka san yadda yake ji kirjina kamar zai murkushe	Kuma ka san yadda yake ji kirjina kamar zai murkushe	kuma kaasanyadda eke ji kirji na kamar ze murkwishe 	Kuma kaasanyadda eke ji kirji na kamar ze murkwishe.
+male		thirties	ha	me yasa ku ke kwashe kwashen maza 	Me yasa ku ke kwashe-kwashen maza?	mɨja saa pɨkɨ qaʃə qaʃə nə maza	Mɨja saa pɨkɨ qaʃə qaʃə nə maza
+male		thirties	ha	superman za a haska wajen nuna fina finai wannan watan 	Superman za a haska wajen nuna fina-finai wannan watan.	supamanzaa hasta wajanuna finaithnai wananwata 	Supamanzaa hasta wajanuna finaithnai wananwata.
+male		thirties	ha	ina ganin aliko na da zaɓi uku 	Ina ganin Aliko na da zaɓi uku.	inna agenin aliko na daza bi uku 	Inna agenin aliko na daza bi uku.
+male		thirties	ha	duk da mun tabbatar da gaskiyar ko wane lokaci yaƙi bai da amfani 	Duk da mun tabbatar da gaskiyar: ko wane lokaci yaƙi bai da amfani.	dükda muntabatardga skir kwo wani lukaci ja ki beida aflani 	Dükda muntabatardga skir, kwo wani lukaci ja ki beida aflani.
+male		thirties	ha	wasannin kwaikwayo wasanni ne da ɗan adam ke yinsu da kansa 	Wasannin kwaikwayo wasanni ne da ɗan adam ke yinsu da kansa.	wasanin kwey kweyu wasanini dadan adam keyin suda kansa	Wasanin kwey kweyu wasanini dadan adam keyin suda kansa
+male		thirties	ha	ban cika yin abu haka kawai ba 	Ban cika yin abu haka kawai ba.	mäntsikä yin aguhakakawäibä	Mäntsikä yin aguhakakawäibä
+male		thirties	ha	mustapha bai saya mini abin da nake so ba 	Mustapha bai saya mini abin da nake so ba.	mústaháb e seyyamini ebindane ki soba 	Mústaháb e Seyyamini ebindane ki soba.
+male		thirties	ha	ga abubuwan abun sha nan ka sha 	Ga abubuwan abun sha nan ka sha.	qa a buwan awin sha a nand ka sha a 	Qa'a buwan awin sha'a nand ka sha'a.
+male		thirties	ha	yanzu an saba da sadarwa ta talabijin da rediyo 	Yanzu an saba da sadarwa ta talabijin da rediyo.	janzu ansaba saderwa television radio	Janzu Ansaba, Saderwa, Television, Radio
+male		thirties	ha	bai kamata ka zama kwararre kan haka ba 	Bai kamata ka zama kwararre kan haka ba.	beka maata akazamu kwarere kan haqawa 	Beka maata akazamu kwarere kan haqawa.
+male		thirties	ha	wane irin ciwo kake ji a kirjin ka 	wane irin ciwo kake ji a kirjin ka?	þe þeirriþiþiþþiþþiþþiþþiþþiþþiþþiþþiþþiþþiþþiþþiþþiþþiþþiþþiþþiþþiþþiþþiþþiþþiþþiþþiþþiþþiþþiþþiþþiþþiþþiþþiþþiþþiþþiþþiþþiþþiþþiþþiþþiþþi	Þe þeirriþiþiþþiþþiþþiþþiþþiþþiþþiþþiþþiþþiþþiþþiþþiþþiþþiþþiþþiþþiþþiþþiþþiþþiþþiþþiþþiþþiþþiþþiþþiþþiþþiþþiþþiþþiþþiþþiþþiþþiþþiþþiþþiþþi
+male		thirties	ha	ba na tunanin hassan zai kyale ni in yi hakan 	Ba na tunanin Hassan zai kyale ni in yi hakan.	bana tunanin hasan zei aleni inye hakan 	Bana tunanin hasan zei aleni inye hakan.
+male		thirties	ha	zata yiwu aliyu yana yin wani abu 	Zata yiwu Aliyu yana yin wani abu.	xatayu ali u jana inwani awo 	Xatayu ali u jana inwani awo.
+male		thirties	ha	bangarorin biyu sun yarda su sasanta 	Bangarorin biyu sun yarda su sasanta.	mangarurin viyusin yadda susasanta 	Mangarurin viyusin yadda susasanta.
+male		thirties	ha	an faɗa mani za ku yarda ku taimaka 	An faɗa mani za ku yarda ku taimaka.	aþaþaþa meni zaquyadaa qoþ teymaka 	Aþaþaþa meni zaquyadaa qoþ teymaka.
+male		thirties	ha	jirgin ƙasan ya tsaya dai dai rabin tsakanin tasoshin biyu 	Jirgin ƙasan ya tsaya dai-dai rabin tsakanin tasoshin biyu.	jirgin qasanyasa ya deydeyra bin sakarinin taso shinbiw 	Jirgin Qasanyasa ya Deydeyra bin Sakarinin taso shinbiw.
+male		thirties	ha	ya sare bishiyar cikin gidansa 	Ya sare bishiyar cikin gidansa.	ḍaḥ ṣaḥe bishir chikingi dansab 	ḍaḥ ṣaḥe bishir chikingi dansab.
+male		thirties	ha	bana son zama manaja 	Bana son zama manaja.	banasan zama manaja	Banasan zama manaja
+male		thirties	ha	kuma tare da tarihin ciwon sukari	kuma tare da tarihin ciwon sukari	qumar ta rejda ta rejnchi uwensi kari	Qumar ta rejda ta rejnchi uwensi kari
+male		thirties	ha	wannan ruwa ƙasar dilan mai sauri ne ya faɗawa ragon karen nan ruwan ƙasa 	Wannan ruwa ƙasar dilan mai sauri ne ya faɗawa ragon karen nan ruwan ƙasa.	wana ruwa kasa dilan may sawrinaya adawa rakwan karen nan ruwan kasa 	Wana ruwa kasa dilan may sawrinaya adawa rakwan karen nan ruwan kasa.
+male		thirties	ha	kar a goge allo 	Kar a goge allo.	ka agoje anlo 	Ka agoje anlo?
+male		thirties	ha	matafiyan sun dakatar da jirgin kasa daga daukar wasiku 	Matafiyan sun dakatar da jirgin kasa daga daukar wasiku.	mataxian sundakatarra jirgin kasa adaga awkar wasiku 	Mataxian sundakatarra jirgin kasa adaga awkar wasiku.
+male		thirties	ha	kamar tana cikin damuwa da bacin rai 	Kamar tana cikin damuwa da bacin rai.	qamar tanachikinda muwa dabachin ri	Qamar tanachikinda muwa dabachin ri
+male		thirties	ha	bana jin musa da lare ba su san bai kamata su yi haka 	Bana jin Musa da Lare ba su san bai kamata su yi haka.	ḏan ʻajin muṣa dala reba susan bejhamāta fi haqa 	ḏan ʻajin muṣa dala reba susan bejhamāta fi haqa.
+male		thirties	ha	idan da ni kai ne ba zan yi irin wannan abin ba 	Idan da ni kai ne, ba zan yi irin wannan abin ba.	idanda ani kayne bazen i irin wanan abin ba 	Idanda ani kayne bazen i irin wanan abin ba.
+male		thirties	ha	kun san na kamu da cutar sukari da wasu abubuwa	kun san na kamu da cutar sukari da wasu abubuwa	kunsan na kamuda tshu tarsu ka rida waso aubua 	Kunsan na kamuda tshu tarsu ka rida waso aubua.
+male		thirties	ha	wannan wane irin shirme ne 	Wannan wane irin shirme ne!	wannamal irin sharmaini	Wannamal Irin Sharmaini
+male		thirties	ha	menene sunan jakadar 	Menene sunan jakadar?	mənən əswənən jaqadar 	Mənən əswənən jaqadar.
+male		thirties	ha	na fara koyon yaren china satin da ya wuce 	Na fara koyon yaren China satin da ya wuce.	nafar ɣojə jarən tʃajn ɣasatind ə jaw tʃe 	Nafar ɣojə jarən tʃajn ɣasatind ə jaw tʃe.
+male		thirties	ha	duk sun goyi bayan dan takarar 	Duk sun goyi bayan dan takarar.	duksung goyibayan antakarar 	Duksung goyibayan antakarar.
+male		thirties	ha	jauro zai faɗawa valantina duk abin da ya sani game da yanayin 	Jauro zai faɗawa Valantina duk abin da ya sani game da yanayin.	jawro ze fadawa balantina dut abinda jasani gameda jadayin 	Jawro ze fadawa balantina dut abinda jasani gameda jadayin.
+male		thirties	ha	aliko ya nace da tafiya 	Aliko ya nace da tafiya.	alikw o ja natsi də te fja 	Alikw o ja natsi də te fja.
+male		thirties	ha	sunan malamin ingilishi na donald 	Sunan malamin Ingilishi na Donald.	sūnan mālamin ingilisīna dona 	Sūnan mālamin ingilisīna dona.
+male		thirties	ha	tana magana da turanci 	Tana magana da Turanci.	tana magana da turanchi	tana magana da turanchi
+male		thirties	ha	yin mamaki kawai zaiyi kyau ta hanya yin tafiya 	Yin mamaki kawai zaiyi kyau ta hanya yin tafiya.	jinn ma ma ki kaway zayi kaw ta hainga jintafia 	Jinn ma ma ki kaway zayi kaw ta hainga jintafia.
+male		thirties	ha	na san yanayin da sakamakon zai iya haifarwa 	Na san yanayin da sakamakon zai iya haifarwa.	nasa janayinda saka maqonzi iya hayfarwa 	Nasa janayinda saka maqonzi iya hayfarwa.
+male		thirties	ha	ina son wannan lafazi 	Ina son wannan lafazi.	jinaasun wanan lafasi	Jinaasun wanan lafasi
+male		thirties	ha	 greece tana ɗaukar matakan tsattsauran ra ayi don hana rushe tsarin kuɗi 	"""Greece tana ɗaukar matakan tsattsauran ra'ayi don hana rushe tsarin kuɗi."""	gryz tan ataw karmatatan tsasawrən ra ayidon hana rushes arion kudi 	Gryz tan ataw karmatatan tsasawrən ra ayidon hana rushes arion kudi.
+male		thirties	ha	bitrus baya son ka sake yin hakan 	Bitrus baya son ka sake yin hakan.	bītulus bāya son kasaikyeyin haka 	Bītulus bāya son kasaikyeyin haka.
+male		thirties	ha	yadda ya ke magana ya ja hankalin mashahurun marubucin 	Yadda ya ke magana ya ja hankalin mashahurun marubucin.	ḏedde ike maqana yaja ḥanqa limma shahurin marbu chin 	ḏedde ike maqana yaja ḥanqa limma shahurin marbu chin.
+male		thirties	ha	yawancin macizai a wannan tsibirin ba su da lahani 	Yawancin macizai a wannan tsibirin ba su da lahani.	yawanchim ma tʃizai awan nansibirin baswda lahani 	Yawanchim ma tʃizai awan nansibirin baswda lahani.
+male		thirties	ha	ina son allon hello kitty 	Ina son allon Hello Kitty.	ín a son allon hello kitty 	Ín a son allon hello kitty!
+male		thirties	ha	kina son kammala wannan ko wane lokaci nan kusa 	Kina son kammala wannan ko wane lokaci nan kusa?	kena asang kamalawannam kowaniloka chi nangkusa 	Kena asang kamalawannam kowaniloka chi nangkusa?
+male		thirties	ha	wannan littafin sifanish ne 	Wannan littafin Sifanish ne.	wellan letafin sayfa nishne	Wellan letafin sayfa nishne
+male		thirties	ha	a ganin mutane da yawa talauci abu ne mai girma rauni ne 	A ganin mutane da yawa, talauci abu ne mai girma: rauni ne.	agar nəmət anəde jawa talaw tʃe abunəj me girma rawnine 	Agar nəmət anəde jawa, talaw tʃe abunəj me girma rawnine.
+male		thirties	ha	wannan shine lamba mafi yawa na mutuwa a rana guda saboda kwayar cutan 	Wannan shine lamba mafi yawa na mutuwa a rana guda saboda kwayar cutan.	wana xinyelamba mafiyawa namutwa arana guda sabu da qayer tshutan 	Wana xinyelamba mafiyawa namutwa arana guda sabu da qayer tshutan.
+male		thirties	ha	hassan bai daukar isasshen lokacin karatu 	Hassan bai daukar isasshen lokacin karatu.	ḥasan bay dawkar issech chan loka chinkaratu 	Ḥasan bay dawkar issech chan loka chinkaratu.
+male		thirties	ha	ingancin kaya shi ne abu mafi muhimmanci fiye farashi 	Ingancin kaya shi ne abu mafi muhimmanci fiye farashi.	nigan çin taya çini abu möfi muhimman çifiye fara çin	Nigan çin taya çini abu möfi muhimman çifiye fara çin
+male		thirties	ha	haka rayuwa take 	Haka rayuwa take.	ḥaqqara yuwa taqeeb	Ḥaqqara yuwa taqeeb
+male		thirties	ha	zamu iya gyara wancan 	Zamu iya gyara wancan.	zam iya gyara wanchan 	Zam iya gyara wanchan.
+male		thirties	ha	yanzun nan muka gama magana da ita 	Yanzun nan muka gama magana da ita.	yon zundan muka gama magana reta	yon zundan muka gama magana reta
+male		thirties	ha	cocin katolika na adawa da kisan aure 	Cocin Katolika na adawa da kisan aure.	chwoa tshin katoolika ana adawa dakisan awwe 	Chwoa tshin katoolika ana adawa dakisan awwe.
+male		thirties	ha	zainab ta ce ba ta son a tattauna maganar aiki 	Zainab ta ce ba ta son a tattauna maganar aiki.	zaynab tachi bata son atata wanama gana raichi	Zaynab tachi, bata son atata wanama gana raichi
+male		thirties	ha	daga abinda za ku iya fada wane darasi kuka fi so 	Daga abinda za ku iya fada, wane darasi kuka fi so?	daga abin nazahu iya pada wa nidalasi kuka kiso 	Daga abin nazahu iya pada wa nidalasi kuka kiso.
+male		thirties	ha	habibu ya faɗa mini cewa aisha a shirye take ta yi hakan 	Habibu ya faɗa mini cewa Aisha a shirye take ta yi hakan.	ḥabīb uyāf ʿamīnichir wa ʿayshah ʿashriyatajayit ayyahatan	Ḥabīb uyāf ʿamīnichir wa ʿayshah ʿashriyatajayit ayyahatan
+male		thirties	ha	musa ya dawo gida don karshen mako don godiya 	Musa ya dawo gida don karshen mako don godiya.	mūsāyāda ujjidā donkarshan māpo dongo diyā	Mūsāyāda ujjidā donkarshan māpo dongo diyā
+male		thirties	ha	tokyo zagaye take da biranen alfarma 	Tokyo zagaye take da biranen alfarma.	tokyo za gajetek yide biranen al farman	Tokyo za gajetek yide biranen al farman
+male		thirties	ha	ta ce bata damu ba dan ta jira 	Ta ce bata damu ba dan ta jira.	tachaybata daamuba dan tajra 	Tachaybata daamuba dan tajra.
+male		thirties	ha	mun tsaya a boston kwanaki uku kan hanyarmu ta zuwa chicago 	Mun tsaya a Boston kwanaki uku kan hanyarmu ta zuwa Chicago.	mwënsaja boston kwa nakikwë wakan hanyar mwë tazwa tshikago 	Mwënsaja Boston kwa nakikwë wakan hanyar mwë tazwa Tshikago.
+male		thirties	ha	wannan yarinyan nan ta shaida hatsarinan da karfe uku na wannan yammacin 	Wannan yarinyan nan ta shaida hatsarinan da karfe uku na wannan yammacin.	wanayariyan nan taa shayda hasa rinnan da karfe uku nawan nan yamachin 	Wanayariyan nan taa shayda hasa rinnan da karfe uku nawan nan yamachin.
+male		thirties	ha	ba ka yi kama da mai jin haushi ba 	Ba ka yi kama da mai jin haushi ba.	बक कम द म झ न ह श ब 	बकै कमादा मेझिन होःशिबा।
+male		thirties	ha	na tambaye su abu ɗaya 	Na tambaye su abu ɗaya.	nā taṃbe suabudah	Nā taṃbe suabudah
+male		thirties	ha	zan iya karanta faransanci amma ba zan iya magana da shi ba 	Zan iya karanta Faransanci, amma ba zan iya magana da shi ba.	zayn iya karanta faransan tshi ama amba zayn iya magana ada tshiba 	Zayn iya karanta faransan tshi, ama amba zayn iya magana ada tshiba.
+male		thirties	ha	da gani mr david ya gaji 	Da gani Mr David ya gaji.	da gani mustade vitya gaji	Da gani mustade vitya gaji
+male		thirties	ha	ba zan iya zuwa yanzu ba 	Ba zan iya zuwa yanzu ba.	ba zayn yiyazu wa yanzuba	Ba zayn yiyazu wa yanzuba
+male		thirties	ha	wace shawara ka yanke 	Wace shawara ka yanke?	ḏachashawar ata yanki	ḏachashawar ata yanki
+male		thirties	ha	kuma bayan haka kuna samun wahalar yin numfashi	kuma bayan haka kuna samun wahalar yin numfashi	kumabayan haqa kunasamu wa haladiyin nufashi	Kumabayan haqa kunasamu wa haladiyin nufashi
+male		thirties	ha	mai nuna wajen shaƙatawar ya dauke min hankali na 	Mai nuna wajen shaƙatawar ya dauke min hankali na.	mainuna wajan shaa katawar yadaw tʃe mən hankalina 	Mainuna wajan shaa katawar, yadaw tʃe mən hankalina.
+male		thirties	ha	rifkatu ba ta son baiwa jalal lambar wayarta 	Rifkatu ba ta son baiwa Jalal lambar wayarta.	if you want to buy you can call me 	If you want to buy, you can call me.
+male		thirties	ha	shi ne hotel na biyu a jerin waɗanda su ka fi 	Shi ne hotel na biyu a jerin waɗanda su ka fi.	ḏin ḏawḏn ḏal nabiyu ʻajarim wa an dasuka fi what is the prophet s reward for those who follow him 	ḏin ḏawḏn ḏal-nabiyu ʻajarim wa'an dasuka fi? What is the Prophet's reward for those who follow him?
+male		thirties	ha	mista yusufl yanzu haka yana kan aiki 	Mista Yusufl yanzu haka yana kan aiki.	məsta iso fiyan dzu haqa ya na kan aiki	Məsta'iso fiyan dzu haqa'ya na kan aiki
+male		thirties	ha	bai kamata ka bar danka ya dinga abu kamar wani sakarai ba 	Bai kamata ka bar danka ya dinga abu kamar wani sakarai ba.	baikamaataa kabar tangka yatinga abu kamarwani saakarayba 	Baikamaataa kabar tangka yatinga Abu Kamarwani Saakarayba.
+male		thirties	ha	na san jalal kwararren mawaki ne 	Na san Jalal kwararren mawaki ne.	nasan dʒalal kwararren mawakine 	Nasan dʒalal kwararren mawakine?
+male		thirties	ha	ina cikin wahala kadan 	Ina cikin wahala kadan.	yena chikinu wahala kadana 	Yena chikinu wahala kadana.
+male		thirties	ha	abdullahi da maimuna na jiranmu 	Abdullahi da Maimuna na jiranmu.	عبد الله دمع منا ناجرن	عبد الله دمع منا ناجرن
+male		thirties	ha	an samar da kambun sarauniyar daga zinari 	An samar da kambun sarauniyar daga zinari.	ḩanṣāmarda thambun sarawniyaldaga zinari 	Ḩanṣāmarda thambun sarawniyaldaga zinari.
+male		thirties	ha	 tsakanin su akwai alpha mai suna alpaca cov 	"""Tsakanin su akwai alpha mai suna 'alpaca-CoV."""	sa kanin su away alfa ma jusuna alfa kof 	Sa kanin su away alfa ma jusuna alfa kof.
+male		thirties	ha	a wannan lokacin banbancin tsakanin mutum da dabba ba daɗi ba ragi illa suttura 	A wannan lokacin banbancin tsakanin mutum da dabba ba daɗi ba ragi illa suttura.	awan na loka tjen bamban tjen sakani nmutemda dabba baada deba ragi illa sutura 	Awan na loka tjen bamban tjen sakani nmutemda dabba baada deba ragi illa sutura.
+male		thirties	ha	ya yi jinkiri sosai 	Ya yi jinkiri sosai.	य एज न क र स स ग त	या एजिन्किरी सो सैंगुत
+male		thirties	ha	bana jin kun fahimce ni 	Bana jin kun fahimce ni.	bana ajin kum fahim tʃeni 	Bana ajin kum fahim tʃeni?
+male		thirties	ha	yin hakan ba shi ne abinda ya kamata a yi ba 	Yin hakan ba shi ne abinda ya kamata a yi ba.	yung hakan bashini abin dayaka mata ayiba 	Yung hakan bashini abin dayaka mata ayiba.
+male		thirties	ha	kin tabbatar kina lafiya 	Kin tabbatar kina lafiya?	ḏintabatar kina labya 	ḏintabatar kina labya?
+male		thirties	ha	ni banga fatalwa ba 	Ni banga fatalwa ba.	nibanga fatawawa	Nibanga Fatawawa
+male		thirties	ha	bitrusa ya harbe falmata da bindiga 	Bitrusa ya harbe Falmata da bindiga.	bitu rusiya harbi falumata dbindiga 	Bitu rusiya harbi falumata dbindiga.
+male		thirties	ha	wa ya tafi tare da kai jiya 	Wa ya tafi tare da kai jiya?	wae tafee taree da kayi diyo	Wae tafee taree da kayi diyo
+male		thirties	ha	ni nace yusuf da hafsat likitoci ne 	Ni nace Yusuf da Hafsat likitoci ne?	nina che yusuf da hafsa likito chine	Nina che yusuf da hafsa likito chine
+male		thirties	ha	mustapha ya dawo a cikin jeep kuma ya fara injin 	Mustapha ya dawo a cikin Jeep kuma ya fara injin.	mustafa ya dawo achikinjib kumaya fara injin 	Mustafa ya dawo achikinjib kumaya fara injin.
+male		thirties	ha	jarirai na son bacci da yawa 	Jarirai na son bacci da yawa.	ḏariraina somba chidewa	ḏariraina somba chidewa
+male		thirties	ha	matashiyar na fama da matsanancin ciwo amma tana fatan samun lafiya 	Matashiyar na fama da matsanancin ciwo, amma tana fatan samun lafiya.	mata shiyar na famada matana nchinchiuwa ammata na fatan samu lafya 	Mata shiyar na famada matana nchinchiuwa, ammata na fatan samu lafya.
+male		thirties	ha	baza ka zaci haka ba ko zaka zata 	Baza ka zaci haka ba, ko zaka zata?	baza qaza tʃaqaba koza qaza ta 	Baza qaza tʃaqaba, koza qaza ta.
+male		thirties	ha	duk da kokarin gwadawa fa zai yi da wuya ya sami nasara 	Duk da kokarin gwadawa fa zai yi da wuya ya Sami nasara.	djukdakw karingwadawafa zey yuwya yasaminasara 	Djukdakw karingwadawafa zey yuwya yasaminasara.
+male		thirties	ha	walƙiya na iya faruwa yayin hadari 	Walƙiya na iya faruwa yayin hadari.	wal kia na i fa ruwa ya yin hadari	Wal kia na'i fa ruwa ya'yin hadari
+male		thirties	ha	jalala da amsa sun shiga cikin mawuyacin hali a dangantakarsu 	Jalala da Amsa sun shiga cikin mawuyacin hali a dangantakarsu.	jalala da amsa sun shiga chikin mawya chin hali ad dangal takar so 	Jalala da amsa sun shiga chikin mawya chin hali ad dangal takar so.
+male		thirties	ha	musa ya ce akwai yuwuwar ya yi hakan 	Musa ya ce akwai yuwuwar ya yi hakan.	musa yachey aqeyyu waria yihakan 	Musa yachey aqeyyu waria yihakan.
+male		thirties	ha	ta kammala abinda ya kamata ta yi 	Ta kammala abinda ya kamata ta yi.	taa kamma laa binda yaa kama taa tee 	Taa kamma laa binda yaa kama taa tee.
+male		thirties	ha	akalla dai kana iya fadawa hadiza cewa ba sai tayi hakan kuma 	Akalla dai kana iya fadawa Hadiza cewa ba sai tayi hakan kuma.	akalla day kana iya fatawa hadizachi wa baasai tayi hakan kuma 	Akalla day, kana iya fatawa hadizachi wa baasai tayi hakan kuma.
+male		thirties	ha	yana kasar waje 	Yana kasar waje.	janaka saroji	Janaka Saroji
+male		thirties	ha	ina tsammanin yusuf yana ɓoye wani abu daga gare ni 	Ina tsammanin Yusuf yana ɓoye wani abu daga gare ni.	yusuf yana kuyeweni abu daga gareni 	Yusuf yana kuyeweni Abu Daga Gareni.
+male		thirties	ha	yana ta tafiya kan titi 	Yana ta tafiya kan titi.	jana datafia kantiti 	Jana datafia Kantiti.
+male		thirties	ha	horar da zakuna yana da matukar hatsari 	Horar da zakuna yana da matukar hatsari.	ho rarda zaapu na ayana ada matukar hatsa ringi 	Ho rarda zaapu na ayana ada matukar hatsa ringi?
+male		thirties	ha	kai nan rufaffe ne 	Kai, nan rufaffe ne.	ḏaj nangrufa fene 	ḏaj, nangrufa fene.
+male		thirties	ha	tijjani ya mayar da kirtani zuwa ƙwallo 	Tijjani ya mayar da kirtani zuwa ƙwallo.	ḏijjani yama yarda kirtani zua qallu 	ḏijjani yama yarda kirtani zua qallu.
+male		thirties	ha	kamar jauro ba ya son yin haka amma akwai bukatar ya yi 	Kamar Jauro ba ya son yin haka, amma akwai bukatar ya yi.	kama rjawro ba ya sonyen haka ama aqwe bukatariyei 	Kama rjawro ba ya sonyen haka, ama aqwe bukatariyei.
+male		thirties	ha	bana rabuwa da tafiya ko yaushe tsakanin italy da afrika 	Bana rabuwa da tafiya ko yaushe tsakanin Italy da Afrika.	bana rawwada tawfia kuyaw she thakani itali da afrika 	Bana rawwada tawfia kuyaw she thakani itali da afrika.
+male		thirties	ha	yana tsoron manta layinsa fiye da komai 	Yana tsoron manta layinsa fiye da komai.	yana soro manta la yinsafi daw kumey 	Yana soro manta la yinsafi daw kumey.
+male		thirties	ha	zainabtu da ishaku na kaunar su yi wasan golf 	Zainabtu da Ishaku na kaunar su yi wasan golf.	zeynabu de isha wkuna kaunol suyu wa sangof 	Zeynabu de isha wkuna kaunol suyu wa sangof.
+male		thirties	ha	domin tsayawa da ƙafarsa sai ya haɗa hannun da wasu manyan kamfanunuwa 	Domin tsayawa da ƙafarsa, sai ya haɗa hannun da wasu manyan kamfanunuwa.	dumin sayawada kafarsa sayya hada handonda wasmanyan kamfanunuwa 	Dumin sayawada kafarsa, sayya hada handonda wasmanyan kamfanunuwa.
+male		thirties	ha	mutane nawa ne suka tsira 	Mutane nawa ne suka tsira?	muta nena wa nesu kasira 	Muta nena wa nesu kasira.
+male		thirties	ha	mun kiyaye maganarmu 	Mun kiyaye maganarmu.	mwin tia e magandarmu 	Mwin tia e magandarmu.
+male		thirties	ha	an ɗauki hayar chris domin fentin gidaje hakan zai sa ya sami kudi 	An ɗauki hayar Chris domin fentin gidaje, hakan zai sa ya sami kudi.	an daw ki hayar kris dumini fenting gidaa ji hakan zeisa yasa mi kudi 	An daw ki hayar kris dumini fenting gidaa ji, hakan zeisa yasa mi kudi.
+male		thirties	ha	ta zo da gudu idanunta na haske 	Ta zo da gudu idanunta na haske.	tazo do gudu ida nunta na haske 	Tazo do gudu, ida nunta na haske.
+male		thirties	ha	dole ne dai a amsa 	Dole ne dai a amsa.	dole nedej a amsa	Dole nedej a amsa
+male		thirties	ha	kafin ko kuma bayan lura da mara lafiya 	kafin ko kuma bayan lura da mara lafiya.	ḏafin kukuma bajan lura damara lafya	ḏafin kukuma bajan lura damara lafya
+male		thirties	ha	babu komai nawa anan 	Babu komai nawa anan.	babu komei nawa anan	Babu komei nawa anan
+male		thirties	ha	ƙarfin zuciya na muhimmanci wajen ci gaba 	Ƙarfin zuciya na muhimmanci wajen ci gaba.	karfin zuqya na mwiximmanchi wajanchi gaba 	Karfin zuqya na mwiximmanchi wajanchi gaba.
+male		thirties	ha	ilimi shi ne ginshiƙin samar da kyakkyawan rubutu 	Ilimi shi ne ginshiƙin samar da kyakkyawan rubutu.	ili min shi negin shikin samar ndakya kyawan rugutu	Ili min shi negin shikin samar ndakya kyawan rugutu
+male		thirties	ha	babban jami in ya sayi injin gaske mai matukar karfi 	Babban jami’in ya sayi injin gaske mai matukar karfi.	ba banjami in ya sayi injin gaske ma ima tukar karfi 	Ba banjami in ya sayi injin gaske ma ima tukar karfi.
+male		thirties	ha	muna jin daɗin cewa za a shirya ofishin duk lokacin da muka shirya dawowa 	Muna jin daɗin cewa za a shirya ofishin duk lokacin da muka shirya dawowa.	muna ajenda din tshiwa zaashiria ofishin duk loka tshinda muka shiria dawa 	Muna ajenda din tshiwa zaashiria ofishin duk loka tshinda muka shiria dawa.
+male		thirties	ha	habibu gaskiya bai da wani hanya 	Habibu gaskiya bai da wani hanya.	ḥabibu gais kiya bayi dawani hainya	Ḥabibu gais kiya bayi dawani hainya
+male		thirties	ha	gaba daya abinda ya faru ya lalata dangantaka ta da malamin mu na lissafi 	Gaba daya abinda ya faru ya lalata dangantaka ta da malamin mu na lissafi.	gabaadé abinde ya faru yala latadda ngantaka ta damala minmu nalissavi 	Gabaadé abinde ya faru yala latadda ngantaka ta damala minmu nalissavi.
+male		thirties	ha	dole ne ku fuskance tsoronku 	Dole ne ku fuskance tsoronku.	dôle nê mu fëskan tʃe tsoron ku 	Dôle nê mu fëskan tʃe tsoron ku.
+male		thirties	ha	an jinkirta mu a boston 	An jinkirta mu a Boston.	შელიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიი 	შელიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიი�
+male		thirties	ha	a yabo ya cancanci sumbata 	A yabo ya cancanci sumbata.	ayabu ya chenchenchi sumbata	Ayabu ya chenchenchi sumbata
+male		thirties	ha	yanzu ka bar komai ya wuce 	Yanzu, ka bar komai ya wuce.	janzu kabarkome ja uce	janzu kabarkome ja uce
+male		thirties	ha	nasan tijjani baiyi hakan ba ko da yace yayi 	Nasan Tijjani baiyi hakan ba, ko da yace yayi.	nasan tijani bayi hakanba kod echi yai 	Nasan tijani bayi hakanba kod echi yai.
+male		thirties	ha	ji mana nawa wannan 	Ji mana, nawa wannan?	jimana nawanan 	Jimana, nawanan.
+male		thirties	ha	na gano kana shaye shaye daga ƴanyatsunka 	Na gano kana shaye-shaye daga ƴanyatsunka.	ḏagānu kama shayi shayi dagayam yatsunka 	ḏagānu kama shayi-shayi dagayam yatsunka.
+male		thirties	ha	wannan motar da ta bige ni 	Wannan motar da ta bige ni.	wannaan motor data bijeni 	Wannaan motor data bijeni?
+male		thirties	ha	akwai maganganu da yawa game da wannan auren 	Akwai maganganu da yawa game da wannan auren.	a kwen magan gënu dë jawa game dë wanan awrëng	A kwen magan gënu dë jawa game dë wanan awrëng
+male		thirties	ha	fasaha ta canza kusan ko wanne fanni ciki har da bangaren fashon 	Fasaha ta canza kusan ko wanne fanni, ciki har da bangaren fashon.	fasa ha ta tsyanza kusan kwawan ifani tsyiki harda pangaren fasyon 	Fasa ha ta tsyanza kusan kwawan ifani, tsyiki harda pangaren fasyon.
+male		thirties	ha	bana tunanin ina da hawan jini	bana tunanin ina da hawan jini	bana tunanin ina da hawen jini 	Bana tunanin ina da hawen jini?
+male		thirties	ha	ba zai iya taimakawa ba amma yana tunaninta 	Ba zai iya taimakawa ba amma yana tunaninta.	bazi iya taimakawaba amma janatu na ninta 	Bazi iya taimakawaba amma janatu na ninta.
+male		thirties	ha	mustapha na da kokarin sakin fuska 	Mustapha na da kokarin sakin fuska.	mustafa nadu qarinsikin fiska	Mustafa Nadu qarinsikin fiska
+male		thirties	ha	yawanci ina aiki da dare 	Yawanci ina aiki da dare.	yawenchi ina eikidadili 	Yawenchi ina eikidadili.
+male		thirties	ha	ba zan ƙara yin irin haka ba 	Ba zan ƙara yin irin haka ba.	badan qarayin irin haqaba 	Badan qarayin irin haqaba.
+male		thirties	ha	na gano wannan a bayan kabet 	Na gano wannan a bayan kabet.	nagano wonnan abayand kabit 	nagano wonnan abayand kabit.
+male		thirties	ha	aliko ya sha kofi nan da nan 	Aliko ya sha Kofi nan da nan.	aliku ya sha ko fi nandanen 	Aliku ya sha ko fi nandanen.
+male		thirties	ha	ishaku ya ce ba shi da damuwa 	Ishaku ya ce ba shi da damuwa.	ishaq yechi basida damo 	Ishaq yechi basida damo.
+male		thirties	ha	ko wane lokaci akwai abinda ake yi anan 	Ko wane lokaci akwai abinda ake yi anan.	kwa wani lokachi awkwe abinda aikeye nan 	Kwa wani lokachi awkwe abinda aikeye nan?
+male		thirties	ha	dole na fara gajiya ina jin bacci da zarar na gama cin abincin dare 	Dole na fara gajiya. Ina jin bacci da zarar na gama cin abincin dare.	dôle na fara gajiyang ina jin bachi da zarar na gama chin abin chindari 	Dôle na fara gajiyang, ina jin bachi da zarar na gama chin abin chindari.
+male		thirties	ha	zan tafi austarlia a wannan lokacin na bazara 	Zan tafi Austarlia a wannan lokacin na bazara.	zanta fi australia awan nulu kachin na bazara 	Zanta fi Australia awan nulu kachin na bazara.
+male		thirties	ha	duk inda allura ta tafi zaren ya tafi kuma 	Duk inda allura ta tafi, zaren ya tafi kuma.	duk inda allurra tatafi zaren yataf yu kuma 	Duk inda allurra tatafi zaren yataf yu kuma.
+male		thirties	ha	bai iya barin abun shi kadai ba 	Bai iya barin abun shi kadai ba.	bey iya barin abun shi kadeyba	Bey iya barin abun shi kadeyba
+male		thirties	ha	na rasa tunani na 	Na rasa tunani na.	narasa tunanina 	Narasa tunanina.
+male		thirties	ha	ba wanda ya ga jalal a kwanakin nan 	Ba wanda ya ga Jalal a kwanakin nan.	ba wendaya gajalal awkana kinen 	Ba wendaya gajalal awkana kinen.
+male		thirties	ha	 jami in ya yanke hukuncin zuwa ceto ma aikacin jirgin ruwan 	"""Jami'in ya yanke hukuncin zuwa ceto ma'aikacin jirgin ruwan."""	djami in ya yen kë hukun tjen zua tje to ma e ka tjen djirgin ruan 	Djami in ya yen kë hukun tjen zua tje to ma e ka tjen djirgin ruan.
+male		thirties	ha	ina jin zafi a kirji a nan a gaban sashin kirjina	Ina jin zafi a kirji a nan a gaban sashin kirjina	ina a djin zafe akirji anan gaban saashin kirjina 	Ina a djin zafe akirji anan gaban saashin kirjina.
+male		thirties	ha	ba ta ji daɗin nasarar da marilyn monroe ta samu ba 	Ba ta ji daɗin nasarar da Marilyn Monroe ta samu ba.	batajidat inna sarada marilin mawre tasamuwa 	Batajidat inna sarada Marilin Mawre tasamuwa.
+male		thirties	ha	na cika damuwa 	Na cika damuwa.	nati kadamuwa 	Nati kadamuwa.
+male		thirties	ha	hulɗar kasuwanci ta kara bunƙasa tsakanin amurka da china 	Hulɗar kasuwanci ta kara bunƙasa tsakanin Amurka da China.	hukdar kaswen chi taa kara bungkasa sakaanin amerika da china 	Hukdar kaswen chi taa kara bungkasa sakaanin Amerika da China.
+male		thirties	ha	akwai abubuwa guda biyar a kan tire uku daga ciki sune maƙullan 	Akwai abubuwa guda biyar a kan tire, uku daga ciki sune maƙullan.	a kwaya abu buwa guda biar akan tire uku dagachiki sune mokulan 	A kwaya abu buwa guda biar akan tire, uku dagachiki sune mokulan.
+male		thirties	ha	bamu bata ba 	Bamu bata ba.	bamo bata ba 	Bamo bata ba?
+male		thirties	ha	sannu baba me ka ke yi 	Sannu, baba! Me ka ke yi!	sanu baba me kakye i 	Sanu baba, me kakye i?
+male		thirties	ha	ta daina shan maganinta 	Ta daina shan maganinta.	taday nashan maganinta 	Taday nashan maganinta.
+male		thirties	ha	wannan abun wuya ne da aka yi da kwal 	Wannan abun wuya ne da aka yi da kwal.	wanan abu nguya nida aka ida kwal	Wanan abu nguya nida aka ida kwal
+male		thirties	ha	jirgin ruwan dakon kayan ya iso awanni huɗun da suka huce 	Jirgin ruwan dakon kayan ya iso awanni huɗun da suka huce.	jiggen rwanda konkayan yaesu awani hudunda sikawuche	Jiggen Rwanda Konkayan, Yaesu Awani Hudunda Sikawuche
+male		thirties	ha	 kyakkyawan kocin tamkar uba ne ga yan wasan sa 	"""Kyakkyawan kocin tamkar uba ne ga 'yan wasan sa."""	ke kya wan ko tshin tam kar ubanega enwa sansa 	Ke kya wan ko tshin, tam kar ubanega enwa sansa.
+male		thirties	ha	na sayi kaya da yawa a shagon nan 	Na sayi kaya da yawa a shagon nan.	nasaikaya deyawa ashaugon nan	Nasaikaya deyawa ashaugon nan
+male		thirties	ha	zamu yi hayar sanannen mai yin kwalliya don yiwa jariminmu kwalliya 	Zamu yi hayar sanannen mai yin kwalliya don yiwa jariminmu kwalliya.	zamu ye har sananen mey yun kwalia dunye wa jarim wimu kwalia	Zamu ye har sananen mey yun kwalia, dunye wa jarim wimu kwalia
+male		thirties	ha	yusuf yana ƙoƙari sosai 	Yusuf yana ƙoƙari sosai.	ḍis o fya naw kukari sosein 	ḍis o fya naw kukari sosein?
+male		thirties	ha	bani da tabbacin me za mu yi nan gaba 	Bani da tabbacin me za mu yi nan gaba.	bani da tabba chin mezam uji nanga ba	Bani da tabba chin mezam uji nanga ba
+male		thirties	ha	ya ce shi ba me kuɗi ba ne 	Ya ce shi ba me kuɗi ba ne.	ya che shiba me kutibane	Ya che shiba me kutibane
+male		thirties	ha	habibu yace bai tabbata hauwa tana so ta yi hakan 	Habibu yace bai tabbata Hauwa tana so ta yi hakan.	habibu yechi be tabba ta hawwa tana so tey hakan	Habibu yechi be tabba ta hawwa tana so tey hakan
+male		thirties	ha	sannan ina jin zafi a gaban jikina anan a kirji	sannan ina jin zafi a gaban jikina anan a kirji	san nan ina ajin zafi agaban djikina anan akiriji 	San nan ina ajin zafi agaban djikina, anan akiriji.
+male		thirties	ha	fada min yadda ciwon kirjin yake	fada min yadda ciwon kirjin yake	fata me yenda chi wan kirji nyeke	Fata me yenda chi wan kirji nyeke
+male		thirties	ha	ina son na tabbatar akwai isasshe 	Ina son na tabbatar akwai isasshe.	inason natabatar awai isashay	Inason Natabatar Awai Isashay
+male		thirties	ha	buga kwallon bayan boncin 	Buga kwallon bayan boncin.	buka kwonlon bayan bonchin	Buka kwonlon bayan bonchin
+male		thirties	ha	ina bukatan cokali cokali mai yatsa da wuka nagode 	Ina bukatan cokali, cokali mai yatsa, da wuka. Nagode.	ḏina ḍuqatam tʃuqali tʃuqali me yasa dawuka na gudi 	ḏina ḍuqatam tʃuqali, tʃuqali me yasa, dawuka, na gudi.
+male		thirties	ha	ba na wani jin daɗin yin hakan 	Ba na wani jin daɗin yin hakan.	bana wanijinda dinin hakam	Bana wanijinda dinin hakam
+male		thirties	ha	na kasance ina kokarin lalata hanya ta cikin tsarin 	Na kasance ina kokarin lalata hanya ta cikin tsarin.	naka sanchi ina ukoka rin lala tahanya tachikin sarin	Naka sanchi ina ukoka rin lala tahanya tachikin sarin
+male		thirties	ha	bamu ƙosa ba tukunna 	Bamu ƙosa ba tukunna.	bama kosa batu kona	Bama kosa batu kona
+male		thirties	ha	idan baka da fil ɗin maƙale kaya to dogon fil ɗin zai iya amfani 	Idan baka da fil ɗin maƙale kaya, to dogon fil ɗin zai iya amfani.	idamba kada fil in makalikaya to dogon fil dingze iya anfani	Idamba kada fil in makalikaya to dogon fil dingze iya anfani
+male		thirties	ha	na tuna lokacin da nake rera waƙar nan lokaci mai tsaho 	Na tuna lokacin da nake rera waƙar nan lokaci mai tsaho.	nga tuna loka tʃindan eke re ra wa kar nang loka tʃimit aho 	Nga tuna loka tʃindan eke re ra wa kar nang loka tʃimit. Aho!
+male		thirties	ha	 na yi tunanin kina da sha awar hakan 	"""Na yi tunanin kina da sha'awar hakan."""	naya tunani nkinadasha awar hakan	Naya Tunani Nkinadasha Awar Hakan
+male		thirties	ha	chen malami ne 	Chen malami ne.	tsyen ma la mine	Tsyen ma la mine
+male		thirties	ha	ki danna mukunnin har sai kin ji wani ɗan sauti ya fito 	Ki danna mukunnin har sai kin ji wani ɗan sauti ya fito.	kedanna makulen harsei kinjuwanit and sauti ya kito 	Kedanna makulen harsei kinjuwanit and sauti ya kito.
+male		thirties	ha	ba ni ma da saurayi 	Ba ni ma da saurayi.	بانی مادر سوره ای 	بانی مادر سوره ای؟
+male		thirties	ha	meyasa kake fushi haka 	Meyasa kake fushi haka?	measag ke fujihaka	Measag ke fujihaka
+male		thirties	ha	zan iya gwada magana da bitrus 	Zan iya gwada magana da Bitrus?	zain iya wadamagana adepitrus	Zain iya wadamagana adepitrus
+male		thirties	ha	jami ya ce baya son ya yi haka 	Jami ya ce baya son ya yi haka.	djami yeti baya son yey haka 	Djami yeti baya son yey haka.
+male		thirties	ha	koda yaushe yusuf ya ganni abu daya yake kara tambaya ta 	Koda yaushe Yusuf ya ganni abu daya yake kara tambaya ta.	koda yoxi yisuf ya gani abu eya yeki ekara tambayata 	Koda yoxi yisuf ya gani abu eya yeki ekara tambayata?
+male		thirties	ha	an harbe dan sanda a bugun sa 	An harbe dan sanda a bugun sa.	ḩan ḥarbit an sanda a bugunsa	Ḩan ḥarbit an sanda'a bugunsa
+male		thirties	ha	ta dakatar da tafiye tafiye a birane shida na amurka 	Ta dakatar da tafiye-tafiye a birane shida na Amurka.	tadakatakatafit fi abira nishidana amrka 	Tadakatakatafit fi abira nishidana amrka.
+male		thirties	ha	na zaci zaku so shi 	Na zaci zaku so shi.	naza tʃizaw tusoʃtʃi 	Naza tʃizaw tusoʃtʃi.
+male		thirties	ha	mustapha da ladi na kallon hassan 	Mustapha da Ladi na kallon Hassan.	م س ت ف اد ل ا ج ي ن ك ل ن ح س ن ة 	مُسْتَفَادَ لَا جِي نَكَلُّنْ حَسَنَةً
+male		thirties	ha	ba bu wani gwajin kawo garkuwa daga cutar 	ba bu wani gwajin kawo garkuwa daga cutar.	babu wa nivwajing ka wogar kuwaada gachu tar 	Babu wa nivwajing ka wogar kuwaada gachu tar.
+male		thirties	ha	shin har yanzu kana jin ciwo a kirjinka	shin har yanzu kana jin ciwo a kirjinka	ლირირირირირირირირირირირირირირირირირირირირირირირირირირირირირირირირირირირირი 	ლირირირირირირირირირირირირირირირირირირირირირირირირირირირირირირირირირირირირი�
+male		thirties	ha	idan har hakan zai zama damuwa ka tsaya kai kaɗai 	Idan har hakan zai zama damuwa, ka tsaya kai kaɗai.	idan har hakan zey zamada mua katsaya kaykadey 	Idan har hakan zey zamada mua, katsaya kaykadey.
+male		thirties	ha	bitrus ya san ba zai yi nasara ba 	Bitrus ya san ba zai yi nasara ba.	bitarus yasam bazey yi nasaraba 	Bitarus yasam bazey yi nasaraba.
+male		twenties	ha	yana iya ganin yanayin daga saman dutsen 	Yana iya ganin yanayin daga saman dutsen.	iana iya ganing nyanayin dagasamon dusa	Iana iya ganing nyanayin dagasamon dusa
+male		twenties	ha	ba na ma son ku a can 	Ba na ma son ku a can.	bana mason kwa achan	Bana mason kwa achan
+male		twenties	ha	mene ne hangen ishaku 	Mene ne hangen Ishaku?	mene ne hangen isha wku	Mene ne hangen isha wku
+male		twenties	ha	bus ɗin ba kowa amma duk da haka yana zaune kusa da ni 	Bus ɗin ba kowa, amma duk da haka yana zaune kusa da ni.	bos dumba o kuwa amma dukda hakayana zauneku sedeni 	Bos dumba o kuwa, amma dukda hakayana zauneku sedeni.
+			ha	farashin kuɗi ya yi yawa a kwanakin nan 	Farashin kuɗi ya yi yawa a kwanakin nan.	farashun kudiyayi yawa akwanekin 	Farashun kudiyayi yawa akwanekin.
+			ha	motar da abdullahi ya taɓa tukawa ita ce ta shi 	Motar da Abdullahi ya taɓa tukawa ita ce ta shi.	mwatarada abdullah yatabutu kawa itachitash	Mwatarada Abdullah Yatabutu Kawa Itachitash
+			ha	yar uwata nada irin alamomin cutar	yar’uwata nada irin alamomin cutar	eru uwa tana ada irang ala mwomin tʃu tar	Eru uwa tana ada irang ala mwomin tʃu tar
+			ha	gilashin ya fashe a ƙasa 	Gilashin ya fashe a ƙasa.	gilaʃi ʃi ʃapaʃi ʻakasa 	Gilaʃi ʃi ʃapaʃi ʻakasa.
+			ha	ina fama da ciwon kirji wasu lokuta	ina fama da ciwon kirji wasu lokuta	ina fama ade chiwen kiriji wa sulu kuta	Ina fama ade chiwen kiriji wa sulu kuta
+			ha	galibin masu magana da jafananci na da ladabi 	Galibin masu magana da Jafananci na da ladabi.	gale bia mma suma gana ada za fana nchi nada la debi	Gale bia mma suma gana ada, za fana nchi nada, la debi
+			ha	hanyar iska tana kan hanya 	Hanyar iska tana kan hanya.	ḥanyar iska tana kan hanya 	Ḥanyar iska tana kan hanya.
+			ha	ba wajenda zan yi wannan sai nan wajen 	Ba wajenda zan yi wannan sai nan wajen.	ba wajan da za njwannan sijnam wajan 	Ba wajan da za njwannan sijnam wajan.
+			ha	sauran rigakafi kamar benzalkonium chloride da chrohexidine tasirin su bai yi karfi ba 	Sauran rigakafi kamar Benzalkonium chloride da Chrohexidine tasirin su bai yi karfi ba.	sawrar rga ka pi kamar benzalkonium chloride do krohexidine tasirun sebeye kari fiba 	Sawrar rga ka pi kamar benzalkonium chloride, do krohexidine tasirun sebeye kari fiba.
+			ha	na san mustapha ba zai taɓa yarda ya yi hakan ba 	Na san Mustapha ba zai taɓa yarda ya yi hakan ba.	nasam mustafa wazit bayradaya yahakamba 	Nasam Mustafa wazit Bayradaya yahakamba.
+			ha	na san bitrus ya ji daɗi sosai 	Na san Bitrus ya ji daɗi sosai.	nasam bitur rusya jada diso say 	Nasam bitur rusya jada diso say.
+			ha	bitrus bai gan zuwan babbar motan ba 	Bitrus bai gan zuwan babbar motan ba.	biturusbi ganzuamba barmotamba 	Biturusbi ganzuamba barmotamba.
+			ha	bamu san wane lokaci ya kamata mu isa wurin ba har yanzu 	Bamu san wane lokaci ya kamata mu isa wurin ba har yanzu.	bamwosamwane loka tiyaka mata muisaur mba hari yamzu 	Bamwosamwane loka tiyaka mata muisaur mba hari yamzu.
+			ha	eh wannan zai zama mai girma 	Eh. Wannan zai zama mai girma.	i wana nzizama mey girma 	I wana nzizama mey girma.
+male		thirties	ha	abdullahi da habiba na ƙaunar juna 	Abdullahi da Habiba na ƙaunar juna.	عبد الله حضرت حبيبتنا و نرجوه	عبد الله حضرت حبيبتنا و نرجوه
+male		thirties	ha	bai kamata ibrahim ya jefi maguna da dutsuna ba 	Bai kamata Ibrahim ya jefi maguna da dutsuna ba.	bəj kamata ibrahim jəj fima guna də dusnaba 	Bəj kamata Ibrahim jəj fima guna də dusnaba.
+male		thirties	ha	bugu da kari zamu ɗauki karin ayyukan sa ido 	Bugu da kari, zamu ɗauki karin ayyukan sa ido.	buguda kari zamudoi kikarin ayukan saidu	BUGUDA KARI ZAMUDOI KIKARIN AYUKAN SAIDU
+male		thirties	ha	baka taba zuwa paris ba 	Baka taba zuwa Paris ba?	ba gatawa zua paris ba 	Ba gatawa zua paris ba?
+male		thirties	ha	wata kila aliyu ya fita 	Wata kila Aliyu ya fita.	و ت ك يل أ ل ي ي اف ت ة 	وَتَكِيلَ أَلِيُّ يَافِتَةً
+male		thirties	ha	goerge ya sami zaki ni kuma na sami teddy bear 	Goerge ya sami zaki ni kuma na sami teddy bear.	txotx jasa mizaki nikuma nasa mitedi bia 	Txotx, jasa mizaki nikuma nasa mitedi bia.
+male		thirties	ha	wata rana zaka yi da na sani 	Wata rana zaka yi da na sani.	ḏaḥḏaḥḏaḥ ḍaḥḏaḥḏaḥḏaḏaḏaḏaḏaḏaḏaḏaḏaḏaḏaḏaḏaḏaḏaḏaḏaḏaḏaḏaḏaḏaḏaḏaḏaḏaḏaḏaḏaḏaḏaḏaḏaḏaḏaḏaḏaḏaḏaḏaḏaḏaḏaḏaḏa 	ḏaḥḏaḥḏaḥ ḍaḥḏaḥḏaḥḏaḏaḏaḏaḏaḏaḏaḏaḏaḏaḏaḏaḏaḏaḏaḏaḏaḏaḏaḏaḏaḏaḏaḏaḏaḏaḏaḏaḏaḏaḏaḏaḏaḏaḏaḏaḏaḏaḏaḏaḏaḏaḏaḏaḏa�
+male		thirties	ha	sai da muka zagaye dukkan kasar 	Sai da muka zagaye dukkan kasar.	səjdamu kaza gajə dukkan kasar	Səjdamu kaza gajə dukkan kasar
+male		thirties	ha	yanzu zan je na yi magana da su 	Yanzu zan je na yi magana da su.	yanzú ne zány jéyé na ima ganá rasu 	Yanzú ne zány jéyé na ima ganá rasu.
+male		thirties	ha	mambobin ƙungiyar sun kai talatin 	Mambobin ƙungiyar sun kai talatin.	ხახბბირირირირირირირირირირირირირირირირირირირირირირირირირირირირირირირირირირირ	ხახბბირირირირირირირირირირირირირირირირირირირირირირირირირირირირირირირირირირირ
+male		thirties	ha	bazan iya jinkiri ba yau 	Bazan iya jinkiri ba yau.	bazen jadʒin kirib ajo 	Bazen jadʒin kirib ajo.
+male		thirties	ha	 sara yar asalin kasar india 	"""Sara 'yar asalin kasar india."""	स र एर असल कसर द य 	सारा एर्असलिंकसरिंदिया
+male		thirties	ha	ibrahim ya aikata laifuka amma ba a taɓa yanke masa hukunci ba 	Ibrahim ya aikata laifuka, amma ba a taɓa yanke masa hukunci ba.	ibrahima eka talaifuka amma ba ata rayen kia masa hu kunchiba	Ibrahima eka talaifuka, amma ba ata rayen kia masa hu kunchiba
+male		thirties	ha	igiyar tekun ta kaɗa kwale kwalen da suke ciki 	Igiyar tekun ta kaɗa kwale-kwalen da suke ciki.	ængi ardhe kun taa ka aqwale kwa lendo sike chiki	ængi ardhe kun taa ka aqwale kwa lendo sike chiki
+male		thirties	ha	babangida na ta jiran wannan 	Babangida na ta jiran wannan.	babangida natajjiran wanan	babangida natajjiran wanan
+male		thirties	ha	na koma dai dai da shi 	Na koma dai-dai da shi.	რირირირირი დირირირირირირირირირირირირირირირირირირირირირირირირირირირირირირირი 	რირირირირი დირირირირირირირირირირირირირირირირირირირირირირირირირირირირირირირი�
+male		thirties	ha	anne shirley me kuka yi wa gashinku me yasa kore ne 	Anne Shirley, me kuka yi wa gashinku? Me yasa, kore ne!	aan xeli me kukayua ga xemku me yasa korene 	Aan xeli me kukayua ga xemku, me yasa korene.
+male		thirties	ha	suna yawan son canza abubuwa a kantin nan 	Suna yawan son canza abubuwa a kantin nan.	suna jawan swan chanza abu huwa akantinan 	Suna jawan swan chanza abu huwa akantinan.
+male		thirties	ha	rukunin jinin o positive ya fi yawa 	Rukunin jinin O positive ya fi yawa.	ḏrukw nijinin o positive ya fiyawa 	ḏrukw nijinin o positive, ya fiyawa.
+male		thirties	ha	ba ku sani ba 	Ba ku sani ba?	و ك س ن ب ا	وَكُسَنِبَا
+male		thirties	ha	a wasu hanyoyi akwai hadarin samun keɓe wani wuri a hanya 	A wasu hanyoyi, akwai hadarin samun keɓe wani wuri a hanya.	awaswa hayo i akwe hata adensa mwen kep e wanu uri ahanya	Awaswa hayo i akwe hata adensa mwen kep e wanu uri ahanya
+male		thirties	ha	gaskiya halayyarsa ta ban mamaki 	Gaskiya halayyarsa ta ban mamaki.	gaskia halayarsa tabban mamaiki	Gaskia halayarsa tabban mamaiki
+male		thirties	ha	an yi amfani da ƙarfe sosai wajen gina ƙasa 	An yi amfani da ƙarfe sosai wajen gina ƙasa.	ænja anpani dakar fe iso se wajengina tasa	ænja anpani dakar fe iso se wajengina tasa
+male		thirties	ha	ban fahimci abin da yake so ya faɗa mani ba 	Ban fahimci abin da yake so ya faɗa mani ba.	banqaim tʃaʻbin deyik ya suyafa al amaniyya 	Banqaim tʃaʻbin deyik ya suyafa al-amaniyya.
+male		thirties	ha	abin gangariya ne za mu haifi jariri 	Abin gangariya ne, za mu haifi jariri.	abin garn gariyane zamahi fi jariri	Abin garn gariyane zamahi fi jariri
+male		thirties	ha	jalal ya ji tsoron tsallaka hanyar 	Jalal ya ji tsoron tsallaka hanyar.	جلال يا جسور صل ى ک ح ي ن ا	جلال يا جسور صلّى کَحَيْنًّا
+male		thirties	ha	karan aradu ya karya baccin sa 	Karan aradu ya karya baccin sa.	ḏaraḍu yaqar ya bachinsa	ḏaraḍu yaqar ya bachinsa
+male		thirties	ha	ba zan iya matse lemon nan ba ya bushe 	Ba zan iya matse lemon nan ba. Ya bushe.	bazen iya masa le munanba ya bushe	Bazen iya masa le munanba, ya bushe
+male		thirties	ha	ya ƙi amincewa da tsarin da bai dace ba 	Ya ƙi amincewa da tsarin da bai dace ba.	yaky amen chewa datsaarinda baydaa cheeba 	Yaky amen chewa datsaarinda baydaa cheeba.
+male		thirties	ha	jalal da aisha sun sayar da gidan su 	Jalal da Aisha sun sayar da gidan su.	jalal da aisha sunseyar da gidansu	Jalal da Aisha sunseyar da Gidansu
+male		thirties	ha	hukumar tallace tallacen na da lissafi da yawa a asusunta 	Hukumar tallace-tallacen na da lissafi da yawa a asusunta.	ḏukumar tala tʃa tala tʃen nadali safi dayawa a asu sunta	ḏukumar tala tʃa tala tʃen nadali safi dayawa a asu sunta
+male		thirties	ha	ana gudanar da bincike game da alurar rigakafi ko takamaiman magungunan rigakafi 	Ana gudanar da bincike game da alurar rigakafi ko takamaiman magungunan rigakafi.	ana gudadana dabinchike gamayda aluran riga kapi yuko takamayman magungunan riga kapi 	Ana gudadana dabinchike gamayda aluran riga kapi yuko takamayman magungunan riga kapi.
+male		thirties	ha	ba haka bane mu abokaine kawai 	Ba haka bane. Mu abokaine kawai.	baxa ka bane muu abu kajene kawe 	Baxa ka bane muu abu kajene kawe.
+male		thirties	ha	sabulu na taimakawa wajen fitar da dauɗa 	Sabulu na taimakawa wajen fitar da dauɗa.	sabulu na tema kawa wajan fitarda dawla 	Sabulu na tema kawa wajan fitarda dawla.
+male		thirties	ha	sun yi wasa a kungiyar kwalejinsu 	Sun yi wasa a kungiyar kwalejinsu.	sɨnju asa aku ɨngjel kwa legendsu 	Sɨnju asa aku ɨngjel kwa legendsu.
+male		thirties	ha	injin cirar kuɗin ya ƙi karbar kati na 	Injin cirar kuɗin ya ƙi karbar kati na.	ḏnʒin tʃrər qud iya ki karbar kati na 	ḏnʒin tʃrər qud iya ki karbar kati na.
+male		thirties	ha	ba jabu bane 	Ba jabu bane.	bajabu bane	Bajabu bane
+male		thirties	ha	na nace sai mun canza shirin da muka yi 	Na nace sai mun canza shirin da muka yi.	nā nā tʃe sa jimun tʃan za ʃirin da mukai	Nā nā tʃe sa jimun tʃan za ʃirin da mukai
+male		thirties	ha	na turawa mijina saƙo 	Na turawa mijina saƙo.	natura wa miji nasako 	Natura wa miji nasako.
+male		thirties	ha	ko bindigar ka da harsashi 	Ko bindigar ka da harsashi?	მიელიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიი 	მიელიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიიი�
+male		thirties	ha	ina tsammanin mun ɓace 	Ina tsammanin mun ɓace.	ḏina ṣamānin munbachi	ḏina ṣamānin munbachi
+male		thirties	ha	zazzabin da ya dame ni a kwanaki biyun da suka gabata	zazzabin da ya dame ni a kwanaki biyun da suka gabata	zazabinda jada meni akwana ki biyunda suka gabata 	Zazabinda jada meni akwana ki biyunda suka gabata.
+male		thirties	ha	ina son karamar gida kuka 	Ina son karamar gida kuka.	inasong karak man gidaw wuka 	Inasong karak man gidaw wuka.
+male		thirties	ha	muryar mutum mutumin ba ta min daɗi ko kadan 	Muryar mutum mutumin ba ta min daɗi ko kadan.	múríírííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííí 	Múríírííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííííí�
+male		thirties	ha	rayuwa tana da wahala ga kowa 	Rayuwa tana da wahala ga kowa.	න ම බ න න න න න න න න න න න න න න න න න න න න න න න න න න න න න න න න න න න න න න න න න න න න න න න න න න න න න 	නාම්බාන්නාන්නානානානානානානානානානානානානානානානානානානානානානානානානානානානානානානානානානානානානානානානානානානානානානානානානානා
+male		thirties	ha	mustapha ya yi kokarin tuntuɓar hafsat 	Mustapha ya yi kokarin tuntuɓar Hafsat.	mustafa yaya yuko kareen tuntupar hafsaat	Mustafa yaya yuko kareen tuntupar hafsaat
+male		thirties	ha	a zahiri abdullahi na da matsala akan yanayi 	A zahiri Abdullahi na da matsala akan yanayi.	ازاخر عبدالله نادر مصلح اکن ينئی	ازاخرِ عبدالله نادر مصلح اکن ينئی
+male		thirties	ha	majalisar united states ta yi dokoki 	Majalisar United States ta yi dokoki.	majeliswa united states tae dohuki 	Majeliswa United States tae Dohuki.
+male		thirties	ha	bari su ci gaba da ayyukansu 	Bari su ci gaba da ayyukansu.	bara sachi gawa da ayo kanso	Bara sachi gawa da ayo kanso
+male		thirties	ha	ni ban ce ina zama a australia ba 	Ni ban ce ina zama a Australia ba.	niba nʃe ina zama australiaba 	Niba nʃe ina zama Australiaba.
+male		thirties	ha	yana da sauki 	Yana da sauki.	ḏanāda sawti	ḏanāda sawti
+male		thirties	ha	kwallan ya gangaro kasa ta wurina 	Kwallan ya gangaro kasa ta wurina.	ḏawrīnaḏn kwalla niyā gangaro kasa 	ḏawrīnaḏn kwalla niyā gangaro kasa.
+male		thirties	ha	ya yi bayanin yadda za a samar da kwale kwale 	Ya yi bayanin yadda za a samar da kwale-kwale.	ḏaḥ bayāniyyad dza asāmar daw qalikulik	ḏaḥ bayāniyyad dza asāmar daw qalikulik
+male		thirties	ha	suna cikin kurciya 	Suna cikin kurciya.	suna ħikin kurchia	Suna ħikin kurchia
+male		thirties	ha	ni gwame ne 	Ni gwame ne.	nii gwa mene	nii gwa mene
+male		thirties	ha	a ina kake jin ciwo a kirjin 	a ina kake jin ciwo a kirjin?	ḏḵḏḳḱḱḱḱḱḱḱḱḱḱḱḱḱḱḱḱḱḱḱḱḱḱḱḱḱḱḱḱḱḱḱḱḱḱḱḱḱḱḱḱḱḱḱḱḱḱḱḱḱḱḱḱḱḱḱḱḱḱḱḱḱḱḱḱḱḱḱḱḱḱ 	ḏḴḏḳḱḱḱḱḱḱḱḱḱḱḱḱḱḱḱḱḱḱḱḱḱḱḱḱḱḱḱḱḱḱḱḱḱḱḱḱḱḱḱḱḱḱḱḱḱḱḱḱḱḱḱḱḱḱḱḱḱḱḱḱḱḱḱḱḱḱḱḱḱḱ�
+male		thirties	ha	yusuf ya saka mayafin sa da hula 	Yusuf ya saka mayafin sa da hula.	ḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥ 	ḥḤḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥ�
+male		thirties	ha	ina son mu kasance tare 	Ina son mu kasance tare.	ḏina ṣonmu qaṣaṅchay tare 	ḏina ṣonmu qaṣaṅchay tare.
+male		thirties	ha	gaskiya kai mutumin kirki ne 	Gaskiya kai mutumin kirki ne.	qarunmukhi	Qarunmukhi
+male		thirties	ha	bitrus ya ci gaba da magana da faransanci 	Bitrus ya ci gaba da magana da Faransanci.	bitu roziachi gaba damagana ada faran sanchi 	Bitu roziachi gaba damagana ada faran sanchi.
+male		thirties	ha	aliko ya nunawa margeret hoton 	Aliko ya nunawa Margeret hoton.	aliko ya nuna wa margaret horton	Aliko ya nuna wa Margaret Horton
+male		thirties	ha	ʻyar uwata ta sami shiriya a yanzu ta zama malama 	ʻYar uwata ta sami shiriya a yanzu ta zama malama.	ḏir uwa ta ta sa mi sh shiria ayanzu ta zama ma lama	ḏir'uwa ta ta sa'mi sh-shiria ayanzu ta zama ma lama
+male		thirties	ha	anan bitrus ya yi bacci 	Anan Bitrus ya yi bacci.	ḩanan bitur ziyai bachi	Ḩanan bitur ziyai bachi
+male		thirties	ha	babu sanannen rigakafi ko wata kulawa domin kawar da ita 	Babu sanannen rigakafi ko wata kulawa domin kawar da ita.	bapu sana narega kati uko wata kula wadu min kawarga ita 	Bapu sana narega kati uko wata kula wadu min kawarga ita.
+male		thirties	ha	aisha ta ce ta yi tsammanin abdullahi ya fara gajiya 	Aisha ta ce ta yi tsammanin Abdullahi ya fara gajiya.	ḏi ʃatachi tayi sammanin ʻabdillahi ya fara gajja	ḏi ʃatachi, tayi sammanin ʻabdillahi ya fara gajja
+male		thirties	ha	na sa fam biyar akan dokin 	Na sa fam biyar akan dokin.	nasa fam bjar akan dokin	Nasa fam bjar akan dokin
+male		thirties	ha	nan take mutum ya bayyana ya hade jakar kayana ya gudu 	Nan take mutum ya bayyana, ya hade jakar kayana ya gudu.	nanta ke mutmiya bayana ya had e jakar kaya na ya gudu 	Nanta ke mutmiya bayana, ya had e jakar kaya na ya gudu.
+male		thirties	ha	zan tafi gida daga nan 	Zan tafi gida daga nan.	zantar fi gidaada ganaan	Zantar fi gidaada ganaan
+male		thirties	ha	muna da isasshen iskar gas kuwa domin tafiyar 	Muna da isasshen iskar gas kuwa domin tafiyar?	muna day isa çen iskar gas kwa lw minte fir 	Muna day isa çen iskar gas kwa lw minte fir?
+male		thirties	ha	an samar da wata ƙungiyar domin shiga tseren kwale kwalen 	An samar da wata ƙungiyar domin shiga tseren kwale-kwalen.	ḏan sa ma dawata kuin yardu min shiga seren kwale kwalen 	ḏan sa'ma dawata kuin yardu min shiga seren kwale kwalen.
+male		thirties	ha	littafi shaida ne cewa ʻyan habibu na iya abubuwan mamaki 	Littafi shaida ne cewa ʻYan-Habibu na iya abubuwan mamaki.	litafi shayda nechi wa jan habibu na iya abubwan ma maki	Litafi, shayda nechi wa jan habibu na iya abubwan ma'maki
+male		thirties	ha	ya kamata mu fante takobin don canza mata launi 	Ya kamata mu fante takobin, don canza mata launi.	ya ka ma ta mukpan tʃe taqob ndon tʃanza ma ta lawni 	Ya ka ma ta mukpan tʃe taqob ndon tʃanza ma ta lawni.
+male		thirties	ha	masanin kimiyyar ya shahara ba wai iya ƙasar japan ba har da wasu ƙasashe 	Masanin kimiyyar ya shahara ba wai iya ƙasar Japan ba, har da wasu ƙasashe.	masa ninki miya riasha hara bawe iya kasar japan ba harda wasu kasashi 	Masa ninki miya riasha hara bawe iya kasar japan ba harda wasu kasashi?
+male		thirties	ha	za ta dawo nan a kasa da mintuna goma 	Za ta dawo nan a kasa da mintuna goma.	zata dawo nan akasa adamintu nagoma 	Zata dawo nan akasa adamintu nagoma.
+male		thirties	ha	pedro na da babur kuma yana son tuƙawa 	Pedro na da babur kuma yana son tuƙawa.	pedro na də babur kumajana son tukawa 	Pedro na də babur kumajana son tukawa.
+male		thirties	ha	babangida na son kwanciya cikin ciyawa lokacin zafi 	Babangida na son kwanciya cikin ciyawa lokacin zafi.	babangida naso mkhwenchia chikin chiya walo kachin zaati	Babangida naso mkhwenchia chikin chiya walo kachin zaati
+male		thirties	ha	ya kamata ka sanya hular kwano domin kare kan ka daga rauni 	Ya kamata ka sanya hular kwano domin kare kan ka daga rauni.	yaa ta maata ka sanyan hular paanu duwin kare tangka daga rawni 	Yaa ta maata ka sanyan hular paanu duwin kare tangka daga rawni.
+male		thirties	ha	abdullahi na buga ƙwallo da ƙafar hagu amma yana rubutu da hannunsa na dama 	Abdullahi na buga ƙwallo da ƙafar hagu, amma yana rubutu da hannunsa na dama.	abdullahi nabuqa kolo la kafar hagu amma yana rugutu da hanusa nadama	Abdullahi nabuqa kolo la kafar hagu, amma yana rugutu da hanusa nadama
+male		thirties	ha	ina da digiri a injiniya na lantarki 	Ina da digiri a injiniya na lantarki.	ḏin ḧada digiri a injīniya nalantarikī	ḏin ḧada digiri a-injīniya nalantarikī
+male		thirties	ha	ba komai ne yake da sauki a rayuwa ba 	Ba komai ne yake da sauki a rayuwa ba.	ba ko maini eki dasaw ki ara iwaba	Ba ko maini eki dasaw ki ara iwaba
+male		thirties	ha	kuna son a ƙunshe muku kyautar 	Kuna son a ƙunshe muku kyautar?	kona asan akunsye moku kawtar	kona asan akunsye moku kawtar
+male		thirties	ha	ta ce ta gama yin wancan 	Ta ce ta gama yin wancan.	tachi tā gama yinwanjan 	Tachi, tā gama yinwanjan.
+male		thirties	ha	ina fatan haka 	Ina fatan haka.	this is the end of the video 	This is the end of the video.
+male		thirties	ha	mene ne haka game da ibrahim 	Mene ne haka game da Ibrahim?	مينين حت ى قمين ابراهيم 	مينين حتّى قمين ابراهيم؟
+male		thirties	ha	mr jordan ya farka katsahan 	Mr. Jordan ya farka katsahan.	mzda dʒul də niafar kakatsahan 	Mzda dʒul də niafar kakatsahan.
+male		thirties	ha	wannan shine a matsayin tuna miki 	Wannan shine a matsayin tuna miki.	wana xini amtsayin tunamiki	Wana xini amtsayin tunamiki
+male		thirties	ha	ƙwayar ishaku ce 	Ƙwayar Ishaku ce.	qayar isya kuchi	Qayar isya kuchi
+male		thirties	ha	kyaftin din ya ba da umarni na gaisuwa na kori 	Kyaftin din ya ba da umarni na gaisuwa na kori.	kapten t yabada umulnena gaisuwa na kori 	Kapten T. Yabada umulnena gaisuwa na kori.
+male		thirties	ha	mustapha ya gudu daga wurin aikata laifin 	Mustapha ya gudu daga wurin aikata laifin.	mustafa ya gudu də gawurin ay katar lepin	Mustafa ya gudu də gawurin ay katar lepin
+male		thirties	ha	jirgi mai haɗi na da matsala 	Jirgi mai haɗi na da matsala.	ج ر گ ي م ي ح د اي ن ا اد ى م س ل ة 	جِرْگِي مَيْحَدْ ايْنَا ادَى مَسَلَةٌ
+male		thirties	ha	daga gani a wannan hoto wannan saurayi ne ya balaga 	Daga gani a wannan hoto, wannan saurayi ne ya balaga.	daga gani awana nxoto wana sawri ini ya balaga 	Daga gani awana nxoto, wana sawri ini ya balaga.
+male		thirties	ha	ni ne wanna aunt wong 	Ni ne wanna, Aunt Wong.	niniwanna antuwang	Niniwanna Antuwang
+male		thirties	ha	ina ganin shawararsa ta cancanci yin la akari 	Ina ganin shawararsa ta cancanci yin la’akari.	ḏina ɣaniʃawar asata tʃan tʃan tʃi ɣin lakari	ḏina ɣaniʃawar asata tʃan tʃan tʃi ɣin lakari
+male		thirties	ha	na shirya kasuwanci da tare da mr brown 	Na shirya kasuwanci da tare da Mr. Brown.	naxir jaqaso nchi ja taredam stapram 	Naxir jaqaso nchi ja taredam stapram.
+male		thirties	ha	wannan littafin zai taimaka maka wajen karatu 	Wannan littafin zai taimaka maka wajen karatu.	wana nlitafin zi tema kamaka o jinkaradu 	Wana nlitafin zi tema kamaka o jinkaradu.
+male		thirties	ha	tabbatar da odar 	Tabbatar da odar.	تبتردؤ در	تبتردؤ در
+male		thirties	ha	zaki shi ne sarkin namun dawa 	Zaki shi ne sarkin namun dawa.	zayki shi nesar kena mandawa 	Zayki, shi nesar kena mandawa.
+male		twenties	ha	shin sun san wani abu game da juna kuwa 	Shin sun san wani abu game da juna kuwa?	ḥin sunsawan abu gama də dʒuna kwa 	Ḥin sunsawan abu gama də dʒuna kwa.
+male		twenties	ha	a mafi yawan lokuta haɗarin mota yana faruwa ne sakamakon rashin bacci 	A mafi yawan lokuta, haɗarin mota yana faruwa ne sakamakon rashin bacci.	amapi yaw lukuta hadda rumuta ayana faurwa nisa kamakorish mbachi 	Amapi yaw lukuta, hadda rumuta ayana faurwa nisa kamakorish mbachi.
+male		twenties	ha	menene kake buƙata a waje na 	Menene kake buƙata a waje na?	mæ næñe kachibu kata wajina 	Mæ næñe kachibu kata wajina.
+male		twenties	ha	ina ta jira tun tuni 	Ina ta jira tun tuni.	ena tazuna tuntuni 	Ena tazuna tuntuni.
+male		twenties	ha	hafsat na jin kamar ta tashi sama 	Hafsat na jin kamar ta tashi sama.	ḥafṣat nā jang kamal tā tāshi sama 	Ḥafṣat nā jang kamal tā tāshi sama.
+male		twenties	ha	yana da muhimmanci na yi hakan 	Yana da muhimmanci na yi hakan.	ḍanad mwimman chi ne hakan	ḍanad mwimman chi ne hakan
+male		twenties	ha	jalal bai da gida 	Jalal bai da gida.	jalal bayt e qida	Jalal Bayt-e-Qida
+male		twenties	ha	ina kuke jin ciwo a kirjin	ina kuke jin ciwo a kirjin	enaqu kijin tʃiw aekir tʃin 	Enaqu kijin tʃiw aekir tʃin.
+male		twenties	ha	zan iya amsa wannan tambayar 	Zan iya amsa wannan tambayar.	zayi amsa o nen tamber 	Zayi amsa o nen tamber.
+male		twenties	ha	a shekarar da ta gabata muka zo phoenix 	A shekarar da ta gabata muka zo Phoenix.	aseqara lidhe taga baata mokazo foy neks	Aseqara lidhe taga baata mokazo foy neks
+male		twenties	ha	yawancin labarai masu ban dariya suna dogara ne akan yanayin mai ban dariya 	Yawancin labarai masu ban dariya suna dogara ne akan yanayin mai ban dariya.	ḏan tʃilabade mas bandarya suna dhukarani akhan yena yen mai bandarya 	ḏan tʃilabade mas bandarya suna dhukarani akhan yena yen mai bandarya.
+male		twenties	ha	bana tunanin tijjani ya san wane irin shiri amsa ke yi 	Bana tunanin Tijjani ya san wane irin shiri Amsa ke yi.	bana tana nendi dʒani ya səngwoni əriʃiri amsəki 	Bana tana nendi dʒani ya səngwoni əriʃiri amsəki.
+male		twenties	ha	nora ta kalli babarta 	Nora ta kalli babarta.	nūratāka lubābarta	Nūratāka lubābarta
+male		twenties	ha	ka yi wasa 	Ka yi wasa.	qayyuwaza	Qayyuwaza
+male		twenties	ha	 ma aikacin ya ce na jira na ɗan lokaci 	"""Ma'aikacin ya ce na jira na ɗan lokaci."""	mä e kachin ye chin nye jara nye lalu kachin 	Mä e kachin ye chin, nye jara nye lalu kachin.
+male		twenties	ha	kamar ko wane lokaci ƙungiyar kwallon ƙafa ta spain ta nuna ƙwarewa a wasan 	Kamar ko wane lokaci ƙungiyar kwallon ƙafa ta Spain ta nuna ƙwarewa a wasan.	qamarko o nelo kachiyo kwingi aru kwa lang kapa taspen tanu na kwari wa awasan 	Qamarko o nelo kachiyo kwingi aru kwa lang kapa, taspen tanu na kwari wa awasan.
+male		twenties	ha	haduwa ta jiki kai tsaye tare da mai yiwuwa ko tabbataccen cutar 	Haduwa ta jiki kai tsaye tare da mai yiwuwa ko tabbataccen cutar;	ḥadwa tə tʃikik he sajitare damai jiwa kota bachan tʃutar 	Ḥadwa tə tʃikik he sajitare damai jiwa kota bachan tʃutar.
+male		twenties	ha	hassan ya ce ba wani abu da yake ɓoyewa 	Hassan ya ce ba wani abu da yake ɓoyewa.	ḥasana tʃebawan abodee ki buiwa 	Ḥasana tʃebawan abodee ki buiwa.
+male		twenties	ha	yusuf na da saurin kuka 	Yusuf na da saurin kuka.	yusuf nadr sawrūn kūka 	Yusuf nadr sawrūn kūka.
+male		thirties	ha	spain ce ta ke sarrafa florida 	Spain ce ta ke sarrafa Florida.	spencheta kisarrafa florida 	Spencheta kisarrafa florida.
+male		thirties	ha	ya kamata na baiwa aliyu wannan littafin 	Ya kamata na baiwa Aliyu wannan littafin.	ya ka mata nabewa aliw wana litafin 	Ya ka mata nabewa aliw wana litafin.
+male		thirties	ha	za mu daidaita a kan hanyarmu 	Za mu daidaita a kan hanyarmu.	zamu daydayta akan hanyarmu 	Zamu daydayta akan hanyarmu.
+male		thirties	ha	a shekaru masu zuwa tunaninki zai mamaye zuciyata yayin da nake cikin kaɗaitaka 	A shekaru masu zuwa tunaninki zai mamaye zuciyata yayin da nake cikin kaɗaitaka.	a shekaru maa suzua tunaaningi izai maama yezuchi ata ya inda neke chikin kadeipaka 	A shekaru maa suzua tunaaningi izai maama yezuchi ata ya inda neke chikin kadeipaka.
+male		thirties	ha	ina zan iya tura wasikun nan 	Ina zan iya tura wasikun nan?	tunawa sikon	Tunawa Sikon
+male		thirties	ha	dukkan wanda ya sami nasara shi zai karbi kyautar 	Dukkan wanda ya sami nasara shi zai karbi kyautar.	dukkan wanda yasa minasara ashiize karpi tʃawtar 	Dukkan wanda yasa minasara ashiize karpi tʃawtar.
+male		thirties	ha	har yanzu ya kamata hary ya yi wannan 	Har yanzu ya kamata Hary ya yi wannan.	ḥaryan zuyaka ma ta ḥary jyuwanan 	Ḥaryan zuyaka ma ta Ḥary jyuwanan.
+male		thirties	ha	ka ji hayaniya a bayan ka 	Ka ji hayaniya a bayan ka.	qaji hayaniya abayanka	QAJI HAYANIYA ABAYANKA
+male		thirties	ha	jauro tamkar kowa ya ke 	Jauro tamkar kowa ya ke.	dʒawru tam karu ko wa eki 	Dʒawru tam karu ko wa eki.
+male		thirties	ha	bana son zama da talakawa 	Bana son zama da talakawa.	bana son zamada talakawa	Bana son zamada talakawa
+male		thirties	ha	ina da keke 	Ina da keke.	tinada keke	Tinada keke
+male		thirties	ha	gaba ɗaya ya ƙarar da abinda ya tara a wajen caca 	Gaba ɗaya ya ƙarar da abinda ya tara a wajen caca.	gba ba taya ia kare rra binda ya tara awajan tsa tsa 	Gba ba taya ia kare rra binda ya tara awajan tsa tsa.
+male		thirties	ha	tijjani na da kirki kwarai 	Tijjani na da kirki kwarai.	tijani nara kirikiu kware 	Tijani nara kirikiu kware.
+male		thirties	ha	kwanakin nan ina jin daɗin yadda yanayin yake 	Kwanakin nan ina jin daɗin yadda yanayin yake.	qwana kinna lina jin da diyen deyena inye ki	Qwana kinna lina jin da diyen deyena inye ki
+male		thirties	ha	pablo ya koyi karatu lokacin yana ɗan shekara biyar 	Pablo ya koyi karatu lokacin yana ɗan shekara biyar.	pablu ya kui kara tulu kachin janad anshe kara bir 	Pablu ya kui kara tulu kachin janad anshe kara bir.
+male		thirties	ha	mista smith ya ba da shawarar aure ga jane 	Mista Smith ya ba da shawarar aure ga Jane.	mwista smith ya ba dashawar awre gajen 	Mwista Smith ya ba dashawar awre gajen.
+male		thirties	ha	yawanci kurakuran mu na faruwa saboda rashin hakuri 	Yawanci kurakuran mu na faruwa saboda rashin hakuri.	yonchin kurakural muna faruwa sab wadarashin haqori 	Yonchin kurakural muna faruwa sab wadarashin haqori.
+male		thirties	ha	yaushe zan zo wajen ku 	Yaushe zan zo wajen ku?	jaw ʃeʻi zan zawa dʒanku	jaw ʃeʻi zan zawa dʒanku
+male		thirties	ha	baki ɗaya habibu ya fita daga hayyacinsa 	Baki ɗaya Habibu ya fita daga hayyacinsa!	bakit e ya habibu ya fitardaga hay ya tsinsa 	Bakit e ya habibu ya fitardaga hay ya tsinsa?
+male		thirties	ha	ta amince tana shan koken 	Ta amince tana shan koken.	taa amin tʃe tanaʃon koken 	Taa amin tʃe tanaʃon koken.
+male		thirties	ha	ta shirya sakin auransa 	Ta shirya sakin auransa.	tashir ya sakin awransa 	Tashir ya sakin awransa.
+male		thirties	ha	ibrahim ya san wajen da zai same ni 	Ibrahim ya san wajen da zai same ni.	ibrahim yaasan wajanda zayi sameni	Ibrahim yaasan wajanda zayi sameni
+male		thirties	ha	 nan bada jimawa ba za a dasa bishiyoyi da yawa 	"""Nan bada jimawa ba za'a dasa bishiyoyi da yawa."""	nan ba da jima wa ba za adasa bishyoi deyewa 	Nan ba da jima wa ba za adasa bishyoi deyewa?
+male		twenties	ha	mun ga mac ya yi wani kyakkyawan hoto 	Mun ga Mac ya yi wani kyakkyawan hoto.	munga mark iayo nikit awan hutu	Munga Mark Iayo Nikit Awan Hutu
+male		twenties	ha	a ƙasan garun muka san adon duwatsu 	A ƙasan garun muka san adon duwatsu.	aq asan garon mokasan adan duas wu 	Aq asan garon mokasan adan duas wu.
+male		twenties	ha	an ɗauki mai gabatar da ƙara na musamman 	An ɗauki mai gabatar da ƙara na musamman.	ḥḳḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥ 	Ḥḳḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥḥ�
+male		twenties	ha	kuma gasu nan 	Kuma gasu nan.	ḏum ʻaga sanan 	ḏum ʻaga sanan.
+male		twenties	ha	kullewa da sauran ƙuntatawa na kasa da kasa	Kullewa da sauran ƙuntatawa na kasa da kasa	kul i waad solon kun tata waanakasaadakasa 	Kul i waad solon kun tata waanakasaadakasa.
+male		twenties	ha	mikiya ita ce sarkin sararin samaniya 	Mikiya ita ce sarkin sararin samaniya.	մի քիզ իտե փիսր քին սարար ընձամանյա	Մի քիզ իտե փիսր քին սարար ընձամանյա
+male		twenties	ha	abinda muka fi damuwa da shi shine lafiyar wadanda aka yi garkuwa da su 	Abinda muka fi damuwa da shi shine lafiyar wadanda aka yi garkuwa da su.	abenda mwkafa da mwale shiini laifi arwadan da aka egar kuwaadasu 	Abenda mwkafa da mwale shiini laifi arwadan da aka egar kuwaadasu.
+male		twenties	ha	ina da zazzaɓi mai zafi ma	Ina da zazzaɓi mai zafi ma	ḍinna dazazabimay zayfima 	ḍinna dazazabimay zayfima.
+male		twenties	ha	sun yarda da cewar kasar su na da kariya daga makiyansu na kasashe 	Sun yarda da cewar kasar su na da kariya daga makiyansu na kasashe.	ḵun yul dədə tʃiwər qasr sunad qariyad də qəmək jə suna qasashi 	Ḵun yul dədə tʃiwər qasr sunad, qariyad də qəmək jə suna qasashi.
+male		twenties	ha	ba zan iya taimaka muku ba sai zuwa litinin 	Ba zan iya taimaka muku ba sai zuwa Litinin.	baazan iye tema ka mwkuba sə jizu alitinin 	Baazan iye tema ka mwkuba sə jizu alitinin.
+male		twenties	ha	ina jin cewa jami ba za ta bukaci yin hakan ba 	Ina jin cewa Jami ba za ta bukaci yin hakan ba.	ena jinti wa jemi maza tabu kachi in haka mba 	Ena jinti wa jemi maza tabu kachi in haka mba.
+male		twenties	ha	jami na tuƙa wata yaluwar mota 	Jami na tuƙa wata yaluwar mota.	dʒəmin ə tuqawata jel warmota 	Dʒəmin ə tuqawata jel warmota.
+male		twenties	ha	ba wanda zai iya kamar yadda hassan zai yi 	Ba wanda zai iya kamar yadda Hassan zai yi.	bawin dzi ya kam ri ddah san zi 	Bawin dzi ya kam ri ddah san zi.
+male		twenties	ha	na yi tsammanin kaina zai tarwatse 	Na yi tsammanin kaina zai tarwatse.	ná e sa man en kainas i tarosi 	Ná e sa man en kainas i tarosi.
+male		twenties	ha	mutanen da ke wasan taɓo hannuwansu za su yi dauɗa 	Mutanen da ke wasan taɓo hannuwansu za su yi dauɗa.	ḏotan ndeki wa santa guwa hanun suza suyi dawda 	ḏotan ndeki wa santa guwa hanun suza suyi dawda.
+male		twenties	ha	kafa faɗaɗa tsarin samfurin barologi	Kafa Faɗaɗa Tsarin samfurin barologi	kapa pada dasara sampuram baro logi 	Kapa pada dasara sampuram baro logi?
+male		thirties	ha	kun yi kan lokaci ko ba haka ba 	Kun yi kan lokaci, ko ba haka ba?	ḳwīn yī kān lokachi koba haqava 	Ḳwīn yī kān lokachi, koba haqava.
+male		thirties	ha	jalal na son ya taimaka 	Jalal na son ya taimaka.	jalalna sonia themaka	Jalalna Sonia Themaka
+male		thirties	ha	ba za su karɓi duk wani uzirin ƙin halartar taron ba 	Ba za su karɓi duk wani uzirin ƙin halartar taron ba.	baza sukarbidu kweni uzrin kin halarta taronba 	Baza sukarbidu kweni uzrin kin halarta taronba.
+male		thirties	ha	kamar yusuf na son austarlia 	Kamar Yusuf na son Austarlia.	kamari yusuf nason australia	Kamari Yusuf Nason, Australia
+male		thirties	ha	kuna tunatar da ni abokina marina babban malamin rashanci 	Kuna tunatar da ni abokina Marina, babban malamin Rashanci.	kuna tunata dani abukina marina babbanma lamin ra sangchi 	Kuna tunata dani abukina marina, babbanma lamin ra sangchi.
+male		thirties	ha	zan tura ma hoto	zan tura ma hoto	zantura mahotu 	Zantura mahotu.
+male		thirties	ha	jalal ya ce bai san wane ne mijin rifkatu ba 	Jalal ya ce bai san wane ne mijin Rifkatu ba.	jalali achi baysan wane ne mejen rifkat uwa 	Jalali achi baysan wane ne mejen rifkat uwa.
+male		thirties	ha	mustapha ba ya cikin wannan 	Mustapha ba ya cikin wannan.	mustafa baya chicken one man 	Mustafa baya chicken one man.
+male		thirties	ha	ibrahima ya ce yana fatan ya dawo ranar litinin 	Ibrahima ya ce yana fatan ya dawo ranar Litinin.	ibrahim yech yena fatan yedaurana litlin 	Ibrahim yech yena fatan yedaurana litlin.
+male		thirties	ha	za ka so ka rike hannu na 	Za ka so ka rike hannu na?	zaka sokari kehanuna	Zaka sokari kehanuna
+male		thirties	ha	ƙofar na rufe daga ciki ba zai iya shiga cikin gidan ba 	Ƙofar na rufe daga ciki, ba zai iya shiga cikin gidan ba.	ko far naro fayda gachi ki bazey iya shiga chiki ngidan ba	ko far naro fayda gachi ki bazey iya shiga chiki ngidan ba
+male		thirties	ha	ka san irin alamun da take fama da ita 	Ka san irin alamun da take fama da ita?	kasan iring alamunda teke fama de ita 	Kasan iring alamunda teke fama de ita?
+male		thirties	ha	ina son ganin abinda ya faru 	Ina son ganin abinda ya faru.	gina son genin abin daya farul 	Gina son genin abin daya farul.
+male		thirties	ha	ƙasar amurka ta kusan zama ƙasa ta hudu a duniya mai yawan fursunoni 	Ƙasar Amurka ta kusan zama ƙasa ta hudu a duniya mai yawan fursunoni.	kasara amrka tawko sanza ma kasata hulu adunia meyewan fursunoni 	Kasara amrka tawko sanza ma kasata hulu adunia meyewan fursunoni.
+male		thirties	ha	kusan wani tsawon lokaci ne waɗannan alamun ke gudana 	kusan wani tsawon lokaci ne waɗannan alamun ke gudana?	kusan wanisawan lokachini awad danan alawin kia gudana 	Kusan wanisawan lokachini awad danan alawin kia gudana?
+male		thirties	ha	hamsatu tace ta shirya zama har zuwa ranan litinin 	Hamsatu tace ta shirya zama har zuwa ranan Litinin.	ḥam satul tachi tashir ya zama ḥarzu waranan litilin 	Ḥam satul tachi tashir ya zama ḥarzu waranan litilin.
+male		thirties	ha	bayan gidana ya ɗan yi ƙasa sosai fiye da ƙasan 	Bayan gidana ya ɗan yi ƙasa sosai, fiye da ƙasan.	baya ngidana ya dengi kasas osey fyeyda kasan 	Baya ngidana ya dengi kasas osey fyeyda kasan.
+male		thirties	ha	baba ya yi amfani da wuta wajen gasa kaza 	Baba ya yi amfani da wuta wajen gasa kaza.	baba ya ya anfani gawuta wajan gasa kaza 	Baba ya ya anfani gawuta wajan gasa kaza.
+male		thirties	ha	ina jin tsoron yin haka 	Ina jin tsoron yin haka.	ḏinajjin soroon yin haqa	ḏinajjin soroon yin haqa
+male		thirties	ha	luke na da guntun gashi 	Luke na da guntun gashi.	luk nadaw guntungashi 	Luk nadaw guntungashi.
+male		thirties	ha	ka tuna ka tura wasikar kan hanyar ka ta zuwa makaranta 	Ka tuna ka tura wasikar kan hanyar ka ta zuwa makaranta.	katuna katura wasikar kan hainyat ka tazwa makaranta 	Katuna katura wasikar kan hainyat ka tazwa makaranta.
+male		thirties	ha	ni fatalwa ne da na mutu ina tsoron mutuwa 	Ni fatalwa ne da na mutu ina tsoron mutuwa.	nifataloane daana mutu ina tsoron mutua 	Nifataloane daana mutu ina tsoron mutua.
+male		thirties	ha	mustapha da rifkatu sun ce suna shirin zama a bostom a bazarar badi 	Mustapha da Rifkatu sun ce suna shirin zama a Bostom a bazarar badi.	mustafa dər fkatu suntʃi suna ʃirin zama a boston a bazaros badi 	Mustafa dər fkatu suntʃi suna ʃirin zama a Boston a bazaros badi.
+male		thirties	ha	na ziyarci tijjani sau da yawa a ostiraliya 	Na ziyarci Tijjani sau da yawa a Ostiraliya.	nā zi ʻel tʃitijani sawde jawa a australia 	Nā zi ʻel tʃitijani sawde jawa a Australia.
+male		thirties	ha	a lokacin rubutu babu ingantaccen maganin rigakafi da aka tabbatar 	A lokacin rubutu, babu ingantaccen maganin rigakafi da aka tabbatar.	aloka txinrbutu babu ingan txanma ganirga kafi da akata batara 	Aloka txinrbutu. Babu ingan txanma ganirga kafi da akata batara.
+male		thirties	ha	duniya na da fadi inda kowa zai yi abinda yake so 	Duniya na da fadi inda kowa zai yi abinda yake so.	dunjana ada fadi inda kowazi ya abinda ikisu 	Dunjana ada fadi inda kowazi ya abinda ikisu.
+male		thirties	ha	ƙazamin yaron ashe yarima ne ya canza kama 	Ƙazamin yaron ashe yarima ne ya canza kama.	qaza minyarun ashi yari mani ya tʃan zakama 	Qaza minyarun, ashi yari mani ya tʃan zakama.
+male		thirties	ha	ina fatan hakan ba zai wahalar da tijjani ba 	Ina fatan hakan ba zai wahalar da Tijjani ba.	ina fatan hakan baze waha larda tijaniba 	Ina fatan hakan baze waha larda tijaniba.
+male		thirties	ha	 jauro da aliko su zama kamar yan uwa na jini 	"""Jauro da Aliko su zama kamar 'yan uwa na jini."""	jawro da adiko szama kamari en uwa na djini 	Jawro da adiko szama kamari en uwa na djini.
+male		thirties	ha	na ji daɗi da kika yafe mini 	Na ji daɗi da kika yafe mini.	nā jidatni dekikajā fīmini 	Nā jidatni dekikajā fīmini.
+male		thirties	ha	menene ba su samu ba 	Menene ba su samu ba?	mene ne basu sa muwa 	Mene ne basu sa muwa.
+male		thirties	ha	wayanda da suke siyan littafin bada dariya mafi yawan su daliban sakandari ne 	Wayanda da suke siyan littafin bada dariya mafi yawan su daliban sakandari ne.	wenda da aswiki isi janli tafin bada daryama piyawansu taliban sakandarenu 	Wenda da aswiki isi janli tafin bada daryama piyawansu taliban sakandarenu.
+male		thirties	ha	wani dandano kake so 	Wani dandano kake so?	wani dan danu kakeso	Wani dan danu kakeso
+male		thirties	ha	jami ya sanya hannunsa a kafaɗar wata budurwa 	Jami ya sanya hannunsa a kafaɗar wata budurwa.	ḏamīyāsanyāhānusā akāfat arwata budurwa 	ḏamīyāsanyāhānusā akāfat arwata budurwa.
+male		thirties	ha	kamar sanyin bana zai ɗan jima fiye da yadda aka saba 	Kamar sanyin bana zai ɗan jima fiye da yadda aka saba.	ḏamasanyin bana zaytan jimafi deyadda akasaba 	ḏamasanyin bana zaytan jimafi deyadda akasaba.
+male		thirties	ha	na hau wuyana cikin aiki 	Na hau wuyana cikin aiki.	nā hau i a nā tikin eikin 	Nā hau i a nā tikin eikin.
+male		thirties	ha	aliko ne ya karya tagar 	Aliko ne ya karya tagar.	ḥalikw na yaa kariya thagar 	Ḥalikw na yaa kariya thagar.
+male		thirties	ha	lokacin tanadin hasken rana yana farawa ranar uku ga afrilu 	Lokacin Tanadin Hasken rana yana farawa ranar uku ga Afrilu.	luka çinta nga inhas kina ra naya na farawa ra nar uku ga afri lu 	Luka çinta nga inhas kina ra naya na farawa ra nar uku ga afri lu.
+male		thirties	ha	 yin aiki ga jami ai na musamman na da daɗi 	"""Yin aiki ga jami'ai na musamman na da daɗi."""	ḏin ay ki ga jami ayina musamman na dada di 	ḏin ay ki ga jami ayina musamman na dada di.
+male		thirties	ha	ba abu ne mai sauki samun sabon aiki a halin yanzu ba 	Ba abu ne mai sauki samun sabon aiki a halin yanzu ba.	ba abu ne me saw ki samon sabon eki ahalin jan zuba 	Ba abu ne me saw ki samon sabon eki ahalin jan zuba.
+male		thirties	ha	rashin bacci na shafar aikin mawaƙa 	Rashin bacci na shafar aikin mawaƙa.	ស ន រ ន រ ន រ ន រ ន រ ន រ ន រ ន រ ន រ ន រ ន រ ន រ ន រ ន រ ន រ ន រ ន រ ន រ ន រ ន រ ន រ ន រ ន រ ន រ ន 	សានំរានំរានំរានំរានំរានំរានំរានំរានំរានំរានំរានំរានំរានំរានំរានំរានំរានំរានំរានំរានំរានំរានំរានំរាន�
+male		thirties	ha	tattara kayana zai ɗaukeni tsahon lokaci 	Tattara kayana zai ɗaukeni tsahon lokaci.	tad tarakaya nazi do keni sawan loka chi 	Tad tarakaya nazi do keni sawan loka chi.
+male		thirties	ha	shi ne dai malamin lissafinmu tun shekaru biyun da suka gabata 	Shi ne dai malamin lissafinmu tun shekaru biyun da suka gabata.	xini dey mala minli safin mu tunxye karu biyunda sukagabata 	Xini dey mala minli safin mu tunxye karu biyunda sukagabata.
+male		thirties	ha	ban san hassana da falmata sun ƙware kan yin hakan ba 	Ban san Hassana da Falmata sun ƙware kan yin hakan ba.	basan hasana da falmata son kware kanyen hakanba 	Basan hasana da falmata son kware kanyen hakanba.
+male		thirties	ha	jauro na aiki a yankin bay 	Jauro na aiki a yankin Bay.	jawru na eka jankin be 	Jawru na eka jankin be.
+male		thirties	ha	za ka turo min hotonka 	Za ka turo min hotonka?	zaka turum njotanka 	Zaka Turum Njotanka.
+male		thirties	ha	jummai ƙawar cathrine ce da take ji da ita 	Jummai ƙawar Cathrine ce da take ji da ita.	dʒumaj kawar kathrin tʃe də teki dʒi də ita 	Dʒumaj kawar kathrin tʃe də teki dʒi də ita.
+male		thirties	ha	ina da kara sarki da sarakuna uku a hannuna 	Ina da kara, sarki da sarakuna uku a hannuna.	ina dakara sar ki da saraw kuna uku ahannuna 	Ina dakara, sar ki da saraw kuna uku ahannuna.
+male		thirties	ha	na kamu da zazzaɓi jiya	Na kamu da zazzaɓi Jiya	naka muda zizabidʒa 	Naka muda zizabidʒa.
+male		thirties	ha	a kasar amurka cikin ƙasa da shekaru takwas a kwaleji za ka zamo likita 	A kasar Amurka, cikin ƙasa da shekaru takwas a kwaleji za ka zamo likita.	a kasar amrka tshikin kasa da shikaru takwas akwaleji zaka zamolikita 	A kasar amrka, tshikin kasa da shikaru takwas akwaleji zaka zamolikita.
+male		thirties	ha	kimiyya ba tare da manufa ba zai iya halakar da mutum 	Kimiyya ba tare da manufa ba, zai iya halakar da mutum.	qimi ya batare da manufa ba zi iya halla karda muting 	Qimi ya batare da manufa ba zi iya halla karda muting.
+male		thirties	ha	a ganina wannan ce hanyar da ya kamata a yi hakan 	A ganina wannan ce hanyar da ya kamata a yi hakan.	aga ni nawan nanchi ha i ngandaya kamata ayahakan 	Aga ni nawan nanchi ha'i ngandaya kamata ayahakan.
+male		twenties	ha	muna da damar haɓakar hakar bayanan zuwa mako biyu idan an buƙata 	Muna da damar haɓakar hakar bayanan zuwa mako biyu idan an buƙata.	mwna də damr habaqar haqar ba janən dzu ama kujbiu idən ambuq ata 	Mwna də damr habaqar haqar ba janən dzu ama kujbiu idən ambuq ata.
+male		twenties	ha	wai ma waye aliyu 	Wai ma waye Aliyu?	و إ م ا و ع ي أ ل ي 	وَإِمَا وَعِي أَلِيُّ
+male		twenties	ha	shin akwai wani banbanci 	Shin akwai wani banbanci?	ḵináw kwe wénu bumban chi	Ḵináw kwe wénu bumban chi
+male		twenties	ha	wasu kashashen a africa sun ga karin kabilanci akan yan china 	Wasu Kashashen a Africa sun Ga Karin Kabilanci akan yan China.	wosaka section are africa songok island kivilinchi akan and china 	Wosaka section are Africa, Songok Island, Kivilinchi, Akan and China.
+male		twenties	ha	elaine na asibiti 	Elaine na asibiti.	eleinena svt 	Eleinena Svt.
+male		twenties	ha	aliko baya yawan magana 	Aliko baya yawan magana.	ال ي ك ب ائ ي ي و م گ ن ا	الْيُّكُ بَائِيَ يَوْمَّ گَنَا
+male		twenties	ha	jauro ya nuna min yadda zan yi 	Jauro ya nuna min yadda zan yi.	جوڑه آنو نامنیت دسنی	جوڑه آنو نامنیت دسنی
+male		twenties	ha	me zai hana mu ga ko hassan yana so ya tafi tare da mu 	Me zai hana mu ga ko Hassan yana so ya tafi tare da mu?	mì zé hana muga kuhasn yena suyit fi taridamu 	Mì zé hana muga kuhasn yena suyit fi taridamu.
+male		twenties	ha	amman na san mutane da yawa wanda suke min tari	amman na san mutane da yawa wanda suke min tari	ḥamman nasan mutanidiya wendu sikimin tari 	Ḥamman nasan mutanidiya wendu sikimin tari.
+male		twenties	ha	ka saba da komai da komai 	Ka saba da komai da komai.	qasava idu kume idu kume 	Qasava idu kume idu kume.
+male		twenties	ha	karkanda ya yi bacci kan ganyaye 	Karkanda ya yi bacci kan ganyaye.	qarkanda ya i wachi qanganyay 	Qarkanda ya'i wachi qanganyay.
+male		twenties	ha	ka da ku yi wannan maganar a gabansa 	Ka da ku yi wannan maganar a gabansa.	qayrakuywena mwaganera aga bansa	Qayrakuywena Mwaganera Aga Bansa
+male		twenties	ha	na san cewa hassan bai san cewar bai kamata ya yi hakan ba 	Na san cewa Hassan bai san cewar bai kamata ya yi hakan ba.	न स च य हस ब स च य ऽरभ कम त हक ब 	न संच्यूहसंबे संच्यूऽरभे कमाते हकंब.
+male		twenties	ha	dole ta sa na kashe dokina don yana cikin tsananin ciwo 	Dole ta sa na kashe dokina don yana cikin tsananin ciwo.	ḍu lə tə sə an ə kəʃə du kina də njəna tə kɨn sənənən tʃiu 	ḍu lə tə sə an ə kəʃə du kina, də njəna tə kɨn sənənən tʃiu.
+male		twenties	ha	zai fi idan ya zo gobe 	Zai fi idan ya zo gobe.	zafi ilanye zoguwi 	Zafi ilanye zoguwi.
+male		twenties	ha	asibiti shine wurin da ake karɓan magani idan mutum bashi da lafiya 	Asibiti shine wurin da ake karɓan magani idan mutum bashi da lafiya.	ḥasbīti shīni orinda ikī qarba maa gani i damu tumba a shidala i piya 	Ḥasbīti shīni orinda'ikī qarba maa gani'i damu tumba'a shidala'i piya.
+male		twenties	ha	kuma ina fama da mummunan ciwon kirji a yau	kuma ina fama da mummunan ciwon kirji a yau	ḏum ayin ḍa fama adamu mwunan tshiu in kirji ayu 	ḏum ayin ḍa fama adamu mwunan tshiu in kirji ayu.
+male		twenties	ha	gaskiya baka da lokaci 	Gaskiya baka da lokaci.	ըըսկի աբա քդը ցուքչի	ըըսկի աբա քդը ցուքչի
+male		twenties	ha	yusufa yana turawa jummai alamu masu bambanci 	Yusufa yana turawa Jummai alamu masu bambanci.	يوسف آيانا تورا وجم ميألامو مصوبا بنچ	يوسف آيانا تورا وجم ميألامو مصوبا بنچ
+male		twenties	ha	sun shiga tashin hankali 	Sun shiga tashin hankali.	स न श गत श न कल 	सुन्शिगताशिनांकली
+male		twenties	ha	yaushe ne za ka koma austaraliya 	Yaushe ne za ka koma Austaraliya?	ew siya niza kako maa o stirliga 	Ew siya niza kako maa o Stirliga.
+male		twenties	ha	ko muna da sauran giya 	Ko muna da sauran giya?	qumran adasawr ingya 	Qumran adasawr ingya.
+male		twenties	ha	rubutu abu ne mai matuƙar muhimmanci 	Rubutu abu ne mai matuƙar muhimmanci.	ḍurbu chuwab ni mi mtukarra muhimmanch 	ḍurbu chuwab ni'mi mtukarra muhimmanch.
+male		twenties	ha	zan sa su farka 	Zan sa su farka.	ḍanḥsaso farka	ḍanḥsaso farka
+male		twenties	ha	me ya sa ba za ki raba alawarku da bitrus ba 	Me ya sa ba za ki raba alawarku da Bitrus ba?	mīye sāba zayi keraba ala orkude bi turuspa 	Mīye sāba zayi keraba ala orkude bi turuspa.
+male		twenties	ha	sun shiga nesa cikin yankin maƙiya 	Sun shiga nesa cikin yankin maƙiya.	séi shugani sas kinyen kya mbaya 	Séi shugani sas kinyen kya mbaya.
+male		twenties	ha	hakanan an sami nasarar aiwatar da shi a indonesia 	Hakanan an sami nasarar aiwatar da shi a Indonesia.	ḥaqqana ansa mena sora ra iwa taru de shi a indunu shi a 	Ḥaqqana ansa mena sora ra'iwa taru de shi'a indunu shi'a.
+male		twenties	ha	a kwanakin nan buƙatar waɗannan kayan na ƙaruwa cikin sauri fiye da wadatarsu 	A kwanakin nan buƙatar waɗannan kayan na ƙaruwa cikin sauri fiye da wadatarsu.	a kwa nekinen buka tarwadanan kaa yen na kaa ruwa tseke nsa uri fiye dawadatar su 	A kwa nekinen buka tarwadanan kaa yen na kaa ruwa tseke nsa uri fiye dawadatar su.
+male		twenties	ha	ban jin zan so 	Ban jin zan so.	banjir zanso	BANJIR ZANSO
+male		twenties	ha	na san abdullahi mutum ne wandaa yake da muhimmanci a ƙungiyarmu 	Na san Abdullahi mutum ne wandaa yake da muhimmanci a ƙungiyarmu.	ناصا عبد الله مو تمنى وندا نيكيدا مهم منشي اکو نجير مو	ناصا عبد الله مو تمنى وندا نيكيدا مهم منشي اکو نجير مو
+male		twenties	ha	jarida talabijin da radiyo ana kiransu kafar sadarwa 	Jarida, talabijin, da radiyo ana kiransu kafar sadarwa.	jareeda television daridiwa anaikira sakapar saderwa	Jareeda Television, Daridiwa Anaikira Sakapar Saderwa
+male		twenties	ha	bana tunanin akwai wani ƙarin bayani game da abinda ya faru 	Bana tunanin akwai wani ƙarin bayani game da abinda ya faru.	bana tunana o kwa wana kala mba ya niga meta avindye falu 	Bana tunana o kwa wana kala mba ya niga meta avindye falu.
+male		twenties	ha	wajen siyayyar a ƙarƙashin ƙasa ya ke 	Wajen siyayyar a ƙarƙashin ƙasa ya ke.	අප ස ත ත ය ස ත ත ය ස ත ත ය ස ත ත ය 	අපි ස්තුතියි ස්තුතියි ස්තුතියි ස්තුතියි
+male		twenties	ha	habibu ya ce ba a shirye yake ya koma gida ba tukuna 	Habibu ya ce ba a shirye yake ya koma gida ba tukuna.	ḥabīb yitsi baʻa shriye ke kuma girabu tukuna 	Ḥabīb yitsi baʻa shriye ke kuma girabu tukuna.
+male		twenties	ha	duk suka juyo suka kalle su 	Duk suka juyo suka kalle su.	ḍuk suka juyo suka kalesu 	ḍuk suka juyo suka kalesu.
+male		twenties	ha	da sunans agnes 	Da sunans Agnes.	ndusunas agnis	Ndusunas Agnis
+male		twenties	ha	ina za ku je wannan karshen mako 	Ina za ku je wannan karshen mako?	ḍinaḍza w kujiwon nung kari shem waku 	ḍinaḍza w kujiwon nung kari shem waku.
+male		twenties	ha	bitrus ya ce yana son ziyartar santa claus dake arewacin pole 	Bitrus ya ce yana son ziyartar Santa Claus dake Arewacin Pole.	bituri siyachi yenasan zi yelter center close neki ariwe chimpol 	Bituri siyachi yenasan zi yelter center close, neki ariwe chimpol.
+			ha	ka yi nazarin faransanci sosai 	Ka yi nazarin Faransanci sosai.	ḏaḥḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏ 	ḏaḥḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏ�
+			ha	kungiyar mu su ma za su sabunta jagorar mu domin bayar da taimako 	Kungiyar mu su ma za su sabunta jagorar mu domin bayar da taimako.	ḏon gyer mwsuma za so sabon tajagor ar mudomin ba erde temaku 	ḏon gyer mwsuma za so sabon tajagor ar mudomin ba erde temaku.
+			ha	yusuf ya gano tarin kaya masu dauɗa a bayan ɗakin linda 	Yusuf ya gano tarin kaya masu dauɗa a bayan ɗakin Linda.	ḥusuf ya ɣanu tarən ka ya ma sə dawda abayin daichin linda 	Ḥusuf ya ɣanu tarən ka ya ma sə dawda, abayin daichin linda.
+			ha	 na san musa zai iya gano mafitar da yadda za a yi haka 	"""Na san Musa zai iya gano mafitar da yadda za'a yi haka."""	nasa mɨn unsa zi i ɣano ma fitar dəð jəd dəza e jihaka 	Nasa mɨn unsa zi i ɣano ma fitar dəð jəd dəza e jihaka.
+			ha	tunda kana da zazzabi	tunda kana da zazzabi	tundakana adasazabi	Tundakana adasazabi
+			ha	don haka p shi ne matsalar idan kuma q ne matsalar 	Don haka, p shi ne matsalar, idan kuma q ne matsalar.	dəng haka pi çi njə mas alər i dəng kumaj tʃu njə mas alər 	Dəng haka pi çi njə mas alər. I dəng kumaj tʃu njə mas alər.
+			ha	zan buɗe akwatin na ga abinda ke ciki 	Zan buɗe akwatin na ga abinda ke ciki.	zambuda akwa tin nga ebinde kichki 	Zambuda akwa tin nga ebinde kichki.
+			ha	har yanzu ban saba da aikin ba 	Har yanzu ban saba da aikin ba.	ḥaliyan zoban sabah ad eikimba 	Ḥaliyan zoban sabah ad-eikimba.
+			ha	babangida ya na matuƙar kama da mahaifinsa 	Babangida ya na matuƙar kama da mahaifinsa.	bawen jidayena wm tuk ark hama adahimahi finsa 	Bawen jidayena wm tuk ark hama adahimahi finsa.
+			ha	ba na tunanin cewa habibu mai arziki ne 	Ba na tunanin cewa Habibu mai arziki ne.	bana tunaninchiwa habibu me ruzikini 	Bana tunaninchiwa habibu me ruzikini.
+			ha	babban yayana ya samu babban matsayi a kasuwanci 	Babban yayana ya samu babban matsayi a kasuwanci.	babwen ya yana ya saa mu babwen masayi aka swenchi 	Babwen ya yana ya saa mu babwen masayi aka swenchi.
+			ha	akwai wasu madannai uku a kasan bayan robot din 	Akwai wasu madannai uku a kasan bayan robot din.	a kwaewa suma den neyi ukwu ak asanbae robot den 	A kwaewa suma den neyi ukwu ak asanbae robot den.
+			ha	na san abin da kuke so ke nan 	Na san abin da kuke so ke nan.	nasa evindu kuti sultiyan	Nasa evindu kuti sultiyan
+			ha	ya mutumi na 	Ya, mutumi na!	ya ǧu tjimina 	Ya, ǧu tʲimina.
+			ha	 ɗabi a ta ce karanta litattafai 	"""Ɗabi'a ta ce karanta litattafai."""	daivi ata che karang taladat tapay	Daivi ata che karang taladat tapay
+			ha	dong ɗan kasar koriya ne 	Dong ɗan kasar Koriya ne.	អ ងប ន រ ន រ ន រ ន រ ន រ ន រ ន រ ន រ ន រ ន រ ន រ ន រ ន រ ន រ ន រ ន រ ន រ ន រ ន រ ន រ ន រ ន រ ន រ ន 	អូងបានំរានំរានំរានំរានំរានំរានំរានំរានំរានំរានំរានំរានំរានំរានំរានំរានំរានំរានំរានំរានំរានំរានំរានំ�
+			ha	ko zan iya fara canka 	Ko zan iya fara canka.	kuzain ye fara chanka	Kuzain ye fara chanka
+			ha	mun ji daɗin tafiya a jirgin ruwa 	Mun ji daɗin tafiya a jirgin ruwa.	mən dʒədabdən tə pija adʒərgi olwa 	Mən dʒədabdən tə pija adʒərgi olwa.
+			ha	ina da buƙatar allura kafin na fara ɗinkin 	Ina da buƙatar allura kafin na fara ɗinkin?	ína dawg atar alura kaa pina fada linchi 	Ína dawg atar alura kaa pina fada linchi.
+			ha	ya zo da misalin ƙarfe huɗu 	Ya zo da misalin ƙarfe huɗu.	ya zoyde misal nkari piyuhu	Ya zoyde misal nkari piyuhu
+			ha	ta ƙagu ta ciyar da tsuntsayen 	Ta ƙagu ta ciyar da tsuntsayen.	tak agot cheldusun sayin	TAK AGOT CHELDUSUN SAYIN
+			ha	baba na yawan karanta labaran bincike a lokutan hutunsa 	Baba na yawan karanta labaran bincike a lokutan hutunsa.	babana yawn karantala barin bintike alokotan hutunsa 	Babana yawn karantala barin bintike alokotan hutunsa.
+			ha	 a a a gaskiya bana son hakan sosai 	"""A'a, A gaskiya bana son hakan sosai."""	a a ghez ki aba na san hakan sose 	A. A. Ghez ki aba na san hakan sose?
+			ha	aliko da rifkatu basu fadawa habibu abun da suke buƙatar siya ba 	Aliko da Rifkatu basu fadawa Habibu abun da suke buƙatar siya ba.	aliko darifkatu bo sofadawa habibu abondosuki bukatar siyaba 	Aliko darifkatu bo sofadawa Habibu Abondosuki. Bukatar siyaba.
+			ha	ibrahim ya yarda 	Ibrahim ya yarda.	ibrahim ya yorda	Ibrahim Ya Yorda
+			ha	ya zo nan wancan lokacin 	Ya zo nan wancan lokacin?	yaa zonon wan tselu kachin	yaa zonon wan tselu kachin
+			ha	ba shi da tabbacin yana bukatar yin haka 	Ba shi da tabbacin yana bukatar yin haka.	mä ʃidatab tʃinjana bukat riyin haka 	Mä ʃidatab tʃinjana bukat riyin haka.
+			ha	zan aureta ta ko wacce hanya 	Zan aureta ta ko wacce hanya.	zin awrita tə kuwa tʃihənja 	Zin awrita tə kuwa tʃihənja.
+			ha	shin ku biyu kuna gardama akai 	Shin ku biyu kuna gardama akai?	ḥunqūbiyu kuna gardama akay	Ḥunqūbiyu kuna gardama akay
+			ha	zan iya ɗaukar yanayin girmanku madam 	Zan iya ɗaukar yanayin girmanku, madam?	ìza ye daw kari yenay yen girmangku madam î	ìZa ye daw kari yenay yen girmangku, madam?î
+			ha	wannan abin kunya ne 	Wannan abin kunya ne.	ون ننئبن كن ياني	ون ننئبن كنّياني
+			ha	ina son riga mai kwala me kyau 	Ina son riga mai kwala me kyau.	inasari gama i kwala imi i kew 	Inasari gama i kwala imi i kew.
+			ha	ya cancanci hakan 	Ya cancanci hakan?	ejn tʃn tʃakɦn	Ejn tʃn tʃakʱn
+			ha	waɗanne yankunan da abin ya shafa 	Waɗanne yankunan da abin ya shafa?	wadan na yon kunanda abin ye shafa	Wadan na yon kunanda abin ye shafa
+			ha	yi sauri kuma zaka iya isowa makaranta da wuri 	Yi sauri, kuma zaka iya isowa makaranta da wuri.	isa wri kumazaka e esuwa ma karantada wri 	Isa wri, kumazaka e esuwa ma karantada wri.
+			ha	kara zafi don mayar da wainar masarar ruwan ƙasa a kowane ɓangare 	Kara zafi don mayar da wainar masarar ruwan ƙasa a kowane ɓangare.	ka razai fi dammel dawainir masarar uwang kasa akuwa na bangari 	Ka razai fi dammel dawainir masarar uwang kasa akuwa na bangari.
+			ha	musa ba zai iya haka shi kadai ba ina fatan lare ta taimaka masa 	Musa ba zai iya haka shi kadai ba. Ina fatan Lare ta taimaka masa.	mwsa ba zi yihak shikat ewa ina afate lare tete makamson 	Mwsa ba zi yihak shikat ewa, ina afate lare tete makamson.
+			ha	ko idan kuna da hawan jini	ko idan kuna da hawan jini	kwo e don kona ya da hao njini 	Kwo e don kona ya da hao njini.
+			ha	zuma ba ta lalacewa 	Zuma ba ta lalacewa.	zuma wa ta lala chiwa	Zuma wa ta lala chiwa
+			ha	ya rubuta wa matarsa cek ɗin kuɗi yen dubu ashirin 	Ya rubuta wa matarsa cek ɗin kuɗi yen dubu ashirin.	ya robu tawa ma tsa rusa tsek dɨn kudi yəndu bu ʃərənk 	Ya robu tawa ma tsa rusa, tsek dɨn kudi yəndu bu ʃərənk.
+			ha	ina son yadda kuke magana 	Ina son yadda kuke magana.	inasen nye ddakwichi magana	Inasen nye ddakwichi magana
+			ha	na nemi aiki a makarantar a matsayin mataimaki a ɗakin gwaje gwaje 	Na nemi aiki a makarantar a matsayin mataimaki a ɗakin gwaje-gwaje.	nani ime aiki ama krantar ama səjin mata ime ki ata iken gwaja gwaji 	Nani ime aiki ama krantar ama səjin, mata ime ki ata iken gwaja-gwaji?
+			ha	malamar ta jaddada muhimmancin gwaji ko wane lokaci 	Malamar ta jaddada muhimmancin gwaji ko wane lokaci.	mala marta jadda ta muhimman tsa ungwa ji kowa na lukachi 	Mala marta jadda ta muhimman tsa ungwa ji kowa na lukachi.
+			ha	na yi fatan yin hakan 	Na yi fatan yin hakan.	náifaté nyé hakan 	Náifaté nyé hakan.
+			ha	idan muna tafiya ya kamata mu rika kallon hagu da dama 	Idan muna tafiya ya kamata mu rika kallon hagu da dama.	edamwna tə fia ya kamata mureka kallam hagu dadama 	Edamwna tə fia ya kamata mureka kallam hagu dadama.
+			ha	ka yi ƙoƙari yusuf 	Ka yi ƙoƙari Yusuf!	kayu gokari yusuf	Kayu Gokari Yusuf
+			ha	na amshi wata wuƙa mai amfani da lantarki a matsayin kyauta 	Na amshi wata wuƙa mai amfani da lantarki a matsayin kyauta.	naa am shuwa ta wuqa ma yamfa ni dalan tili ki amazgen kiota 	Naa am shuwa ta wuqa ma yamfa ni dalan tili ki amazgen kiota.
+			ha	menene ka ke yi a can 	Menene ka ke yi a can?	mī nēni eka ki a tsan 	Mī nēni eka ki a tsan.
+			ha	ina so in nemi afuwa akan abin da nayi 	Ina so in nemi afuwa akan abin da nayi.	ina so inni maafua akan abindani 	Ina so inni maafua akan abindani.
+			ha	ka samo amsar wannan tambayar 	Ka samo amsar wannan tambayar?	qasamu amsr wanan tamber	Qasamu amsr wanan tamber
+			ha	duniya ta yi rashin ɗaya daga cikin masu ban dariya da rasuwar joan rivers 	Duniya ta yi rashin ɗaya daga cikin masu ban dariya da rasuwar Joan Rivers.	dùni atayrìshin dêdak tʃikim mawasubanda idyad rəswər dʒan rivas 	Dùni atayrìshin dêdak tʃikim mawasubanda idyad rəswər dʒan rivas.
+			ha	hukumomin lafiya na koriya da china sun ba da shawarar yin amfani da chloroquine 	Hukumomin lafiya na Koriya da China sun ba da shawarar yin amfani da chloroquine.	ukumumilai fia na kuriya da tsena sumba da shawara riyang anfanida klorokin 	Ukumumilai fia na kuriya da tsena, sumba da shawara riyang anfanida klorokin.
+			ha	ya tsallaka hanya da kafa bayan jar danja ta bada hannu 	Ya tsallaka hanya da kafa bayan jar danja ta bada hannu.	ي ا ص ل ك ح ي ن ا د ك ف ع ب ع ن ج ل د ن ج ة ب د ح ن 	يَا صَلَّكَ حَيْنَّا دَكَفَعْ بَعِنْ جِلْدُنْجَةَ بَدْحَنُّ
+			ha	ɓangaren jijiyoyin ba su warke ba 	Ɓangaren jijiyoyin ba su warke ba.	bangarang ggo m baso likiva 	Bangarang GGO-M baso likiva.
+			ha	na haɗu da mazaje mara kyau da yawa 	Na haɗu da mazaje mara kyau da yawa.	nga hapidam azadimari kia wdiyo 	Nga hapidam azadimari kia wdiyo.
+			ha	a ina ta buge ki 	A ina ta buge ki?	aina tabu jechi	Aina tabu jechi
+			ha	akwai haɗarin durƙusarwa 	Akwai haɗarin durƙusarwa.	aqwa e haqqa bendur qusadwa 	Aqwa e haqqa bendur qusadwa.
+			ha	wannan sabon samfurin namu babban rashi ne ga kamfanin adawarmu 	Wannan sabon samfurin namu babban rashi ne ga kamfanin adawarmu.	wena savon son fulin namu babarish yiniga kampanen adaur mu 	Wena savon son fulin namu, babarish yiniga kampanen adaur mu.
+			ha	iyayensa na zama ne a babban birnin garin 	Iyayensa na zama ne a babban birnin garin.	ia yansana zamani abu pambil nengarim	Ia yansana zamani abu pambil nengarim
+			ha	bayin sun sami ƙarfin addini 	Bayin sun sami ƙarfin addini.	bae sunsa mekarifin ad din 	Bae sunsa mekarifin ad-din.
+			ha	sun shirya tafiya da kansu 	Sun shirya tafiya da kansu.	swa nshirie tefyeye ta kanso 	Swa nshirie tefyeye ta kanso.
+			ha	bayan hura hanci tari ko atishawa 	Bayan hura hanci, tari ko atishawa.	baya hura hanchi tariqa atishawa	Baya hura hanchi tariqa atishawa
+			ha	abdullahi da amsa sun ce laifinsu ne 	Abdullahi da Amsa sun ce laifinsu ne.	abdullahi ad damsa sunti le fensuni	Abdullahi Ad-Damsa, Sunti Le-Fensuni
+			ha	samar da wutar lantarki ta hasken rana hanya ce mai kyau 	Samar da wutar lantarki ta hasken rana hanya ce mai kyau.	sa mardo tawr lantawri ki tawas kawana ha nga tʃi me tʃaw 	Sa mardo tawr lantawri ki tawas kawana ha nga tʃi me tʃaw.
+			ha	ba za muyi aiki a ware ba a kan wannan binciken 	Ba za muyi aiki a ware ba a kan wannan binciken.	mbaza miye eki awa adewa akan wondon bin chiken 	Mbaza miye eki awa adewa, akan wondon bin chiken.
+			ha	yana jan ƙafarsa 	Yana jan ƙafarsa.	janajan ka farsa	Janajan ka farsa
+			ha	gaskiya akwai abin da ke damun musa 	Gaskiya akwai abin da ke damun Musa.	nga sikia a kwaya avendek i dam ngusa 	Nga sikia a kwaya avendek i dam ngusa.
+			ha	yana da haɗari ka gaya wa chris sirrinka saboda yana gaya wa kowa 	Yana da haɗari ka gaya wa Chris sirrinka saboda yana gaya wa kowa.	ïna adhátari kagye aw kriz sèrnka sawu de ena gye aw kua 	Ïna adhátari kagye aw kriz sèrnka sawu de ena gye aw kua.
+			ha	kamar yusuf da alama shi ya aikata laifin 	Kamar Yusuf da alama shi ya aikata laifin.	qamar yusuf da lama shi a e katalipin 	Qamar Yusuf da'lama shi'a e katalipin.
+			ha	gaskiya ba sa son sharuɗan 	Gaskiya ba sa son sharuɗan.	dastgah basar sain shahroddan	Dastgah Basar Sain Shahroddan
+			ha	za su taimaka muku ku ji dimi 	Za su taimaka muku ku ji dimi.	zasute makamu kukujidimi 	Zasute makamu kukujidimi.
+			ha	jiya na ziyarci abokaina jalal da aishatu 	Jiya na ziyarci abokaina Jalal da Aishatu.	ج ي ن از ر ت أ ب و ك ي ن ج ل ل د أ ي ش ت 	جِيَ نَازِرْتْ أَبُو كَيْنَ جَلَلْدْ أَيِشِتُ
+			ha	aliko ya yi mana alƙawarin cewa da ya jira mu 	Aliko ya yi mana alƙawarin cewa da ya jira mu.	alikwe ayimana alakawurin chiwa di jiramu 	Alikwe ayimana alakawurin chiwa di jiramu.
+			ha	gara kada na yi waka da daddare 	Gara kada na yi waka da daddare.	ngarakadena iwaka tə tə təri 	Ngarakadena iwaka tə tə təri.
+			ha	shark suna cin kifi 	Shark suna cin kifi.	ლივსირირირირირირირირირირირირირირირირირირირირირირირირირირირირირირირირირირირ 	ლივსირირირირირირირირირირირირირირირირირირირირირირირირირირირირირირირირირირირ�
+			ha	yau muna nan 	Yau muna nan.	य म न नन 	यो मुनानन्
+			ha	 shugaban ya ci bashin albashin watanni da yawa ga ma aikatan ginin 	"""Shugaban ya ci bashin albashin watanni da yawa ga ma'aikatan ginin."""	ḵuqa wa nya tsa wa ishaq alwa ishaq wa tsa nida yaaqa maa eka tengina 	Ḵuqa wa nya tsa wa ishaq alwa ishaq wa tsa nida yaaqa maa eka tengina.
+			ha	jauro ya fahimci cewa hamsatu bata so yin haka ba 	Jauro ya fahimci cewa Hamsatu bata so yin haka ba.	ndzorua ya fihim tijiwa hafisitu butasu ya ngakaba 	Ndzorua ya fihim tijiwa hafisitu butasu ya ngakaba.
+			ha	idan kunci gaba da yawan zazzabi mai zafi	idan kunci gaba da yawan zazzabi mai zafi	edam kwën tshiga wadayewa xasapi maizaifi 	edam kwën tshiga wadayewa xasapi maizaifi.
+			ha	ina tsammanin na gano 	Ina tsammanin na gano.	ena samanin nagano 	Ena samanin nagano.
+			ha	aliko bai gane waye wannan ba 	Aliko bai gane waye wannan ba.	aliyuqa wa gana wahi wa namba 	Aliyuqa wa gana wahi wa namba.
+			ha	tabbas har yanzu abdullahi bai san zai yi wannan ba a yau 	Tabbas har yanzu Abdullahi bai san zai yi wannan ba a yau.	ḍaḷbu s ḥarī an ẓa bdullāhi bi iṣ ṣanẓi yuwan man ba ayu 	ḍaḷbu s-Ḥarī'an ẓa'bdullāhi bi-iṣ-Ṣanẓi yuwan man ba'ayu.
+			ha	na hadu da naomi kan hanyar zuwa gida kuma mun yi hira 	Na hadu da Naomi kan hanyar zuwa gida kuma mun yi hira.	ná ha duda naomi kan ha nye rzuwa gida koma mwini hira 	Ná ha duda naomi kan ha nye rzuwa gida koma mwini hira.
+			ha	tsahona ya kai ƙafa shida da inci biyu 	Tsahona ya kai ƙafa shida, da inci biyu.	sāhūna yā kwek afa shidda ndi nchi byu 	Sāhūna yā kwek'afa shidda, ndi nchi byu.
+			ha	trump ya dau hukunci ne karkashin hunkuncin gaggawa na kasa da wasu hukumomin gwamantin 	Trump ya dau hukunci ne karkashin hunkuncin gaggawa na kasa da wasu hukumomin gwamantin.	trump ya daw hukunchini karkashun hukunchin gagawa na kasa daw su hukumu mingom nëtin 	Trump ya daw hukunchini, karkashun hukunchin, gagawa na kasa daw su hukumu mingom nëtin.
+			ha	marc na ɗakin bacci 	Marc na ɗakin bacci.	mark ndaykembechi	Mark Ndaykembechi
+			ha	habibu da karensa na jira a waje 	Habibu da karensa na jira a waje.	habibu dakarensa najera oji	Habibu Dakarensa Najera Oji
+male		thirties	ha	 tijjani bai sani ba ko aisha na son yin wannan ko kuma a a 	"""Tijjani bai sani ba ko Aisha na son yin wannan ko kuma a'a."""	tijani baisani bako aisha na swen yunu wanan koku maa 	Tijani, baisani bako aisha na swen yunu wanan koku maa.
+male		thirties	ha	sojojin mexico sun harbo jirgin mai saukar ungulu 	Sojojin Mexico sun harbo jirgin mai saukar ungulu.	sojoji meziko sun harbo jirgin meisa wakara angulu	Sojoji Meziko, sun harbo jirgin meisa wakara angulu
+male		thirties	ha	yanyin ya sanya murmushi 	Yanyin ya sanya murmushi.	ḏenayn yasayn yamur muʃi	ḏenayn yasayn yamur muʃi
+male		thirties	ha	ina mafarkin zama model wata rana 	Ina mafarkin zama model wata rana.	ina mafalikin za ma model watarana	ina mafalikin za ma model watarana
+male		thirties	ha	bana son in kara ma wani matsala 	Bana son in kara ma wani matsala.	bana son inkara ma wani matala 	Bana son inkara ma wani matala.
+male		thirties	ha	na buga wasan ƙwallon kwando a bara 	Na buga wasan ƙwallon kwando a bara.	nabgawason kolom kwandu abara 	Nabgawason kolom kwandu abara.
+male		thirties	ha	kowane ɗalibi na da bajon makarantar jikin hularsa 	Kowane ɗalibi na da bajon makarantar jikin hularsa.	kowanit alibi nada bajon makaran tarr jikin hularsa 	Kowanit alibi nada bajon makaran tarr jikin hularsa.
+			ha	bahon wanka ya cika 	Bahon wanka ya cika.	bahawal khaya chuka	Bahawal Khaya Chuka
+			ha	ina son na warware komai cherlie ba saurayi na ba ne 	Ina son na warware komai. Cherlie ba saurayi na ba ne.	ḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏ 	ḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏḏ�
+			ha	menene lambar daki na 	Menene lambar daki na?	mena ni lambat naikina	Mena ni lambat naikina
+			ha	laifinsa ya cancanci hukuncin kisa 	Laifinsa ya cancanci hukuncin kisa.	lekw nsa ya chen chanchi wakul chinki saa	Lekw nsa ya chen chanchi wakul chinki saa
+			ha	na gayyace ta cin abincin dare 	Na gayyace ta cin abincin dare.	nā gaya chetachon awan chindore	Nā gaya chetachon awan chindore
+			ha	jami na min kirki fiye da zainab 	Jami na min kirki fiye da Zainab.	jami naimini kirki pia dezaina	Jami Naimini Kirki Pia Dezaina
+			ha	abdullahi ya yi zaton kamar jummai ba za ta zo fatin sa ba 	Abdullahi ya yi zaton kamar Jummai ba za ta zo fatin sa ba.	abdullahi ayat e shankar marujumme wadatu doopachan sabah	Abdullahi ayat-e-shankar marujumme wadatu doopachan sabah
+			ha	yusuf ya bugu sosai 	Yusuf ya bugu sosai.	u subiyabu gususay	U subiyabu gususay
+			ha	akwai bambance bambance masu zurfi tsakanin abubuwan biyu 	Akwai bambance-bambance masu zurfi tsakanin abubuwan biyu.	aqayba mba ncha mba ncha masu zulfi tsa kanyan abo bo mbi	Aqayba mba ncha mba ncha masu zulfi tsa kanyan abo bo mbi
+			ha	 sa ata da kudin shigata sun dogara kacokan akan iya mu amalata da mutane 	"""Sa'ata da kudin shigata sun dogara kacokan akan iya mu'amalata da mutane."""	sa ata da kudinshi ga ata sundu gara kachu ka aka iya mu amala da mutani	Sa'ata da kudinshi ga'ata sundu gara kachu ka'aka iya mu'amala da mutani
+			ha	jalal ya fada mun yana tunani an raine jummai 	Jalal ya fada mun yana tunani an raine Jummai.	ḏalaliyya ḍada wmiyyana tʃilaniw angrejne jummi	ḏalaliyya ḍada wmiyyana tʃilaniw angrejne jummi
+			ha	habibua ya koma dakinsa ya rufe kofar 	Habibua ya koma dakinsa ya rufe kofar.	ḥabibiyyaw kumat a ikinsay ya rifi qofar	Ḥabibiyyaw kumat a'ikinsay, ya rifi qofar
+			ha	rubutun labarai ne na aikinsa 	Rubutun labarai ne na aikinsa.	urgutilla wadi nina ekhinsa	Urgutilla wadi nina ekhinsa
+			ha	na faɗi na ji ciwo lokacin da nake share dusar kankara da safiyar nan 	Na faɗi na ji ciwo lokacin da nake share dusar kankara da safiyar nan.	nafat ninaid tshu loka tshindana ki shaalin dursatan qada da satyarana 	Nafat ninaid tshu loka tshindana ki shaalin dursatan qada da satyarana.
+			ha	nasan cewa yusuf tsohon abokin ka ne sosai 	Nasan cewa Yusuf tsohon abokin ka ne sosai.	nasaan tshewa yusupzo hon awo kin kani yususay	Nasaan tshewa yusupzo hon awo kin kani yususay
+			ha	 kuɗi cikin harkar siyasa ko addini na janyo tsana cikin jama a 	"""Kuɗi cikin harkar siyasa ko addini na janyo tsana cikin jama'a."""	kudi tshikin harka siyasa ko adini na djenyo na tshikin jamaa	Kudi tshikin harka siyasa ko adini na djenyo na tshikin jamaa
+			ha	georgia ita ce asalinta 	Georgia ita ce asalinta.	jojje ititʃi asalinka	Jojje ititʃi asalinka
+			ha	gaba ɗaya mustapha da amsa sun san abinda ya faru 	Gaba ɗaya Mustapha da Amsa sun san abinda ya faru.	gabaade mustafa da amsa sunsan abun deyapalm	Gabaade Mustafa da amsa sunsan abun deyapalm
+			ha	wannan akwai babban sakamako 	Wannan akwai babban sakamako.	wana akwebo bonsa kamako	Wana akwebo bonsa kamako
+			ha	na yi tsammani jalalu ya mutu 	Na yi tsammani Jalalu ya mutu.	nizamani jalal e ahmad	Nizamani Jalal-e-Ahmad
+			ha	ba za ka faɗa wa kowa ba game da wannan haka ne 	Ba za ka faɗa wa kowa ba game da wannan, haka ne?	bada kafata wakwa bagamadu anahakani	Bada kafata wakwa bagamadu anahakani
+			ha	me ka ke tunanin ya faru 	Me ka ke tunanin ya faru?	mekhe kithina nina bharu	Mekhe kithina nina bharu
+			ha	ishaku bai taɓa tunanin hadiza za ta so yin haka ba 	Ishaku bai taɓa tunanin Hadiza za ta so yin haka ba.	ishaa kubay tibatina nuhadiza zaatisuyin haqaba 	Ishaa kubay tibatina nuhadiza zaatisuyin haqaba.
+			ha	bai kamata mu manya mu lalata tunanin da yara ke da shi ba 	Bai kamata mu manya mu lalata tunanin da yara ke da shi ba.	ba ekamata mumen nyamu ra ra tshitnane ndiya ra tshikidi shiba	Ba ekamata mumen nyamu ra ra tshitnane ndiya ra tshikidi shiba
+			ha	rikitarwan cututuka zai iya haɗawa da ciwon huhu da cutar hanyoyin numfashi mai tsanani 	Rikitarwan cututuka zai iya haɗawa da ciwon huhu da cutar hanyoyin numfashi mai tsanani.	nikitarwo tshutu tika zei ea hadawa de tshiong uhu de tshutahanyo yenu mpashi me tsanani 	Nikitarwo tshutu tika, zei ea hadawa de tshiong uhu de tshutahanyo yenu mpashi me tsanani.
+			ha	ya kamaya yara su yi biyayyaga iyayensu 	Ya kamaya yara su yi biyayyaga iyayensu.	ya kamatya rasibi ya ea elsu	ya kamatya rasibi ya ea elsu
+			ha	kodayake yana ɗan yaro yana da ƙarfin zuciya sosai 	Kodayake yana ɗan yaro, yana da ƙarfin zuciya sosai.	ḥodekena tainyado yena dekanfunzu tsasose	Ḥodekena tainyado yena dekanfunzu tsasose
+			ha	mustapha yawanci yana gida a ranan ashirin ga watan oktoba 	Mustapha yawanci yana gida a ranan ashirin ga watan Oktoba.	mustu kwayoen tʃi jela gira arana ashrɨng woton oktoba 	Mustu kwayoen tʃi jela gira arana ashrɨng woton oktoba.
+			ha	yana da karfin fada a ji 	Yana da karfin fada a ji.	yena dekar punka daaji	yena dekar punka daaji
+			ha	yanzu ya na da karancin kudi 	Yanzu ya na da karancin kudi.	yo	Yo
+			ha	mene ne banbanci tsakanin masu nasara da marasa nasara 	Mene ne banbanci tsakanin masu nasara da marasa nasara?	me nene	me nene
+			ha	ken ya sumbaci budurwar aliyu 	Ken ya sumbaci budurwar Aliyu.	ken yasin bachi budurwa ali	Ken Yasin Bachi Budurwa Ali
+			ha	kuma yaya ne zafin zazzaɓin yake 	kuma yaya ne zafin zazzaɓin yake?	kuma ya yaan ezaafin za zapin gachi	Kuma ya yaan ezaafin za zapin gachi
+			ha	laretu ta karya hannunta ƙarshen makon da ya gabata 	Laretu ta karya hannunta ƙarshen makon da ya gabata.	lāra chitākare hāniṁ takarṣaṁmāukhaṁ degavātā	Lāra chitākare hāniṁ takarṣaṁmāukhaṁ degavātā
+			ha	na san musa ba dattijo bane a harvard shi ƙarami ne 	Na san Musa ba dattijo bane a Harvard. Shi ƙarami ne.	nasa mursawa adachi jabani ahawal shikara mini	Nasa Mursawa Adachi Jabani Ahawal Shikara Mini
+			ha	ya mayar da abin dokarsa rubutu cikin diary ɗinsa a kullum 	Ya mayar da abin dokarsa rubutu cikin diary ɗinsa a kullum.	ḍaḥḍaḥ ḍaḥḍaḥ ḍaḥḍaḥ ḍaḥḍaḥ ḍaḥḍaḥ ḍaḥḍaḥ ḍaḥḍaḥ ḍaḥḍaḥ ḍaḥḍaḥ ḍaḥḍaḥ ḍaḥḍaḥ ḍaḥḍaḥ ḍaḥḍaḥ ḍaḥḍaḥ ḍaḥḍaḥ ḍaḥḍaḥ	ḍaḥḍaḥ ḍaḥḍaḥ ḍaḥḍaḥ ḍaḥḍaḥ ḍaḥḍaḥ ḍaḥḍaḥ ḍaḥḍaḥ ḍaḥḍaḥ ḍaḥḍaḥ ḍaḥḍaḥ ḍaḥḍaḥ ḍaḥḍaḥ ḍaḥḍaḥ ḍaḥḍaḥ ḍaḥḍaḥ ḍaḥḍaḥ
+			ha	akwai wuya yarda da hakan 	Akwai wuya yarda da hakan.	a kwaywiyaya rdada hakan	A kwaywiyaya rdada hakan
+			ha	na san ya kamata yusuf ya yi tun jiya 	Na san ya kamata Yusuf ya yi tun jiya.	nasa nyaka waju yusufiye itundiya 	Nasa nyaka waju yusufiye itundiya.
+			ha	babu wani dalilin da zai hana mu gayyaci jami 	Babu wani dalilin da zai hana mu gayyaci Jami.	babu wane dhe lidu n dze hana mugaya chijawi	Babu wane dhe lidu n'dze hana mugaya chijawi
+			ha	fatin zai iya zama mara dadi 	Fatin zai iya zama mara dadi.	ḥaçn zə iə zəvəm arə dədi	Ḥaçn zə iə zəvəm arə dədi
+			ha	yana da kyau ka tambaya 	Yana da kyau ka tambaya.	yela adi tyo kathamba	Yela adi tyo kathamba
+			ha	ya kamata na gayyaci musa amma ban yi hakan ba 	Ya kamata na gayyaci Musa, amma ban yi hakan ba.	yaa kamaatina gaya chumusa amma ba nya ha kamba why did you choose to go to the desert 	Yaa kamaatina gaya chumusa amma ba nya ha kamba? Why did you choose to go to the desert?
+			ha	ana kiran mahaifin tijjani jean 	Ana kiran mahaifin Tijjani Jean.	anakera maha kunt janajeen	Anakera maha kunt janajeen
+			ha	kada ka yi amfani da haƙurin mutum dole wata rana zai gaji 	Kada ka yi amfani da haƙurin mutum, dole wata rana zai gaji.	kada kayaan panida haqurum mu tindwala watara nazay kaji	kada kayaan panida haqurum mu tindwala watara nazay kaji
+			ha	bitrus mugu kuma ana kiransa yusuf mai adalci 	Bitrus mugu kuma ana kiransa Yusuf mai Adalci.	bithrus mugu kumaana kira sa yusuf may adelchi 	Bithrus Mugu, kumaana kira sa yusuf may Adelchi.
+			ha	yar uwata ta maƙale kan smack 	Yar uwata ta maƙale kan smack.	erwotatamak alekan sumak	Erwotatamak Alekan Sumak
+			ha	an bullo da matakan aiki da yawa a yankuna da yawa na kasar sin 	An bullo da matakan aiki da yawa a yankuna da yawa na kasar Sin.	ampullu də mə tʃakən aiki də jawa ayon kuna də jawa nə kasar sən	Ampullu də mə tʃakən aiki də jawa ayon kuna də jawa nə kasar sən
+			ha	wane irin kiɗa kuke saurara mafi yawan lokuta 	Wane irin kiɗa kuke saurara mafi yawan lokuta?	wana ilam kita kuki sorara mepi yawn lo kuta	Wana ilam kita kuki sorara mepi yawn lo kuta
+			ha	amma gaskiya nuna kyautar zai iya sanya baƙon da bai bayar ba jin kunya 	Amma gaskiya nuna kyautar zai iya sanya baƙon da bai bayar ba jin kunya.	magish kyanu niki wtizdze e sanyaba wendbae wae bajung hui ma	Magish kyanu niki wtizdze e sanyaba wendbae wae bajung hui ma
+			ha	zan iya magana da ke kadai 	Zan iya magana da ke kadai?	ḍaḍaḍaḍaḍaḍaḍaḍaḍaḍaḍaḍaḍaḍaḍaḍaḍaḍaḍaḍaḍaḍaḍaḍaḍaḍaḍaḍaḍaḍaḍaḍaḍaḍaḍaḍaḍaḍaḍaḍaḍaḍaḍaḍaḍaḍaḍaḍaḍaḍaḍaḍaḍaḍaḍaḍa	ḍaḍaḍaḍaḍaḍaḍaḍaḍaḍaḍaḍaḍaḍaḍaḍaḍaḍaḍaḍaḍaḍaḍaḍaḍaḍaḍaḍaḍaḍaḍaḍaḍaḍaḍaḍaḍaḍaḍaḍaḍaḍaḍaḍaḍaḍaḍaḍaḍaḍaḍaḍaḍaḍaḍaḍa
+			ha	wane yaro ne ya taka rawa a wani ɓangare na abdullahi pan 	Wane yaro ne ya taka rawa a wani ɓangare na Abdullahi Pan?	wanaarwani takarawa awalpangarin abdullah iqbal	Wanaarwani Takarawa Awalpangarin Abdullah Iqbal
+			ha	har yanzu aliko na son barin gidan iyayensa 	Har yanzu Aliko na son barin gidan iyayensa.	haru yaza alinkona sambar ngilin ya yaza	Haru yaza alinkona sambar ngilin ya yaza
+			ha	mun sanya wa karen suna tim 	Mun sanya wa karen suna Tim.	mönseñña wakaran sunatin	Mönseñña wakaran sunatin
+			ha	ba wani killataccen waje ne mai zafi ba waje ne na ninƙaya 	Ba wani killataccen waje ne mai zafi ba, waje ne na ninƙaya.	bawanikil tshitsha ujeni meza fiba ujeni nana nka yaa 	Bawanikil tshitsha ujeni meza fiba ujeni nana nka yaa.

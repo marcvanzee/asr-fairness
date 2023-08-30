@@ -8,18 +8,21 @@ def read_results():
   with open('results/wers.json', 'r') as f:
     return json.load(f)
 
-def visualize_per_model_significance(significant_results_per_model, nr_runs):
-  table = [["Model", "\\female", "\\male", "All", "\\%"]]
-  total = ["Total", 0, 0, 0]
+def visualize_per_model_significance(significant_results_per_model, total_runs):
+  table = [["Model", "\\female", "\\male", "all sig.", "datasets", "per of datasets"]]
+  total = ["Total", 0, 0, 0, 0]
   for model in sorted(significant_results_per_model.keys()):
-    model_info = [model, len(significant_results_per_model[model]['female']), len(significant_results_per_model[model]['male']), len(significant_results_per_model[model]['female'])+len(significant_results_per_model[model]['male']), round( 100*( len(significant_results_per_model[model]['female'])+len(significant_results_per_model[model]['male']) )/nr_runs,2)]
+    model_runs = total_runs[model]
+    model_info = [model, len(significant_results_per_model[model]['female']), len(significant_results_per_model[model]['male']), len(significant_results_per_model[model]['female'])+len(significant_results_per_model[model]['male']), round( 100*( len(significant_results_per_model[model]['female'])+len(significant_results_per_model[model]['male']) )/model_runs,1)]
     table.append(model_info)
 
     total[1] += len(significant_results_per_model[model]['female'])
     total[2] += len(significant_results_per_model[model]['male'])
-    total[3] += round(len(significant_results_per_model[model]['female'])+len(significant_results_per_model[model]['male'])/nr_runs,2)
+    total[3] += len(significant_results_per_model[model]['female'])+len(significant_results_per_model[model]['male'])
+    total[4] += len(significant_results_per_model[model]['female'])+len(significant_results_per_model[model]['male'])
 
     #print(f"{model} has {len(significant_results_per_model[model]['female'])+len(significant_results_per_model[model]['male'])} significant results ({len(significant_results_per_model[model]['female'])} female, {len(significant_results_per_model[model]['male'])} male).")
+  total[4] = round(100*(total[4] / sum(total_runs.values())),1)
   table.append(total)
 
   print(tabulate(table, headers="firstrow", tablefmt="latex"))
@@ -28,12 +31,14 @@ def get_significance(results):
 
   significant_results = {"female": 0, "male": 0}
   significant_results_per_model = {}
-  nr_runs = 0
+  total_runs = {}
 
   for dataset in results: # cv vp
     for model in results[dataset]: # tiny, small, mms-fl102
+      if model not in total_runs:
+        total_runs[model] = 0
       for language in results[dataset][model]: # nl, fr
-        nr_runs += 1
+        total_runs[model] += 1
         try:
           wers = [results[dataset][model][language]["female"], results[dataset][model][language]["male"]]
           averages = [round(100*sum(wers[0])/len(wers[0]),1), round(100*sum(wers[1])/len(wers[1]),1)]
@@ -51,9 +56,10 @@ def get_significance(results):
               significant_results_per_model[model]["female"].append(language)
 
         except KeyError: continue
-  print(f"There are {nr_runs} runs (dataset/language/model), and in {significant_results['female']} cases ({round(100*significant_results['female']/nr_runs,1)}%), the models perform significantly poorer on women. In {significant_results['male']} cases ({round(100*significant_results['male']/nr_runs,1)}%), the models perform significantly poorer on men.")
+  print(total_runs)
+  print(f"There are {sum(total_runs.values())} runs (dataset/language/model), and in {significant_results['female']} cases ({round(100*significant_results['female']/sum(total_runs.values()),1)}%), the models perform significantly poorer on women. In {significant_results['male']} cases ({round(100*significant_results['male']/sum(total_runs.values()),1)}%), the models perform significantly poorer on men.")
   
-  visualize_per_model_significance(significant_results_per_model, nr_runs) 
+  visualize_per_model_significance(significant_results_per_model, total_runs) 
 
 
 

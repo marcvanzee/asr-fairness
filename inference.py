@@ -293,6 +293,8 @@ def main(_):
 
       save_results(result_path, results, FLAGS.dataset, lang)
 
+      exit()
+
 
 if __name__ == '__main__':
   app.run(main)

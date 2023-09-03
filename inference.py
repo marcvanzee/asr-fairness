@@ -296,9 +296,6 @@ def main(_):
       results['inferred'] = normalize(results['inferred_original'])
 
       save_results(result_path, results, FLAGS.dataset, lang)
-      exit()
-
-      exit()
 
 
 if __name__ == '__main__':

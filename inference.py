@@ -217,6 +217,10 @@ def load_state(hf_name, lang_code):
       model=Wav2Vec2ForCTC.from_pretrained(hf_name).to('cuda'),
       processor=AutoProcessor.from_pretrained(hf_name)
     )
+    lang_alpha3 = ISO_2_TO_3.get(lang_code)
+    assert lang_alpha3, f'Invalid language for MMS: {lang_alpha3}'
+    model.processor.tokenizer.set_target_lang(lang_alpha3)
+    model.model.load_adapter(lang_alpha3)
     preprocessor = functools.partial(MMSModel.preprocess_audio, cls=model)
 
   return ModelState(model=model, preprocess_fn=preprocessor)
@@ -292,6 +296,7 @@ def main(_):
       results['inferred'] = normalize(results['inferred_original'])
 
       save_results(result_path, results, FLAGS.dataset, lang)
+      exit()
 
       exit()
 

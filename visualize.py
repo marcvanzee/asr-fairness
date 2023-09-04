@@ -7,7 +7,16 @@ from collections import OrderedDict
 from scipy import stats
 from tabulate import tabulate
 
-MODEL_PARAMETERS = OrderedDict({"whisper_tiny": 39000000, "whisper_base": 74000000, "whisper_small": 244000000, "whisper_medium": 769000000, "whisper_large": 1550000000}) # "mms_mms-1b-all": 1000000000, (between medium and large)
+MODEL_PARAMETERS = OrderedDict({
+    "whisper_tiny": 39000000,
+    "whisper_base": 74000000,
+    "whisper_small": 244000000,
+    "whisper_medium": 769000000,
+    "whisper_large": 1550000000}
+) # "mms_mms-1b-all": 1000000000, (between whipser_medium and whisper_large)
+
+OUTPUT_DIR = './visualizations/'
+
 
 def make_plot_genderdiff(gender_significant_results, total_runs):
   # Plots modelsize (x)/disparaty rate (y)
@@ -24,7 +33,7 @@ def make_plot_genderdiff(gender_significant_results, total_runs):
   plt.ylabel('Disparity rate (%)')
   plt.xticks(x, models, rotation=45)
   plt.subplots_adjust(bottom=0.3)
-  plt.savefig("gender_disparity.png")
+  plt.savefig(os.path.join(OUTPUT_DIR, "gender_disparity.png"))
 
 
 def visualize_per_model_significance(gender_significant_results, total_runs):
@@ -84,7 +93,7 @@ def make_heatmap(intersectionality_significant_results, total_runs):
 
   ax.set_title("Intersectionality disparity per model")
   fig.tight_layout()
-  plt.savefig("intersectionality_disparity.png")
+  plt.savefig(os.path.join(OUTPUT_DIR, "intersectionality_disparity.png"))
 
 
 def read_results():

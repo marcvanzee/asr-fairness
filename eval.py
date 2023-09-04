@@ -42,16 +42,16 @@ def get_data(dataset, filename):
     data = csv.reader(f, delimiter='\t')
     for line in data:
       speaker_demographic_groups = []
-      
-      demographics = [x for x in line[:-5] if x != ""]
+      if "commonvoice" in filename:
+        demographics = [x for x in [line[0], line[2]] if x != ""]
+      else:
+        demographics = line[0]
       if len(demographics) < 1: continue
       if "gender" in demographics: continue
       for x in range(len(demographics)):
-
         speaker_demographic_groups.append('_'.join(demographics[:x+1]))
       reference = line[-4]
       inferred = line[-2]
-     
       yield speaker_demographic_groups, reference, inferred
 
 def save_results(results):
@@ -90,7 +90,6 @@ def main(_):
         if demographic_group not in results[dataset][f"{model}_{modelsize}"][language]:
           results[dataset][f"{model}_{modelsize}"][language][demographic_group] = []
         results[dataset][f"{model}_{modelsize}"][language][demographic_group].append(WER)
-
   save_results(results)
   
 

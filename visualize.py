@@ -163,6 +163,7 @@ def get_significance(results, gender_disparity=True, intersectionality_disparity
             if not "female_" in string_demographic_groups and "male_" in string_demographic_groups: continue
             
             intersectionality_groups = [x for x in wers.keys() if "_" in x]
+            print(intersectionality_groups)
             for demographic_group in intersectionality_groups:
               intersec_sign = do_significance_testing(wers, demographic_group, "all")
                 

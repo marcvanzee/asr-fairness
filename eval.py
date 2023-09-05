@@ -1,98 +1,64 @@
-# Skipping locale for now (line[-4])
-
 """
- NB: calculate the WER independently of group. The WER of a ref/inf pair is independent of the other ref/inf pair sentences in a group. 
-print("per sentence")
-print("nr. 1", wer("women group together", "a woman groups together"))
-print("nr. 2", wer("what a weather took a turn", "look the weather took a turn"))
-print("average", (wer("women group together", "a woman groups together")+wer("what a weather took a turn", "look the weather took a turn"))/2)
-
-print("across both")
-print("average",wer(["women group together", "what a weather took a turn"], ["a woman groups together", "look the weather took a turn"]))
-
+We compute the wer over a dataset by summing the errors of all points and then
+normalize by the sum of sequence lengths. Another option is to take the average
+WER over all sentences, but this is heavily skewed by error for short
+ground-truth sentences, so we avoid that.
 """
 import csv
+import collections
 import glob
 import json
+import os
 
 from absl import app
 from jiwer import wer
 
 
-# script 1
-# read files
-# compare ref and inf
-# assign the result to the smallest infra-group (e.g. woman_20)
-# write out to pandas database
-
-# script 2
-# read db in
-# run fairness evaluations
-
-
-def eval_inferred(reference, inferred):
-  pass
-
-def get_data(dataset, filename):
-
-  # Get a list of demographics [female, female20, female20RU] per example
-  # Get reference and inferred sentences
+def get_data(filename):
+  # Get a list of demographics [female, female20] per example
   
   with open(filename) as f:
-    data = csv.reader(f, delimiter='\t')
-    for line in data:
-      speaker_demographic_groups = []
-      if "commonvoice" in filename:
-        demographics = [x for x in [line[0], line[2]] if x != ""]
-      else:
-        demographics = line[0]
-      if len(demographics) < 1: continue
-      if "gender" in demographics: continue
-      for x in range(len(demographics)):
-        speaker_demographic_groups.append('_'.join(demographics[:x+1]))
-      reference = line[-4]
-      inferred = line[-2]
-      yield speaker_demographic_groups, reference, inferred
+    data = csv.DictReader(f, delimiter='\t')
+    for row in data:
+      if not row['gender']: continue  # only for commonvoice
+      demographic_groups = [row['gender']]
+      if 'commonvoice' in filename and row['age']:
+        demographic_groups.append(row['gender'] + '_' + row['age'])
+      yield demographic_groups, row['reference'], row['inferred']
 
-def save_results(results):
-  json_object = json.dumps(results, indent=4)
-  with open("results/wers.json", "w") as outfile:
-     outfile.write(json_object)
+def save_results(results, directory='wer_results'):
+  if not os.path.isdir(directory):
+    os.makedirs(directory)
+  path = os.path.join(directory, 'wers.join')
+  with open(path, 'w') as f:
+     f.write(json.dumps(results, indent=0))
+  print('Wrote results to', path)
 
 def main(_):
+  # dataset/model_modelsize/language = {totalWER: x, femaleWER: y, female20: z}
+  results = {
+    'commonvoice': collections.defaultdict(dict),
+    'voxpopuli': collections.defaultdict(dict)
+  }
 
-  results = {"commonvoice": {}, "voxpopuli": {}} # dataset/model_modelsize/language = {totalWER: x, femaleWER: y, female20: z}
-
-  filenames = glob.glob("inference_results/*")
-
-  for filename in filenames:
+  for filename in glob.glob("inference_results/*.tsv")[:2]:
     elements = filename.split("/")[1].split(".")[0].split("_")
-    print(f"PROCESSING: {elements}")
-    try:
-      model, modelsize, dataset, language, datasetsplit = elements
-    except ValueError:
-      continue
+    print('PROCESSING', elements)
+    model, modelsize, dataset, language, _ = elements
 
-    if f"{model}_{modelsize}" not in results[dataset]:
-      results[dataset][f"{model}_{modelsize}"] = {}
-    if language not in results[dataset][f"{model}_{modelsize}"]:
-      results[dataset][f"{model}_{modelsize}"][language] = {"total": []}
+    key = f"{model}_{modelsize}"
+    results[dataset][key][language] = collections.defaultdict(list)
 
-    for speaker_demographic_groups, reference, inferred in get_data(dataset, filename):
+    for demographic_groups, reference, inferred in get_data(filename):
       try:
-        WER = wer(reference, inferred)
+        wer_score = wer(reference, inferred)
       except ValueError: # some ref or inf are empty strings
         continue
       
-      results[dataset][f"{model}_{modelsize}"][language]["total"].append(WER)
-      
-      for demographic_group in speaker_demographic_groups:
-        if demographic_group not in results[dataset][f"{model}_{modelsize}"][language]:
-          results[dataset][f"{model}_{modelsize}"][language][demographic_group] = []
-        results[dataset][f"{model}_{modelsize}"][language][demographic_group].append(WER)
+      for demographic_group in demographic_groups:
+        results[dataset][key][language][demographic_group].append(wer_score)
   save_results(results)
-  
 
-    
+
 if __name__ == '__main__':
   app.run(main)

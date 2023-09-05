@@ -22,21 +22,16 @@ FLAGS = flags.FLAGS
 flags.DEFINE_string('db_cache_dir',
                     '/home/marcvanzee/.cache/huggingface/preprocessed_datasets/',
                     'Directory to cache HF datasets after preprocessed')
-
 flags.DEFINE_enum('dataset', 'commonvoice', ['commonvoice', 'voxpopuli'],
                   'Name of dataset to run inference on.')
-
 flags.DEFINE_string('inference_results_dir',
                     './inference_results',
                     'Directory to store inference results tsv files')
-
 flags.DEFINE_enum('model', 'whisper', ['whisper', 'mms'],
                   'Model to run inference on.')
-
 flags.DEFINE_list('whisper_model_sizes',
                   ['tiny', 'base', 'small', 'medium', 'large', 'large-v2'],
                   'Whisper model sizes to run inference on.')
-
 flags.DEFINE_list('mms_model_sizes',
                   ['mms-1b-fl102', 'mms-1b-l1107', 'mms-1b-all'],
                   'MMS model sizes to run inference on.')

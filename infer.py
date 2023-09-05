@@ -40,6 +40,7 @@ flags.DEFINE_list('whisper_model_sizes',
 flags.DEFINE_list('mms_model_sizes',
                   ['mms-1b-fl102', 'mms-1b-l1107', 'mms-1b-all'],
                   'MMS model sizes to run inference on.')
+flags.DEFINE_bool('single_run', False, 'If true, exit after a single run.')
 
 
 # TODO: parallel dataset mapping sometimes gets stuck, investigate why.
@@ -148,7 +149,7 @@ def get_batches(dataset, lang, audio_preprocess_fn):
         hf_name='facebook/voxpopuli',
         col_reference='normalized_text',
         cols_to_keep=get_protected_attrs(dataset),
-        cols_to_remove=['audio_id', 'audio', 'raw_text', 'language', 'speaker_id', 
+        cols_to_remove=['audio', 'raw_text', 'language', 'speaker_id', 
                       'is_gold_transcript', 'normalized_text'])
     
     ds.save_to_disk(db_cache_path)
@@ -165,12 +166,16 @@ def get_text_normalizer(lang):
 
 
 def save_results(result_path, results, dataset, lang):
-  if dataset == "commonvoice":
-    keys = ["gender", "accent", "age", "locale", "reference", "reference_original", "inference", "inferred_original"]
-  else: 
-    keys = ["gender", "accent", "reference", "reference_original", "inference", "inferred_original"]
-  #keys = list(results.keys())
-  print(f'Saving results for {lang} to {result_path}.')
+  if dataset == 'commonvoice':
+    keys = ['gender', 'accent', 'age', 'locale', 'reference',
+            'reference_original', 'inferred', 'inferred_original']
+  else:
+    # Only keep date from audio_id..
+    results['date'] = [x.split('-')[0] for x in results['audio_id']]
+    keys = ['gender', 'accent', 'reference', 'reference_original',
+            'inferred', 'inferred_original', 'date']
+  keys = list(results.keys())
+  print(f'Saving {len(results[keys[0]])} results for {lang} to {result_path}.')
 
   with open(result_path, 'w') as f:
     writer = csv.writer(f, delimiter='\t')
@@ -263,6 +268,8 @@ def main(_):
   print( '| Model', FLAGS.model)
   print(f'| Models sizes: {model_sizes}')
   print( '| Dataset', dataset)
+  if FLAGS.single_run:
+    print('| INFERRING ONLY ONE LANGUAGE (--single_run=True)')
   print( '|-------------------------------------------------------------------')
 
   state = ModelState(model=None, preprocess_fn=None)
@@ -296,6 +303,11 @@ def main(_):
       results['inferred'] = normalize(results['inferred_original'])
 
       save_results(result_path, results, FLAGS.dataset, lang)
+
+      if FLAGS.single_run:
+        break
+    if FLAGS.single_run:
+      break
 
 
 if __name__ == '__main__':

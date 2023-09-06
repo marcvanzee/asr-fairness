@@ -163,13 +163,18 @@ def get_text_normalizer(lang):
 def save_results(result_path, results, dataset, lang):
   if dataset == 'commonvoice':
     keys = ['gender', 'accent', 'age', 'locale', 'reference',
-            'reference_original', 'inferred', 'inferred_original']
+            'reference_original', 'inferred', 'inferred_original', 'wer']
   else:
     # Only keep date from audio_id..
     results['date'] = [x.split('-')[0] for x in results['audio_id']]
     keys = ['gender', 'accent', 'reference', 'reference_original',
-            'inferred', 'inferred_original', 'date']
+            'inferred', 'inferred_original', 'date', 'wer']
   keys = list(results.keys())
+
+  results['wer'] = [jiwer.wer(reference=ref, hypothesis=hyp) 
+                    for ref, hyp in zip(results['reference'],
+                                        results['hypothesis'])]
+
   print(f'Saving {len(results[keys[0]])} results for {lang} to {result_path}.')
 
   with open(result_path, 'w') as f:

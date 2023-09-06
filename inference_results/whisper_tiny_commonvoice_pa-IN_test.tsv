@@ -1,389 +1,389 @@
-gender	accent	age	locale	reference	reference_original	inferred	inferred_original	wer
-			pa-IN	ਉਨ ਹ ਨ ਸ ਰ ਤਜ ਰਬ ਵ ਖਰ ਕ ਸਮ ਦ ਕ ਤ ਹਨ	ਉਨ੍ਹਾਂ ਨੇ ਸਾਰੇ ਤਜ਼ਰਬੇ ਵੱਖਰੀ ਕਿਸਮ ਦੇ ਕੀਤੇ ਹਨ	honanese rhe te yarbe bakri ke sab neki te hane	honanese rhe te yarbe bakri ke sab neki te hane	1.0
-			pa-IN	ਸ ਹ ਰ ਗਲ ਆ ਵ ਚ ਸ ਰ ਲ ਖਵ ਦ ਆ 	ਸ਼ਹਿਰਾਂ ਗਲੀਆਂ ਵਿਚ ਸਾਰੇ ਲਿਖਵਾ ਦਿਆਂ	şehrang alinya match sar e liqava adi	şehrang alinya match sar e liqava adi	1.0
-			pa-IN	ਜ ਗ ਵ ਆ ਵ ਚ ਲੜ ਗਈ	ਜੰਗ ਵਿਆਂ ਵਿੱਚ ਲੜੀ ਗਈ	janga veya vichyh ladi gaj	Janga Veya Vichyh Ladi Gaj	1.0
-			pa-IN	ਧਰਮ ਦ ਨ ਤ ਦ ਸ ਦ ਵ ਡ	ਧਰਮ ਦੇ ਨਾਂ ਤੇ ਦੇਸ਼ ਦੀ ਵੰਡ	taram denate des divan	Taram denate des divan	1.0
-			pa-IN	ਉਦ ਭ ਤ ਪ ਰ ਤ ਦ ਆ ਗ ਲ ਆਮ ਹ ਦ ਆ ਸਨ	ਉਦੋਂ ਭੂਤਾਂ ਪ੍ਰੇਤਾਂ ਦੀਆਂ ਗੱਲਾਂ ਆਮ ਹੁੰਦੀਆਂ ਸਨ	budo putto pretan yagan na amhundiyasan	budo putto pretan yagan na amhundiyasan	1.0
-			pa-IN	ਬ ਦ ਨ ਬ ਦ ਰਹ ਣ ਈ ਨਈ ਦ ਦ ਆ 	ਬੰਦੇ ਨੂੰ ਬੰਦਾ ਰਹਿਣ ਈ ਨਈਂ ਦਿੰਦੀਆਂ	bandeno bandha rani nadendia	Bandeno Bandha Rani Nadendia	1.0
-			pa-IN	ਨਹ ਤ ਸਭ ਕ ਲ ਹ ਭਰਨ ਪਵ ਗ 	ਨਹੀਂ ਤਾਂ ਸਭ ਕੋਲੋਂ ਹੀ ਭਰਨਾ ਪਵੇਗਾ	nhehita sab kolong hi par napa vega	nhehita sab kolong hi par napa vega	1.0
-			pa-IN	ਵ ਕ ਸ ਮਨ ਖਤ ਦ ਸ ਦਰ ਵਰਤ ਰ ਹ 	ਵਿਕਾਸ ਮਨੁੱਖਤਾ ਦਾ ਸੁੰਦਰ ਵਰਤਾਰਾ ਹੈ	vikaas minukta daas under vartar hai	Vikaas minukta daas under vartar hai	1.0
-			pa-IN	ਅਜ ਤ ਮ ਰ ਉਮਰ ਨ ਮ ਕ 	ਅਜੇ ਤਾਂ ਮੇਰੀ ਉਮਰ ਨਾ ਮੁੱਕੀ	ajay tameri umar namutti	Ajay tameri umar namutti	1.0
-			pa-IN	ਅਤ ਬਹ ਆ ਭ ਜਨ ਰ ਸ ਈਕਲ ਕਰਕ ਉਸਨ ਦ ਬ ਰ ਖ ਣ ਯ ਗ ਬਣ ਦ ਵ ਗ 	ਅਤੇ ਬਹਿਆ ਭੋਜਨ ਰੀਸਾਈਕਲ ਕਰਕੇ ਉਸਨੂੰ ਦੁਬਾਰਾ ਖਾਣ ਯੋਗ ਬਣਾ ਦੇਵੇਗਾ	ate bhehapo jane risaikal karke sune dubara khan jogumana adhebega	Ate bhehapo jane risaikal karke sune dubara khan jogumana adhebega	1.0
-			pa-IN	ਵ ਆਹ ਦ ਸਨਦ ਇਥ ਜਰ ਰ ਨਹ ਹ 	ਵਿਆਹ ਦੀ ਸਨਦ ਇਥੇ ਜਰੂਰੀ ਨਹੀਂ ਹੈ	veade sanade tejiruri nee hai	Veade sanade tejiruri nee hai	1.0
-			pa-IN	ਦ ਵ ਹ ਕ ਦ ਧਨ ਤਰ ਫ ਲ ਬ ਕ ਖ ਡ ਰ ਸਨ	ਦੋਵੇਂ ਹਾਕੀ ਦੇ ਧਨੰਤਰ ਫੁੱਲ ਬੈਕ ਖਿਡਾਰੀ ਸਨ	2 3 kms	2-3 kms	1.0
-			pa-IN	ਦ ਸ ਲਈ ਕ ਰਬ ਨ ਹ ਣ ਦ ਆ ਗ ਲ ਕਰਨ ਵ ਲ 	ਦੇਸ਼ ਲਈ ਕੁਰਬਾਨ ਹੋਣ ਦੀਆਂ ਗੱਲਾਂ ਕਰਨ ਵਾਲੇ	deshley kurban hondiyangalangal nuale	Deshley Kurban Hondiyangalangal Nuale	1.0
-			pa-IN	ਨ ਬਰਦ ਰ ਗ ਲ ਸ ਣਦ ਖ ਸ ਵ ਚ ਆਫ ਰ ਆ ਬ ਠ ਸ 	ਨੰਬਰਦਾਰ ਗੱਲਾਂ ਸੁਣਦਾ ਖੁਸ਼ੀ ਵਿਚ ਆਫ਼ਰਿਆ ਬੈਠਾ ਸੀ	number dar galasun dar kuşi vi ch affrea beltasi	NUMBER DAR GALASUN DAR KUŞI VİCH AFFREA BELTASI	1.0
-			pa-IN	ਕ ਮ ਵ ਰ ਸ ਤ ਆ ਕਵ ਹ ਜ ਗਣ ਸ ਰ 	ਕੌਮਾਂ ਵੀਰੋ ਸੁੱਤੀਆਂ ਕਵੀ ਹੀ ਜਾਗਣ ਸਾਰੇ	koma virasutniya kavi shi jagan saari	koma virasutniya kavi shi jagan saari	1.0
-			pa-IN	ਤ ਤ ਖ ਲਸ ਤ ਬ ਦਈ ਖ ਲਸ ਮਸਲ ਦ ਅਸਲ ਅਤ ਕ ਹ 	ਤੱਤ ਖਾਲਸਾ ਤੇ ਬੰਦਈ ਖਾਲਸਾ ਮਸਲੇ ਦੀ ਅਸਲੀਅਤ ਕੀ ਹੈ	tattakal saade bandei khal saamas le de asliat ki hai	tattakal saade bandei khal saamas le de asliat ki hai	1.0
-			pa-IN	ਛ ਤ ਲ ਭ ਦ ਣ ਵ ਲ ਫਲ ਪਪ ਤ 	ਛੇਤੀ ਲਾਭ ਦੇਣ ਵਾਲਾ ਫਲ ਪਪੀਤਾ	shiti lab din mala fal ppita	shiti lab din mala fal ppita	1.0
-			pa-IN	ਉਹ ਖ ਣ ਪ ਣ ਦ ਧ ਆਨ ਰ ਖਣ ਲ ਗ 	ਉਹ ਖਾਣ ਪੀਣ ਦਾ ਧਿਆਨ ਰੱਖਣ ਲੱਗੀ	oh khan bin dahte ana khanagi 	Oh, Khan bin dahte ana khanagi.	1.0
-			pa-IN	ਗ ਆ ਢ ਆ ਨ ਕਦ ਵ ਮ ੜ ਲਫ ਜ ਨ ਬ ਲ 	ਗੁਆਂਢੀਆਂ ਨੂੰ ਕਦੇ ਵੀ ਮਾੜਾ ਲਫ਼ਜ਼ ਨਾ ਬੋਲੋ	gwandeyanuka devi maralahshina bholu	Gwandeyanuka Devi Maralahshina bholu	1.0
-			pa-IN	ਗ ਰ ਸ ਹ ਬ ਨ ਪ ਤਰ ਨ ਹ ਕ ਨ ਲ ਲ ਇਆ	ਗੁਰੂ ਸਾਹਿਬ ਨੇ ਪੁੱਤਰ ਨੂੰ ਹਿੱਕ ਨਾਲ ਲਾਇਆ	guru saheb ne putter nu hiknalla ya	guru saheb ne putter nu hiknalla ya	1.0
-			pa-IN	ਬਦਕ ਸਮਤ ਨ ਲ ਉਹ ਛ ਟ ਉਮਰ ਚ ਲ ਵਸ ਆ	ਬਦਕਿਸਮਤੀ ਨਾਲ ਉਹ ਛੋਟੀ ਉਮਰੇ ਚੱਲ ਵਸਿਆ	mahadekismati nal oshorti humune challenge	Mahadekismati Nal Oshorti humune challenge	1.0
-			pa-IN	ਕਬ ਡ ਮ ਚ ਕਨ ਘਮ ਪ ਰਕ ਵ ਚ ਹ ਣ ਸਨ	ਕਬੱਡੀ ਮੈਚ ਕਨਿੰਘਮ ਪਾਰਕ ਵਿਚ ਹੋਣੇ ਸਨ	kabadi meach keningam park which way is on	kabadi meach keningam park which way is on	1.0
-			pa-IN	ਕ ਝ ਪ ਸ ਇਸ ਕ ਮ ਵ ਸਤ ਵ ਰ ਖ 	ਕੁੱਝ ਪੈਸਾ ਇਸ ਕੰਮ ਵਾਸਤੇ ਵੀ ਰੱਖੋ	kudi pecha iskaun last evirku	Kudi pecha iskaun last evirku	1.0
-male		fourties	pa-IN	ਪ ਤ ਨ ਜਹ ਰ ਦ ਰ ਹ ਸ 	ਪੁੱਤ ਨੂੰ ਜਹਿਰ ਦੇ ਰਿਹਾ ਸੀ	put no jahar delehasi	Put no jahar delehasi	1.0
-male		fourties	pa-IN	ਫ ਰ ਟ ਕਸ ਲ ਕ ਸ ਡ ਕ ਲ ਆਇਆ ਸ 	ਫੇਰ ਟੈਕਸੀ ਲੈ ਕੇ ਸਾਡੇ ਕੋਲ਼ ਆਇਆ ਸੀ	faire taxi leke sa deko lah ya si	Faire taxi, leke sa deko lah ya si	1.0
-male		fourties	pa-IN	ਇਸ ਲਈ ਸ ਪ ਪ ਛ ਕ ਡ ਸ ਨਰ ਵਰਤਣ ਚ ਹ ਦ 	ਇਸ ਲਈ ਸ਼ੈਂਪੂ ਪਿੱਛੋਂ ਕੰਡੀਸ਼ਨਰ ਵਰਤਣਾ ਚਾਹੀਦੈ	sle shampoo pichok conditional worthana jai da	SLE shampoo pichok conditional worthana jai da	1.0
-male		fourties	pa-IN	ਤ ਸ ਆਪਣ ਵ ਚ ਰ ਤ ਕ ਬ ਕਰ ਸਕਦ ਹ 	ਤੁਸੀਂ ਆਪਣੇ ਵਿਚਾਰਾਂ ਤੇ ਕਾਬੂ ਕਰ ਸਕਦੇ ਹੋ	tu sim app ne vicharan te kabukar sakadeho	tu sim app ne vicharan te kabukar sakadeho	1.0
-male		fourties	pa-IN	ਮ ਰ ਆ ਤ ਅ ਖ ਆ ਪ ਕ ਗਈਆ ਸਨ	ਮੇਰੀਆਂ ਤੇ ਅੱਖੀਆਂ ਪੱਕ ਗਈਆਂ ਸਨ	media te akhina pakga nya sanda	media te akhina pakga nya sanda	1.0
-male		fifties	pa-IN	ਅ ਜ ਦ ਇਸ ਇਕ ਠ ਨ 	ਅੱਜ ਦੇ ਇਸ ਇਕੱਠ ਨੇ	today is a cut me 	Today is a cut me.	1.0
-male		fifties	pa-IN	ਕਹ ਦ ਸ ਮ ਡ ਨਕਸਲਬ ੜ ਆ ਚ ਹ 	ਕਹਿੰਦਾ ਸੀ ਮੁੰਡਾ ਨਕਸਲਬਾੜੀਆਂ ਚ ਹੈ	khehnda si munda naksal bari natcho hai	Khehnda si munda naksal bari natcho hai	1.0
-male		fifties	pa-IN	ਸ ਲਜ ਦ ਮਤਲਬ ਹ ਸਟ ਰ ਟ ਜ ਜ ਫ ਰ ਨ ਗਲ ਜ ਬਲ ਸ ਨ ਸ ਸ	ਸੈਲਜ਼ ਦਾ ਮਤਲਬ ਹੈ ਸਟ੍ਰੈਟੇਜੀਜ਼ ਫਾਰ ਨੈਗਲੀਜ਼ੇਬਲ ਸੈਨੇਸੈਂਸ	so i will tell you about the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the	So, I will tell you about the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the	11.15
-male		fifties	pa-IN	ਦ ਪਹ ਰ ਜ ਸ ਮ ਨ ਝਪਕ ਆ ਨ ਲਓ	ਦੁਪਹਿਰ ਜਾਂ ਸ਼ਾਮ ਨੂੰ ਝਪਕੀਆਂ ਨਾ ਲਓ	the pahar yaacham nu chappkia malau	The Pahar Yaacham Nu Chappkia Malau	1.0
-male		fifties	pa-IN	ਮ ਰ ਪ ਤਰ ਆਪਣ ਰਵ ਇਤ ਭ ਸ ਬ ਲਦ ਹਨ	ਮੇਰੇ ਪਾਤਰ ਆਪਣੀ ਰਵਾਇਤੀ ਭਾਸ਼ਾ ਬੋਲਦੇ ਹਨ	my father apni reviety paasha boldhahan 	My father, apni, reviety, paasha, boldhahan.	1.0
-male		fifties	pa-IN	ਸ ਆਸਤਦ ਨ ਦ ਅ ਦ ਜ ਹ 	ਸਿਆਸਤਦਾਨਾਂ ਦਾ ਅੰਦਾਜ਼ ਹੈ	see us at the danna da and da azhe 	See us at the Danna da and da azhe.	1.125
-male		fifties	pa-IN	ਧ ਵ ਅੜ ਅਲ ਹ ਜ ਦ 	ਧੀ ਵੀ ਅੜੀਅਲ ਹੋ ਜਾਂਦੀ	tv arriya lohojande	TV Arriya Lohojande	1.0
-male		fifties	pa-IN	ਉਹਦ ਬ ਹਰਲ ਕਲ ਬ ਨ ਲ ਅ ਟ ਸ ਟ ਸ 	ਉਹਦੀ ਬਾਹਰਲੇ ਕਲੱਬਾਂ ਨਾਲ ਅੱਟੀ ਸੱਟੀ ਸੀ	odi barley klabanal atisatisi	Odi Barley KLABANAL ATISATISI	1.0
-male		fifties	pa-IN	ਸ ਗ ਤ ਸ ਡ ਜ ਦਗ ਲਈ ਇਕ ਸ ਥ ਵ ਗ ਹ 	ਸੰਗੀਤ ਸਾਡੀ ਜ਼ਿੰਦਗੀ ਲਈ ਇਕ ਸਾਥੀ ਵਾਂਗ ਹੈ	sangeet sardee is in the relay icksat huan hai	Sangeet Sardee is in the relay icksat huan hai	1.0
-male		fifties	pa-IN	ਬ ਚ ਭ ਖ ਨ ਲ ਬ ਲਕ ਰਹ ਹਨ ਮ ਬ ਪ ਕ ਲ ਦ ਖ ਨਹ ਜ ਰਹ 	ਬੱਚੇ ਭੁੱਖ ਨਾਲ ਬਿਲਕ ਰਹੇ ਹਨ ਮਾਂਬਾਪ ਕੋਲੋਂ ਦੇਖੇ ਨਹੀਂ ਜਾ ਰਹੇ	b bachke pok nal bilkarahi han maabab kolo dekne nahi jara hai	B Bachke pok nal bilkarahi han maabab kolo dekne nahi jara hai	1.0
-male		fifties	pa-IN	ਕ ਨ ਡ ਅਨ ਕ ਰ ਬ ਰ ਵ ਵ ਧ ਰ ਹ ਸ 	ਕੈਨੇਡੀਅਨ ਕਾਰੋਬਾਰ ਵੀ ਵੱਧ ਰਿਹਾ ਸੀ	canadian karobarvi wadriasi	Canadian Karobarvi Wadriasi	1.0
-male		fifties	pa-IN	ਹਮ ਸ ਕਮਰ ਸ ਧ ਕਰਕ ਹ ਬ ਠ 	ਹਮੇਸ਼ਾ ਕਮਰ ਸਿੱਧੀ ਕਰਕੇ ਹੀ ਬੈਠੋ	hameshah kamar sidhi karkehi betho	Hameshah Kamar Sidhi Karkehi Betho	1.0
-male		fifties	pa-IN	ਜ ਤ ਸ ਖ ਦ ਓ ਤ ਸ ਓਹ ਓ	ਜੋ ਤੁਸੀਂ ਖਾਂਦੇ ਓ ਤੁਸੀਂ ਓਹੀ ਓ	jotu si kambeho tu si ohi yo	Jotu si kambeho, tu si ohi yo	1.0
-male		fifties	pa-IN	ਮ ਹ ਕਣ ਨ ਲ ਸ ਰ ਸ ਆਦ ਮ ਰ ਆ ਜ ਦ 	ਮੀਂਹ ਕਣੀ ਨਾਲ ਸਾਰਾ ਸੁਆਦ ਮਾਰਿਆ ਜਾਂਦੈ	minkar ninal saraswad maria jandakh	Minkar Ninal Saraswad Maria Jandakh	1.0
-			pa-IN	ਦ ਵ ਥ ੜ ਹ ਦ ਰ ਚ ਪ ਖਲ ਤ ਰਹ 	ਦੋਵੇਂ ਥੋੜ੍ਹੀ ਦੇਰ ਚੁੱਪ ਖਲੋਤੇ ਰਹੇ	2 3	2-3	1.0
-			pa-IN	ਬਲਵ ਤ ਉਸ ਤ ਤ ਨ ਸ ਲ ਛ ਟ ਹ 	ਬਲਵੰਤ ਉਸ ਤੋਂ ਤਿੰਨ ਸਾਲ ਛੋਟਾ ਹੈ	balvant usto tinsal chotta hai	Balvant, usto tinsal chotta hai	1.0
-			pa-IN	ਅ ਜ ਉਹਨ ਦ ਜ ਇਦ ਦ ਦ ਜ ਚ ਹ ਵ 	ਅੱਜ ਉਹਨਾਂ ਦੀ ਜਾਇਦਾਦ ਦੀ ਜਾਂਚ ਹੋਵੇ	ajunad ji ji daad ji jansh kove	Ajunad ji ji daad ji jansh kove	1.0
-male		fourties	pa-IN	ਘ ਟ ਗਲਵ ਕੜ ਪ ਉਣ ਚ ਹ ਦ ਸ ਮ ਨ 	ਘੁੱਟ ਗਲਵੱਕੜੀ ਪਾਉਣਾ ਚਾਹੁੰਦੀ ਸੀ ਮੈਨੂੰ	khot galava kri pona ca on the same menu	Khot galava kri pona ca on the same menu	1.0
-male		fourties	pa-IN	ਇਸ ਮ ਕ ਸਰਚ ਦ ਸ ਘ ਵ ਮ ਜ ਦ ਸਨ	ਇਸ ਮੌਕੇ ਸਰਚਾਂਦ ਸਿੰਘ ਵੀ ਮੌਜੂਦ ਸਨ	es mokke sarchand sing v moduud sun	es mokke sarchand sing v moduud sun	1.0
-male		fourties	pa-IN	ਬਲਦ ਵ ਸ ਘ ਦ ਆਈ ਚਲ ਈ ਹ ਚ ਲਦ ਸ 	ਬਲਦੇਵ ਸਿੰਘ ਦੀ ਆਈ ਚਲਾਈ ਹੀ ਚੱਲਦੀ ਸੀ	baldev singhdi ijali hjali s 	Baldev Singhdi ijali hjali s.	1.0
-male		fourties	pa-IN	ਜਦ ਤ ਕ ਅਸ ਆਪਣ ਮ ਨਸ ਕਤ ਬਦਲਦ ਨਹ 	ਜਦੋਂ ਤੱਕ ਅਸੀਂ ਆਪਣੀ ਮਾਨਸਿਕਤਾ ਬਦਲਦੇ ਨਹੀਂ	jadotak asi apani mansekta badaulde nehi	jadotak asi apani mansekta badaulde nehi	1.0
-male		fourties	pa-IN	ਮ ਨ ਰ ਝਣ ਨਦਰ ਨ ਆ ਵਦ ਈ	ਮੈਨੂੰ ਰਾਂਝਣਾ ਨਦਰ ਨਾ ਆਂਵਦਾ ਈ	me nul rangana nadar na aam da i	Me nul rangana nadar na aam da i	1.0
-male		fourties	pa-IN	ਇ ਕ ਬ ਦ ਵ ਚ ਕ ਈ ਸ ਕਤ ਨਹ ਹ 	ਇੱਕ ਬੰਦੇ ਵਿੱਚ ਕੋਈ ਸ਼ਕਤੀ ਨਹੀਂ ਹੈ	1 bandai ve chukhoy shakti nehih hai	1. Bandai Ve Chukhoy Shakti Nehih hai	1.0
-male		fourties	pa-IN	ਉਹ ਅਮ ਰ ਗਰ ਬ ਵ ਚਲ ਫਰਕ ਮ ਟ ਉਣ ਦ ਮ ਗ ਕਰ ਰਹ ਸਨ	ਉਹ ਅਮੀਰੀ ਗਰੀਬੀ ਵਿਚਲਾ ਫਰਕ ਮਿਟਾਉਣ ਦੀ ਮੰਗ ਕਰ ਰਹੇ ਸਨ	o amiri gari b vichla fark meton the mangakar rahesan	O Amiri Gari B. Vichla Fark meton the Mangakar Rahesan	1.0
-male		fourties	pa-IN	ਮ ਡ ਹ ਇਆ ਹਜ ਰ ਸ ਹ ਬ ਪ ਗ ਬ ਨ ਕ ਲ ਆਵ ਗ 	ਮੁੰਡਾ ਹੋਇਆ ਹਜ਼ੂਰ ਸਾਹਿਬ ਪੱਗ ਬੰਨਾਂ ਕੇ ਲਿਆਵਾਂਗੇ	mundahuya hajur saheb pagupanaa keliya maaghi	Mundahuya hajur Saheb pagupanaa keliya maaghi	1.0
-male		fourties	pa-IN	ਹ ਣ ਮ ਉਣ ਤਰਵ ਸ ਲ ਚ ਹ 	ਹੁਣ ਮੈਂ ਉਣੱਤਰਵੇਂ ਸਾਲ ਚ ਹਾਂ	hornme una tarametsal	Hornme Una Tarametsal	1.0
-male		fourties	pa-IN	ਮ ਸਕਰ ਓ ਇਸ ਨ ਲ ਲ ਕ ਚਕਰ ਜ ਦ ਹਨ	ਮੁਸਕਰਾਓ ਇਸ ਨਾਲ ਲੋਕ ਚਕਰਾ ਜਾਂਦੇ ਹਨ	muskurau esnal lok çakarajandihan	Muskurau Esnal Lok Çakarajandihan	1.0
-male		fourties	pa-IN	ਸ ਅਸ ਸ ਧ ਤ ਰ ਤ ਸ ਕ ਹ ਰ ਨ ਹ ਏ	ਸੋ ਅਸੀਂ ਸਿੱਧੇ ਤੌਰ ਤੇ ਸ਼ਾਕਾਹਾਰੀ ਨਾ ਹੋਏ	so asin siddhet orte shaka harina huel 	So, asin siddhet orte shaka harina huel.	1.0
-male		fourties	pa-IN	ਕ ਸ ਨ ਨ ਸਰਕ ਰ ਸਕ ਮ ਤ ਜ ਣ ਕਰਵ ਇਆ	ਕਿਸਾਨਾਂ ਨੂੰ ਸਰਕਾਰੀ ਸਕੀਮਾਂ ਤੋਂ ਜਾਣੂ ਕਰਵਾਇਆ	kishanna nung sarkadi sakimārto janukar vaya	kishanna nung sarkadi sakimārto janukar vaya	1.0
-male		fourties	pa-IN	ਦ ਜ ਦ ਔਰਤ ਵ ਉਸ ਦ ਹ ਜ ਵ 	ਦੂਜੇ ਦੀ ਔਰਤ ਵੀ ਉਸੇ ਦੀ ਹੋ ਜਾਵੇ	dujjd oratv usadhhojjw	Dujjd oratv usadhhojjw	1.0
-male		fourties	pa-IN	ਕਣਕ ਭ ਨ ਕ ਮਰ ਡ ਬਣ ਏ ਜ ਦ 	ਕਣਕ ਭੁਨਾ ਕੇ ਮਰੂੰਡੇ ਬਣਾਏ ਜਾਂਦੇ	kanakepuna ake marunde buna ejande	Kanakepuna Ake Marunde Buna Ejande	1.0
-male		fourties	pa-IN	ਭ ਡ ਦ ਬ ਟ ਫ ਟ ਉ ਚ 	ਭਿੰਡੀ ਦਾ ਬੂਟਾ ਫੁੱਟ ਉੱਚਾ	pindida buddha fort ucha	Pindida Buddha Fort Ucha	1.0
-male		fourties	pa-IN	ਤ ਰ ਪ ਆ ਹ ਖ ਲ ਬਗਲ ਚ ਕ	ਤੁਰ ਪਿਆ ਹਾਂ ਖਾਲੀ ਬਗਲੀ ਚੁੱਕ	torpe aha kali bagli chok	Torpe Aha Kali Bagli Chok	1.0
-male		fourties	pa-IN	ਤ ਹ ੜ ਦ ਆ ਕ ਲ ਛ ਜ ਲ ਹ ਹਨ	ਤਿਹਾੜ ਦੀਆਂ ਕੁੱਲ ਛੇ ਜੇਲ੍ਹਾਂ ਹਨ	tehrar dia kul ce jela hanl	Tehrar, dia, kul, ce, jela, hanl	1.0
-male		fourties	pa-IN	ਗ ਲਡ ਤ ਸਟ ਕ ਬ ਠ ਆ ਅਭ ਨਵ ਦ ਨ ਸ ਨ 	ਗੋਲਡ ਤੇ ਸਟੀਕ ਬੈਠਿਆ ਅਭਿਨਵ ਦਾ ਨਿਸ਼ਾਨਾ	gold tasty kebet ha a vidna bada ni shanna	gold tasty kebet ha a vidna bada ni shanna	1.0
-male		fourties	pa-IN	ਕ ਧਰ ਮਨ ਖ ਬ ਬ ਆਪਣ ਕ ਰ ਕਰ ਰਹ ਹਨ	ਕਿਧਰੇ ਮਨੁੱਖੀ ਬੰਬ ਆਪਣਾ ਕਾਰਾ ਕਰ ਰਹੇ ਹਨ	kidre minu ki baambu apana kaara kaara hai hane	Kidre minu ki baambu apana kaara kaara hai hane	1.0
-male		fourties	pa-IN	ਬ ਠ ਤ ਸ ਰਲ ਕ ਭ ਰਤ ਦ ਵ ਰ 	ਬੈਠੋ ਤੁਸੀਂ ਰਲ ਕੇ ਭਾਰਤ ਦੇ ਵੀਰੋ	back to see raleke part of the viro 	Back to see Raleke part of the Viro.	1.0
-male		fourties	pa-IN	ਨਸ ਆ ਨ ਰ ਕਣ ਲਈ ਵ ਫ ਲਮ ਬਣ ਈ	ਨਸ਼ਿਆਂ ਨੂੰ ਰੋਕਣ ਲਈ ਵੀ ਫ਼ਿਲਮ ਬਣਾਈ	nasya nul rokar lei vi film banai	nasya nul rokar lei vi film banai	1.0
-male		fourties	pa-IN	ਬ ਦ ਹਰ ਕ ਮ ਸ ਖ ਸਕਦ ਹ 	ਬੰਦਾ ਹਰ ਕੰਮ ਸਿੱਖ ਸਕਦਾ ਹੈ	bandha har kam sik sakadaha hai	Bandha har kam sik sakadaha hai	1.0
-male		fourties	pa-IN	ਪ ਸਟਮ ਰਟਮ ਹ ਕ ਲ ਸ ਹ ਣ ਹ ਪਹ ਚ ਆ ਸਨ	ਪੋਸਟਮਾਰਟਮ ਹੋ ਕੇ ਲਾਸ਼ਾਂ ਹੁਣੇ ਹੀ ਪਹੁੰਚੀਆਂ ਸਨ	post martam ho ke lasha hune hi poanchi asan	post martam ho ke lasha hune hi poanchi asan	1.0
-male		fourties	pa-IN	ਜ ਸ ਤ ਬ ਅਦ ਉਹ ਵ ਪਸ ਨਹ ਪਰਤ ਆ	ਜਿਸ ਤੋਂ ਬਾਅਦ ਉਹ ਵਾਪਸ ਨਹੀਂ ਪਰਤਿਆ	gestoombad o baapas	gestoombad o baapas	1.0
-male		fourties	pa-IN	ਉਹ ਆਪਣ ਨ ਮ ਇ ਦ ਆ ਬ ਰ ਆਪ ਫ ਸਲ ਕਰਨ	ਉਹ ਆਪਣੇ ਨੁਮਾਇੰਦਿਆਂ ਬਾਰੇ ਆਪ ਫੈਸਲਾ ਕਰਨ	o appane in numain dia baare aap fast lock art	O appane in numain dia baare aap fast lock art	1.0
-male		fourties	pa-IN	ਡ ਨ ਵ ਗ ਹ ਮ ਨ ਉਸ ਦ ਕ ਰਦ ਰ ਵ ਬ ਹ ਦ ਪ ਵਰਫ ਲ ਲ ਗਦ ਹ 	ਡੌਨ ਵਾਂਗ ਹੀ ਮੈਨੂੰ ਉਸ ਦਾ ਕਿਰਦਾਰ ਵੀ ਬੇਹੱਦ ਪਾਵਰਫੁਲ ਲੱਗਦਾ ਹੈ	don wanghi menu osta kirdar vbehad power full lagda hai	Don Wanghi menu, Osta kirdar vbehad power full lagda hai	1.0
-male		fourties	pa-IN	ਪਰ ਆਦ ਹ ਣ ਹ ਦ ਅਤ ਅ ਗਰ ਜ ਵ ਸ ਖ ਰਹ ਹ 	ਪਰ ਆਦੀ ਹੁਣ ਹਿੰਦੀ ਅਤੇ ਅੰਗਰੇਜ਼ੀ ਵੀ ਸਿੱਖ ਰਹੀ ਹੈ	par aadi huna hindi ate angare jee vise karahi hai	par aadi huna hindi ate angare jee vise karahi hai	1.0
-male		fourties	pa-IN	ਮ ਨ ਟ ਨ ਸ ਖ ਡਣ ਬਹ ਤ ਚ ਗ ਲ ਗਦ ਹ 	ਮੈਨੂੰ ਟੈਨਿਸ ਖੇਡਣਾ ਬਹੁਤ ਚੰਗਾ ਲੱਗਦਾ ਹੈ	menu tannies cake	menu tannies cake	1.0
-male		fourties	pa-IN	ਇਹਨ ਪ ਜ ਦ ਵ ਸ ਵ ਰ ਜਧ ਨ ਕ ਹ ਜ ਦ 	ਇਹਨੂੰ ਪੂੰਜੀ ਦੀ ਵਿਸ਼ਵ ਰਾਜਧਾਨੀ ਕਿਹਾ ਜਾਂਦੈ	enu punjidi beshev rajta nikhi hajandha	Enu punjidi beshev rajta nikhi hajandha	1.0
-male		fourties	pa-IN	ਭ ਰ ਸ ਟ ਚ ਰ ਦ ਦ ਸ ਝ ਲ ਚ ਕ ਹਨ	ਭ੍ਰਿਸ਼ਟਾਚਾਰ ਦੇ ਦੋਸ਼ ਝੇਲ ਚੁੱਕੇ ਹਨ	pagastachal de dos ceil chukhe hana	Pagastachal de dos ceil chukhe hana	1.0
-male		fourties	pa-IN	ਘ ਟ ਘ ਟ ਲਹ ਦ ਹ ਝ ਪ ਵ ਨ 	ਘੁਟ ਘੁਟ ਲਹੂ ਦੇ ਹੰਝੂ ਪੀਵਾਂ ਨੀਂ	kortu kortu ahoode hanju pimaani	Kortu Kortu, Ahoode, Hanju, Pimaani	1.0
-male		fourties	pa-IN	ਜ ਹਰ ਹ ਕ ਕ ਨ ਡ ਅ ਜ ਬਹ ਤ ਬਦਲ ਗ ਆ ਹ 	ਜ਼ਾਹਰ ਹੈ ਕਿ ਕੈਨੇਡਾ ਅੱਜ ਬਹੁਤ ਬਦਲ ਗਿਆ ਹੈ	zahar is a canada today is a very famous country 	Zahar is a Canada. Today is a very famous country.	1.0
-male		fourties	pa-IN	ਬ ਚ ਬ ਢ ਜਵ ਨ ਦ ਗ ਲ ਛਡ ਹ 	ਬੱਚੇ ਬੁੱਢੇ ਜਵਾਨ ਦੀ ਗੱਲ ਛਡ੍ਹੋ	bachhe bhude jawan di gali sadu	Bachhe Bhude jawan di gali sadu	1.0
-male		fourties	pa-IN	ਉਸ ਵ ਲ ਉਸ ਦ ਕ ਪਨ ਨ ਫ ਨ ਕਰ 	ਉਸੇ ਵੇਲੇ ਉਸ ਦੀ ਕੰਪਨੀ ਨੂੰ ਫੋਨ ਕਰੋ	usevele usedee kampanii no fongaru	Usevele Usedee kampanii no fongaru	1.0
-male		fourties	pa-IN	ਸ ਧ ਕ ਸ ਗ ਲ ਗ ਪ ਰਭ ਮ ਠ 	ਸਾਧ ਕੇ ਸੰਗਿ ਲਾਗੈ ਪ੍ਰਭੁ ਮੀਠਾ	saad ke sang laga prava mitha	Saad ke sang laga prava mitha	1.0
-male		fourties	pa-IN	ਸਭ ਤ ਪਹ ਲ ਭ ਦਸ ਸਰਕਲ ਦ ਜਥ ਦ ਰ ਬਣ 	ਸਭ ਤੋਂ ਪਹਿਲਾਂ ਭਾਦਸੋਂ ਸਰਕਲ ਦੇ ਜਥੇਦਾਰ ਬਣੇ	saavuton pellampadso sarkal lejadhidhar bani	Saavuton Pellampadso Sarkal Lejadhidhar Bani	1.0
-male		fourties	pa-IN	ਹਰ ਹ ਲ ਵਸ ਲ ਤ ਅਧ ਕ ਰ ਜਮ ਵ ਗ 	ਹਰ ਹੀਲੇ ਵਸੀਲੇ ਤੇ ਅਧਿਕਾਰ ਜਮਾਂਵਾਂਗਾ	harheelay vasile te adhaka arjamaama	Harheelay Vasile te adhaka arjamaama	1.0
-male		fourties	pa-IN	ਪਰ ਪ ਸ ਨ ਲ ਕਰ ਲ ਦ ਹ 	ਪਰ ਪੈਸੇ ਨਾਲ ਕਰ ਲੈਂਦੀ ਹੈ	par pease in alkar lendi hai	par pease in alkar lendi hai	1.0
-male		fourties	pa-IN	ਪਰ ਤ ਫ ਲ ਮ ਹ ਮਦ ਦ ਬ ਹ ਬ ਦ ਸ 	ਪਰ ਤੁਫੈਲ ਮੁਹੰਮਦ ਦਾ ਬੂਹਾ ਬੰਦ ਸੀ	paratofail mohamed abhaha bandisi	Paratofail Mohamed Abhaha Bandisi	1.0
-male		fourties	pa-IN	ਇਹ ਗ ਲ ਮ ਮ ਲ ਤਕਰ ਰ ਦ ਕ ਰਣ ਬਣ 	ਇਹ ਗੱਲ ਮਾਮੂਲੀ ਤਕਰਾਰ ਦਾ ਕਾਰਣ ਬਣੀ	a g l m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m 	A.G.L.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.	9.333333333333334
-male		fourties	pa-IN	ਆਕਸ ਜਨ ਲ ਗ ਹ ਈ ਮ ਰ ਪ ਤ ਬ ਹ ਸ ਪ ਆ ਸ 	ਆਕਸੀਜਨ ਲੱਗੀ ਹੋਈ ਮੇਰਾ ਪਿਤਾ ਬੇਹੋਸ਼ ਪਿਆ ਸੀ	aksijjan laghihoi merapita behoj piasi	Aksijjan laghihoi, merapita behoj piasi	1.0
-male		fourties	pa-IN	ਜਹ ਰ ਕ ਬਦਲ ਦ ਮ ਅ ਮ ਰ ਤ ਤ ਝ ਕ 	ਜਹਿਰ ਕੇ ਬਦਲੇ ਦੂ ਮੈਂ ਅੰਮ੍ਰਿਤ ਤੁਝ ਕੋ	jaihar ke badalay duhme amaretu tujku	Jaihar ke Badalay duhme Amaretu tujku	1.0
-male		fourties	pa-IN	ਰ ਮ ਸ ਘ ਫ ਰ ਆਖ ਆ ਰਜ ਰ ਬ ਦ ਰਹ ਣ 	ਰਾਮ ਸਿੰਘ ਫਿਰ ਆਖਿਆ ਰਜਾ ਰੱਬ ਦੀ ਰਹਿਣਾ	ram singh kefir akhya raja aghabadi rana	Ram Singh kefir akhya raja aghabadi rana	1.0
-male		fourties	pa-IN	ਇ ਕ ਪ ਤ ਰ ਦ ਬਖ ਸ ਦ ਹ ਦ ਤ ਦ ਤ 	ਇੱਕ ਪੁੱਤ੍ਰ ਦੀ ਬਖ਼ਸ਼ ਦੇਹ ਦਾਤ ਦਾਤਾ	1 putter d box d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d 	1 putter d-box d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-	8.071428571428571
-male		fourties	pa-IN	ਇਸ ਦ ਹ ਥ ਦ ਭ ਡ ਛ ਟ ਗਏ	ਇਸ ਦੇ ਹੱਥਾਂ ਦੇ ਭਾਂਡੇ ਛੁੱਟ ਗਏ	hathandhepandh hottu gai	hathandhepandh hottu gai	1.0
-male		fourties	pa-IN	ਇਸ ਤਰ ਹ ਹ ਨ ਲ ਦ ਪ ਡ ਕਬਰਸਤ ਨ ਹ 	ਇਸ ਤਰ੍ਹਾਂ ਹੀ ਨਾਲ ਦੇ ਪਿੰਡ ਕਬਰਸਤਾਨ ਹੈ	esterahi naal de pente kabras tan hai	esterahi naal de pente kabras tan hai	1.0
-male		fourties	pa-IN	ਆਤਮ ਮ ਹ ਮਦ ਦ ਆਈ ਹ ਕਲ ਅ ਦਰ	ਆਤਮਾ ਮੁਹੰਮਦ ਦੀ ਆਈ ਹੈ ਕਲੀ ਅੰਦਰ	aathama muhammadadi aayihak ali andhar	Aathama Muhammadadi Aayihak Ali Andhar	1.0
-male		fourties	pa-IN	ਇਸ ਨ ਖਤਮ ਕਰਨ ਲਈ ਸਰਗਰਮ ਵ ਹਨ	ਇਸ ਨੂੰ ਖਤਮ ਕਰਨ ਲਈ ਸਰਗਰਮ ਵੀ ਹਨ	snu katankarlai sargaram bihan	Snu katankarlai sargaram bihan	1.0
-male		fourties	pa-IN	ਅਖ ਆ ਮ ਤ ਜ ਇ ਕ ਝਲਕ ਪ ਆਓ ਮ ਨ 	ਅਖਿਆ ਮਾਤਾ ਜੀ ਇੱਕ ਝਲਕ ਪੁਆਓ ਮੈਨੂੰ	akea mataji 1 kechel ka pohao menu	Akea Mataji 1 kechel ka pohao menu	1.0
-male		fourties	pa-IN	ਅ ਜ ਵ ਕ ਕਰ ਸ ਘ ਕ ਲ ਗ ਲ ਮ ਤ 	ਅੱਜ ਵੀ ਕਿੱਕਰ ਸਿੰਘ ਕੱਲੂ ਗ਼ੁਲਾਮ ਤੇ	ajvi kikarsing kalub belam teh	Ajvi Kikarsing Kalub Belam Teh	1.0
-male		fourties	pa-IN	ਧ ਨ ਧ ਨ ਹਮ ਰ ਭ ਗ ਘਰ ਆਇਆ ਪ ਰ ਮ ਰ 	ਧੰਨਿ ਧੰਨਿ ਹਮਾਰੇ ਭਾਗ ਘਰਿ ਆਇਆ ਪਿਰੁ ਮੇਰਾ	tannetan hamari pago karayaya permirah	tannetan hamari pago karayaya permirah	1.0
-male		fourties	pa-IN	ਭ ਅ ਜ ਗ ਰਸ ਰਨ ਸ ਘ ਦ ਯ ਦ ਵ ਚ	ਭਾਅ ਜੀ ਗੁਰਸ਼ਰਨ ਸਿੰਘ ਦੀ ਯਾਦ ਵਿੱਚ	paji goshar nesengdi yadraj	Paji Goshar Nesengdi Yadraj	1.0
-male		fourties	pa-IN	ਬਹ ਤ ਵ ਰ ਇਆ ਮ ਢ ਲ ਵ ਰਦ ਨਹ 	ਬਹੁਤ ਵਿਰਾਇਆ ਮੋਢੇ ਲਾ ਵਿਰਦਾ ਨਹੀਂ	bhaat de raya modela virdani	Bhaat de raya modela virdani	1.0
-male		fourties	pa-IN	ਜ ਮ ਰ ਬ ਪ ਦ ਟਰ ਕ ਚ ਲਦ ਐ	ਜੀ ਮੇਰੇ ਬਾਪੂ ਦੇ ਟਰੱਕ ਚੱਲਦੇ ਐ	jimire bapudit rakjal dea	Jimire bapudit rakjal dea	1.0
-male		fourties	pa-IN	ਬ ਅਦ ਵ ਚ ਉਹ ਮਹ ਭ ਰਤ ਸ ਰ ਅਲ ਦ ਭ ਮ ਬਣ ਆ	ਬਾਅਦ ਵਿਚ ਉਹ ਮਹਾਂਭਾਰਤ ਸੀਰੀਅਲ ਦਾ ਭੀਮ ਬਣਿਆ	baadwetcaohu maha paartha sijya la pim baniha	Baadwetcaohu maha paartha, sijya la pim baniha	1.0
-male		fourties	pa-IN	ਕ ਲਜ ਵ ਤ ਗ ਜ ਹ ਥ ਸ 	ਕਾਲਜ ਵੀ ਤੰਗ ਜਿਹੀ ਥਾਂ ਸੀ	kalajvi tanga jahi tangsi	Kalajvi tanga jahi tangsi	1.0
-male		fourties	pa-IN	ਜਵ ਬ ਸ ਫ ਸਦ ਅਸਲ ਅਤ ਹ ਜ 	ਜਵਾਬ ਸੌ ਫੀਸਦੀ ਅਸਲੀਅਤ ਹੈ ਜੀ	javab saofi sidi asliya tahaji	Javab, Saofi, Sidi, Asliya, Tahaji	1.0
-male		fourties	pa-IN	ਸ ਈਕਲ ਤ ਸਕ ਟਰ ਵ ਬਹ ਤ ਚਲ ਏ ਹਨ	ਸਾਈਕਲ ਤੇ ਸਕੂਟਰ ਵੀ ਬਹੁਤ ਚਲਾਏ ਹਨ	cycle tez kutrabeet bhaoth chalai hang	Cycle Tez Kutrabeet Bhaoth Chalai Hang	1.0
-male		fourties	pa-IN	ਵ ਟ ਅਕ ਲ ਆ ਨ ਪ ਉਣ ਦ ਸ ਰਤ ਤ ਮ ਨ ਸਕਦ ਹ 	ਵੋਟਾਂ ਅਕਾਲੀਆਂ ਨੂੰ ਪਾਉਣ ਦੀ ਸ਼ਰਤ ਤੇ ਮੰਨ ਸਕਦੇ ਹਾਂ	vota akaliya no poundi sharp te man sakadeh han	Vota, akaliya no poundi, sharp te, man sakadeh han	1.0
-male		fourties	pa-IN	ਅ ਗ ਗ ਲ ਇਕ ਹ ਰ ਕ ਪ ਦ ਕਰਦ ਹ 	ਅੱਗੇ ਗੱਲ ਇਕ ਹੋਰ ਕੱਪ ਦੀ ਕਰਦੇ ਹਾਂ	age gala ekohor ka padi kar dehan	Age gala ekohor ka padi kar dehan	1.0
-male		fourties	pa-IN	ਭ ਅ ਵ ਚ ਸ ਰਜ ਭ ਅ ਵ ਚ ਚ ਦ	ਭੈਅ ਵਿੱਚ ਸੂਰਜ ਭੈਅ ਵਿੱਚ ਚੰਦ	paivic sula jepaivic chandu	Paivic sula jepaivic chandu	1.0
-male		fourties	pa-IN	ਪਰ ਅਗਰ ਸਰਕ ਰ ਪ ਨਸ ਨ ਵਧ ਦ ਦ ਹ ਤ ਕਦ ਲ ਡ ਨਹ ਵ ਡਦ 	ਪਰ ਅਗਰ ਸਰਕਾਰ ਪੈਨਸ਼ਨ ਵਧਾ ਦਿੰਦੀ ਹੈ ਤਾਂ ਕਦੇ ਲੱਡੂ ਨਹੀਂ ਵੰਡਦੇ	par agar sarkar pensionumada adindi hai takka de ladu nei mandadee	par agar sarkar pensionumada adindi hai takka de ladu nei mandadee	1.0
-male		fourties	pa-IN	ਉਨ ਕ ਹ ਕ ਕ ਝ ਗ ਹਕ ਵ ਪ ਸ ਲ ਟ ਕਰ ਦ ਦ ਹਨ	ਉਨਾਂ ਕਿਹਾ ਕਿ ਕੁੱਝ ਗਾਹਕ ਵੀ ਪੈਸੇ ਲੇਟ ਕਰ ਦਿੰਦੇ ਹਨ	ona keha keko ji ga ha kvi pashe late kar dinde handa	Ona keha keko ji ga ha kvi pashe late kar dinde handa	1.0
-male		fourties	pa-IN	ਫ ਰਜ ਪ ਜ ਦ ਢ ਗ ਰਚ ਨ ਬਹ 	ਫ਼ਰਜ਼ੀ ਪੂਜਾ ਦਾ ਢੋਂਗ ਰਚਾ ਨਾ ਬਹਿ	fazi puja da toongra jana be	Fazi puja da toongra jana be	1.0
-male		fourties	pa-IN	ਇਸ ਗ ਲ ਦ ਮ ਨ ਸਦ ਅਫ ਸ ਸ ਹ ਤ ਰਹ ਗ 	ਇਸ ਗੱਲ ਦਾ ਮੈਨੂੰ ਸਦਾ ਅਫ਼ਸੋਸ ਹੈ ਤੇ ਰਹੇਗਾ	essagalda menu sada absos hatera higa	Essagalda menu sada absos hatera higa	1.0
-male		fourties	pa-IN	ਕ ਰਤ ਕਰਨ ਤ ਵ ਡ ਛਕਣ ਦ ਧਰਮ ਕਰ 	ਕਿਰਤ ਕਰਨ ਤੇ ਵੰਡ ਛਕਣ ਦਾ ਧਰਮ ਕਰੀਂ	kerala	Kerala	1.0
-male		fourties	pa-IN	ਇਹ ਤ ਫ ਫਟ ਫ ਫਟ ਦ ਮ ਮਲ ਹ 	ਇਹ ਤਾਂ ਫਿਫਟੀ ਫਿਫਟੀ ਦਾ ਮਾਮਲਾ ਹੈ	1550	1550	1.0
-male		fourties	pa-IN	ਜ ਦ ਨ ਟ ਕ ਨਹ ਸ ਲਵ ਇਆ	ਜਿੰਦੇ ਨੇ ਟੀਕਾ ਨਹੀਂ ਸੀ ਲਵਾਇਆ	jende ne tika ne sila wa ya	jende ne tika ne sila wa ya	1.0
-male		fourties	pa-IN	ਕ ਈ ਨਜ ਰ ਵ ਐਸ ਦ ਖ ਨ 	ਕੋਈ ਨਜ਼ਰ ਵੀ ਐਸੀ ਦੇਖੀ ਨਾ	koi nazarbi ashi de kina	Koi nazarbi ashi de kina	1.0
-male		fourties	pa-IN	ਇਹ ਟ ਰ ਆ ਦ ਪ ਕ ਸ ਟ ਹ 	ਇਹ ਟੋਰੀਆਂ ਦੀ ਪੱਕੀ ਸੀਟ ਹੈ	2 2 3 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 	2.2.3.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.	11.2
-male		fourties	pa-IN	ਬ ਚ ਕ ਦਰਤ ਦ ਅਨਮ ਲ ਤ ਹਫ ਹ ਦ ਹ 	ਬੱਚਾ ਕੁਦਰਤ ਦਾ ਅਨਮੋਲ ਤੋਹਫਾ ਹੁੰਦਾ ਹੈ	bachcha kudkatada anmol tofa hunda hai	Bachcha kudkatada anmol tofa hunda hai	1.0
-male		fourties	pa-IN	ਢ ਡ ਕ ਦ ਥ ਮ ਰ ਕਰਮ ਵ ਚ ਮ ਕ ਦਪ ਰ ਕ ਲਜ ਦ ਪ ਰ ਸ ਪਲ ਲ ਖ ਸ 	ਢੁੱਡੀਕੇ ਦੀ ਥਾਂ ਮੇਰੇ ਕਰਮਾਂ ਵਿਚ ਮੁਕੰਦਪੁਰ ਕਾਲਜ ਦੀ ਪ੍ਰਿੰਸੀਪਲੀ ਲਿਖੀ ਸੀ	to dkd my karma which mukandpur kalaizhi principle li hisi	To DKD, my Karma which Mukandpur Kalaizhi Principle Li Hisi	1.0
-male		fourties	pa-IN	ਵਰਤਮ ਨ ਦ ਪਲ ਇ ਕ ਮ ਤਰ ਅਸਤ ਤ ਵ ਹ 	ਵਰਤਮਾਨ ਦਾ ਪਲ ਇੱਕ ਮਾਤਰ ਅਸਤਿਤੱਵ ਹੈ	vartamanda pal ikumatara astetu hai	Vartamanda pal ikumatara astetu hai	1.0
-male		fourties	pa-IN	ਤ ਉਹ ਲਗ ਤ ਰ ਲ ਖ ਰ ਹ 	ਤੋਂ ਉਹ ਲਗਾਤਾਰ ਲਿਖ ਰਿਹੈ	oo lagataar legareh	oo lagataar legareh	1.0
-male		fourties	pa-IN	ਸ ਹ ਲਗ ਤ ਰ ਕਬ ਡ ਕਬ ਡ ਬ ਲਦ ਸ 	ਸਾਹੀ ਲਗਾਤਾਰ ਕਬੱਡੀ ਕਬੱਡੀ ਬੋਲਦਾ ਸੀ	sahi lagatar kabadik kabadik bolda si	Sahi lagatar kabadik kabadik bolda si	1.0
-male		fourties	pa-IN	ਗ ਟ ਅ ਗ ਰ ਗ ਬਰ ਗ ਭ ਕ ਨ ਲਟਕ ਏ ਹ ਏ ਸਨ	ਗੇਟ ਅੱਗੇ ਰੰਗ ਬਰੰਗੇ ਭੁਕਾਨੇ ਲਟਕਾਏ ਹੋਏ ਸਨ	gate gate ranga burang gate puka nailata kai huisan 	Gate, Gate, Ranga, Burang Gate, Puka, Nailata Kai, Huisan.	1.0
-male		fourties	pa-IN	ਰ ਜ ਕ ਮ ਰ ਬਹ ਤ ਹ ਪ ਰ ਸ ਨ ਹ 	ਰਾਜ ਕੁਮਾਰੀ ਬਹੁਤ ਹੀ ਪ੍ਰੇਸ਼ਾਨ ਹੈ	raj kumari is a very good person 	Raj Kumari is a very good person.	1.0
-male		fourties	pa-IN	ਬ ਚ ਤ ਹ ਥ ਨਹ ਚ ਕਣ ਚ ਹ ਦ 	ਬੱਚੇ ਤੇ ਹੱਥ ਨਹੀਂ ਚੁੱਕਣਾ ਚਾਹੀਦਾ	bachjate hath nei chokona jayda	Bachjate hath nei chokona jayda	1.0
-male		fourties	pa-IN	ਕ ਲ ਖਰਚ ਬ ਲ ਅਨ ਡ ਲਰ ਪ ਰ ਪਤ ਜ ਰ 	ਕੁੱਲ ਖਰਚਾ ਬਿਲੀਅਨ ਡਾਲਰ ਪ੍ਰਾਪਤੀ ਜ਼ੀਰੋ	kolakharcha billion dollar propt00	Kolakharcha Billion Dollar PropT00	1.0
-male		fourties	pa-IN	ਸ ਖ ਰ ਦ ਪਹ ਰ ਵ ਗ ਸ ਡ ਇਹ ਹ ਲ ਸ 	ਸਿਖ਼ਰ ਦੁਪਹਿਰਾਂ ਵਾਂਗ ਸਾਡਾ ਇਹ ਹਾਲ ਸੀ	sekhar dupearang baang sada a halsi	Sekhar dupearang baang sada a halsi	1.0
-male		fourties	pa-IN	ਨ ੜ ਹ ਅਮਰ ਕ ਦ ਬ ਰਡਰ ਸ 	ਨੇੜੇ ਹੀ ਅਮਰੀਕਾ ਦਾ ਬਾਰਡਰ ਸੀ	nadeh i amari kada batersi	Nadeh i amari kada batersi	1.0
-male		fourties	pa-IN	ਫ ਰ ਉਹਦ ਮ ਹ ਪ ਗ ਬਰ ਬ ਲ ਨ ਕਲਦ ਹਨ	ਫਿਰ ਉਹਦੇ ਮੂੰਹੋਂ ਪੈਗ਼ੰਬਰੀ ਬੋਲ ਨਿਕਲਦੇ ਹਨ	fere ode muho pegambadi bol nekhalde hane	Fere ode muho pegambadi bol nekhalde hane	1.0
-male		fourties	pa-IN	ਦ ਦ ਦ ਦ ਨ ਨ ਨ ਨ ਨ ਕ ਨਹ ਕ ਤ ਤ ਹ ਡ ਲਈ	ਦਾਦਾ ਦਾਦੀ ਨਾਨਾ ਨਾਨੀ ਨੇ ਕੀ ਨਹੀਂ ਕੀਤਾ ਤੁਹਾਡੇ ਲਈ	daad daad daaddi naan naan ni ne ki neki tato adili	Daad daad daaddi naan naan ni ne ki neki tato adili	1.0
-male		fourties	pa-IN	ਰ ਤ ਦ ਰ ਜਵ ਚ ਰ ਹਰਣ ਹ ਇਆ	ਰੁੱਤਾਂ ਦਾ ਰੱਜਵਾਂ ਚੀਰ ਹਰਣ ਹੋਇਆ	ruttanda rajma chirhavan huaya	Ruttanda Rajma Chirhavan Huaya	1.0
-male		fourties	pa-IN	ਇਸ ਮਗਰ ਮ ਈਕ ਹਰਭਜਨ ਮ ਨ ਨ ਸ ਭ ਲ ਆ	ਇਸ ਮਗਰੋਂ ਮਾਈਕ ਹਰਭਜਨ ਮਾਨ ਨੇ ਸੰਭਾਲਿਆ	esma gron mike harpa yannman ne sanbalaya	Esma-Gron Mike Harpa Yannman Ne Sanbalaya	1.0
-male		fourties	pa-IN	ਪ ਰ ਫ ਸਰ ਪ ਜ ਬ ਵ ਭ ਗ ਤ ਡ ਇਰ ਕਟਰ ਯ ਵਕ ਭਲ ਈ	ਪ੍ਰੋਫੈਸਰ ਪੰਜਾਬੀ ਵਿਭਾਗ ਤੇ ਡਾਇਰੈਕਟਰ ਯੁਵਕ ਭਲਾਈ	professioner punjabi bbbh aga te director yoga keplai	Professioner Punjabi bbbh aga te director yoga keplai	1.0
-male		fourties	pa-IN	ਪ ਰ ਆਸ ਰਮ ਹ ਰ ਨ ਹ ਇਆ	ਪੂਰਾ ਆਸ਼੍ਰਮ ਹੈਰਾਨ ਹੋਇਆ	ura ashram hera anhoya	Ura Ashram Hera Anhoya	1.0
-male		fourties	pa-IN	ਜ ਸ ਤ ਬ ਅਦ ਉਕਤ ਸ ਰ ਘਟਨ ਵ ਪਰ 	ਜਿਸ ਤੋਂ ਬਾਅਦ ਉਕਤ ਸਾਰੀ ਘਟਨਾ ਵਾਪਰੀ	just tom bad o katsari katsana babri	Just Tom Bad, O Katsari Katsana Babri	1.0
-male		fourties	pa-IN	ਜ ਸ ਸ ਭ ਦ ਨਤ ਜ ਕਸ ਮ ਰ ਲ ਕ ਨ ਭ ਗਤਣ ਪ ਆ ਹ 	ਜਿਸ ਸੱਭ ਦਾ ਨਤੀਜਾ ਕਸ਼ਮੀਰੀ ਲੋਕਾਂ ਨੂੰ ਭੁਗਤਣਾ ਪਿਆ ਹੈ	jessa sabada natijya kashmiri lokanoopo ghtanapeyaah hai	Jessa Sabada Natijya Kashmiri Lokanoopo Ghtanapeyaah hai	1.0
-male		fourties	pa-IN	ਪਰ ਪਤ ਨਹ ਉਹ ਕ ਨ ਦ ਰ ਸਨ	ਪਰ ਪਤਾ ਨਹੀਂ ਉਹ ਕਿੰਨੀ ਦੂਰ ਸਨ	parpata nahi ok ni duhrsan	parpata nahi ok ni duhrsan	1.0
-male		fourties	pa-IN	ਧਰਤ ਸ ਰਜ ਤ ਚ ਦ ਤ ਰ ਉਹਦ ਖ ਡ ਰ ਹਨ	ਧਰਤੀ ਸੂਰਜ ਤੇ ਚੰਦ ਤਾਰੇ ਉਹਦੇ ਖਿਡਾਰੀ ਹਨ	30 suraj teth jandetare ode keda di hana	30 suraj teth jandetare ode keda di hana	1.0
-male		fourties	pa-IN	ਬ ਮ ਰ ਤ ਦਰ ਸਤ ਅਮ ਰ ਗਰ ਬ ਹ ਗ ਆ	ਬਿਮਾਰ ਤੰਦਰੁਸਤ ਅਮੀਰ ਗਰੀਬ ਹੋ ਗਿਆ	bemar tandrost amir gadi bhugya	Bemar Tandrost Amir Gadi Bhugya	1.0
-male		fourties	pa-IN	ਢ ਡ ਕ ਪਹ ਚ ਤ ਰ ਟ ਟ ਕ ਤ ਆਰ ਸ 	ਢੁੱਡੀਕੇ ਪਹੁੰਚੇ ਤਾਂ ਰੋਟੀ ਟੁੱਕ ਤਿਆਰ ਸੀ	2dg 5rot	2DG-5ROT	1.0
-male		fourties	pa-IN	ਉਹਦ ਸ ਮ ਬੜ ਰ ਗ ਨ ਹ ਦ ਸ 	ਉਹਦੀ ਸ਼ਾਮ ਬੜੀ ਰੰਗੀਨ ਹੁੰਦੀ ਸੀ	odi shah madi rangine hundisi	Odi Shah Madi Rangine Hundisi	1.0
-male		fourties	pa-IN	ਚਲ ਇਨ ਹ ਲ ਡਰ ਭ ਲ ਮ ਨ ਤ ਸਹ 	ਚਲੋ ਇਨ੍ਹਾਂ ਲੀਡਰਾਂ ਭੁੱਲ ਮੰਨੀ ਤਾਂ ਸਹੀ	let us go to the next video	let us go to the next video	1.0
-male		fourties	pa-IN	ਉਸ ਦ ਕ ਮ ਟਰ ਵ ਚ ਹ ਸ ਖ ਡ ਵ ਚਲਦ 	ਉਸ ਦੀ ਕੁਮੈਂਟਰੀ ਵਿਚ ਹਾਸਾ ਖੇਡਾ ਵੀ ਚਲਦੈ	osd command tree which has a sakhe da vi jal da	OSD command tree which has a sakhe da vi jal da	1.0
-male		fourties	pa-IN	ਇਹ ਉਮਰ ਬਗ ਵਤ ਵ ਲ ਹ ਦ ਹ 	ਇਹ ਉਮਰ ਬਗਾਵਤ ਵਾਲੀ ਹੁੰਦੀ ਹੈ	1 omar bagava tawali hundi	1. Omar Bagava Tawali hundi	1.0
-male		fourties	pa-IN	ਸਤ ਕ ਰ ਯ ਗ ਸ ਪ ਦਕ ਜ ਸਤ ਸ ਰ ਅਕ ਲ	ਸਤਿਕਾਰ ਯੋਗ ਸੰਪਾਦਕ ਜੀ ਸਤਿ ਸ੍ਰੀ ਅਕਾਲ	satakaar yog sampadakji satishri akal	Satakaar Yog Sampadakji Satishri Akal	1.0
-male		fourties	pa-IN	ਇਹ ਆਖ ਕ ਪਰ ਦ ਰਸ ਈ ਵ ਲ ਗ ਆ	ਇਹ ਆਖ ਕੇ ਪਰਿੰਦਾ ਰਸੋਈ ਵੱਲ ਗਿਆ	a a k parindar zoival gia 	A, A, K, Parindar, Zoival, Gia.	1.0
-male		fourties	pa-IN	ਇਹ ਰ ਸ ਟਰਪਤ ਜ ਰਦ ਰ ਅਤ ਉਨ ਹ ਦ ਸ ਦ ਸ ਹ 	ਇਹੀ ਰਾਸ਼ਟਰਪਤੀ ਜ਼ਰਦਾਰੀ ਅਤੇ ਉਨ੍ਹਾਂ ਦਾ ਸੰਦੇਸ਼ ਹੈ	aheel astropathy zaldaadi te unanda sndesh hai	Aheel Astropathy zaldaadi te unanda sndesh hai	1.0
-male		fourties	pa-IN	ਉਹਨ ਦ ਨ ਦ ਆ ਯ ਦ ਅਭ ਲ ਹਨ	ਉਹਨਾਂ ਦਿਨਾਂ ਦੀਆਂ ਯਾਦਾਂ ਅਭੁੱਲ ਹਨ	we na adena diya yada apoh lahan	we na adena diya yada apoh lahan	1.0
-			pa-IN	ਇਹ ਉਸ ਦ ਨ ਵ ਸ ਹ ਦ ਹ 	ਇਹ ਉਸ ਦਾ ਨਿਵੇਸ਼ ਹੁੰਦਾ ਹੈ	ahe os diner viesh funda hai	Ahe os diner viesh funda hai	1.0
-			pa-IN	ਜ ਹੜ ਸ ਰ ਹ ਝ ਠ ਸਨ	ਜਿਹੜੇ ਸਾਰੇ ਹੀ ਝੂਠੇ ਸਨ	zsrh2	ZSRH2	1.0
-			pa-IN	ਮਰਦ ਅਗ ਮੜ ਉ ਚ ਦ ਪ ਰਵਰਗ 	ਮਰਦ ਅਗੰਮੜੇ ਉੱਚ ਦ ੇਪੀਰਵਰਗੀ	marda agamade ochi de pilwar ghi	Marda Agamade Ochi De Pilwar Ghi	1.0
-			pa-IN	ਪਹ ਲ ਰ ਸ ਤ ਦ ਰ ਦ ਸਤ ਦ ਮ ਦਦ ਲਵ 	ਪਹਿਲਾਂ ਰਿਸ਼ਤੇਦਾਰਾਂ ਦੋਸਤਾ ਦੀ ਮੱਦਦ ਲਵੋ	pellar este daara dosa ni makela lovo	Pellar este daara dosa ni makela lovo	1.0
-			pa-IN	ਮ ਰ ਇ ਕ ਸ ਗ ਵਰਗ ਕਰ ਲ 	ਮੇਰੇ ਇੱਕ ਸਿੰਗੇ ਵਰਗਾ ਕਰ ਲੈ	me rexhingi wa gakarla	Me rexhingi wa gakarla	1.0
-male		thirties	pa-IN	ਹ ਟ ਅ ਦਰ ਬ ਠ ਉਹ ਚਕਰ ਜ ਹ ਗ ਆ	ਹੱਟੀ ਅੰਦਰ ਬੈਠਾ ਉਹ ਚਕਰਾ ਜਿਹਾ ਗਿਆ	patti andrew bittha o chikra jheha gya	Patti Andrew Bittha O Chikra Jheha Gya	1.0
-male		thirties	pa-IN	ਇਹ ਸਤ ਹ ਦ ਵ ਲ ਨ ਢ ਕ ਲ ਦ ਆ ਹਨ	ਇਹ ਸਤ੍ਹਾ ਦੇ ਵਾਲਾਂ ਨੂੰ ਢੱਕ ਲੈਂਦੀਆਂ ਹਨ	this is the first time we have seen this 	This is the first time we have seen this.	1.0
-male		thirties	pa-IN	ਲ ਕ ਕ ਮ ਛ ਡ ਕ ਚਲ ਗਏ ਹਨ	ਲੋਕ ਕੰਮ ਛੱਡ ਕੇ ਚਲੇ ਗਏ ਹਨ	lok kam chattu gichali gaihan	Lok kam chattu gichali gaihan	1.0
-male		thirties	pa-IN	ਅਸ ਦ ਧ ਪ ਣ ਨ ਤਰਸ ਜ ਦ 	ਅਸੀਂ ਦੁੱਧ ਪੀਣ ਨੂੰ ਤਰਸ ਜਾਂਦੇ	asi dot pinu tarjande	Asi dot pinu tarjande	1.0
-male		thirties	pa-IN	ਇਹ ਟ ਲ ਫ ਨ ਕ ਲ ਤ ਨ ਪ ਰਕ ਰ ਦ ਆ ਸਨ	ਇਹ ਟੈਲੀਫੋਨ ਕਾਲਾਂ ਤਿੰਨ ਪ੍ਰਕਾਰ ਦੀਆਂ ਸਨ	8 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 	8.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.	7.466666666666667
-male		twenties	pa-IN	ਛ ਟ ਆ ਦ ਆ ਗ ਲ ਵ ਲ ਧ ਆਨ ਨ ਦ ਓ	ਛੋਟਿਆਂ ਦੀਆਂ ਗੱਲਾਂ ਵੱਲ ਧਿਆਨ ਨਾ ਦਿਓ	chalky on you below i ll find out 	Chalky on you below, I'll find out.	1.0
-male		twenties	pa-IN	ਇਹ ਜ ਗ ਅਫਗ ਨ ਸਤ ਨ ਤ ਇਰ ਕ ਦ ਆ ਸਨ	ਇਹ ਜੰਗਾਂ ਅਫਗਾਨਿਸਤਾਨ ਤੇ ਇਰਾਕ ਦੀਆਂ ਸਨ	today we will meet again with another video 	Today we will meet again with another video.	1.0
-male		twenties	pa-IN	ਜ ਰ ਰ ਕ ਮ ਵ ਚ ਉਸ ਦ ਸਲ ਹ ਲਓ	ਜ਼ਰੂਰੀ ਕੰਮਾਂ ਵਿਚ ਉਸ ਦੀ ਸਲਾਹ ਲਓ	janurika maavati pursa dheesala aleyo	Janurika Maavati Pursa Dheesala Aleyo	1.0
-male		twenties	pa-IN	ਉਸਨ ਸ ਟ ਕ ਸਲ ਦ ਪ ਸ ਵ ਅਰਥ ਕ ਤ 	ਉਸਨੇ ਸਿਟੀ ਕੌਂਸਲ ਦਾ ਪੈਸਾ ਵਿਅਰਥ ਕੀਤਾ	osnaisetry console da pensar weird ki ta	osnaisetry console da pensar weird ki ta	1.0
-male		twenties	pa-IN	ਉਸਨ ਕ ਮ ਕ ਰ ਤ ਹ ਕ ਈ ਨਹ ਸ 	ਉਸਨੂੰ ਕੰਮ ਕਾਰ ਤਾਂ ਹੈ ਕੋਈ ਨਹੀਂ ਸੀ	karmkart	karmkart	1.0
-male		twenties	pa-IN	ਉਹ ਕਹ ਰ ਹ ਸ ਤੜਕ ਪਹ ਲ ਬ ਸ ਤ ਸ ਹ ਰ ਜ ਣ ਲਈ	ਉਹ ਕਹਿ ਰਿਹਾ ਸੀ… ਤੜਕੇ ਪਹਿਲੀ ਬੱਸ ਤੇ ਸ਼ਹਿਰ ਜਾਣ ਲਈ	okar hasi talikeh pelibaste share jaalme	Okar hasi talikeh, pelibaste share jaalme	1.0
-male		twenties	pa-IN	ਕ ਝ ਸਮ ਸ ਖਵ ਦਰ ਨ ਵ ਕ ਮ ਟਰ ਕ ਤ 	ਕੁਝ ਸਮਾਂ ਸੁਖਵਿੰਦਰ ਨੇ ਵੀ ਕੁਮੈਂਟਰੀ ਕੀਤੀ	kudisama so kudendon nae vika maangri pithi	kudisama so kudendon nae vika maangri pithi	1.0
-			pa-IN	ਇਸ ਨ ਬਰਦ ਸ ਤ ਨਹ ਕ ਤ ਜ ਵ ਗ 	ਇਸ ਨੂੰ ਬਰਦਾਸ਼ਤ ਨਹੀਂ ਕੀਤਾ ਜਾਵੇਗਾ	e	e	1.0
-			pa-IN	ਜ ਦ ਨ ਕ ਸ ਕ ਸਹ ੜ 	ਜਿੰਦੇ ਨੀ ਕੀ ਸਾਕ ਸਹੇੜੇ	jinde ni ki sak su hede	Jinde ni ki sak su hede	1.0
-			pa-IN	ਉਥ ਸ ਖ ਖ ਡ ਰ ਆ ਨ ਗ ਲ ਦ ਗ ਸਨ	ਉਥੇ ਸਿੱਖ ਖਿਡਾਰੀਆਂ ਨੇ ਗੋਲ ਦਾਗੇ ਸਨ	othsic kidariane goal dagesan	OTHSIC KIDARIANE GOAL DAGESAN	1.0
-			pa-IN	ਦ ਸਤ ਨ ਫ ਨ ਕਰਕ ਬ ਲ ਉਣ ਐ	ਦੋਸਤ ਨੂੰ ਫੋਨ ਕਰਕੇ ਬੁਲਾਉਣਾ ਐ	2 3 phone	2-3 phone	1.0
-			pa-IN	ਦਸ ਜ ਹਰ ਸ ਉਨ ਹ ਜਵ ਨ ਆ ਨ 	ਦਸੇ ਜ਼ੌਹਰ ਸੀ ਉਨ੍ਹਾਂ ਜਵਾਨੀਆਂ ਨੇ	dasse zoharsi ona javanya ne	Dasse zoharsi ona javanya ne	1.0
-			pa-IN	ਮ ਇਹ ਪ ਸ ਲ ਣ ਨਹ ਸ ਚ ਹ ਦ 	ਮੈਂ ਇਹ ਪੈਸੇ ਲੈਣੇ ਨਹੀਂ ਸੀ ਚਾਹੁੰਦਾ	i have a better laden i need to go	i have a better laden i need to go	1.0
-			pa-IN	ਸ ਇਰ ਨ ਟ ਇ ਕ ਔਰਤ ਵ ਹ 	ਸ਼ਾਇਰਾ ਨੀਟਾ ਇੱਕ ਔਰਤ ਵੀ ਹੈ	scheiran nita ik orat vi hhe	Scheiran Nita ik orat vi hhe	1.0
-			pa-IN	ਸ ਡ ਬਹ ਤ ਵ ਰ ਤ ਤ ਮ ਮ ਵ ਹ ਈ	ਸਾਡੀ ਬਹੁਤ ਵਾਰ ਤੂੰ ਤੂੰ ਮੈਂ ਮੈਂ ਵੀ ਹੋਈ	sadipohat var tu tu mene bhi hui	Sadipohat var tu tu mene bhi hui	1.0
-			pa-IN	ਅਜ ਦ ਪੜ ਹ ਈ ਮਨ ਵ ਗ ਆਨ ਅਧ ਰਤ ਹ 	ਅਜ ਦੀ ਪੜ੍ਹਾਈ ਮਨੋਵਿਗਿਆਨ ਅਧਾਰਤ ਹੈ	ajitipadayi manovaki anandarath	Ajitipadayi Manovaki Anandarath	1.0
-			pa-IN	ਥ ੜ ਹ ਵ ਡ ਘ ਰ ਵ ਲ ਸ ਟ ਪ ਉਣ ਚ ਹ ਦ ਹਨ	ਥੋੜ੍ਹੇ ਵੱਡੇ ਘੇਰੇ ਵਾਲੇ ਸੂਟ ਪਾਉਣੇ ਚਾਹੀਦੇ ਹਨ	3 4 10 krw 	3-4-10 kRw.	1.0
-			pa-IN	ਡਰ ਇਵ ਗ ਦ ਨ ਯਮ ਬਹ ਤ ਸਖ ਤ ਹਨ	ਡਰਾਇਵਿੰਗ ਦੇ ਨਿਯਮ ਬਹੁਤ ਸਖ਼ਤ ਹਨ	driving the neyam bahot saktan 	driving the neyam bahot saktan.	1.0
-			pa-IN	ਰ ਹ ਅਫ ਜ ਤ ਦ ਧ ਸ ਡ ਵਰਤ ਰ ਹ ਸ 	ਰੂਹ ਅਫ਼ਜ਼ਾ ਤੇ ਦੁੱਧ ਸੋਡਾ ਵਰਤ ਰਿਹਾ ਸੀ	2 hazat teyat to th soda varthreasi	2 hazat teyat to th soda varthreasi	1.0
-			pa-IN	ਬ ਲ ਨ ਸਰ ਹ ਦ ਤ ਲ ਮ ਗ ਲ ਆ	ਬਿੱਲੂ ਨੇ ਸਰ੍ਹੋਂ ਦਾ ਤੇਲ ਮੰਗਾ ਲਿਆ	bilrul nes saroda tel mangalea	Bilrul Nes Saroda Tel Mangalea	1.0
-			pa-IN	ਇਸ ਵ ਚ ਹਰ ਉਮਰ ਦ ਆ ਬ ਬ ਆ ਸ ਮਲ ਸਨ	ਇਸ ਵਿੱਚ ਹਰ ਉਮਰ ਦੀਆਂ ਬੀਬੀਆਂ ਸ਼ਾਮਲ ਸਨ	eswitch har omar diyambi biya shameltsan	Eswitch har Omar Diyambi biya shameltsan	1.0
-			pa-IN	ਸ ਰ ਦ ਨ ਮ ਹ ਵਰਦ ਰ ਹ 	ਸਾਰਾ ਦਿਨ ਮੀਂਹ ਵਰਦਾ ਰਿਹਾ	sara dinmi vertaria	Sara Dinmi Vertaria	1.0
-			pa-IN	ਜਪ ਨ ਵ ਚ ਸਰਦ ਦ ਮ ਸਮ ਹ 	ਜਪਾਨ ਵਿਚ ਸਰਦੀ ਦਾ ਮੌਸਮ ਹੈ	jepahan which sirthida masam hai	Jepahan which sirthida masam hai	1.0
-			pa-IN	ਪ ਲ ਬ ਟ ਮ ਦ ਠਹ ਰ ਜਲ ਧਰ	ਪੂਲ ਬੀ ਟੀਮਾਂ ਦੀ ਠਹਿਰ ਜਲੰਧਰ	pulse btmdthnr jlandr	Pulse BTMDTHNR JLANDR	1.0
-			pa-IN	ਆਓ ਨਜ ਰ ਮ ਰਦ ਹ ਇਨ ਹ ਬ ਰ ਆ ਆਦਤ ਤ 	ਆਓ ਨਜ਼ਰ ਮਾਰਦੇ ਹਾਂ ਇਨ੍ਹਾਂ ਬੁਰੀਆਂ ਆਦਤਾਂ ਤੇ	aul nasir maathe hina burya adh tante	Aul nasir maathe hina burya adh tante	1.0
-			pa-IN	ਅਸ ਰਵ ਦ ਲ ਣ ਸ ਰਨ ਚ ਪਹ ਚ ਰਹ ਨ ਤ 	ਅਸ਼ੀਰਵਾਦ ਲੈਣ ਸ਼ਰਨ ਚ ਪਹੁੰਚ ਰਹੇ ਨੇਤਾ	ashi wa d lan sharanj ponga rahini ta	Ashi wa d'Lan Sharanj ponga rahini ta	1.0
-			pa-IN	ਪਰ ਕ ਕ ਸਮਝਦ ਸ ਕ ਇਹ ਹਰ ਵ ਰ ਦ ਤਰ ਹ ਇਕ ਬਹ ਨ ਹ ਹ 	ਪਰ ਕਾਕੂ ਸਮਝਦਾ ਸੀ ਕਿ ਇਹ ਹਰ ਵਾਰ ਦੀ ਤਰ੍ਹਾਂ ਇਕ ਬਹਾਨਾ ਹੀ ਹੈ	because a kusamista sin ki e harvaarti tara ikbohana lihe	Because a kusamista sin ki e harvaarti tara ikbohana lihe	1.0
-			pa-IN	ਤ ਹ ਡ ਸ ਰ ਸ ਲ ਦ ਨ ਟ ਸ ਆਫ ਅਸ ਸਮ ਟ	ਤੁਹਾਡੇ ਸਾਰੇ ਸਾਲਾਂ ਦੇ ਨੋਟਿਸ ਆਫ ਅਸੈਸਮੈਂਟ	sari sallam 	Sari sallam,	1.0
-			pa-IN	ਕਦ ਖ ਡਦ ਸ ਅ ਬਰ ਚ ਦ ਨ ਲ	ਕਦੇ ਖੇਡਦਾ ਸਾਂ ਅੰਬਰੀਂ ਚੰਦ ਨਾਲ	kadek heidas na ambri chandit nah	kadek heidas na ambri chandit nah	1.0
-			pa-IN	ਸਰਕ ਜ ਦ ਸਰ ਨ ਬਰ ਤ ਚ ਲ ਰਹ ਹਨ	ਸਰਕੋਜ਼ੀ ਦੂਸਰੇ ਨੰਬਰ ਤੇ ਚੱਲ ਰਹੇ ਹਨ	sirko ji 2 3 6 4 4	Sirko ji, 2-3-6-4-4	1.0
-			pa-IN	ਲ ਕ ਦ ਫਤਵ ਨ ਵਧ ਈਆ ਚ ਣ ਤ ਆ 	ਲੋਕਾਂ ਦੇ ਫਤਵੇ ਨੇ ਵਧਾਈਆਂ ਚੁਣੌਤੀਆਂ	lokandef at vene vada yatchanotya	Lokandef at vene vada yatchanotya	1.0
-			pa-IN	ਰ ਤ ਵ ਲ ਦ ਵ ਪ ਸ ਲ ਈਨਰ ਲਗ ਓ	ਰਾਤ ਵੇਲੇ ਦੋਵੇਂ ਪਾਸੇ ਲਾਈਨਰ ਲਗਾਓ	rath will lay 2 5 6 liner lagau	Rath will lay 2-5-6 liner lagau	1.0
-			pa-IN	ਤ ਹ ਡ ਚ ਹਰ ਮ ਖਣ ਵ ਗ ਮ ਲ ਇਮ ਹ ਜ ਵ ਗ 	ਤੁਹਾਡਾ ਚਿਹਰਾ ਮੱਖਣ ਵਾਂਗ ਮੁਲਾਇਮ ਹੋ ਜਾਵੇਗਾ	3 4 makaranululai	3-4 makaranululai	1.0
-			pa-IN	ਕਲਸ ਮ ਦਰ ਦ ਨਜ ਰ ਆਉ ਦ ਨ 	ਕਲਸ਼ ਮੰਦਰਾਂ ਦੇ ਨਜ਼ਰ ਆਉਂਦੇ ਨੇ	kalci mandranden naya rande ni	Kalci Mandranden naya rande ni	1.0
-			pa-IN	ਤ ਸ ਵ ਉਸ ਨ ਪੜ ਹ ਆ ਕਰ 	ਤੁਸੀਂ ਵੀ ਉਸ ਨੂੰ ਪੜ੍ਹਿਆ ਕਰੋ	tu civiles nuva dea garo	Tu civiles nuva dea garo	1.0
-male		twenties	pa-IN	ਦ ਖਦ ਰਹ ਇਹ ਮ ਚ ਪ ਛ ਫ ਰ ਕ ਲ ਆ ਸ ਬ ਤ ਬਰਫ ਨ ਪ ਣਗ 	ਦੇਖਦੇ ਰਹੋ ਇਹ ਮੈਚ ਪਿੱਛੋਂ ਫੇਰ ਕੇਲਿਆਂ ਸੇਬਾਂ ਤੇ ਬਰਫੀ ਨੂੰ ਪੈਣਗੇ	 	. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .	1.0
-male		twenties	pa-IN	ਪ ਸ ਜਰ ਟਰ ਨ ਦ ਵ ਪ ਰਸਤ ਵ ਹ 	ਪੈਸੰਜਰ ਟਰੇਨਾਂ ਦਾ ਵੀ ਪ੍ਰਸਤਾਵ ਹੈ	pesanjir treinat al vi persta avhe	pesanjir treinat al vi persta avhe	1.0
-male		twenties	pa-IN	ਗ ਲਬ ਤ ਵ ਕਈ ਬਹ ਤ ਲ ਬ ਹ ਗਈ ਸ 	ਗੱਲਬਾਤ ਵਾਕਈ ਬਹੁਤ ਲੰਬੀ ਹੋ ਗਈ ਸੀ	garpa tava kaipo at numdi hovee si	garpa tava kaipo at numdi hovee si	1.0
-male		twenties	pa-IN	ਮ ਲਗ ਤ ਰ ਸ ਕ ਕਰ ਰਹ ਸ 	ਮਾਂ ਲਗਾਤਾਰ ਸ਼ੱਕ ਕਰ ਰਹੀ ਸੀ	mahanda gataar shakkar rezi	Mahanda Gataar Shakkar Rezi	1.0
-male		twenties	pa-IN	ਤ ਆਪਣ ਆਪ ਨ ਨ ਵ ਨ ਸਮਝ	ਤੂੰ ਆਪਣੇ ਆਪ ਨੂੰ ਨੀਵਾਂ ਨਾ ਸਮਝ	tu apa niyaa penu ni wa na samad	tu apa niyaa penu ni wa na samad	1.0
-male		twenties	pa-IN	ਸ ਬ ਦ ਰਨ ਵ ਅ ਤ ਦ ਉਦ ਸ ਸ 	ਸੂਬੇਦਾਰਨੀ ਵੀ ਅੱਤ ਦੀ ਉਦਾਸ ਸੀ	so bedad ni vi atati udasi	So bedad ni vi atati udasi	1.0
-male		twenties	pa-IN	ਹਰਦਮ ਲੜ ਗ ਰ ਸ ਨ ਦ ਭ ਲ ਲਈ	ਹਰਦਮ ਲੜਾਂਗਾ ਰੋਸ਼ਨੀ ਦੀ ਭਾਲ ਲਈ	hardambaranga rosni deeparlay	Hardambaranga Rosni Deeparlay	1.0
-male		twenties	pa-IN	ਹ ਸਕ ਝੜਪ ਦ ਕ ਰਨ ਨ ਜ ਇਜ ਸਬ ਧ ਹ ਹ 	ਹਿੰਸਕ ਝੜਪ ਦਾ ਕਾਰਨ ਨਾਜਾਇਜ਼ ਸਬੰਧ ਹੀ ਹੈ	hilsa kuchad abda karan na jaya sabande hih hai	Hilsa kuchad Abda karan na jaya sabande hih hai	1.0
-male		twenties	pa-IN	ਜ ਨ ਆਪਣ ਪ ਚ ਸ ਲ ਦ ਡ ਸ ਕ ਰ ਆਰ ਵ ਚ	ਜਿਨਾਂ ਆਪਣੇ ਪੱਚੀ ਸਾਲਾਂ ਦੇ ਡਾਂਸ ਕੈਰੀਆਰ ਵਿੱਚ	jinnah apne 5 6 6 8 taskar	Jinnah apne 5-6-6-8 taskar	1.0
-male		twenties	pa-IN	ਖ ਸ ਹ ਲ ਦ ਅਸ ਸ ਰ ਕ ਮਨ ਕਰਦ ਹ 	ਖੁਸ਼ਹਾਲੀ ਦੀ ਅਸੀਂ ਸਾਰੇ ਕਾਮਨਾ ਕਰਦੇ ਹਾਂ	kushahali di asin saare kamnakar deha	Kushahali di asin saare kamnakar deha	1.0
-male		twenties	pa-IN	ਇਸ ਨ ਲ ਉਸਨ ਪ ਸ ਵ ਮ ਲ ਜ ਦ 	ਇਸ ਨਾਲ ਉਸਨੂੰ ਪੈਸੇ ਵੀ ਮਿਲ ਜਾਂਦੇ	this nail is no passive image 	This nail is no passive image.	1.0
-male		twenties	pa-IN	ਇਥ ਦ ਗੜ ਵ ਚੜ ਹ ਈਆ ਜ ਦ ਆ ਹਨ	ਇਥੇ ਦੋਗੜਾਂ ਵੀ ਚੜ੍ਹਾਈਆਂ ਜਾਂਦੀਆਂ ਹਨ	1 2個月	1-2個月	1.0
-male		twenties	pa-IN	ਅ ਮ ਰ ਤਸਰ ਵ ਅਖ ੜ ਆ ਨ ਲ ਭਰ ਆ ਪ ਆ ਸ 	ਅੰਮ੍ਰਿਤਸਰ ਵੀ ਅਖਾੜਿਆਂ ਨਾਲ ਭਰਿਆ ਪਿਆ ਸੀ	amritsarvi akhadiya nautarya piazi	Amritsarvi Akhadiya Nautarya Piazi	1.0
-male		twenties	pa-IN	ਉਦ ਉਹਦ ਸ ਨ ਦ ਕੜ ਗ ਇਬ ਸ 	ਉਦੋਂ ਉਹਦਾ ਸੋਨੇ ਦਾ ਕੜਾ ਗ਼ਾਇਬ ਸੀ	oda oda sonyaq karagayabse	Oda Oda Sonyaq Karagayabse	1.0
-male		twenties	pa-IN	ਉਹ ਹਮ ਸ ਸਵ ਲ ਦ ਘ ਰ ਤ ੜਕ 	ਉਹ ਹਮੇਸ਼ਾਂ ਸਵਾਲਾਂ ਦੇ ਘੇਰੇ ਤੋੜਕੇ	oho ha me shaa sawanna de kere torke	oho ha me shaa sawanna de kere torke	1.0
-male		twenties	pa-IN	ਜ ਨ ਹ ਕ ਲ ਧ ਨ ਹ ਉ ਨ ਹ ਵਲ ਧ ਨ ਦ ਤ ਆਗ ਕਰਨ ਬਹ ਤ ਚ ਗ ਗ ਲ ਹ 	ਜਿਨਾ੍ਹਂ ਕੋਲ ਧੰਨ ਹੈ ਉਂਨਾ੍ਹਂ ਵਲੋਂ ਧੰਨ ਦਾ ਤਿਆਗ ਕਰਨਾ ਬਹੁਤ ਚੰਗੀ ਗੱਲ ਹੈ	gina colton ona vallokthanda tiyakkarna bohcangi 	Gina Colton, ona Vallokthanda, Tiyakkarna, bohcangi,	1.0
-male		twenties	pa-IN	ਆਈਟਮ ਸ ਗ ਦ ਪ ਕ ਪਹ ਲ ਵ ਰ ਨਹ ਕਰ ਰਹ 	ਆਈਟਮ ਸਾਂਗ ਦੀਪਿਕਾ ਪਹਿਲੀ ਵਾਰ ਨਹੀਂ ਕਰ ਰਹੀ	item song dithika pelly war nahi karri	item song, dithika pelly war nahi karri	1.0
-male		twenties	pa-IN	ਸ ਚ ਦ ਚ ਨਣ ਦ ਦ ਤ ਛ ਟ 	ਸੱਚ ਦੇ ਚਾਨਣ ਦਾ ਦਿੱਤਾ ਛਿੱਟਾ	sucha day chanada daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daad	sucha day chanada daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daad	7.6
-male		twenties	pa-IN	ਪਰ ਕ ੜ ਵ ਲ ਆ ਨ ਭ ਲ ਪਸ ਦ ਆ ਗ ਆ	ਪਰ ਕੁੜੀ ਵਾਲਿਆਂ ਨੂੰ ਭੋਲਾ ਪਸੰਦ ਆ ਗਿਆ	perkuri varianu puna kusandagya	Perkuri varianu puna kusandagya	1.0
-male		twenties	pa-IN	ਇਸ ਤਰ ਹ ਦ ਸ ਗ ਲ ਰ ਟ ਯ ਨ ਵਰਸ ਟ ਹ 	ਇਸ ਤਰ੍ਹਾਂ ਦੀ ਸਿੰਗੂਲੈਰਿਟੀ ਯੂਨੀਵਰਸਿਟੀ ਹੈ	this is the same thing as the same thing 	This is the same thing as the same thing.	1.0
-male		twenties	pa-IN	ਕਟਨ ਲਈ ਸ ਉਹ ਠ ਢ ਠ ਰ ਆਇਆ	ਕਟਨ ਲਈ ਸੀ ਉਹ ਠੰਢੀ ਠਾਰ ਆਇਆ	katan lisiohot handithar aya	Katan Lisiohot Handithar Aya	1.0
-			pa-IN	ਕ ਸ ਨ ਲ ਖ ਦਕਬ ਜ ਨਹ ਸ ਕ ਤ 	ਕਿਸੇ ਨਾਲ ਖੁੰਦਕਬਾਜ਼ੀ ਨਹੀਂ ਸੀ ਕੀਤੀ	kese nahl kundak basi nangsi kittim	kese nahl kundak basi nangsi kittim	1.0
-			pa-IN	ਇਹ ਉਪਲਬਧ ਆ ਮ ਰ ਇ ਕਲ ਦ ਆ ਨਹ ਹਨ	ਇਹ ਉਪਲਬਧੀਆਂ ਮੇਰੇ ਇੱਕਲੇ ਦੀਆਂ ਨਹੀਂ ਹਨ	1 oupilabdia my recalidia nahinhan	1 oupilabdia, my recalidia nahinhan	1.0
-			pa-IN	ਸ ਡ ਲ ਕ ਬਹ ਤ ਦ ਖ ਵ ਕਰਨ ਵ ਲ ਹਨ	ਸਾਡੇ ਲੋਕ ਬਹੁਤ ਦਿਖਾਵਾ ਕਰਨ ਵਾਲੇ ਹਨ	shadelo buhan dikhaba karan valihan	Shadelo, buhan dikhaba karan valihan	1.0
-			pa-IN	ਬਰ ਜ ਲ ਗ ਈ ਡ ਮ ਟ ਗ ਪ ਰਧ ਨ ਮ ਤਰ 	ਬਰਾਜ਼ੀਲ ਗੁਈ ਡੋ ਮੇਟੇਗਾ ਪ੍ਰਧਾਨ ਮੰਤਰੀ	brazil gui doh netega pratan mantri	Brazil Gui Doh Netega Pratan Mantri	1.0
-			pa-IN	ਅ ਜ ਵ ਖ ਧਰਮ ਦ ਖ ਤਰ	ਅੱਜ ਵੇਖੋ ਧਰਮ ਦੀ ਖ਼ਾਤਰ	a c v k d k d k d k d k d k d k d k d k d k d k d k d k d k d k d k d k d k d k d k d k d k d k d k d k d k d k d k d k d k d k d k d k d k d k d k d k d k d k d k d k d k d k d k d k d k d k d k d k d k d k d k d k d k d k 	A.C.V.K.D.K.D.K.D.K.D.K.D.K.D.K.D.K.D.K.D.K.D.K.D.K.D.K.D.K.D.K.D.K.D.K.D.K.D.K.D.K.D.K.D.K.D.K.D.K.D.K.D.K.D.K.D.K.D.K.D.K.D.K.D.K.D.K.D.K.D.K.D.K.D.K.D.K.D.K.D.K.D.K.D.K.D.K.D.K.D.K.D.K.D.K.D.K.D.K.D.K.D.K.D.K.D.K.D.K.D.K.	14.0
-			pa-IN	ਹਰ ਕ ਪ ਰਸ ਨ ਨ ਨ ਰਧ ਰ ਤ ਸਮ ਦ ਓ	ਹਰੇਕ ਪ੍ਰਸ਼ਨ ਨੂੰ ਨਿਰਧਾਰਿਤ ਸਮਾਂ ਦਿਓ	hare krishna nurtarit samadhyo	Hare Krishna Nurtarit Samadhyo	1.0
-			pa-IN	ਫ ਰ ਉਸ ਦ ਮ ੜ ਦ ਨ ਆ ਗਏ	ਫਿਰ ਉਸ ਦੇ ਮਾੜੇ ਦਿਨ ਆ ਗਏ	firmos te mare din agai	Firmos te mare din agai	1.0
-			pa-IN	ਦ ਲ ਕਮ ਟ ਤ ਵ ਉਹਨ ਨ ਵ ਖ ਕਰ ਦ ਤ ਜ ਵ ਗ 	ਦਿਲੀ ਕਮੇਟੀ ਤੋਂ ਵੀ ਉਹਨਾਂ ਨੂੰ ਵੱਖ ਕਰ ਦਿੱਤਾ ਜਾਵੇਗਾ	delhi committee tobi una nau bakkar dittajavela	Delhi Committee, Tobi, Una Nau, Bakkar Dittajavela	1.0
-			pa-IN	ਉਹ ਚ ਪਚ ਪ ਗ ਲ ਸ ਭਰਨ ਲ ਗ ਗਈ	ਉਹ ਚੁੱਪਚਾਪ ਗਿਲਾਸ ਭਰਨ ਲੱਗ ਗਈ	o chop chap kelas parandla kei	O chop chap kelas parandla kei	1.0
-			pa-IN	ਜਵ ਬ ਜ ਹ ਜ ਰ ਰ ਹ ਸਕਦ ਹ 	ਜਵਾਬ ਜੀ ਹਾਂ ਜ਼ਰੂਰ ਹੋ ਸਕਦਾ ਹੈ	jawaab jiha zerur kosa ka hai	Jawaab jiha zerur kosa ka hai	1.0
-			pa-IN	ਪਤ ਨਹ ਮ ਕ ਕਰ ਬ ਠ ਸ 	ਪਤਾ ਨਹੀਂ ਮੈਂ ਕੀ ਕਰ ਬੈਠਾ ਸੀ	bata nahi meki kar bethasi	bata nahi meki kar bethasi	1.0
-			pa-IN	ਮ ਲ ਤ ਕ ਡ ਆਲ ਦ ਸ ਇਰ ਹ ਰਹ ਹ 	ਮੱਲਾਂ ਤੇ ਕੌਡਿਆਲਾਂ ਦੀ ਸ਼ਾਇਰੀ ਹੋ ਰਹੀ ਹੈ	mullah te kordiara tishayri hurhi hai	Mullah, te kordiara, tishayri hurhi hai	1.0
-			pa-IN	ਉਸ ਨ ਟ ਲਸਟ ਏ ਨ ਲ ਚ ਠ ਪ ਤਰ ਕ ਤ 	ਉਸ ਨੇ ਟਾਲਸਟਾਏ ਨਾਲ ਚਿੱਠੀ ਪੱਤਰ ਕੀਤਾ	os ne kalsta enar chitti batterghi ta	os ne kalsta enar chitti batterghi ta	1.0
-			pa-IN	ਉਸਨ ਵ ਰ ਨ ਸ ਨਲ ਅਵ ਰਡ ਪ ਰ ਪਤ ਹ ਇਆ ਹ 	ਉਸਨੂੰ ਵਾਰ ਨੈਸ਼ਨਲ ਅਵਾਰਡ ਪ੍ਰਾਪਤ ਹੋਇਆ ਹੈ	ustnu var nashnil var prapt huyaha hai	ustnu var nashnil var prapt huyaha hai	1.0
-			pa-IN	ਨ ਲ ਬ ਢ ਨਰੜ ਆ ਤ ਸ ਮ ਨ ਹ ਥ 	ਨਾਲ ਬੁੱਢੇ ਨਰੜਿਆਂ ਤੁਸੀਂ ਮੈਨੂੰ ਹੱਥੀਂ	naal bhute narea so see menu hadhtheen 	Naal Bhute Narea, so see menu hadhtheen.	1.0
-			pa-IN	ਬ ਪ ਦ ਗਰ ਵ ਚ ਰਹ ਕ 	ਬਾਪੂ ਦੇ ਗਰਾਂ ਵਿੱਚ ਰਹਿ ਕੇ	ba pude garavich reki	Ba pude garavich reki	1.0
-			pa-IN	ਬ ਬਈ ਅ ਜ ਵ ਉਸ ਤਰ ਹ ਹ ਕ ਇਮ ਹ 	ਬੰਬਈ ਅੱਜ ਵੀ ਉਸ ਤਰਾ੍ਹਂ ਹੀ ਕਾਇਮ ਹੈ	bombay ajvi oztara hiayam	Bombay Ajvi Oztara Hiayam	1.0
-			pa-IN	ਛ ਸ ਜ ਆ ਨ ਮ ਹ ਲ ਨ ਸ ਗ ਤਮਈ ਬਣ ਦ ਤ 	ਛੇ ਸਾਜ਼ੀਆਂ ਨੇ ਮਾਹੌਲ ਨੂੰ ਸੰਗੀਤਮਈ ਬਣਾ ਦਿੱਤਾ	jai sardine nae mahalu sang itma i bunaadeta	Jai sardine nae mahalu sang itma i bunaadeta	1.0
-			pa-IN	ਉਹ ਮਤ ਬ ਵ ਗ ਜਗ ਰਹ ਆ ਸਨ	ਉਹ ਮਤਾਬੀ ਵਾਂਗ ਜਗ ਰਹੀਆਂ ਸਨ	o matapi vang jagraya san 	O Matapi Vang Jagraya San.	1.0
-			pa-IN	ਮ ਅ ਤਵ ਦ ਖ ਲ ਫ ਲੜ ਈ ਲੜ ਐ	ਮੈਂ ਅੱਤਵਾਦ ਖਿਲਾਫ਼ ਲੜਾਈ ਲੜੀ ਐ	may at word killaf lada i rari hai	May at word killaf lada i rari hai	1.0
-			pa-IN	ਦ ਹ ਦ ਆ ਸ ਟ ਪ ਜ ਪ ਜ ਹਜ ਰ ਹਨ	ਦੋਹਾਂ ਦੀਆਂ ਸੀਟਾਂ ਪੰਜ ਪੰਜ ਹਜ਼ਾਰ ਹਨ	2 3 3 5 5 5 5 5	2-3-3-5-5-5-5-5	1.0
-			pa-IN	ਨ ਲ ਖ ਵ ਪ ਵ ਗ ਨ ਲ ਗ ਲ ਕਰ ਗ 	ਨਾਲੇ ਖਾਵਾਂ ਪੀਵਾਂਗੇ ਨਾਲੇ ਗੱਲਾਂ ਕਰਾਂਗੇ	nale khava pivangi nale ke lakarangi	nale khava pivangi nale ke lakarangi	1.0
-			pa-IN	ਲ ਤ ਤ ਚਲ ਨਹ ਸ ਹ ਰ ਹ 	ਲੱਤਾਂ ਤੋਂ ਚਲ ਨਹੀਂ ਸੀ ਹੋ ਰਿਹਾ	la tamto jal nesee horeha	La tamto, jal nesee horeha	1.0
-			pa-IN	ਇਹ ਸਥ ਤ ਅ ਕ ਤਕ ਬਣ ਰਹ 	ਇਹ ਸਥਿਤੀ ਅੰਕਾਂ ਤਕ ਬਣੀ ਰਹੀ	kesthiti ankata kbanirahi	kesthiti Ankata kbanirahi	1.0
-			pa-IN	ਰ ਗ ਦਰਦ ਅਤ ਕਸ ਟ ਤ ਬ ਹ ਦ ਬ ਚ ਨ ਹ ਜ ਦ ਹ 	ਰੋਗੀ ਦਰਦ ਅਤੇ ਕਸ਼ਟ ਤੋਂ ਬੇਹੱਦ ਬੇਚੈਨ ਹੋ ਜਾਂਦਾ ਹੈ	rogi dhar ati kast tom behat bejyan hojandah hai	Rogi dhar ati kast tom, behat bejyan hojandah hai	1.0
-			pa-IN	ਘਰ ਦ ਵ ਚ ਕ ਨ ਈਕ ਊਟ ਹ 	ਘਰ ਦੇ ਵਿੱਚ ਕਿੰਨੀ ਈਕੀਊਟੀ ਹੈ	karda which kidney equity	Karda which kidney equity	1.0
-			pa-IN	ਇਹ ਮਨ ਚ ਚਲ ਵਸ ਨ ਆਵ 	ਇਹ ਮਨੁ ਚੰਚਲ ਵਸਿ ਨ ਆਵੈ	e money tent chill vassanara ve	e-money tent chill vassanara ve	1.0
-			pa-IN	ਮ ਚ ਮ ਕਣ ਚ ਪ ਜ ਮ ਟ ਰਹ ਗਏ	ਮੈਚ ਮੁੱਕਣ ਚ ਪੰਜ ਮਿੰਟ ਰਹਿ ਗਏ	meat mukunch 5m	Meat Mukunch 5M	1.0
-			pa-IN	ਪ ਦਰ ਥ ਲ ਆ ਧ ਕ ਖ ਕ ਹ ਥ ਆਈਆ 	ਪੰਦਰਾਂ ਥੈਲੀਆਂ ਧੱਕੇ ਖਾ ਕੇ ਹੱਥ ਆਈਆਂ	bandra delhi take ka kihatanya	Bandra Delhi take ka kihatanya	1.0
-			pa-IN	ਤ ਚ ਦਰਮ ਵ ਗ ਪਤ ਨਹ ਕ ਥ 	ਤੂੰ ਚੰਦਰਮਾਂ ਵਾਂਗ ਪਤਾ ਨਹੀਂ ਕਿੱਥੇ	you know what 	You know what?	1.0
-			pa-IN	ਅਫ ਜ ਲ ਹ ਸਰ ਪ ਰਲ ਮ ਟ ਤ ਹਮਲ ਦ ਯ ਜਨ ਮ ਹ ਬਣ ਈ ਸ 	ਅਫ਼ਜ਼ਲ ਹਾਂ ਸਰ ਪਾਰਲੀਮੈਂਟ ਤੇ ਹਮਲੇ ਦੀ ਯੋਜਨਾ ਮੈਂ ਹੀ ਬਣਾਈ ਸੀ	hafizal har sir parli med tehamledi joujna mehi bani si 	Hafizal har sir, parli med tehamledi joujna, mehi bani si.	1.0
-			pa-IN	ਪ ਛਲ ਹਫਤ ਚ ਹ ਮ ਤ ਹ ਚ ਕ ਆ ਹਨ	ਪਿਛਲੇ ਹਫਤੇ ਚ ਹੀ ਮੌਤਾਂ ਹੋ ਚੁੱਕੀਆਂ ਹਨ	pitchi leh hafte jhimo dao jhpian	Pitchi leh hafte jhimo dao jhpian	1.0
-			pa-IN	ਕਬ ਰ ਜਹ ਗ ਆਨ ਤਹ ਧਰਮ ਹ 	ਕਬੀਰ ਜਹਾ ਗਿਆਨੁ ਤਹ ਧਰਮ ਹੈ	kabir jaha ghaanetaha tarma hai	Kabir jaha ghaanetaha tarma hai	1.0
-			pa-IN	ਪ ੜ ਵ ਚ ਬ ਹਲ ਉਤ ਦ ੜ ਵ ਛ ਕ ਸ ਤ ਜ ਸਕਦ ਸ 	ਪਿੜਾਂ ਵਿਚ ਬੋਹਲ ਉਤੇ ਦੋੜਾ ਵਿਛਾ ਕੇ ਸੁੱਤਾ ਜਾ ਸਕਦਾ ਸੀ	we love it both 	We love it both.	1.0
-			pa-IN	ਕ ਉ ਕ ਇਹ ਅਕ ਲ ਭ ਜਪ ਸਰਕ ਰ ਦ ਅ ਤਮ ਸ ਲ ਹ ਵ ਗ 	ਕਿਉਂਕਿ ਇਹ ਅਕਾਲੀ ਭਾਜਪਾ ਸਰਕਾਰ ਦਾ ਅੰਤਮ ਸਾਲ ਹੋਵੇਗਾ	because this is a kali page per sur kaatah hantam sallu viga 	Because this is a kali page per sur kaatah, hantam sallu viga.	1.0
-			pa-IN	ਆਮ ਕ ਪੜ ਆ ਵ ਚ ਦ ਪ ਲ ਸ ਕਰਮਚ ਰ ਸਨ	ਆਮ ਕੱਪੜਿਆਂ ਵਿੱਚ ਦੋ ਪੁਲਿਸ ਕਰਮਚਾਰੀ ਸਨ	am ka preya vetsu do polus karam cari san	Am ka preya vetsu do polus karam cari san	1.0
-			pa-IN	ਸ ਖ ਵ ਚ ਕਈ ਗਰ ਪ ਜ ਸ ਖ ਵ ਬਣ ਆ 	ਸਿੱਖਾਂ ਵਿਚ ਕਈ ਗਰੁੱਪ ਜਾਂ ਸ਼ਾਖਾਵਾਂ ਬਣੀਆਂ	sikhavit kailgrup jaa shakava banyat 	Sikhavit Kailgrup jaa Shakava Banyat.	1.0
-			pa-IN	ਅਸ ਤ ਪ ਲ ਆ ਤ ਪ ਲ 	ਅਸੀਂ ਤਾਂ ਪਾ ਲਿਆ ਤੂੰ ਪਾ ਲੈ	arfine daapaliya tumpaalya 	Arfine daapaliya, tumpaalya.	1.0
-			pa-IN	ਜਦ ਜ ਗਲ ਵ ਚ ਤ ਆ ਵੜ ਆ	ਜਦ ਜੰਗਲਾਂ ਵਿੱਚ ਤੂੰ ਆ ਵੜਿਆ	jadj jagra vichu tu maabu riya	Jadj Jagra vichu, tu maabu riya	1.0
-			pa-IN	ਮ ਸ ਲ ਓਬ ਮ ਬ ਚ ਆ ਨ ਲ ਨ ਚ ਅਤ ਪ ਚ ਖ ਡ 	ਮਿਸ਼ੇਲ ਓਬਾਮਾ ਬੱਚਿਆਂ ਨਾਲ ਨੱਚੀ ਅਤੇ ਪੀਚੋ ਖੇਡੀ	mishainu vang ma pa jana nab jite pichok kedi	mishainu vang ma pa jana nab jite pichok kedi	1.0
-			pa-IN	ਰ ਸ ਨ ਭ ਰਤ ਫ ਜ ਨ ਵਧ ਆ ਹਥ ਆਰ ਉਪਲਬਧ ਕਰਵ ਏ	ਰੂਸ ਨੇ ਭਾਰਤੀ ਫ਼ੌਜ ਨੂੰ ਵਧੀਆ ਹਥਿਆਰ ਉਪਲਬਧ ਕਰਵਾਏ	rus ne parti fos numva dia hat hayaru plap decaroi	RUS NE PARTI FOS NUMVA DIA HAT HAYARU PLAP DECAROI	1.0
-			pa-IN	ਇਹ ਰ ਪ ਵ ਹ ਲ ਹ ਲ ਕ ਰਦ ਗਏ	ਇਹ ਰੁਪੈ ਵੀ ਹੌਲੀ ਹੌਲੀ ਕਿਰਦੇ ਗਏ	aero bayervi hollywood caretaker	Aero Bayervi, Hollywood caretaker	1.0
-			pa-IN	ਕਦ ਅਜ ਮ ਅ ਕ ਵ ਖ ਲਵ 	ਕਦੇ ਅਜ਼ਮਾਅ ਕੇ ਵੇਖ ਲਵੋ	kade asma ka viklovo	kade asma ka viklovo	1.0
-			pa-IN	ਉਹਦ ਵ ਚ ਮ ਗਫਲ ਤ ਮ ਕ ਦ ਦ ਣ ਕ ਢਦ 	ਉਹਦੇ ਵਿਚੋਂ ਮੂੰਗਫਲੀ ਤੇ ਮੱਕੀ ਦੇ ਦਾਣੇ ਕੱਢਦਾ	odevichan homofritae mokide dane kadda	Odevichan homofritae mokide dane kadda	1.0
-			pa-IN	ਤ ਰ ਜ ਅ ਕਰ ਪ ਡ ਮ ੜ ਆਈ 	ਤੇਰਾ ਜੀਅ ਕਰੇ ਪਿੰਡੋਂ ਮੁੜ ਆਈਂ	teraji karim pindomurai	Teraji Karim Pindomurai	1.0
-			pa-IN	ਸ ਇਰ ਦ ਹ ਲ ਸ ਹ ਵ ਸ ਮ ਰ 	ਸ਼ਾਇਰੀ ਦਾ ਹਾਲ ਸ੍ਹਾਵੇਂ ਸੀ ਮਿਰੇ	shahiri 的 hal samati miru	Shahiri 的 hal samati miru	1.0
-			pa-IN	ਗ ਤ ਖ ਸ ਦ ਤ ਗ ਉ ਦ ਨ 	ਗੀਤ ਖ਼ੁਸ਼ੀ ਦੇ ਤਾਂ ਗਾਉਂਦੇ ਨੇ	ghi tu kushi de ta bha zhe ne	Ghi tu kushi de ta bha zhe ne	1.0
-			pa-IN	ਤ ਨ ਮ ਤਰ ਆ ਦ ਦਰਜ ਵਧ ਦ ਤ ਹ 	ਤਿੰਨ ਮੰਤਰੀਆਂ ਦਾ ਦਰਜਾ ਵਧਾ ਦਿੱਤਾ ਹੈ	tenu mantriyanda dajab dajadda dajta	TENU MANTRIYANDA DAJAB DAJADDA DAJTA	1.0
-			pa-IN	ਤ ਰ ਲ ਡਲ ਅ ਜ ਰ ਟ ਨਹ ਖ ਦ 	ਤੇਰਾ ਲਾਡਲਾ ਅੱਜ ਰੋਟੀ ਨਹੀ ਖਾਂਦਾ	tera lajla ajro tini sanda	Tera Lajla Ajro Tini Sanda	1.0
-			pa-IN	ਦ ਕ ਨਦ ਰ ਨ ਢ ਲ ਦ ਰ ਨ ਮ ਹ ਮ ਗ ਆ ਕ ਮਤ ਵਸ ਲ ਆ 	ਦੁਕਾਨਦਾਰਾਂ ਨੇ ਢਿੱਲ ਦੌਰਾਨ ਮੂੰਹ ਮੰਗੀਆਂ ਕੀਮਤਾਂ ਵਸੂਲੀਆਂ	kandara netr trenmum matiya kintal suttinya	Kandara NETR, Trenmum, Matiya Kintal, Suttinya	1.0
-			pa-IN	ਕ ਥ ਧ ਦ ਕਰ ਏ ਸ ਦ 	ਕਿਥੇ ਧੀ ਦੀ ਕਰੀਏ ਸ਼ਾਦੀ	ktdkhd	KTDKHD	1.0
-			pa-IN	ਉਹ ਮ ਰ ਸਨਮ ਨ ਵ ਚ ਲ ਚ ਦ ਰਹ ਸਨ	ਉਹ ਮੇਰੇ ਸਨਮਾਨ ਵਿਚ ਲੰਚ ਦੇ ਰਹੇ ਸਨ	oh my dear salman my dear salman 	Oh, my dear, Salman, my dear, Salman.	1.0
-			pa-IN	ਪ ਤ ਜ ਇਦ ਦ ਮ ਗਦ ਧ ਆ ਮ ਗਦ ਆ ਸ ਖ ਬ ਪ ਤ ਰ 	ਪੁੱਤ ਜਾਇਦਾਦ ਮੰਗਦੇ ਧੀਆਂ ਮੰਗਦੀਆਂ ਸੁੱਖ ਬਾਪੂ ਤੇਰਾ	good to get out of my day 	Good to get out of my day.	1.0
-			pa-IN	ਕਲ ਸ ਨ ਬ ਟ ਮਨ ਟਰ ਪੜ ਹ ਰ ਹ ਸ 	ਕਲਾਸ ਨੂੰ ਬਿੱਟੂ ਮਨੀਟਰ ਪੜ੍ਹਾਂ ਰਿਹਾ ਸੀ	kulas no tepto minitra parahari ashi	Kulas no tepto minitra parahari ashi	1.0
-			pa-IN	ਇਹ ਦ ਨ ਆ ਤ ਨ ਲ ਨ ਸ ਨ ਜ ਦ 	ਇਹ ਦੁਨੀਆਂ ਤੋਂ ਨਾਲ ਨੇ ਸ਼ਾਨ ਜਾਂਦੇ	etonyato naune shanjadee	Etonyato naune shanjadee	1.0
-			pa-IN	ਅਸਮ ਨ ਸ ਫ ਸ ਜ ਮ ਲ ਲਈ ਸ ਭ ਸ ਗਨ ਸ 	ਅਸਮਾਨ ਸਾਫ ਸੀ ਜੋ ਮੇਲੇ ਲਈ ਸ਼ੁਭ ਸ਼ਗਨ ਸੀ	assalam o alas hafsi yo me mille hli short bir siagat	Assalam O Alas Hafsi, yo me mille hli, short bir siagat	1.0
-			pa-IN	ਇਹ ਬਹ ਤ ਮਹ ਨ ਪ ਥਕ ਸ ਵ ਹ 	ਇਹ ਬਹੁਤ ਮਹਾਨ ਪੰਥਕ ਸੇਵਾ ਹੈ	eb behut mahan antakseva hai	eb behut mahan antakseva hai	1.0
-			pa-IN	ਜਨਮ ਜ ਤ ਮਤ ਪ ਛ ਏ ਕ ਜ ਤ ਅਰ ਪ ਤ	ਜਨਮ ਜਾਤ ਮਤ ਪੂਛੀਏ ਕਾ ਜਾਤ ਅਰੁ ਪਾਤ	jannam jattam atapuqhi kaajattam atapuqhi kaajattam atapuqhi kaajattam atapuqhi kaajattam atapuqhi kaajattam atapuqhi kaajattam atapuqhi kaajattam atapuqhi kaajattam atapuqhi kaajattam atapuqhi kaajattam atapuqhi kaajattam atapuqhi kaajattam atapuqhi kaajattam atapuqhi kaajattam atapuqhi kaajattam atapuqhi kaajattam atapuqhi kaajattam atapuqhi kaajattam atapuqhi kaajattam atapuqhi kaajattam atapuqhi kaajattam atapuqhi kaaj	Jannam jattam atapuqhi, kaajattam atapuqhi, kaajattam atapuqhi, kaajattam atapuqhi, kaajattam atapuqhi, kaajattam atapuqhi, kaajattam atapuqhi, kaajattam atapuqhi, kaajattam atapuqhi, kaajattam atapuqhi, kaajattam atapuqhi, kaajattam atapuqhi, kaajattam atapuqhi, kaajattam atapuqhi, kaajattam atapuqhi, kaajattam atapuqhi, kaajattam atapuqhi, kaajattam atapuqhi, kaajattam atapuqhi, kaajattam atapuqhi, kaajattam atapuqhi, kaajattam atapuqhi, kaaj	3.5384615384615383
-			pa-IN	ਲ ਖ ਕ ਵ ਚ ਰ ਤ ਹ ਨ ਦ ਸਕਣ	ਲਿਖ ਕੇ ਵਿਚਾਰ ਤੁਹਾਨੂੰ ਦੇ ਸਕਣ	gmqr	Gmqr	1.0
-			pa-IN	ਉ ਝ ਅਸ ਬਹ ਤ ਤਰ ਕ ਕਰ ਲਈ ਹ 	ਉਂਝ ਅਸੀਂ ਬਹੁਤ ਤਰੱਕੀ ਕਰ ਲਈ ਹੈ	onj asim bohut trakikar nahiya	Onj asim, bohut trakikar nahiya	1.0
-			pa-IN	ਕ ਈ ਉਸਦ ਪ ਠ ਨ ਚ ਮਦ ਹ 	ਕੋਈ ਉਸਦੀ ਪਿੱਠ ਨੂੰ ਚੁੰਮਦੀ ਹੈ	koi pruskhi petanu cymdi 	Koi, Pruskhi, Petanu, Cymdi.	1.0
-			pa-IN	ਪ ਰ ਫ ਸ ਨ ਕ ਈ ਵ ਹ ਵ ਮ ਹਨਤ ਜ ਰ ਰ ਹ 	ਪ੍ਰੋਫੈਸ਼ਨ ਕੋਈ ਵੀ ਹੋਵੇ ਮਿਹਨਤ ਜ਼ਰੂਰੀ ਹੈ	prostrashan kweenhwoveh mennath dhiroreh 	Prostrashan Kweenhwoveh, Mennath Dhiroreh.	1.0
-			pa-IN	ਸ ਰ ਦ ਵ ਜ ਹੜ ਛ ਤ ਸ 	ਸਿਰ ਦੀ ਵੀ ਜਿਹੜੀ ਛੱਤ ਸੀ	sert david jadi shatsu	Sert David Jadi, Shatsu	1.0
-			pa-IN	ਔਰਤ ਔਰਤ ਦ ਵ ਡ ਦ ਸ ਮਣ ਹ 	ਔਰਤ ਔਰਤ ਦੀ ਵੱਡੀ ਦੁਸ਼ਮਣ ਹੈ	orte di mati dosi var	Orte di mati dosi var	1.0
-			pa-IN	ਉਦ ਇਹ ਮਸ ਬ ਰ ਹ ਤ ਰ ਹ ਸ ਲ ਦ ਸ 	ਉਦੋਂ ਇਹ ਮਸਾਂ ਬਾਰ੍ਹਾਂ ਤੇਰ੍ਹਾਂ ਸਾਲਾਂ ਦੀ ਸੀ	hodo wa ima sa baratir asaadu sa	Hodo wa ima sa baratir asaadu sa	1.0
-			pa-IN	ਹ ਣ ਹ ਣ ਖ ਲ ਹ ਪ ਰਕ ਸ ਦ ਅੜ 	ਹੁਣ ਹੁਣ ਖੁਲ੍ਹੇ ਪ੍ਰਕਾਸ਼ੀ ਦਾਅੜੇ	on a honk on the way to the kashi garik 	On a honk, on the way to the kashi garik.	1.0
-			pa-IN	ਪ ਛ ਮ ਪ ਤ ਨ ਲ ਭਦ ਰਹ ਦ 	ਪਿੱਛੋਂ ਮਾਂ ਪੁੱਤ ਨੂੰ ਲੱਭਦੇ ਰਹਿੰਦੇ	kucyama vottamurapirendu	Kucyama, vottamurapirendu	1.0
-			pa-IN	ਉਹ ਅਖ ਬ ਰ ਮ ਘਰ ਲ ਆ ਕ ਦ ਖ ਈ	ਉਹ ਅਖ਼ਬਾਰ ਮੈਂ ਘਰ ਲਿਆ ਕੇ ਦਿਖਾਈ	oh come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come	Oh come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come	18.666666666666668
-			pa-IN	ਭ ਜਨ ਨ ਕ ਹਲ ਚ ਨ ਖ ਓ	ਭੋਜਨ ਨੂੰ ਕਾਹਲੀ ਚ ਨਾ ਖਾਓ	poojanum kahlij naakhao	Poojanum, Kahlij, Naakhao	1.0
-			pa-IN	ਓਸ ਆਖਦ ਹ ਜ ਦਗ ਰ ਜ ਬਦਲਦ ਹ 	ਓਸ਼ੋ ਆਖਦਾ ਹੈ ਜ਼ਿੰਦਗੀ ਰੋਜ਼ ਬਦਲਦੀ ਹੈ	pushu aktahe zendagi peruz badal dihai	Pushu Aktahe Zendagi Peruz Badal Dihai	1.0
-			pa-IN	ਕ ਰ ਚ ਬ ਠਦ ਆ ਹ ਮ ਪ ਕ ਗ ਉਤ ਰ 	ਕਾਰ ਚ ਬੈਠਦਿਆਂ ਹੀ ਮੈਂ ਪੈਕਿੰਗ ਉਤਾਰੀ	karchu berdeahim me peking utari	Karchu berdeahim me peking utari	1.0
-			pa-IN	ਹਵ ਲ ਤ ਵ ਚ ਪ ਜ ਛ ਇਖ ਲ ਕ ਮ ਜਰਮ ਸਨ	ਹਵਾਲਾਤ ਵਿੱਚ ਪੰਜ ਛੇ ਇਖ਼ਲਾਕੀ ਮੁਜਰਮ ਸਨ	habalat which panchichi a khillat ki madramsan	Habalat which Panchichi, a khillat ki madramsan	1.0
-male		thirties	pa-IN	ਬਈ ਵ ਹ ਮਰਨ ਚ ਜ ਨ ਪ ਦ ਤ 	ਬਈ ਵਾਹ ਮਰਨ ਚ ਜਾਨ ਪਾ ਦਿੱਤੀ	bhaiva maranche jan padatti	Bhaiva Maranche Jan Padatti	1.0
-male		thirties	pa-IN	ਉਸ ਦ ਇਕ ਹ ਲੜਕ ਸ 	ਉਸ ਦੀ ਇਕ ਹੀ ਲੜਕੀ ਸੀ	osdi ekhi larkisi	osdi ekhi larkisi	1.0
-male		thirties	pa-IN	ਮ ਨ ਵ ਚ ਠ ਜ ਅ ਹਲ ਲ ਗਣ ਲ ਗ ਪਈ	ਮੈਨੂੰ ਵੀ ਚਿੱਠੀ ਜਾਅ੍ਹਲੀ ਲੱਗਣ ਲੱਗ ਪਈ	menovicyothejali lagan lagpai	Menovicyothejali lagan lagpai	1.0
-male		thirties	pa-IN	ਮ ਰ ਨ ਨਕ ਇਸ ਸਕ ਲ ਦ ਨ ੜ ਸਨ	ਮੇਰੇ ਨਾਨਕੇ ਇਸ ਸਕੂਲ ਦੇ ਨੇੜੇ ਸਨ	my name is kool de nedezon 	My name is Kool De Nedezon.	1.0
-male		thirties	pa-IN	ਉਥ ਉਹ ਇਕ ਮਕ ਨ ਕਲ ਐਨਜ ਨ ਅਰ ਸਨ	ਉਥੇ ਉਹ ਇਕ ਮਕੈਨੀਕਲ ਐਨਜੀਨੀਅਰ ਸਨ	othoek maganical injiniersan	OTHOEK MAGANICAL INJINIERSAN	1.0
-male		thirties	pa-IN	ਸ ਡ ਪਰ ਵ ਰ ਦ ਕ ਸ ਤਰ ਹ ਵ ਧ ਤ ਵ ਧ ਸ ਫ ਹ ਵ ਗ 	ਸਾਡੇ ਪਰਿਵਾਰ ਦਾ ਕਿਸ ਤਰ੍ਹਾਂ ਵੱਧ ਤੋਂ ਵੱਧ ਸੈਫ਼ ਹੋਵੇਗਾ	saaday parivata kistram batu vad sef huviga	Saaday parivata kistram batu vad sef huviga	1.0
-male		thirties	pa-IN	ਇਕ ਪ ਸ ਦਸਤ ਰਬ ਦ ਦ ਮ ਕ ਬਲ ਹ ਰ ਹ ਸ 	ਇਕ ਪਾਸੇ ਦਸਤਾਰਬੰਦੀ ਦਾ ਮੁਕਾਬਲਾ ਹੋ ਰਿਹਾ ਸੀ	1 pass vid 4 banditam kaplah oriasi	1 pass vid 4 banditam kaplah oriasi	1.0
-male		thirties	pa-IN	ਤਈਯਬ ਸ ਹ ਗ ਲ ਨ ਕਬ ਡ ਕ ਮ ਟ ਟਰ ਸ 	ਤਈਯਬ ਸ਼ਾਹ ਗਿਲਾਨੀ ਕਬੱਡੀ ਕੁਮੈਂਟੇਟਰ ਸੀ	tayabshagilani kabadi kumentater	TAYABSHAGILANI KABADI KUMENTATER	1.0
-male		thirties	pa-IN	ਸ ਰ ਮ ਸ ਰਣ ਨ ਚ ਗ ਤਰ ਹ ਮ ਲ ਲਓ	ਸਾਰੇ ਮਿਸ਼ਰਣ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਮਿਲਾ ਲਓ	sarim ishran nu changitra millaalau	Sarim ishran nu changitra millaalau	1.0
-male		thirties	pa-IN	ਕਰ ੜ ਦ ਗ ਣਤ ਵ ਚ ਕਤਲ ਮ ਹ ਦ ਹ 	ਕਰੋੜਾਂ ਦੀ ਗਿਣਤੀ ਵਿੱਚ ਕਤਲਾਮ ਹੁੰਦਾ ਹੈੇ	krodha in the ginti which katlaam hunda hai	Krodha in the Ginti which katlaam hunda hai	1.0
-male		thirties	pa-IN	ਪਰ ਅਸਲ ਅਤ ਇਹ ਸ ਕ ਸ ਡ ਹ ਥ ਹ ਣ ਖ ਲ ਹ ਨਹ ਸ ਰਹ ਗ ਆ	ਪਰ ਅਸਲੀਅਤ ਇਹ ਸੀ ਕਿ ਸਾਡਾ ਹੱਥ ਹੁਣ ਖੁੱਲ੍ਹਾ ਨਹੀਂ ਸੀ ਰਹਿ ਗਿਆ	per asliat ack sarda hathoun kula nisi raya	per asliat ACK sarda hathoun kula nisi raya	1.0
-male		thirties	pa-IN	ਕਬ ਡ ਕ ਪ ਦ ਇਹ ਫ ਈਨਲ ਮ ਚ ਸ 	ਕਬੱਡੀ ਕੱਪ ਦਾ ਇਹ ਫਾਈਨਲ ਮੈਚ ਸੀ	kabadikopada final match c 	Kabadikopada Final Match C.	1.0
-male		thirties	pa-IN	ਅਹ ਮ ਘਟਨ ਵ ਦ ਵ ਡ ਓਗ ਰ ਫ ਵ ਹ ਵ ਗ 	ਅਹਿਮ ਘਟਨਾਵਾਂ ਦੀ ਵੀਡੀਓਗ੍ਰਾਫੀ ਵੀ ਹੋਵੇਗੀ	eham katna amadi videography vhov	eham katna amadi videography vhov	1.0
-male		thirties	pa-IN	ਲ ਕ ਸ ਚ ਵ ਚ ਰਹ ਦ ਨ 	ਲੋਕ ਸੋਚਾਂ ਵਿਚ ਰਹਿੰਦੇ ਨੇ	lok sucha mit randene	Lok sucha mit randene	1.0
-male		thirties	pa-IN	ਡ ਕਟਰ ਸ ਹ ਬ ਸ ਡ ਵ ਚ ਨਹ ਰਹ 	ਡਾਕਟਰ ਸਾਹਿਬ ਸਾਡੇ ਵਿਚ ਨਹੀਂ ਰਹੇ	bacter sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib	Bacter Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib	20.272727272727273
-male		thirties	pa-IN	ਅਕ ਲ ਦਲ ਅਤ ਭ ਜਪ ਵ ਚ ਪ ਣ ਲ ਗ ਆ ਤਰ ੜ 	ਅਕਾਲੀ ਦਲ ਅਤੇ ਭਾਜਪਾ ਵਿਚ ਪੈਣ ਲੱਗੀਆਂ ਤਰੇੜਾਂ	a kali dal ati paa chpa vich pand ghian trida	A kali dal, ati paa chpa vich pand ghian trida	1.0
-male		thirties	pa-IN	ਵ ਚ ਵ ਚ ਲ ਦ ਗ ਲ ਕਰ ਗ ਆ	ਵਿਚ ਵਿਚਾਲੇ ਦੀ ਗੱਲ ਕਰ ਗਿਆ	vetsu vichale di gol karga	Vetsu Vichale di gol karga	1.0
-male		thirties	pa-IN	ਸ ਹਬ ਹ ਤ ਹ ਸ ਮ ਹ ਤ ਹ 	ਸੁਹਬੇ ਹੋਤੀ ਹੈ ਸ਼ਾਮ ਹੋਤੀ ਹੈ	sube otiya sham otiya	sube otiya sham otiya	1.0
-male		thirties	pa-IN	ਚ ਣ ਕਮ ਸ ਨ ਇਕ ਸ ਵ ਧ ਨ ਕ ਸ ਸਥ ਹ 	ਚੋਣ ਕਮਿਸ਼ਨ ਇਕ ਸੰਵੀਧਾਨਿਕ ਸੰਸਥਾਂ ਹੈ	john commission x sam vidar link sans ta hai	John commission x sam vidar link sans ta hai	1.0
-male		thirties	pa-IN	ਅ ਗ ਡਰ ਵਰ ਦ ਅੜਵ ਗ ਟ ਕਰ 	ਅੱਗੋਂ ਡਰੈਵਰ ਦੀ ਅੜਵੈਂਗ ਟੱਕਰੇ	agoon driver the advanced kre	Agoon driver the advanced kre	1.0
-male		thirties	pa-IN	ਮ ਅਸਪ ਨ ਜ ਤਬ ਲਖ ਕਰ ਐਸ ਯ ਕ ਮ	ਮੈ ਅਸਪਾਨਿਜ ਤਬ ਲਖੋ ਕਰੋ ਐਸ ਯੋ ਕਾਮ	may a spanish tablaku kuru seokam	May a Spanish tablaku kuru SEOKam	1.0
-male		thirties	pa-IN	ਲ ਕ ਖ ਸ ਅ ਦਰ ਖ ਵ ਹ ਏ ਚ ਤ ਰ ਕ	ਲੋਕ ਖੁਸ਼ੀ ਅੰਦਰ ਖੀਵੇ ਹੋਏ ਚਾਤ੍ਰਿਕ	locushi andrkiveh hohechatrik	Locushi Andrkiveh Hohechatrik	1.0
-male		thirties	pa-IN	ਦ ਖਣ ਅਮਰ ਕ ਦ ਵਸ ਲ ਪ ਰ ਤਰ ਹ ਅਮਰ ਕ ਦ ਕ ਟਰ ਲ ਵ ਚ ਸਨ	ਦੱਖਣੀ ਅਮਰੀਕਾ ਦੇ ਵਸੀਲੇ ਪੂਰੀ ਤਰ੍ਹਾਂ ਅਮਰੀਕਾ ਦੇ ਕੰਟਰੋਲ ਵਿਚ ਸਨ	the klim rikadev silepuritra amrikadek control with sun	The Klim Rikadev Silepuritra Amrikadek Control with Sun	1.0
-male		thirties	pa-IN	ਭ ਵ ਉਹ ਆਪਣ ਲੜਦ ਮਰਦ ਰਹ ਣ	ਭਾਵੇਂ ਉਹ ਆਪਣੇ ਲੜਦੇ ਮਰਦੇ ਰਹਿਣ	pami maapni lardim martirian	Pami maapni lardim martirian	1.0
-male		thirties	pa-IN	ਕਰਨ ਦ ਮ ਨ ਮ ਰ ਉਦ ਸ ਦ ਸਫ ਰ	ਕਰਨ ਦੇ ਮੈਨੂੰ ਮੇਰੀ ਉਦਾਸੀ ਦਾ ਸਫ਼ਰ	karande menumeri udha sida safer	Karande menumeri udha sida safer	1.0
-male		thirties	pa-IN	ਉਸ ਦ ਕ ਰਗ ਜ ਰ ਲ ਸ ਨ ਸ 	ਉਸ ਦੀ ਕਾਰਗੁਜ਼ਾਰੀ ਲਾਸਾਨੀ ਸੀ	usti karguzari lasani si	Usti karguzari lasani si	1.0
-male		thirties	pa-IN	ਭ ਰਤ ਕਮਜ ਰ ਤ ਨ ਤ ਣ ਹ ਗਏ ਸਨ	ਭਾਰਤੀ ਕਮਜ਼ੋਰ ਤੇ ਨਿਤਾਣੇ ਹੋ ਗਏ ਸਨ	parti kam zothin itani hukesan	Parti kam zothin itani hukesan	1.0
-male		thirties	pa-IN	ਬ ਦ ਕ ਈ ਵ ਮ ੜ ਨਹ ਹ 	ਬੰਦਾ ਕੋਈ ਵੀ ਮਾੜਾਂ ਨਹੀਂ ਹੈ	bandha koi bhi madhan hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai	Bandha, koi bhi, madhan, hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai	24.11111111111111
-male		thirties	pa-IN	ਬਚਪਨ ਦ ਆ ਗ ਲ ਵ ਚ ਗ ਆਚ ਜ ਦ ਹ 	ਬਚਪਨ ਦੀਆਂ ਗੱਲਾਂ ਵਿਚ ਗੁਆਚ ਜਾਂਦੇ ਹਾਂ	bach pandiyang allah which koad jande haha	Bach pandiyang Allah which koad jande haha	1.0
-male		thirties	pa-IN	ਭ ਵ ਚ ਸ ਰਜ ਭ ਵ ਚ ਚ ਦ 	ਭੈ ਵਿਚਿ ਸੂਰਜੁ ਭੈ ਵਿਚਿ ਚੰਦੁ	pavit suraj pavit chand	Pavit Suraj Pavit Chand	1.0
-male		thirties	pa-IN	ਖ ਲ ਹ ਦ ਲ ਮ ਚਦ ਪ ਥਰ ਰ ਖਵ ਦ ਆ 	ਖੋਲ੍ਹ ਦਿੱਲ ਮੇਚਦਾ ਪੱਥਰ ਰੱਖਵਾ ਦਿਆਂ	kol delme jejada pathar akhmadya	kol delme jejada pathar akhmadya	1.0
-male		thirties	pa-IN	ਬ ਬ ਰ ਮਦ ਵ ਦ ਗ ਧ ਪਰ ਵ ਰ ਵ ਲ ਛ ਡ ਆ ਬ ਣ	ਬਾਬਾ ਰਾਮਦੇਵ ਦਾ ਗਾਂਧੀ ਪਰਿਵਾਰ ਵੱਲ ਛੱਡਿਆ ਬਾਣ	baba ram dev daghandi prahgar valkyra devarn	Baba Ram Dev Daghandi Prahgar Valkyra Devarn	1.0
-male		thirties	pa-IN	ਇਹ ਗਰ ਪ ਪ ਕ ਸਤ ਨ ਵ ਚ ਨਹ ਸ ਬਣ ਆ	ਇਹ ਗਰੁਪ ਪਾਕਿਸਤਾਨ ਵਿੱਚ ਨਹੀਂ ਸੀ ਬਣਿਆ	1 group pakistan which is not in japan 	1 group Pakistan which is not in Japan.	1.0
-male		thirties	pa-IN	ਏਸ ਆਈ ਤ ਓਲ ਪ ਕ ਖ ਡ ਦ ਇਤ ਹ ਸ ਲ ਖ ਆ ਹ 	ਏਸ਼ਿਆਈ ਤੇ ਓਲੰਪਿਕ ਖੇਡਾਂ ਦਾ ਇਤਿਹਾਸ ਲਿਖਿਆ ਹੈ	acaete lampic kirdanite has leke	ACAETE & Lampic Kirdanite has leke	1.0
-male		thirties	pa-IN	ਜ ਮਣ ਮਰਨ ਤ ਕ ਕਈ ਰ ਸ ਤ ਹ ਢ ਵ 	ਜੰਮਣ ਮਰਨ ਤੱਕ ਕਈ ਰਿਸ਼ਤੇ ਹੰਢਾਵੇਂ	jaman maranta kairish te hundave	jaman maranta kairish te hundave	1.0
-male		thirties	pa-IN	ਨ ਅ ਗ ਦ ਸ ਕ ਦ ਭ ਸ ਹ ਦ ਹ 	ਨਾ ਅੱਗ ਦੇ ਸੇਕ ਦੀ ਭਾਸ਼ਾ ਹੁੰਦੀ ਹੈ	nah agdaes ekdi pa shaham di hai	nah agdaes ekdi pa shaham di hai	1.0
-male		thirties	pa-IN	ਉਹ ਕ ਠ ਤ ਖੜ ਹ ਹ ਦ ਸ 	ਉਹ ਕੋਠੇ ਤੇ ਖੜ੍ਹੀ ਹੁੰਦੀ ਸੀ	okurte kari hundisi	Okurte kari hundisi	1.0
-male		thirties	pa-IN	ਅਮਲ ਫ ਰ ਕ ਹੜ ਪ ਠ ਉਤ ਕਰਨ ਸ 	ਅਮਲ ਫੇਰ ਕਿਹੜੇ ਪਾਠ ਉਤੇ ਕਰਨਾ ਸੀ	amal fare kede part hute karna si	Amal fare kede part hute karna si	1.0
-male		thirties	pa-IN	ਹ ਣ ਜ ਥ ਤ ਹ ਡ ਕਰਸਰ ਹ ਉ ਥ ਟ ਈਪ ਕਰ 	ਹੁਣ ਜਿੱਥੇ ਤੁਹਾਡਾ ਕਰਸਰ ਹੈ ਉੱਥੇ ਟਾਈਪ ਕਰੋ	hong jithi adhakaarjar hai othetait karu	hong jithi adhakaarjar hai othetait karu	1.0
-male		thirties	pa-IN	ਅਗਰ ਕ ਈ ਰ ਫ ਡ ਬਣਦ ਹ ਤ ਜ ਰ ਰ ਮ ਲ ਗ 	ਅਗਰ ਕੋਈ ਰੀਫੰਡ ਬਣਦਾ ਹੈ ਤਾਂ ਜ਼ਰੂਰ ਮਿਲੇਗਾ	if any refund is found then it will be in zerur 	If any refund is found, then it will be in Zerur.	1.0
-male		thirties	pa-IN	ਹ ਲ ਅਤ ਮਹ ਲ ਦ ਵ ਖ ਵ ਖਰ ਸ ਬਦ ਹਨ	ਹੋਲਾ ਅਤੇ ਮਹੱਲਾ ਦੋ ਵੱਖੋ ਵੱਖਰੇ ਸ਼ਬਦ ਹਨ	khulati maladu vaku vakri shabdhan	khulati maladu vaku vakri shabdhan	1.0
-male		thirties	pa-IN	ਬ ਤ ਵਕਤ ਦ ਪ ਰਦਰਸ ਲ ਖ ਜ ਖ 	ਬੀਤੇ ਵਕਤਾਂ ਦਾ ਪਾਰਦਰਸ਼ੀ ਲੇਖਾ ਜੋਖਾ	bite vaktanda par dar shi le ka juka	Bite vaktanda par dar shi le ka juka	1.0
-male		thirties	pa-IN	ਯ ਤਰ ਕ ਰ ਏ ਵ ਚ ਕ ਈ ਵ ਧ ਨਹ 	ਯਾਤਰੀ ਕਿਰਾਏ ਵਿਚ ਕੋਈ ਵਾਧਾ ਨਹੀਂ	iatri kravich ko iva da negi	Iatri kravich ko iva da negi	1.0
-male		thirties	pa-IN	ਉਸਨ ਲਖਬ ਰ ਨ ਹਰ ਤਰ ਹ ਦ ਸ ਖ ਦ ਤ 	ਉਸਨੇ ਲਖਬੀਰ ਨੂੰ ਹਰ ਤਰ੍ਹਾਂ ਦਾ ਸੁਖ ਦਿੱਤਾ	usnay lagbir nu hatterana suktita	Usnay lagbir nu hatterana suktita	1.0
-male		thirties	pa-IN	ਦ ਰ ਦ ਦ ਲ ਨ ਅ ਗ ਲ ਗ ਗਈ	ਦਾਰੇ ਦੇ ਦਿਲ ਨੂੰ ਅੱਗ ਲੱਗ ਗਈ	darede deleun agla gay	Darede Deleun Agla Gay	1.0
-male		thirties	pa-IN	ਸ ਰ ਉਸ ਦ ਦ ਆਲ ਹ ਜ ਦ 	ਸਾਰੇ ਉਸ ਦੇ ਦੁਆਲੇ ਹੋ ਜਾਦੇ	sarayu s de dhuali hojande	Sarayu's De Dhuali Hojande	1.0
-male		thirties	pa-IN	ਉਹ ਸ ਡ ਤਮ ਸ ਦ ਖ ਰਹ ਹਨ	ਉਹ ਸਾਡਾ ਤਮਾਸ਼ਾ ਦੇਖ ਰਹੇ ਹਨ	o sarda tumasya dikre hihan	O sarda tumasya dikre hihan	1.0
-male		thirties	pa-IN	ਰ ਲਵ ਭਰਤ ਬ ਰਡ ਦ ਸਮ ਖ ਆ ਹ ਵ ਗ 	ਰੇਲਵੇਭਰਤੀ ਬੋਰਡ ਦੀ ਸਮੀਖਿਆ ਹੋਵੇਗੀ	railway party board this mickey 하고 vegi	Railway Party board this Mickey 하고 vegi	1.0
-male		thirties	pa-IN	ਅਮਰ ਦਰ ਸ ਘ ਦ ਬਰਖ ਸਤਗ ਦ ਇਹ ਪਰ ਨ ਤ ਹ ਵ ਗ 	ਅਮਰਿੰਦਰ ਸਿੰਘ ਦੀ ਬਰਖਾਸਤਗੀ ਦੀ ਇਹ ਪਰਿਨੀਤੀ ਹੋਵੇਗੀ	amrender singhdi berkhasgdf parniti hvl	Amrender Singhdi berkhaSGDF Parniti HVL	1.0
-male		thirties	pa-IN	ਪਰ ਉਹ ਹ ਲ ਵ ਕ ਫ ਕ ਝ ਪ ਰ ਪਤ ਕਰਨ ਚ ਹ ਦ ਹਨ	ਪਰ ਉਹ ਹਾਲੇ ਵੀ ਕਾਫ਼ੀ ਕੁਝ ਪ੍ਰਾਪਤ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹਨ	paro halevi kafi kuch praap te karna chondi han	Paro halevi kafi kuch praap te karna chondi han	1.0
-male		thirties	pa-IN	ਡ ਰ ਨ ਦ ਸਫ ਈ ਨਹ ਹ ਰਹ 	ਡ੍ਰੇਨਾਂ ਦੀ ਸਫਾਈ ਨਹੀਂ ਹੋ ਰਹੀ	draena this file is not over 	Draena this file is not over.	1.0
-male		thirties	pa-IN	ਦ ਖਦ ਦ ਖਦ ਝਗੜ ਹ ਰ ਵਧ ਗ ਆ	ਦੇਖਦੇ ਦੇਖਦੇ ਝਗੜਾ ਹੋਰ ਵਧ ਗਿਆ	see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see 	See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See,	11.2
-male		thirties	pa-IN	ਰ ਬ ਦ ਸਦ ਏ ਵ ਚ ਤ ਰ ਸ ਰਤ	ਰੱਬ ਦਿਸਦਾ ਏ ਵਿੱਚ ਤੇਰੀ ਸੂਰਤ	arab destai v4 surat	Arab-Destai V4 Surat	1.0
-male		thirties	pa-IN	ਤ ਹ ਡ ਜ ਵਨਸ ਲ ਸਰਬਸ ਖ ਦ ਕ ਮਨ ਬਣ ਇਹ ਹ ਮ ਰ ਦ ਲ ਕ ਮਨ ਏ	ਤੁਹਾਡੀ ਜੀਵਨਸ਼ੈਲੀ ਸਰਬਸੁੱਖ ਦੀ ਕਾਮਨ ਬਣੇ ਇਹ ਹੀ ਮੇਰੀ ਦਿਲੀ ਕਾਮਨਾ ਏ	so hadi jeevan shali surb sukti kaman bani ehi miri dali kaman hai	So, hadi jeevan shali surb sukti kaman bani, ehi miri dali kaman hai	1.0
-male		thirties	pa-IN	ਪਰ ਚ ਧਰ ਆ ਦ ਬ ਕ ਬ ਲ ਸ ਨ ਉ ਚ ਉਠ ਇਆ	ਪਰ ਚੌਧਰੀਆਂ ਦੇ ਬੈਂਕ ਬੈਲੰਸ ਨੂੰ ਉੱਚਾ ਉਠਾਇਆ	4 jadriyaan de bank balance nu uchau taya	4. Jadriyaan de bank balance nu uchau taya	1.0
-male		thirties	pa-IN	ਉਸ ਨ ਵ ਨਜ ਰਅ ਦ ਜ ਕ ਤ ਗ ਆ ਹ 	ਉਸ ਨੂੰ ਵੀ ਨਜ਼ਰਅੰਦਾਜ਼ ਕੀਤਾ ਗਿਆ ਹੈ	usnu v nezarandhaz ki tagi hai hai	Usnu v nezarandhaz ki tagi hai hai	1.0
-male		thirties	pa-IN	ਅਸ ਆਹ ਕਰ ਗ ਅਸ ਔਹ ਕਰ ਗ 	ਅਸੀਂ ਆਹ ਕਰਾਂਗੇ ਅਸੀਂ ਔਹ ਕਰਾਂਗੇ	ac	AC	1.0
-male		thirties	pa-IN	ਜ ਤ ਬ ਣ ਪਨ ਦ ਬ ਮ ਰ ਤ ਪ ੜਤ ਹ 	ਜੋਤੀ ਬੌਣੇਪਨ ਦੀ ਬਿਮਾਰੀ ਤੋਂ ਪੀੜਤ ਹੈ	joti bane pandevi mari dont pude thai	Joti bane pandevi mari, dont pude thai	1.0
-male		thirties	pa-IN	ਸ ਡ ਇਸ ਬ ਰ ਰ ਏ ਮ ਗ ਗਈ ਸ 	ਸਾਡੀ ਇਸ ਬਾਰੇ ਰਾਏ ਮੰਗੀ ਗਈ ਸੀ	sardis barei rai manghi gayi sai	Sardis Barei Rai Manghi Gayi Sai	1.0
-male		thirties	pa-IN	ਨਵ ਸ ਲ ਵ ਲ ਅਸ ਪਰਚ ਛਪ ਉਣ ਆ	ਨਵੇਂ ਸਾਲ ਵਾਲੇ ਅਸੀਂ ਪਰਚੇ ਛਪਾਉਣੇ ਆ	namesal valiyosin paakshaponeya	namesal valiyosin paakshaponeya	1.0
-male		thirties	pa-IN	ਅਸ ਤ ਤ ਨ ਪ ਠ ਨਹ ਦ ਤ 	ਅਸੀਂ ਤਾਂ ਤੈਨੂੰ ਪਿੱਠ ਨਹੀਂ ਦਿੱਤੀ	asim da te no pit na hindutti	Asim da te no pit na hindutti	1.0
-male		thirties	pa-IN	ਜਦ ਸ ਰ ਸ ਰ ਤ ਤ ਰ ਕ 	ਜਦੋਂ ਸਿਰ ਸਿਰ ਤੋਂ ਤੁਰ ਕੇ	jadon sir sir tuntur ki	Jadon sir sir, tuntur ki	1.0
-male		thirties	pa-IN	ਰ ਪ ਕ ਰ ਦ ਆ ਸ ਮ ਵ ਨ ਸ ਚ ਤ ਨਹ ਕ ਤ ਆ ਜ ਸਕਦ ਆ 	ਰੂਪਾਕਾਰ ਦੀਆਂ ਸੀਮਾਵਾਂ ਨਿਸ਼ਚਿਤ ਨਹੀਂ ਕੀਤੀਆਂ ਜਾ ਸਕਦੀਆਂ	rupa kaardinya simaa neshtet nahin ki tian jasa dian	Rupa kaardinya simaa neshtet nahin ki tian jasa dian	1.0
-male		thirties	pa-IN	ਮ ਰ ਰ ੜ ਹ ਦ ਹ ਡ ਚ ਪ ਰ ਬਲਮ ਐ	ਮੇਰੀ ਰੀੜ੍ਹ ਦੀ ਹੱਡੀ ਚ ਪ੍ਰਾਬਲਮ ਐ	mary read the herdeece problem	Mary read the herdeece problem	1.0
-male		thirties	pa-IN	ਜ ਹ ਬ ਜ ਸ ਲ ਣ ਕਰਮ ਸ ਦੜ ਖ ਤ 	ਜੇਹਾ ਬੀਜੈ ਸੋ ਲੁਣੇ ਕਰਮਾਂ ਸੰਦੜਾ ਖੇਤੁ	jihab vijay solune karma sundraakheet	Jihab Vijay Solune Karma Sundraakheet	1.0
-male		thirties	pa-IN	ਗਰ ਊ ਡ ਲ ਗਲ ਵ ਡ ਚ ਰ ਹ ਚ	ਗਰਾਊਂਡ ਲਾਗਲੇ ਵੱਡੇ ਚੁਰਾਹੇ ਚ	ground lagle by detra h 	Ground lagle by detra h.	1.0
-male		thirties	pa-IN	ਇਸ ਨ ਲ ਦ ਵ ਪਰ ਵ ਰ ਤ ਵ ਡ ਆ ਮ ਸ ਬਤ ਦ ਪਹ ੜ ਟ ਟ ਪਏ	ਇਸ ਨਾਲ ਦੋਵਾਂ ਪਰਿਵਾਰਾਂ ਤੇ ਵੱਡੀਆਂ ਮੁਸੀਬਤਾਂ ਦੇ ਪਹਾੜ ਟੁੱਟ ਪਏ	2 5mm nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd	2.5mm nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd	5.333333333333333
-male		thirties	pa-IN	ਅ ਲ ਹ ਬ ਰਹਮ ਵ ਸ ਨ ਜ ਨ ਭਗਵ ਨ ਸ ਰ 	ਅੱਲ੍ਹਾ ਬ੍ਰਹਮਾਂ ਵਿਸ਼ਨੂੰ ਜਿਨੇਂ ਭਗਵਾਨ ਸਾਰੇ	allah brahma vishnu jineepa gwansari	Allah Brahma Vishnu, Jineepa Gwansari	1.0
-			pa-IN	ਇਨ ਹ ਨ ਡ ਲ ਰ ਗ ਪ ਉਣ ਚ ਹ ਦ ਹਨ	ਇਨ੍ਹਾਂ ਨੂੰ ਡੱਲ ਰੰਗ ਪਾਉਣੇ ਚਾਹੀਦੇ ਹਨ	in a new dalarang bau ne chahi dekhar	In a new dalarang bau ne chahi dekhar	1.0
-			pa-IN	ਕ ਝ ਹ ਦ ਨ ਵ ਚ ਫਰਕ ਪ ਜ ਵ ਗ 	ਕੁਝ ਹੀ ਦਿਨਾਂ ਵਿਚ ਫਰਕ ਪੈ ਜਾਵੇਗਾ	kodi videonan več park paja bega	Kodi videonan več park paja bega	1.0
-male		twenties	pa-IN	ਅਣਖ ਪ ਜ ਬ ਦ ਅਣਖ ਮਰ ਮ ਕ ਗਈ ਹ 	ਅਣਖੀ ਪੰਜਾਬ ਦੀ ਅਣਖ ਮਰ ਮੁੱਕ ਗਈ ਹੈ	bara kipan jahadir adakmar bara kipan jahadir adakmar bara kipan jahadir adakmar bara kipan jahadir adakmar bara kipan jahadir adakmar bara kipan jahadir adakmar bara kipan jahadir adakmar bara kipan jahadir adakmar bara kipan jahadir adakmar bara kipan jahadir adakmar bara kipan jahadir adakmar bara kipan jahadir adakmar bara kipan jahadir adakmar bara kipan jahadir adakmar bara kipan jahadir adakmar bara kipan jahadir adakmar bara kipan jahadir adakmar bara kipan jahadir adakmar bara kipan jahad	bara kipan jahadir adakmar bara kipan jahadir adakmar bara kipan jahadir adakmar bara kipan jahadir adakmar bara kipan jahadir adakmar bara kipan jahadir adakmar bara kipan jahadir adakmar bara kipan jahadir adakmar bara kipan jahadir adakmar bara kipan jahadir adakmar bara kipan jahadir adakmar bara kipan jahadir adakmar bara kipan jahadir adakmar bara kipan jahadir adakmar bara kipan jahadir adakmar bara kipan jahadir adakmar bara kipan jahadir adakmar bara kipan jahadir adakmar bara kipan jahad	6.818181818181818
-			pa-IN	ਹ ਣ ਸ ਖ ਜ ਤ ਪ ਤ ਤ ਉਪਰ ਹ 	ਹੁਣ ਸਿਖ ਜਾਤਾਂ ਪਾਤਾਂ ਤੋਂ ਉਪਰ ਹੈ	pornasik jata patanda operaya	pornasik jata patanda operaya	1.0
-			pa-IN	ਕਰਫ ਊ ਗ ਰਸਤ ਇਲ ਕ ਆ ਚ ਮ ਹ ਲ ਡਰ ਉਣ ਹ 	ਕਰਫ਼ਿਊ ਗ੍ਰਸਤ ਇਲਾਕਿਆਂ ਚ ਮਾਹੌਲ ਡਰਾਉਣਾ ਹੈ	karfiu gress lack and jumni hall 	Karfiu, Gress, Lack, and Jumni Hall.	1.0
-			pa-IN	ਅ ਜ ਭ ਜਪ ਨ ਇਹ ਢ ਗ ਅਪਣ ਇਆ ਹ ਇਆ ਹ 	ਅੱਜ ਭਾਜਪਾ ਨੇ ਇਹੋ ਢੰਗ ਅਪਣਾਇਆ ਹੋਇਆ ਹੈ	rajpa rajpa has not yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet	Rajpa Rajpa has not yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet	17.076923076923077
-			pa-IN	ਦ ਜ ਪ ਸ ਇ ਡਸਟਰ ਦ ਬਹ ਤ ਸ ਰ 	ਦੂਜੇ ਪਾਸੇ ਇੰਡਸਟਰੀ ਦੇ ਬਹੁਤ ਸਾਰੇ	2jp saindustrydebhatsari	2JP saindustrydebhatsari	1.0
-			pa-IN	ਸ ਰ ਗ ਰ ਵ ਲਮ ਕ ਨ ਮ ਹ ਬ ਤ ਉਣ 	ਸ੍ਰੀ ਗੁਰੂ ਵਾਲਮੀਕ ਨਾਮ ਹੀ ਬਿਤਾਉਣਾ	3 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 	3.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.	8.615384615384615
-			pa-IN	ਬੜ ਯ ਦਗ ਰ ਜ ਫ ਤ ਧ ਵ ਵ ਖਣ ਨ ਮ ਲ 	ਬੜੇ ਯਾਦਗੀਰੀ ਜੱਫੇ ਤੇ ਧਾਵੇ ਵੇਖਣ ਨੂੰ ਮਿਲੇ	baleyaad kariyaad feltis paveli kaunable	Baleyaad Kariyaad Feltis Paveli Kaunable	1.0
-			pa-IN	ਸਬਰ ਸ ਕਰ ਹ ਅਸ ਦ ਇ ਕ ਨ ਹਰ 	ਸਬਰ ਸ਼ੁਕਰ ਹੈ ਅਸਾਂ ਦਾ ਇੱਕ ਨਾਹਰਾ	sabar shukar harsana ikunnara	sabar shukar harsana ikunnara	1.0
-			pa-IN	ਪਰ ਗ ਲ ਅਖ ਰ ਸ ਹਮਣ ਆ ਗਈ	ਪਰ ਗੱਲ ਅਖੀਰ ਸਾਹਮਣੇ ਆ ਗਈ	bye bye	Bye bye	1.0
-			pa-IN	ਇਹ ਅਪ ਲ ਪ ਛਲ ਵਰ ਹ ਦ ਇਰ ਕ ਤ ਆ ਗਈਆ ਸਨ	ਇਹ ਅਪੀਲਾਂ ਪਿਛਲੇ ਵਰ੍ਹੇ ਦਾਇਰ ਕੀਤੀਆਂ ਗਈਆਂ ਸਨ	pnp slever lfk 10 	PNP-Slever LFK-10.	1.0
-			pa-IN	ਕ ਝ ਇਕਨ ਦ ਮ ਣ ਸਨਮ ਨ ਵ ਹ ਵ ਗ 	ਕੁਝ ਇਕਨਾਂ ਦਾ ਮਾਣ ਸਨਮਾਨ ਵੀ ਹੋਵੇਗਾ	khojena da man samman numi hovega	Khojena da man samman numi hovega	1.0
-			pa-IN	ਅ ਜ ਤ ਇਹ ਜ ਮ ਵ ਰ ਤ ਸ ਸ ਭ ਲਓ	ਅੱਜ ਤੋਂ ਇਹ ਜਿੰਮੇਵਾਰੀ ਤੁਸੀਂ ਸਾਂਭ ਲਓ	hidhah hidhah hidhah hidhah hidhah hidhah hidhah hidhah hidhah hidhah hidhah hidhah hidhah hidhah hidhah hidhah hidhah hidhah hidhah hidhah hidhah hidhah hidhah hidhah hidhah hidhah hidhah hidhah hidhah hidhah hidhah hidhah hidhah hidhah hidhah hidhah hidhah hidhah hidhah hidhah hidhah hidhah hidhah hidhah hidhah	Hidhah, Hidhah, Hidhah, Hidhah, Hidhah, Hidhah, Hidhah, Hidhah, Hidhah, Hidhah, Hidhah, Hidhah, Hidhah, Hidhah, Hidhah, Hidhah, Hidhah, Hidhah, Hidhah, Hidhah, Hidhah, Hidhah, Hidhah, Hidhah, Hidhah, Hidhah, Hidhah, Hidhah, Hidhah, Hidhah, Hidhah, Hidhah, Hidhah, Hidhah, Hidhah, Hidhah, Hidhah, Hidhah, Hidhah, Hidhah, Hidhah, Hidhah, Hidhah, Hidhah, Hidhah	3.4615384615384617
-			pa-IN	ਉਹ ਪ ਨ ਦ ਕ ਰਜ ਲਈ ਦ ੜਦ ਹ 	ਉਹ ਪੁੰਨ ਦੇ ਕਾਰਜਾਂ ਲਈ ਦੌੜਦਾ ਹੈ	oponadek janei tuhrta hai	Oponadek, janei tuhrta hai	1.0
-			pa-IN	ਇਕ ਮ ਟ ਪ ਛ ਇਸ ਚ ਪ ਰਵ ਸ ਕਰ 	ਇਕ ਮਿੰਟ ਪਿੱਛੋਂ ਇਸ ਚ ਪ੍ਰਵੇਸ਼ ਕਰੋ	pichah is with per vegetable	pichah is with per vegetable	1.0
-			pa-IN	ਸ ਧ ਬਲਰ ਜ ਅ ਜ ਯ ਕ ਵ ਚ ਬ ਠ 	ਸਿੱਧੂ ਬਲਰਾਜ ਅੱਜ ਯੂ ਕੇ ਵਿਚ ਬੈਠਾ	situ barraja azduyukh kavit baita 	Situ barraja, Azduyukh, Kavit, Baita.	1.0
-			pa-IN	ਹ ਇਹ ਯ ਗ ਸ ਇਰਨ ਨਕ ਪ ਰ ਵਰਗ 	ਹੈ ਇਹ ਯੁੱਗ ਸ਼ਇਰਨਾਨਕ ਪੀਰ ਵਰਗੀ	hey hey juku shire nonakhi wa rp 	Hey, hey, juku, shire, nonakhi, wa rp.	1.0
-			pa-IN	ਭ ਰ ਸ ਟ ਚ ਰ ਵ ਰ ਧ ਜਨ ਲ ਕਪ ਲ ਬ ਲ ਲ ਆਉਣ ਬ ਕ ਹ 	ਭ੍ਰਿਸ਼ਟਾਚਾਰ ਵਿਰੋਧੀ ਜਨ ਲੋਕਪਾਲ ਬਿਲ ਲਿਆਉਣਾ ਬਾਕੀ ਹੈ	we will start over at the channel 	We will start over at the channel.	1.0
-			pa-IN	ਇਨ ਹ ਦ ਸ ਲ ਨ ਖਰਚ ਅਰਬ ਡ ਲਰ ਹ 	ਇਨ੍ਹਾਂ ਦਾ ਸਾਲਾਨਾ ਖਰਚ ਅਰਬ ਡਾਲਰ ਹੈ	inada sala nakhar arbuttal rehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehe	Inada Sala Nakhar Arbuttal Rehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehe	1.0
-			pa-IN	ਉਥ ਅਮਰ ਕ ਕ ਹੜ ਜ ਕ ਜ ਜ ਲ ਗ ਜ ਣ ਸ 	ਉਥੇ ਅਮਰੀਕਾ ਕਿਹੜਾ ਜਾ ਕੇ ਜੱਜ ਲੱਗ ਜਾਣਾ ਸੀ	oathaya amerika kera jakaya jatilla be jana si	Oathaya amerika kera jakaya jatilla be jana si	1.0
-			pa-IN	ਕ ਝ ਲ ਕ ਅਧ ਆਤਮਕ ਵ ਦ ਦ ਗਲ ਕਰਦ ਹਨ	ਕੁਝ ਲੋਕ ਅਧਿਆਤਮਕ ਵਾਦ ਦੀ ਗਲ ਕਰਦੇ ਹਨ	kodilu adhiyat makwad di kalkar dihan	Kodilu adhiyat makwad di kalkar dihan	1.0
-			pa-IN	ਸ ਰ ਉਮਰ ਤਨਖ ਹ ਲ ਦ ਰਹ ਹ 	ਸਾਰੀ ਉਮਰ ਤਨਖ਼ਾਹਾਂ ਲੈਂਦੇ ਰਹੇ ਹੋ	sari omar tanakaan nendira hevo	Sari Omar Tanakaan Nendira Hevo	1.0
-			pa-IN	ਕਲ ਬ ਵ ਲ ਉਹਨ ਹ ਥ ਛ ਵ ਕਰਦ ਸਨ	ਕਲੱਬ ਵਾਲੇ ਉਹਨੂੰ ਹੱਥੀਂ ਛਾਵਾਂ ਕਰਦੇ ਸਨ	ke labu baalit ba min atin chava kardesam	ke labu baalit ba min atin chava kardesam	1.0
-			pa-IN	ਕ ੜ ਆ ਉਸ ਨ ਬ ਰ ਆ ਚ ਵ ਖਦ ਆ 	ਕੁੜੀਆਂ ਉਸ ਨੂੰ ਬਾਰੀਆਂ ਚੋਂ ਵੇਖਦੀਆਂ	koreanya osmobaniya vichon vichon	koreanya osmobaniya vichon vichon	1.0
-male		thirties	pa-IN	ਬ ਢ ਮ ਪ ਉ ਨ ਭ ਰ ਸਮਝ ਆ ਜ ਦ ਹ 	ਬੁੱਢੇ ਮਾਂ ਪਿਉ ਨੂੰ ਭਾਰ ਸਮਝਿਆ ਜਾਂਦਾ ਹੈ	burde maapyanu par samje janda hai	Burde Maapyanu par samje janda hai	1.0
-male		thirties	pa-IN	ਕ ਵ ਉਹਨ ਨ ਕ ਸ ਦ ਸ ਨ ਰ ਖ 	ਕਿਵੇਂ ਉਹਨਾਂ ਨੇ ਕੇਸਾਂ ਦੀ ਸ਼ਾਨ ਰੱਖੀ	keme onnan ek kesan di shandraki	keme onnan ek kesan di shandraki	1.0
-male		thirties	pa-IN	ਉਸ ਨ ਕ ਝ ਕ ਤ ਬ ਵ ਲ ਖ ਆ ਹਨ	ਉਸ ਨੇ ਕੁਝ ਕਿਤਾਬਾਂ ਵੀ ਲਿਖੀਆਂ ਹਨ	usnaykuji ktabaa vi likiya hanna	Usnaykuji ktabaa vi likiya hanna	1.0
-male		thirties	pa-IN	ਅ ਜ ਫ ਰ ਉਸ ਹ ਦ ਸ ਵ ਚ	ਅੱਜ ਫਿਰ ਉਸ ਹੀ ਦੇਸ਼ ਵਿਚ	adjafir osa hede shwetj	Adjafir osa hede shwetj	1.0
-male		thirties	pa-IN	ਗ ਲ ਵ ਲ ਬ ਤ ਬਹ ਤ ਮ ਠ ਲ ਗ ਸ 	ਗੋਲੀ ਵਾਲਾ ਬੱਤਾ ਬਹੁਤ ਮਿੱਠਾ ਲੱਗਾ ਸੀ	golivala bhatabhoth methala ka si	Golivala bhatabhoth methala ka si	1.0
-male		thirties	pa-IN	ਫ ਲਹ ਲ ਸ ਰ ਖ ਆ ਏਜ ਸ ਆ ਉਸ ਤ ਪ ਛਗ ਛ ਕਰ ਰਹ ਆ ਹਨ	ਫ਼ਿਲਹਾਲ ਸੁਰੱਖਿਆ ਏਜੰਸੀਆਂ ਉਸ ਤੋਂ ਪੁੱਛਗਿੱਛ ਕਰ ਰਹੀਆਂ ਹਨ	filhald surakayaan siyaunstopu chviška rynya han	Filhald surakayaan siyaunstopu chviška rynya han	1.0
-male		thirties	pa-IN	ਪ ਰ ਤਣ ਕਥ ਵ ਚਕ ਸਟ ਜ ਦ ਸ ਗ ਰ ਹ ਇਆ ਕਰਦ ਸਨ	ਪੁਰਾਤਣ ਕਥਾ ਵਾਚਕ ਸਟੇਜ ਦਾ ਸਿੰਗਾਰ ਹੋਇਆ ਕਰਦੇ ਸਨ	kuraten ka kathamajikustis dashingar vaya kathisan	kuraten ka kathamajikustis dashingar vaya kathisan	1.0
-male		thirties	pa-IN	ਕ ਕ ਔਰਤ ਨ ਲ ਰ ਸ ਤ ਦ 	ਕਿ ਕੀ ਔਰਤ ਨਾਲ ਰਿਸ਼ਤੇ ਦਾ	ghi ghi orta non resteeta	Ghi, Ghi orta non-resteeta	1.0
-male		thirties	pa-IN	ਨਹ ਉਣ ਪ ਛ ਕ ਈ ਬ ਡ ਲ ਸ ਨ ਲਗ ਓ	ਨਹਾਉਣ ਪਿਛੋਂ ਕੋਈ ਬਾਡੀ ਲੋਸ਼ਨ ਲਗਾਓ	nahoon pitchu koi body lotion lago	Nahoon pitchu koi body lotion lago	1.0
-female		thirties	pa-IN	ਪ ਣ ਉਬ ਲ ਕ ਹ ਪ ਣ ਚ ਹ ਦ ਹ 	ਪਾਣੀ ਉਬਾਲ ਕੇ ਹੀ ਪੀਣਾ ਚਾਹੀਦਾ ਹੈ	pani obal ke hi pina cha hi da hai	Pani obal ke hi pina cha hi da hai	1.0
-female		thirties	pa-IN	ਸ ਰ ਪ ਲ ਨ ਹ ਈ ਖ ਬਸ ਰਤ ਸ ਰ ਰਤ ਦ ਸ ਕ ਰ	ਸਾਰਾ ਪਾਲਿਨ ਹੋਈ ਖੁਬਸੂਰਤ ਸ਼ਰਾਰਤ ਦਾ ਸਿ਼ਕਾਰ	saanapalin hoi kub sura ceratta si kar	Saanapalin hoi kub sura ceratta si kar	1.0
+gender	accent	age	locale	reference	reference_original	inferred	inferred_original	date	wer
+			pa-IN	ਉਨ ਹ ਨ ਸ ਰ ਤਜ ਰਬ ਵ ਖਰ ਕ ਸਮ ਦ ਕ ਤ ਹਨ	ਉਨ੍ਹਾਂ ਨੇ ਸਾਰੇ ਤਜ਼ਰਬੇ ਵੱਖਰੀ ਕਿਸਮ ਦੇ ਕੀਤੇ ਹਨ	honanese rhe te yarbe bakri ke sab neki te hane	honanese rhe te yarbe bakri ke sab neki te hane		1.0
+			pa-IN	ਸ ਹ ਰ ਗਲ ਆ ਵ ਚ ਸ ਰ ਲ ਖਵ ਦ ਆ 	ਸ਼ਹਿਰਾਂ ਗਲੀਆਂ ਵਿਚ ਸਾਰੇ ਲਿਖਵਾ ਦਿਆਂ	şehrang alinya match sar e liqava adi	şehrang alinya match sar e liqava adi		1.0
+			pa-IN	ਜ ਗ ਵ ਆ ਵ ਚ ਲੜ ਗਈ	ਜੰਗ ਵਿਆਂ ਵਿੱਚ ਲੜੀ ਗਈ	janga veya vichyh ladi gaj	Janga Veya Vichyh Ladi Gaj		1.0
+			pa-IN	ਧਰਮ ਦ ਨ ਤ ਦ ਸ ਦ ਵ ਡ	ਧਰਮ ਦੇ ਨਾਂ ਤੇ ਦੇਸ਼ ਦੀ ਵੰਡ	taram denate des divan	Taram denate des divan		1.0
+			pa-IN	ਉਦ ਭ ਤ ਪ ਰ ਤ ਦ ਆ ਗ ਲ ਆਮ ਹ ਦ ਆ ਸਨ	ਉਦੋਂ ਭੂਤਾਂ ਪ੍ਰੇਤਾਂ ਦੀਆਂ ਗੱਲਾਂ ਆਮ ਹੁੰਦੀਆਂ ਸਨ	budo putto pretan yagan na amhundiyasan	budo putto pretan yagan na amhundiyasan		1.0
+			pa-IN	ਬ ਦ ਨ ਬ ਦ ਰਹ ਣ ਈ ਨਈ ਦ ਦ ਆ 	ਬੰਦੇ ਨੂੰ ਬੰਦਾ ਰਹਿਣ ਈ ਨਈਂ ਦਿੰਦੀਆਂ	bandeno bandha rani nadendia	Bandeno Bandha Rani Nadendia		1.0
+			pa-IN	ਨਹ ਤ ਸਭ ਕ ਲ ਹ ਭਰਨ ਪਵ ਗ 	ਨਹੀਂ ਤਾਂ ਸਭ ਕੋਲੋਂ ਹੀ ਭਰਨਾ ਪਵੇਗਾ	nhehita sab kolong hi par napa vega	nhehita sab kolong hi par napa vega		1.0
+			pa-IN	ਵ ਕ ਸ ਮਨ ਖਤ ਦ ਸ ਦਰ ਵਰਤ ਰ ਹ 	ਵਿਕਾਸ ਮਨੁੱਖਤਾ ਦਾ ਸੁੰਦਰ ਵਰਤਾਰਾ ਹੈ	vikaas minukta daas under vartar hai	Vikaas minukta daas under vartar hai		1.0
+			pa-IN	ਅਜ ਤ ਮ ਰ ਉਮਰ ਨ ਮ ਕ 	ਅਜੇ ਤਾਂ ਮੇਰੀ ਉਮਰ ਨਾ ਮੁੱਕੀ	ajay tameri umar namutti	Ajay tameri umar namutti		1.0
+			pa-IN	ਅਤ ਬਹ ਆ ਭ ਜਨ ਰ ਸ ਈਕਲ ਕਰਕ ਉਸਨ ਦ ਬ ਰ ਖ ਣ ਯ ਗ ਬਣ ਦ ਵ ਗ 	ਅਤੇ ਬਹਿਆ ਭੋਜਨ ਰੀਸਾਈਕਲ ਕਰਕੇ ਉਸਨੂੰ ਦੁਬਾਰਾ ਖਾਣ ਯੋਗ ਬਣਾ ਦੇਵੇਗਾ	ate bhehapo jane risaikal karke sune dubara khan jogumana adhebega	Ate bhehapo jane risaikal karke sune dubara khan jogumana adhebega		1.0
+			pa-IN	ਵ ਆਹ ਦ ਸਨਦ ਇਥ ਜਰ ਰ ਨਹ ਹ 	ਵਿਆਹ ਦੀ ਸਨਦ ਇਥੇ ਜਰੂਰੀ ਨਹੀਂ ਹੈ	veade sanade tejiruri nee hai	Veade sanade tejiruri nee hai		1.0
+			pa-IN	ਦ ਵ ਹ ਕ ਦ ਧਨ ਤਰ ਫ ਲ ਬ ਕ ਖ ਡ ਰ ਸਨ	ਦੋਵੇਂ ਹਾਕੀ ਦੇ ਧਨੰਤਰ ਫੁੱਲ ਬੈਕ ਖਿਡਾਰੀ ਸਨ	2 3 kms	2-3 kms		1.0
+			pa-IN	ਦ ਸ ਲਈ ਕ ਰਬ ਨ ਹ ਣ ਦ ਆ ਗ ਲ ਕਰਨ ਵ ਲ 	ਦੇਸ਼ ਲਈ ਕੁਰਬਾਨ ਹੋਣ ਦੀਆਂ ਗੱਲਾਂ ਕਰਨ ਵਾਲੇ	deshley kurban hondiyangalangal nuale	Deshley Kurban Hondiyangalangal Nuale		1.0
+			pa-IN	ਨ ਬਰਦ ਰ ਗ ਲ ਸ ਣਦ ਖ ਸ ਵ ਚ ਆਫ ਰ ਆ ਬ ਠ ਸ 	ਨੰਬਰਦਾਰ ਗੱਲਾਂ ਸੁਣਦਾ ਖੁਸ਼ੀ ਵਿਚ ਆਫ਼ਰਿਆ ਬੈਠਾ ਸੀ	number dar galasun dar kuşi vi ch affrea beltasi	NUMBER DAR GALASUN DAR KUŞI VİCH AFFREA BELTASI		1.0
+			pa-IN	ਕ ਮ ਵ ਰ ਸ ਤ ਆ ਕਵ ਹ ਜ ਗਣ ਸ ਰ 	ਕੌਮਾਂ ਵੀਰੋ ਸੁੱਤੀਆਂ ਕਵੀ ਹੀ ਜਾਗਣ ਸਾਰੇ	koma virasutniya kavi shi jagan saari	koma virasutniya kavi shi jagan saari		1.0
+			pa-IN	ਤ ਤ ਖ ਲਸ ਤ ਬ ਦਈ ਖ ਲਸ ਮਸਲ ਦ ਅਸਲ ਅਤ ਕ ਹ 	ਤੱਤ ਖਾਲਸਾ ਤੇ ਬੰਦਈ ਖਾਲਸਾ ਮਸਲੇ ਦੀ ਅਸਲੀਅਤ ਕੀ ਹੈ	tattakal saade bandei khal saamas le de asliat ki hai	tattakal saade bandei khal saamas le de asliat ki hai		1.0
+			pa-IN	ਛ ਤ ਲ ਭ ਦ ਣ ਵ ਲ ਫਲ ਪਪ ਤ 	ਛੇਤੀ ਲਾਭ ਦੇਣ ਵਾਲਾ ਫਲ ਪਪੀਤਾ	shiti lab din mala fal ppita	shiti lab din mala fal ppita		1.0
+			pa-IN	ਉਹ ਖ ਣ ਪ ਣ ਦ ਧ ਆਨ ਰ ਖਣ ਲ ਗ 	ਉਹ ਖਾਣ ਪੀਣ ਦਾ ਧਿਆਨ ਰੱਖਣ ਲੱਗੀ	oh khan bin dahte ana khanagi 	Oh, Khan bin dahte ana khanagi.		1.0
+			pa-IN	ਗ ਆ ਢ ਆ ਨ ਕਦ ਵ ਮ ੜ ਲਫ ਜ ਨ ਬ ਲ 	ਗੁਆਂਢੀਆਂ ਨੂੰ ਕਦੇ ਵੀ ਮਾੜਾ ਲਫ਼ਜ਼ ਨਾ ਬੋਲੋ	gwandeyanuka devi maralahshina bholu	Gwandeyanuka Devi Maralahshina bholu		1.0
+			pa-IN	ਗ ਰ ਸ ਹ ਬ ਨ ਪ ਤਰ ਨ ਹ ਕ ਨ ਲ ਲ ਇਆ	ਗੁਰੂ ਸਾਹਿਬ ਨੇ ਪੁੱਤਰ ਨੂੰ ਹਿੱਕ ਨਾਲ ਲਾਇਆ	guru saheb ne putter nu hiknalla ya	guru saheb ne putter nu hiknalla ya		1.0
+			pa-IN	ਬਦਕ ਸਮਤ ਨ ਲ ਉਹ ਛ ਟ ਉਮਰ ਚ ਲ ਵਸ ਆ	ਬਦਕਿਸਮਤੀ ਨਾਲ ਉਹ ਛੋਟੀ ਉਮਰੇ ਚੱਲ ਵਸਿਆ	mahadekismati nal oshorti humune challenge	Mahadekismati Nal Oshorti humune challenge		1.0
+			pa-IN	ਕਬ ਡ ਮ ਚ ਕਨ ਘਮ ਪ ਰਕ ਵ ਚ ਹ ਣ ਸਨ	ਕਬੱਡੀ ਮੈਚ ਕਨਿੰਘਮ ਪਾਰਕ ਵਿਚ ਹੋਣੇ ਸਨ	kabadi meach keningam park which way is on	kabadi meach keningam park which way is on		1.0
+			pa-IN	ਕ ਝ ਪ ਸ ਇਸ ਕ ਮ ਵ ਸਤ ਵ ਰ ਖ 	ਕੁੱਝ ਪੈਸਾ ਇਸ ਕੰਮ ਵਾਸਤੇ ਵੀ ਰੱਖੋ	kudi pecha iskaun last evirku	Kudi pecha iskaun last evirku		1.0
+male		fourties	pa-IN	ਪ ਤ ਨ ਜਹ ਰ ਦ ਰ ਹ ਸ 	ਪੁੱਤ ਨੂੰ ਜਹਿਰ ਦੇ ਰਿਹਾ ਸੀ	put no jahar delehasi	Put no jahar delehasi		1.0
+male		fourties	pa-IN	ਫ ਰ ਟ ਕਸ ਲ ਕ ਸ ਡ ਕ ਲ ਆਇਆ ਸ 	ਫੇਰ ਟੈਕਸੀ ਲੈ ਕੇ ਸਾਡੇ ਕੋਲ਼ ਆਇਆ ਸੀ	faire taxi leke sa deko lah ya si	Faire taxi, leke sa deko lah ya si		1.0
+male		fourties	pa-IN	ਇਸ ਲਈ ਸ ਪ ਪ ਛ ਕ ਡ ਸ ਨਰ ਵਰਤਣ ਚ ਹ ਦ 	ਇਸ ਲਈ ਸ਼ੈਂਪੂ ਪਿੱਛੋਂ ਕੰਡੀਸ਼ਨਰ ਵਰਤਣਾ ਚਾਹੀਦੈ	sle shampoo pichok conditional worthana jai da	SLE shampoo pichok conditional worthana jai da		1.0
+male		fourties	pa-IN	ਤ ਸ ਆਪਣ ਵ ਚ ਰ ਤ ਕ ਬ ਕਰ ਸਕਦ ਹ 	ਤੁਸੀਂ ਆਪਣੇ ਵਿਚਾਰਾਂ ਤੇ ਕਾਬੂ ਕਰ ਸਕਦੇ ਹੋ	tu sim app ne vicharan te kabukar sakadeho	tu sim app ne vicharan te kabukar sakadeho		1.0
+male		fourties	pa-IN	ਮ ਰ ਆ ਤ ਅ ਖ ਆ ਪ ਕ ਗਈਆ ਸਨ	ਮੇਰੀਆਂ ਤੇ ਅੱਖੀਆਂ ਪੱਕ ਗਈਆਂ ਸਨ	media te akhina pakga nya sanda	media te akhina pakga nya sanda		1.0
+male		fifties	pa-IN	ਅ ਜ ਦ ਇਸ ਇਕ ਠ ਨ 	ਅੱਜ ਦੇ ਇਸ ਇਕੱਠ ਨੇ	today is a cut me 	Today is a cut me.		1.0
+male		fifties	pa-IN	ਕਹ ਦ ਸ ਮ ਡ ਨਕਸਲਬ ੜ ਆ ਚ ਹ 	ਕਹਿੰਦਾ ਸੀ ਮੁੰਡਾ ਨਕਸਲਬਾੜੀਆਂ ਚ ਹੈ	khehnda si munda naksal bari natcho hai	Khehnda si munda naksal bari natcho hai		1.0
+male		fifties	pa-IN	ਸ ਲਜ ਦ ਮਤਲਬ ਹ ਸਟ ਰ ਟ ਜ ਜ ਫ ਰ ਨ ਗਲ ਜ ਬਲ ਸ ਨ ਸ ਸ	ਸੈਲਜ਼ ਦਾ ਮਤਲਬ ਹੈ ਸਟ੍ਰੈਟੇਜੀਜ਼ ਫਾਰ ਨੈਗਲੀਜ਼ੇਬਲ ਸੈਨੇਸੈਂਸ	so i will tell you about the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the	So, I will tell you about the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the material of the		11.15
+male		fifties	pa-IN	ਦ ਪਹ ਰ ਜ ਸ ਮ ਨ ਝਪਕ ਆ ਨ ਲਓ	ਦੁਪਹਿਰ ਜਾਂ ਸ਼ਾਮ ਨੂੰ ਝਪਕੀਆਂ ਨਾ ਲਓ	the pahar yaacham nu chappkia malau	The Pahar Yaacham Nu Chappkia Malau		1.0
+male		fifties	pa-IN	ਮ ਰ ਪ ਤਰ ਆਪਣ ਰਵ ਇਤ ਭ ਸ ਬ ਲਦ ਹਨ	ਮੇਰੇ ਪਾਤਰ ਆਪਣੀ ਰਵਾਇਤੀ ਭਾਸ਼ਾ ਬੋਲਦੇ ਹਨ	my father apni reviety paasha boldhahan 	My father, apni, reviety, paasha, boldhahan.		1.0
+male		fifties	pa-IN	ਸ ਆਸਤਦ ਨ ਦ ਅ ਦ ਜ ਹ 	ਸਿਆਸਤਦਾਨਾਂ ਦਾ ਅੰਦਾਜ਼ ਹੈ	see us at the danna da and da azhe 	See us at the Danna da and da azhe.		1.125
+male		fifties	pa-IN	ਧ ਵ ਅੜ ਅਲ ਹ ਜ ਦ 	ਧੀ ਵੀ ਅੜੀਅਲ ਹੋ ਜਾਂਦੀ	tv arriya lohojande	TV Arriya Lohojande		1.0
+male		fifties	pa-IN	ਉਹਦ ਬ ਹਰਲ ਕਲ ਬ ਨ ਲ ਅ ਟ ਸ ਟ ਸ 	ਉਹਦੀ ਬਾਹਰਲੇ ਕਲੱਬਾਂ ਨਾਲ ਅੱਟੀ ਸੱਟੀ ਸੀ	odi barley klabanal atisatisi	Odi Barley KLABANAL ATISATISI		1.0
+male		fifties	pa-IN	ਸ ਗ ਤ ਸ ਡ ਜ ਦਗ ਲਈ ਇਕ ਸ ਥ ਵ ਗ ਹ 	ਸੰਗੀਤ ਸਾਡੀ ਜ਼ਿੰਦਗੀ ਲਈ ਇਕ ਸਾਥੀ ਵਾਂਗ ਹੈ	sangeet sardee is in the relay icksat huan hai	Sangeet Sardee is in the relay icksat huan hai		1.0
+male		fifties	pa-IN	ਬ ਚ ਭ ਖ ਨ ਲ ਬ ਲਕ ਰਹ ਹਨ ਮ ਬ ਪ ਕ ਲ ਦ ਖ ਨਹ ਜ ਰਹ 	ਬੱਚੇ ਭੁੱਖ ਨਾਲ ਬਿਲਕ ਰਹੇ ਹਨ ਮਾਂਬਾਪ ਕੋਲੋਂ ਦੇਖੇ ਨਹੀਂ ਜਾ ਰਹੇ	b bachke pok nal bilkarahi han maabab kolo dekne nahi jara hai	B Bachke pok nal bilkarahi han maabab kolo dekne nahi jara hai		1.0
+male		fifties	pa-IN	ਕ ਨ ਡ ਅਨ ਕ ਰ ਬ ਰ ਵ ਵ ਧ ਰ ਹ ਸ 	ਕੈਨੇਡੀਅਨ ਕਾਰੋਬਾਰ ਵੀ ਵੱਧ ਰਿਹਾ ਸੀ	canadian karobarvi wadriasi	Canadian Karobarvi Wadriasi		1.0
+male		fifties	pa-IN	ਹਮ ਸ ਕਮਰ ਸ ਧ ਕਰਕ ਹ ਬ ਠ 	ਹਮੇਸ਼ਾ ਕਮਰ ਸਿੱਧੀ ਕਰਕੇ ਹੀ ਬੈਠੋ	hameshah kamar sidhi karkehi betho	Hameshah Kamar Sidhi Karkehi Betho		1.0
+male		fifties	pa-IN	ਜ ਤ ਸ ਖ ਦ ਓ ਤ ਸ ਓਹ ਓ	ਜੋ ਤੁਸੀਂ ਖਾਂਦੇ ਓ ਤੁਸੀਂ ਓਹੀ ਓ	jotu si kambeho tu si ohi yo	Jotu si kambeho, tu si ohi yo		1.0
+male		fifties	pa-IN	ਮ ਹ ਕਣ ਨ ਲ ਸ ਰ ਸ ਆਦ ਮ ਰ ਆ ਜ ਦ 	ਮੀਂਹ ਕਣੀ ਨਾਲ ਸਾਰਾ ਸੁਆਦ ਮਾਰਿਆ ਜਾਂਦੈ	minkar ninal saraswad maria jandakh	Minkar Ninal Saraswad Maria Jandakh		1.0
+			pa-IN	ਦ ਵ ਥ ੜ ਹ ਦ ਰ ਚ ਪ ਖਲ ਤ ਰਹ 	ਦੋਵੇਂ ਥੋੜ੍ਹੀ ਦੇਰ ਚੁੱਪ ਖਲੋਤੇ ਰਹੇ	2 3	2-3		1.0
+			pa-IN	ਬਲਵ ਤ ਉਸ ਤ ਤ ਨ ਸ ਲ ਛ ਟ ਹ 	ਬਲਵੰਤ ਉਸ ਤੋਂ ਤਿੰਨ ਸਾਲ ਛੋਟਾ ਹੈ	balvant usto tinsal chotta hai	Balvant, usto tinsal chotta hai		1.0
+			pa-IN	ਅ ਜ ਉਹਨ ਦ ਜ ਇਦ ਦ ਦ ਜ ਚ ਹ ਵ 	ਅੱਜ ਉਹਨਾਂ ਦੀ ਜਾਇਦਾਦ ਦੀ ਜਾਂਚ ਹੋਵੇ	ajunad ji ji daad ji jansh kove	Ajunad ji ji daad ji jansh kove		1.0
+male		fourties	pa-IN	ਘ ਟ ਗਲਵ ਕੜ ਪ ਉਣ ਚ ਹ ਦ ਸ ਮ ਨ 	ਘੁੱਟ ਗਲਵੱਕੜੀ ਪਾਉਣਾ ਚਾਹੁੰਦੀ ਸੀ ਮੈਨੂੰ	khot galava kri pona ca on the same menu	Khot galava kri pona ca on the same menu		1.0
+male		fourties	pa-IN	ਇਸ ਮ ਕ ਸਰਚ ਦ ਸ ਘ ਵ ਮ ਜ ਦ ਸਨ	ਇਸ ਮੌਕੇ ਸਰਚਾਂਦ ਸਿੰਘ ਵੀ ਮੌਜੂਦ ਸਨ	es mokke sarchand sing v moduud sun	es mokke sarchand sing v moduud sun		1.0
+male		fourties	pa-IN	ਬਲਦ ਵ ਸ ਘ ਦ ਆਈ ਚਲ ਈ ਹ ਚ ਲਦ ਸ 	ਬਲਦੇਵ ਸਿੰਘ ਦੀ ਆਈ ਚਲਾਈ ਹੀ ਚੱਲਦੀ ਸੀ	baldev singhdi ijali hjali s 	Baldev Singhdi ijali hjali s.		1.0
+male		fourties	pa-IN	ਜਦ ਤ ਕ ਅਸ ਆਪਣ ਮ ਨਸ ਕਤ ਬਦਲਦ ਨਹ 	ਜਦੋਂ ਤੱਕ ਅਸੀਂ ਆਪਣੀ ਮਾਨਸਿਕਤਾ ਬਦਲਦੇ ਨਹੀਂ	jadotak asi apani mansekta badaulde nehi	jadotak asi apani mansekta badaulde nehi		1.0
+male		fourties	pa-IN	ਮ ਨ ਰ ਝਣ ਨਦਰ ਨ ਆ ਵਦ ਈ	ਮੈਨੂੰ ਰਾਂਝਣਾ ਨਦਰ ਨਾ ਆਂਵਦਾ ਈ	me nul rangana nadar na aam da i	Me nul rangana nadar na aam da i		1.0
+male		fourties	pa-IN	ਇ ਕ ਬ ਦ ਵ ਚ ਕ ਈ ਸ ਕਤ ਨਹ ਹ 	ਇੱਕ ਬੰਦੇ ਵਿੱਚ ਕੋਈ ਸ਼ਕਤੀ ਨਹੀਂ ਹੈ	1 bandai ve chukhoy shakti nehih hai	1. Bandai Ve Chukhoy Shakti Nehih hai		1.0
+male		fourties	pa-IN	ਉਹ ਅਮ ਰ ਗਰ ਬ ਵ ਚਲ ਫਰਕ ਮ ਟ ਉਣ ਦ ਮ ਗ ਕਰ ਰਹ ਸਨ	ਉਹ ਅਮੀਰੀ ਗਰੀਬੀ ਵਿਚਲਾ ਫਰਕ ਮਿਟਾਉਣ ਦੀ ਮੰਗ ਕਰ ਰਹੇ ਸਨ	o amiri gari b vichla fark meton the mangakar rahesan	O Amiri Gari B. Vichla Fark meton the Mangakar Rahesan		1.0
+male		fourties	pa-IN	ਮ ਡ ਹ ਇਆ ਹਜ ਰ ਸ ਹ ਬ ਪ ਗ ਬ ਨ ਕ ਲ ਆਵ ਗ 	ਮੁੰਡਾ ਹੋਇਆ ਹਜ਼ੂਰ ਸਾਹਿਬ ਪੱਗ ਬੰਨਾਂ ਕੇ ਲਿਆਵਾਂਗੇ	mundahuya hajur saheb pagupanaa keliya maaghi	Mundahuya hajur Saheb pagupanaa keliya maaghi		1.0
+male		fourties	pa-IN	ਹ ਣ ਮ ਉਣ ਤਰਵ ਸ ਲ ਚ ਹ 	ਹੁਣ ਮੈਂ ਉਣੱਤਰਵੇਂ ਸਾਲ ਚ ਹਾਂ	hornme una tarametsal	Hornme Una Tarametsal		1.0
+male		fourties	pa-IN	ਮ ਸਕਰ ਓ ਇਸ ਨ ਲ ਲ ਕ ਚਕਰ ਜ ਦ ਹਨ	ਮੁਸਕਰਾਓ ਇਸ ਨਾਲ ਲੋਕ ਚਕਰਾ ਜਾਂਦੇ ਹਨ	muskurau esnal lok çakarajandihan	Muskurau Esnal Lok Çakarajandihan		1.0
+male		fourties	pa-IN	ਸ ਅਸ ਸ ਧ ਤ ਰ ਤ ਸ ਕ ਹ ਰ ਨ ਹ ਏ	ਸੋ ਅਸੀਂ ਸਿੱਧੇ ਤੌਰ ਤੇ ਸ਼ਾਕਾਹਾਰੀ ਨਾ ਹੋਏ	so asin siddhet orte shaka harina huel 	So, asin siddhet orte shaka harina huel.		1.0
+male		fourties	pa-IN	ਕ ਸ ਨ ਨ ਸਰਕ ਰ ਸਕ ਮ ਤ ਜ ਣ ਕਰਵ ਇਆ	ਕਿਸਾਨਾਂ ਨੂੰ ਸਰਕਾਰੀ ਸਕੀਮਾਂ ਤੋਂ ਜਾਣੂ ਕਰਵਾਇਆ	kishanna nung sarkadi sakimārto janukar vaya	kishanna nung sarkadi sakimārto janukar vaya		1.0
+male		fourties	pa-IN	ਦ ਜ ਦ ਔਰਤ ਵ ਉਸ ਦ ਹ ਜ ਵ 	ਦੂਜੇ ਦੀ ਔਰਤ ਵੀ ਉਸੇ ਦੀ ਹੋ ਜਾਵੇ	dujjd oratv usadhhojjw	Dujjd oratv usadhhojjw		1.0
+male		fourties	pa-IN	ਕਣਕ ਭ ਨ ਕ ਮਰ ਡ ਬਣ ਏ ਜ ਦ 	ਕਣਕ ਭੁਨਾ ਕੇ ਮਰੂੰਡੇ ਬਣਾਏ ਜਾਂਦੇ	kanakepuna ake marunde buna ejande	Kanakepuna Ake Marunde Buna Ejande		1.0
+male		fourties	pa-IN	ਭ ਡ ਦ ਬ ਟ ਫ ਟ ਉ ਚ 	ਭਿੰਡੀ ਦਾ ਬੂਟਾ ਫੁੱਟ ਉੱਚਾ	pindida buddha fort ucha	Pindida Buddha Fort Ucha		1.0
+male		fourties	pa-IN	ਤ ਰ ਪ ਆ ਹ ਖ ਲ ਬਗਲ ਚ ਕ	ਤੁਰ ਪਿਆ ਹਾਂ ਖਾਲੀ ਬਗਲੀ ਚੁੱਕ	torpe aha kali bagli chok	Torpe Aha Kali Bagli Chok		1.0
+male		fourties	pa-IN	ਤ ਹ ੜ ਦ ਆ ਕ ਲ ਛ ਜ ਲ ਹ ਹਨ	ਤਿਹਾੜ ਦੀਆਂ ਕੁੱਲ ਛੇ ਜੇਲ੍ਹਾਂ ਹਨ	tehrar dia kul ce jela hanl	Tehrar, dia, kul, ce, jela, hanl		1.0
+male		fourties	pa-IN	ਗ ਲਡ ਤ ਸਟ ਕ ਬ ਠ ਆ ਅਭ ਨਵ ਦ ਨ ਸ ਨ 	ਗੋਲਡ ਤੇ ਸਟੀਕ ਬੈਠਿਆ ਅਭਿਨਵ ਦਾ ਨਿਸ਼ਾਨਾ	gold tasty kebet ha a vidna bada ni shanna	gold tasty kebet ha a vidna bada ni shanna		1.0
+male		fourties	pa-IN	ਕ ਧਰ ਮਨ ਖ ਬ ਬ ਆਪਣ ਕ ਰ ਕਰ ਰਹ ਹਨ	ਕਿਧਰੇ ਮਨੁੱਖੀ ਬੰਬ ਆਪਣਾ ਕਾਰਾ ਕਰ ਰਹੇ ਹਨ	kidre minu ki baambu apana kaara kaara hai hane	Kidre minu ki baambu apana kaara kaara hai hane		1.0
+male		fourties	pa-IN	ਬ ਠ ਤ ਸ ਰਲ ਕ ਭ ਰਤ ਦ ਵ ਰ 	ਬੈਠੋ ਤੁਸੀਂ ਰਲ ਕੇ ਭਾਰਤ ਦੇ ਵੀਰੋ	back to see raleke part of the viro 	Back to see Raleke part of the Viro.		1.0
+male		fourties	pa-IN	ਨਸ ਆ ਨ ਰ ਕਣ ਲਈ ਵ ਫ ਲਮ ਬਣ ਈ	ਨਸ਼ਿਆਂ ਨੂੰ ਰੋਕਣ ਲਈ ਵੀ ਫ਼ਿਲਮ ਬਣਾਈ	nasya nul rokar lei vi film banai	nasya nul rokar lei vi film banai		1.0
+male		fourties	pa-IN	ਬ ਦ ਹਰ ਕ ਮ ਸ ਖ ਸਕਦ ਹ 	ਬੰਦਾ ਹਰ ਕੰਮ ਸਿੱਖ ਸਕਦਾ ਹੈ	bandha har kam sik sakadaha hai	Bandha har kam sik sakadaha hai		1.0
+male		fourties	pa-IN	ਪ ਸਟਮ ਰਟਮ ਹ ਕ ਲ ਸ ਹ ਣ ਹ ਪਹ ਚ ਆ ਸਨ	ਪੋਸਟਮਾਰਟਮ ਹੋ ਕੇ ਲਾਸ਼ਾਂ ਹੁਣੇ ਹੀ ਪਹੁੰਚੀਆਂ ਸਨ	post martam ho ke lasha hune hi poanchi asan	post martam ho ke lasha hune hi poanchi asan		1.0
+male		fourties	pa-IN	ਜ ਸ ਤ ਬ ਅਦ ਉਹ ਵ ਪਸ ਨਹ ਪਰਤ ਆ	ਜਿਸ ਤੋਂ ਬਾਅਦ ਉਹ ਵਾਪਸ ਨਹੀਂ ਪਰਤਿਆ	gestoombad o baapas	gestoombad o baapas		1.0
+male		fourties	pa-IN	ਉਹ ਆਪਣ ਨ ਮ ਇ ਦ ਆ ਬ ਰ ਆਪ ਫ ਸਲ ਕਰਨ	ਉਹ ਆਪਣੇ ਨੁਮਾਇੰਦਿਆਂ ਬਾਰੇ ਆਪ ਫੈਸਲਾ ਕਰਨ	o appane in numain dia baare aap fast lock art	O appane in numain dia baare aap fast lock art		1.0
+male		fourties	pa-IN	ਡ ਨ ਵ ਗ ਹ ਮ ਨ ਉਸ ਦ ਕ ਰਦ ਰ ਵ ਬ ਹ ਦ ਪ ਵਰਫ ਲ ਲ ਗਦ ਹ 	ਡੌਨ ਵਾਂਗ ਹੀ ਮੈਨੂੰ ਉਸ ਦਾ ਕਿਰਦਾਰ ਵੀ ਬੇਹੱਦ ਪਾਵਰਫੁਲ ਲੱਗਦਾ ਹੈ	don wanghi menu osta kirdar vbehad power full lagda hai	Don Wanghi menu, Osta kirdar vbehad power full lagda hai		1.0
+male		fourties	pa-IN	ਪਰ ਆਦ ਹ ਣ ਹ ਦ ਅਤ ਅ ਗਰ ਜ ਵ ਸ ਖ ਰਹ ਹ 	ਪਰ ਆਦੀ ਹੁਣ ਹਿੰਦੀ ਅਤੇ ਅੰਗਰੇਜ਼ੀ ਵੀ ਸਿੱਖ ਰਹੀ ਹੈ	par aadi huna hindi ate angare jee vise karahi hai	par aadi huna hindi ate angare jee vise karahi hai		1.0
+male		fourties	pa-IN	ਮ ਨ ਟ ਨ ਸ ਖ ਡਣ ਬਹ ਤ ਚ ਗ ਲ ਗਦ ਹ 	ਮੈਨੂੰ ਟੈਨਿਸ ਖੇਡਣਾ ਬਹੁਤ ਚੰਗਾ ਲੱਗਦਾ ਹੈ	menu tannies cake	menu tannies cake		1.0
+male		fourties	pa-IN	ਇਹਨ ਪ ਜ ਦ ਵ ਸ ਵ ਰ ਜਧ ਨ ਕ ਹ ਜ ਦ 	ਇਹਨੂੰ ਪੂੰਜੀ ਦੀ ਵਿਸ਼ਵ ਰਾਜਧਾਨੀ ਕਿਹਾ ਜਾਂਦੈ	enu punjidi beshev rajta nikhi hajandha	Enu punjidi beshev rajta nikhi hajandha		1.0
+male		fourties	pa-IN	ਭ ਰ ਸ ਟ ਚ ਰ ਦ ਦ ਸ ਝ ਲ ਚ ਕ ਹਨ	ਭ੍ਰਿਸ਼ਟਾਚਾਰ ਦੇ ਦੋਸ਼ ਝੇਲ ਚੁੱਕੇ ਹਨ	pagastachal de dos ceil chukhe hana	Pagastachal de dos ceil chukhe hana		1.0
+male		fourties	pa-IN	ਘ ਟ ਘ ਟ ਲਹ ਦ ਹ ਝ ਪ ਵ ਨ 	ਘੁਟ ਘੁਟ ਲਹੂ ਦੇ ਹੰਝੂ ਪੀਵਾਂ ਨੀਂ	kortu kortu ahoode hanju pimaani	Kortu Kortu, Ahoode, Hanju, Pimaani		1.0
+male		fourties	pa-IN	ਜ ਹਰ ਹ ਕ ਕ ਨ ਡ ਅ ਜ ਬਹ ਤ ਬਦਲ ਗ ਆ ਹ 	ਜ਼ਾਹਰ ਹੈ ਕਿ ਕੈਨੇਡਾ ਅੱਜ ਬਹੁਤ ਬਦਲ ਗਿਆ ਹੈ	zahar is a canada today is a very famous country 	Zahar is a Canada. Today is a very famous country.		1.0
+male		fourties	pa-IN	ਬ ਚ ਬ ਢ ਜਵ ਨ ਦ ਗ ਲ ਛਡ ਹ 	ਬੱਚੇ ਬੁੱਢੇ ਜਵਾਨ ਦੀ ਗੱਲ ਛਡ੍ਹੋ	bachhe bhude jawan di gali sadu	Bachhe Bhude jawan di gali sadu		1.0
+male		fourties	pa-IN	ਉਸ ਵ ਲ ਉਸ ਦ ਕ ਪਨ ਨ ਫ ਨ ਕਰ 	ਉਸੇ ਵੇਲੇ ਉਸ ਦੀ ਕੰਪਨੀ ਨੂੰ ਫੋਨ ਕਰੋ	usevele usedee kampanii no fongaru	Usevele Usedee kampanii no fongaru		1.0
+male		fourties	pa-IN	ਸ ਧ ਕ ਸ ਗ ਲ ਗ ਪ ਰਭ ਮ ਠ 	ਸਾਧ ਕੇ ਸੰਗਿ ਲਾਗੈ ਪ੍ਰਭੁ ਮੀਠਾ	saad ke sang laga prava mitha	Saad ke sang laga prava mitha		1.0
+male		fourties	pa-IN	ਸਭ ਤ ਪਹ ਲ ਭ ਦਸ ਸਰਕਲ ਦ ਜਥ ਦ ਰ ਬਣ 	ਸਭ ਤੋਂ ਪਹਿਲਾਂ ਭਾਦਸੋਂ ਸਰਕਲ ਦੇ ਜਥੇਦਾਰ ਬਣੇ	saavuton pellampadso sarkal lejadhidhar bani	Saavuton Pellampadso Sarkal Lejadhidhar Bani		1.0
+male		fourties	pa-IN	ਹਰ ਹ ਲ ਵਸ ਲ ਤ ਅਧ ਕ ਰ ਜਮ ਵ ਗ 	ਹਰ ਹੀਲੇ ਵਸੀਲੇ ਤੇ ਅਧਿਕਾਰ ਜਮਾਂਵਾਂਗਾ	harheelay vasile te adhaka arjamaama	Harheelay Vasile te adhaka arjamaama		1.0
+male		fourties	pa-IN	ਪਰ ਪ ਸ ਨ ਲ ਕਰ ਲ ਦ ਹ 	ਪਰ ਪੈਸੇ ਨਾਲ ਕਰ ਲੈਂਦੀ ਹੈ	par pease in alkar lendi hai	par pease in alkar lendi hai		1.0
+male		fourties	pa-IN	ਪਰ ਤ ਫ ਲ ਮ ਹ ਮਦ ਦ ਬ ਹ ਬ ਦ ਸ 	ਪਰ ਤੁਫੈਲ ਮੁਹੰਮਦ ਦਾ ਬੂਹਾ ਬੰਦ ਸੀ	paratofail mohamed abhaha bandisi	Paratofail Mohamed Abhaha Bandisi		1.0
+male		fourties	pa-IN	ਇਹ ਗ ਲ ਮ ਮ ਲ ਤਕਰ ਰ ਦ ਕ ਰਣ ਬਣ 	ਇਹ ਗੱਲ ਮਾਮੂਲੀ ਤਕਰਾਰ ਦਾ ਕਾਰਣ ਬਣੀ	a g l m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m 	A.G.L.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.		9.333333333333334
+male		fourties	pa-IN	ਆਕਸ ਜਨ ਲ ਗ ਹ ਈ ਮ ਰ ਪ ਤ ਬ ਹ ਸ ਪ ਆ ਸ 	ਆਕਸੀਜਨ ਲੱਗੀ ਹੋਈ ਮੇਰਾ ਪਿਤਾ ਬੇਹੋਸ਼ ਪਿਆ ਸੀ	aksijjan laghihoi merapita behoj piasi	Aksijjan laghihoi, merapita behoj piasi		1.0
+male		fourties	pa-IN	ਜਹ ਰ ਕ ਬਦਲ ਦ ਮ ਅ ਮ ਰ ਤ ਤ ਝ ਕ 	ਜਹਿਰ ਕੇ ਬਦਲੇ ਦੂ ਮੈਂ ਅੰਮ੍ਰਿਤ ਤੁਝ ਕੋ	jaihar ke badalay duhme amaretu tujku	Jaihar ke Badalay duhme Amaretu tujku		1.0
+male		fourties	pa-IN	ਰ ਮ ਸ ਘ ਫ ਰ ਆਖ ਆ ਰਜ ਰ ਬ ਦ ਰਹ ਣ 	ਰਾਮ ਸਿੰਘ ਫਿਰ ਆਖਿਆ ਰਜਾ ਰੱਬ ਦੀ ਰਹਿਣਾ	ram singh kefir akhya raja aghabadi rana	Ram Singh kefir akhya raja aghabadi rana		1.0
+male		fourties	pa-IN	ਇ ਕ ਪ ਤ ਰ ਦ ਬਖ ਸ ਦ ਹ ਦ ਤ ਦ ਤ 	ਇੱਕ ਪੁੱਤ੍ਰ ਦੀ ਬਖ਼ਸ਼ ਦੇਹ ਦਾਤ ਦਾਤਾ	1 putter d box d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d 	1 putter d-box d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-d-		8.071428571428571
+male		fourties	pa-IN	ਇਸ ਦ ਹ ਥ ਦ ਭ ਡ ਛ ਟ ਗਏ	ਇਸ ਦੇ ਹੱਥਾਂ ਦੇ ਭਾਂਡੇ ਛੁੱਟ ਗਏ	hathandhepandh hottu gai	hathandhepandh hottu gai		1.0
+male		fourties	pa-IN	ਇਸ ਤਰ ਹ ਹ ਨ ਲ ਦ ਪ ਡ ਕਬਰਸਤ ਨ ਹ 	ਇਸ ਤਰ੍ਹਾਂ ਹੀ ਨਾਲ ਦੇ ਪਿੰਡ ਕਬਰਸਤਾਨ ਹੈ	esterahi naal de pente kabras tan hai	esterahi naal de pente kabras tan hai		1.0
+male		fourties	pa-IN	ਆਤਮ ਮ ਹ ਮਦ ਦ ਆਈ ਹ ਕਲ ਅ ਦਰ	ਆਤਮਾ ਮੁਹੰਮਦ ਦੀ ਆਈ ਹੈ ਕਲੀ ਅੰਦਰ	aathama muhammadadi aayihak ali andhar	Aathama Muhammadadi Aayihak Ali Andhar		1.0
+male		fourties	pa-IN	ਇਸ ਨ ਖਤਮ ਕਰਨ ਲਈ ਸਰਗਰਮ ਵ ਹਨ	ਇਸ ਨੂੰ ਖਤਮ ਕਰਨ ਲਈ ਸਰਗਰਮ ਵੀ ਹਨ	snu katankarlai sargaram bihan	Snu katankarlai sargaram bihan		1.0
+male		fourties	pa-IN	ਅਖ ਆ ਮ ਤ ਜ ਇ ਕ ਝਲਕ ਪ ਆਓ ਮ ਨ 	ਅਖਿਆ ਮਾਤਾ ਜੀ ਇੱਕ ਝਲਕ ਪੁਆਓ ਮੈਨੂੰ	akea mataji 1 kechel ka pohao menu	Akea Mataji 1 kechel ka pohao menu		1.0
+male		fourties	pa-IN	ਅ ਜ ਵ ਕ ਕਰ ਸ ਘ ਕ ਲ ਗ ਲ ਮ ਤ 	ਅੱਜ ਵੀ ਕਿੱਕਰ ਸਿੰਘ ਕੱਲੂ ਗ਼ੁਲਾਮ ਤੇ	ajvi kikarsing kalub belam teh	Ajvi Kikarsing Kalub Belam Teh		1.0
+male		fourties	pa-IN	ਧ ਨ ਧ ਨ ਹਮ ਰ ਭ ਗ ਘਰ ਆਇਆ ਪ ਰ ਮ ਰ 	ਧੰਨਿ ਧੰਨਿ ਹਮਾਰੇ ਭਾਗ ਘਰਿ ਆਇਆ ਪਿਰੁ ਮੇਰਾ	tannetan hamari pago karayaya permirah	tannetan hamari pago karayaya permirah		1.0
+male		fourties	pa-IN	ਭ ਅ ਜ ਗ ਰਸ ਰਨ ਸ ਘ ਦ ਯ ਦ ਵ ਚ	ਭਾਅ ਜੀ ਗੁਰਸ਼ਰਨ ਸਿੰਘ ਦੀ ਯਾਦ ਵਿੱਚ	paji goshar nesengdi yadraj	Paji Goshar Nesengdi Yadraj		1.0
+male		fourties	pa-IN	ਬਹ ਤ ਵ ਰ ਇਆ ਮ ਢ ਲ ਵ ਰਦ ਨਹ 	ਬਹੁਤ ਵਿਰਾਇਆ ਮੋਢੇ ਲਾ ਵਿਰਦਾ ਨਹੀਂ	bhaat de raya modela virdani	Bhaat de raya modela virdani		1.0
+male		fourties	pa-IN	ਜ ਮ ਰ ਬ ਪ ਦ ਟਰ ਕ ਚ ਲਦ ਐ	ਜੀ ਮੇਰੇ ਬਾਪੂ ਦੇ ਟਰੱਕ ਚੱਲਦੇ ਐ	jimire bapudit rakjal dea	Jimire bapudit rakjal dea		1.0
+male		fourties	pa-IN	ਬ ਅਦ ਵ ਚ ਉਹ ਮਹ ਭ ਰਤ ਸ ਰ ਅਲ ਦ ਭ ਮ ਬਣ ਆ	ਬਾਅਦ ਵਿਚ ਉਹ ਮਹਾਂਭਾਰਤ ਸੀਰੀਅਲ ਦਾ ਭੀਮ ਬਣਿਆ	baadwetcaohu maha paartha sijya la pim baniha	Baadwetcaohu maha paartha, sijya la pim baniha		1.0
+male		fourties	pa-IN	ਕ ਲਜ ਵ ਤ ਗ ਜ ਹ ਥ ਸ 	ਕਾਲਜ ਵੀ ਤੰਗ ਜਿਹੀ ਥਾਂ ਸੀ	kalajvi tanga jahi tangsi	Kalajvi tanga jahi tangsi		1.0
+male		fourties	pa-IN	ਜਵ ਬ ਸ ਫ ਸਦ ਅਸਲ ਅਤ ਹ ਜ 	ਜਵਾਬ ਸੌ ਫੀਸਦੀ ਅਸਲੀਅਤ ਹੈ ਜੀ	javab saofi sidi asliya tahaji	Javab, Saofi, Sidi, Asliya, Tahaji		1.0
+male		fourties	pa-IN	ਸ ਈਕਲ ਤ ਸਕ ਟਰ ਵ ਬਹ ਤ ਚਲ ਏ ਹਨ	ਸਾਈਕਲ ਤੇ ਸਕੂਟਰ ਵੀ ਬਹੁਤ ਚਲਾਏ ਹਨ	cycle tez kutrabeet bhaoth chalai hang	Cycle Tez Kutrabeet Bhaoth Chalai Hang		1.0
+male		fourties	pa-IN	ਵ ਟ ਅਕ ਲ ਆ ਨ ਪ ਉਣ ਦ ਸ ਰਤ ਤ ਮ ਨ ਸਕਦ ਹ 	ਵੋਟਾਂ ਅਕਾਲੀਆਂ ਨੂੰ ਪਾਉਣ ਦੀ ਸ਼ਰਤ ਤੇ ਮੰਨ ਸਕਦੇ ਹਾਂ	vota akaliya no poundi sharp te man sakadeh han	Vota, akaliya no poundi, sharp te, man sakadeh han		1.0
+male		fourties	pa-IN	ਅ ਗ ਗ ਲ ਇਕ ਹ ਰ ਕ ਪ ਦ ਕਰਦ ਹ 	ਅੱਗੇ ਗੱਲ ਇਕ ਹੋਰ ਕੱਪ ਦੀ ਕਰਦੇ ਹਾਂ	age gala ekohor ka padi kar dehan	Age gala ekohor ka padi kar dehan		1.0
+male		fourties	pa-IN	ਭ ਅ ਵ ਚ ਸ ਰਜ ਭ ਅ ਵ ਚ ਚ ਦ	ਭੈਅ ਵਿੱਚ ਸੂਰਜ ਭੈਅ ਵਿੱਚ ਚੰਦ	paivic sula jepaivic chandu	Paivic sula jepaivic chandu		1.0
+male		fourties	pa-IN	ਪਰ ਅਗਰ ਸਰਕ ਰ ਪ ਨਸ ਨ ਵਧ ਦ ਦ ਹ ਤ ਕਦ ਲ ਡ ਨਹ ਵ ਡਦ 	ਪਰ ਅਗਰ ਸਰਕਾਰ ਪੈਨਸ਼ਨ ਵਧਾ ਦਿੰਦੀ ਹੈ ਤਾਂ ਕਦੇ ਲੱਡੂ ਨਹੀਂ ਵੰਡਦੇ	par agar sarkar pensionumada adindi hai takka de ladu nei mandadee	par agar sarkar pensionumada adindi hai takka de ladu nei mandadee		1.0
+male		fourties	pa-IN	ਉਨ ਕ ਹ ਕ ਕ ਝ ਗ ਹਕ ਵ ਪ ਸ ਲ ਟ ਕਰ ਦ ਦ ਹਨ	ਉਨਾਂ ਕਿਹਾ ਕਿ ਕੁੱਝ ਗਾਹਕ ਵੀ ਪੈਸੇ ਲੇਟ ਕਰ ਦਿੰਦੇ ਹਨ	ona keha keko ji ga ha kvi pashe late kar dinde handa	Ona keha keko ji ga ha kvi pashe late kar dinde handa		1.0
+male		fourties	pa-IN	ਫ ਰਜ ਪ ਜ ਦ ਢ ਗ ਰਚ ਨ ਬਹ 	ਫ਼ਰਜ਼ੀ ਪੂਜਾ ਦਾ ਢੋਂਗ ਰਚਾ ਨਾ ਬਹਿ	fazi puja da toongra jana be	Fazi puja da toongra jana be		1.0
+male		fourties	pa-IN	ਇਸ ਗ ਲ ਦ ਮ ਨ ਸਦ ਅਫ ਸ ਸ ਹ ਤ ਰਹ ਗ 	ਇਸ ਗੱਲ ਦਾ ਮੈਨੂੰ ਸਦਾ ਅਫ਼ਸੋਸ ਹੈ ਤੇ ਰਹੇਗਾ	essagalda menu sada absos hatera higa	Essagalda menu sada absos hatera higa		1.0
+male		fourties	pa-IN	ਕ ਰਤ ਕਰਨ ਤ ਵ ਡ ਛਕਣ ਦ ਧਰਮ ਕਰ 	ਕਿਰਤ ਕਰਨ ਤੇ ਵੰਡ ਛਕਣ ਦਾ ਧਰਮ ਕਰੀਂ	kerala	Kerala		1.0
+male		fourties	pa-IN	ਇਹ ਤ ਫ ਫਟ ਫ ਫਟ ਦ ਮ ਮਲ ਹ 	ਇਹ ਤਾਂ ਫਿਫਟੀ ਫਿਫਟੀ ਦਾ ਮਾਮਲਾ ਹੈ	1550	1550		1.0
+male		fourties	pa-IN	ਜ ਦ ਨ ਟ ਕ ਨਹ ਸ ਲਵ ਇਆ	ਜਿੰਦੇ ਨੇ ਟੀਕਾ ਨਹੀਂ ਸੀ ਲਵਾਇਆ	jende ne tika ne sila wa ya	jende ne tika ne sila wa ya		1.0
+male		fourties	pa-IN	ਕ ਈ ਨਜ ਰ ਵ ਐਸ ਦ ਖ ਨ 	ਕੋਈ ਨਜ਼ਰ ਵੀ ਐਸੀ ਦੇਖੀ ਨਾ	koi nazarbi ashi de kina	Koi nazarbi ashi de kina		1.0
+male		fourties	pa-IN	ਇਹ ਟ ਰ ਆ ਦ ਪ ਕ ਸ ਟ ਹ 	ਇਹ ਟੋਰੀਆਂ ਦੀ ਪੱਕੀ ਸੀਟ ਹੈ	2 2 3 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 	2.2.3.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.		11.2
+male		fourties	pa-IN	ਬ ਚ ਕ ਦਰਤ ਦ ਅਨਮ ਲ ਤ ਹਫ ਹ ਦ ਹ 	ਬੱਚਾ ਕੁਦਰਤ ਦਾ ਅਨਮੋਲ ਤੋਹਫਾ ਹੁੰਦਾ ਹੈ	bachcha kudkatada anmol tofa hunda hai	Bachcha kudkatada anmol tofa hunda hai		1.0
+male		fourties	pa-IN	ਢ ਡ ਕ ਦ ਥ ਮ ਰ ਕਰਮ ਵ ਚ ਮ ਕ ਦਪ ਰ ਕ ਲਜ ਦ ਪ ਰ ਸ ਪਲ ਲ ਖ ਸ 	ਢੁੱਡੀਕੇ ਦੀ ਥਾਂ ਮੇਰੇ ਕਰਮਾਂ ਵਿਚ ਮੁਕੰਦਪੁਰ ਕਾਲਜ ਦੀ ਪ੍ਰਿੰਸੀਪਲੀ ਲਿਖੀ ਸੀ	to dkd my karma which mukandpur kalaizhi principle li hisi	To DKD, my Karma which Mukandpur Kalaizhi Principle Li Hisi		1.0
+male		fourties	pa-IN	ਵਰਤਮ ਨ ਦ ਪਲ ਇ ਕ ਮ ਤਰ ਅਸਤ ਤ ਵ ਹ 	ਵਰਤਮਾਨ ਦਾ ਪਲ ਇੱਕ ਮਾਤਰ ਅਸਤਿਤੱਵ ਹੈ	vartamanda pal ikumatara astetu hai	Vartamanda pal ikumatara astetu hai		1.0
+male		fourties	pa-IN	ਤ ਉਹ ਲਗ ਤ ਰ ਲ ਖ ਰ ਹ 	ਤੋਂ ਉਹ ਲਗਾਤਾਰ ਲਿਖ ਰਿਹੈ	oo lagataar legareh	oo lagataar legareh		1.0
+male		fourties	pa-IN	ਸ ਹ ਲਗ ਤ ਰ ਕਬ ਡ ਕਬ ਡ ਬ ਲਦ ਸ 	ਸਾਹੀ ਲਗਾਤਾਰ ਕਬੱਡੀ ਕਬੱਡੀ ਬੋਲਦਾ ਸੀ	sahi lagatar kabadik kabadik bolda si	Sahi lagatar kabadik kabadik bolda si		1.0
+male		fourties	pa-IN	ਗ ਟ ਅ ਗ ਰ ਗ ਬਰ ਗ ਭ ਕ ਨ ਲਟਕ ਏ ਹ ਏ ਸਨ	ਗੇਟ ਅੱਗੇ ਰੰਗ ਬਰੰਗੇ ਭੁਕਾਨੇ ਲਟਕਾਏ ਹੋਏ ਸਨ	gate gate ranga burang gate puka nailata kai huisan 	Gate, Gate, Ranga, Burang Gate, Puka, Nailata Kai, Huisan.		1.0
+male		fourties	pa-IN	ਰ ਜ ਕ ਮ ਰ ਬਹ ਤ ਹ ਪ ਰ ਸ ਨ ਹ 	ਰਾਜ ਕੁਮਾਰੀ ਬਹੁਤ ਹੀ ਪ੍ਰੇਸ਼ਾਨ ਹੈ	raj kumari is a very good person 	Raj Kumari is a very good person.		1.0
+male		fourties	pa-IN	ਬ ਚ ਤ ਹ ਥ ਨਹ ਚ ਕਣ ਚ ਹ ਦ 	ਬੱਚੇ ਤੇ ਹੱਥ ਨਹੀਂ ਚੁੱਕਣਾ ਚਾਹੀਦਾ	bachjate hath nei chokona jayda	Bachjate hath nei chokona jayda		1.0
+male		fourties	pa-IN	ਕ ਲ ਖਰਚ ਬ ਲ ਅਨ ਡ ਲਰ ਪ ਰ ਪਤ ਜ ਰ 	ਕੁੱਲ ਖਰਚਾ ਬਿਲੀਅਨ ਡਾਲਰ ਪ੍ਰਾਪਤੀ ਜ਼ੀਰੋ	kolakharcha billion dollar propt00	Kolakharcha Billion Dollar PropT00		1.0
+male		fourties	pa-IN	ਸ ਖ ਰ ਦ ਪਹ ਰ ਵ ਗ ਸ ਡ ਇਹ ਹ ਲ ਸ 	ਸਿਖ਼ਰ ਦੁਪਹਿਰਾਂ ਵਾਂਗ ਸਾਡਾ ਇਹ ਹਾਲ ਸੀ	sekhar dupearang baang sada a halsi	Sekhar dupearang baang sada a halsi		1.0
+male		fourties	pa-IN	ਨ ੜ ਹ ਅਮਰ ਕ ਦ ਬ ਰਡਰ ਸ 	ਨੇੜੇ ਹੀ ਅਮਰੀਕਾ ਦਾ ਬਾਰਡਰ ਸੀ	nadeh i amari kada batersi	Nadeh i amari kada batersi		1.0
+male		fourties	pa-IN	ਫ ਰ ਉਹਦ ਮ ਹ ਪ ਗ ਬਰ ਬ ਲ ਨ ਕਲਦ ਹਨ	ਫਿਰ ਉਹਦੇ ਮੂੰਹੋਂ ਪੈਗ਼ੰਬਰੀ ਬੋਲ ਨਿਕਲਦੇ ਹਨ	fere ode muho pegambadi bol nekhalde hane	Fere ode muho pegambadi bol nekhalde hane		1.0
+male		fourties	pa-IN	ਦ ਦ ਦ ਦ ਨ ਨ ਨ ਨ ਨ ਕ ਨਹ ਕ ਤ ਤ ਹ ਡ ਲਈ	ਦਾਦਾ ਦਾਦੀ ਨਾਨਾ ਨਾਨੀ ਨੇ ਕੀ ਨਹੀਂ ਕੀਤਾ ਤੁਹਾਡੇ ਲਈ	daad daad daaddi naan naan ni ne ki neki tato adili	Daad daad daaddi naan naan ni ne ki neki tato adili		1.0
+male		fourties	pa-IN	ਰ ਤ ਦ ਰ ਜਵ ਚ ਰ ਹਰਣ ਹ ਇਆ	ਰੁੱਤਾਂ ਦਾ ਰੱਜਵਾਂ ਚੀਰ ਹਰਣ ਹੋਇਆ	ruttanda rajma chirhavan huaya	Ruttanda Rajma Chirhavan Huaya		1.0
+male		fourties	pa-IN	ਇਸ ਮਗਰ ਮ ਈਕ ਹਰਭਜਨ ਮ ਨ ਨ ਸ ਭ ਲ ਆ	ਇਸ ਮਗਰੋਂ ਮਾਈਕ ਹਰਭਜਨ ਮਾਨ ਨੇ ਸੰਭਾਲਿਆ	esma gron mike harpa yannman ne sanbalaya	Esma-Gron Mike Harpa Yannman Ne Sanbalaya		1.0
+male		fourties	pa-IN	ਪ ਰ ਫ ਸਰ ਪ ਜ ਬ ਵ ਭ ਗ ਤ ਡ ਇਰ ਕਟਰ ਯ ਵਕ ਭਲ ਈ	ਪ੍ਰੋਫੈਸਰ ਪੰਜਾਬੀ ਵਿਭਾਗ ਤੇ ਡਾਇਰੈਕਟਰ ਯੁਵਕ ਭਲਾਈ	professioner punjabi bbbh aga te director yoga keplai	Professioner Punjabi bbbh aga te director yoga keplai		1.0
+male		fourties	pa-IN	ਪ ਰ ਆਸ ਰਮ ਹ ਰ ਨ ਹ ਇਆ	ਪੂਰਾ ਆਸ਼੍ਰਮ ਹੈਰਾਨ ਹੋਇਆ	ura ashram hera anhoya	Ura Ashram Hera Anhoya		1.0
+male		fourties	pa-IN	ਜ ਸ ਤ ਬ ਅਦ ਉਕਤ ਸ ਰ ਘਟਨ ਵ ਪਰ 	ਜਿਸ ਤੋਂ ਬਾਅਦ ਉਕਤ ਸਾਰੀ ਘਟਨਾ ਵਾਪਰੀ	just tom bad o katsari katsana babri	Just Tom Bad, O Katsari Katsana Babri		1.0
+male		fourties	pa-IN	ਜ ਸ ਸ ਭ ਦ ਨਤ ਜ ਕਸ ਮ ਰ ਲ ਕ ਨ ਭ ਗਤਣ ਪ ਆ ਹ 	ਜਿਸ ਸੱਭ ਦਾ ਨਤੀਜਾ ਕਸ਼ਮੀਰੀ ਲੋਕਾਂ ਨੂੰ ਭੁਗਤਣਾ ਪਿਆ ਹੈ	jessa sabada natijya kashmiri lokanoopo ghtanapeyaah hai	Jessa Sabada Natijya Kashmiri Lokanoopo Ghtanapeyaah hai		1.0
+male		fourties	pa-IN	ਪਰ ਪਤ ਨਹ ਉਹ ਕ ਨ ਦ ਰ ਸਨ	ਪਰ ਪਤਾ ਨਹੀਂ ਉਹ ਕਿੰਨੀ ਦੂਰ ਸਨ	parpata nahi ok ni duhrsan	parpata nahi ok ni duhrsan		1.0
+male		fourties	pa-IN	ਧਰਤ ਸ ਰਜ ਤ ਚ ਦ ਤ ਰ ਉਹਦ ਖ ਡ ਰ ਹਨ	ਧਰਤੀ ਸੂਰਜ ਤੇ ਚੰਦ ਤਾਰੇ ਉਹਦੇ ਖਿਡਾਰੀ ਹਨ	30 suraj teth jandetare ode keda di hana	30 suraj teth jandetare ode keda di hana		1.0
+male		fourties	pa-IN	ਬ ਮ ਰ ਤ ਦਰ ਸਤ ਅਮ ਰ ਗਰ ਬ ਹ ਗ ਆ	ਬਿਮਾਰ ਤੰਦਰੁਸਤ ਅਮੀਰ ਗਰੀਬ ਹੋ ਗਿਆ	bemar tandrost amir gadi bhugya	Bemar Tandrost Amir Gadi Bhugya		1.0
+male		fourties	pa-IN	ਢ ਡ ਕ ਪਹ ਚ ਤ ਰ ਟ ਟ ਕ ਤ ਆਰ ਸ 	ਢੁੱਡੀਕੇ ਪਹੁੰਚੇ ਤਾਂ ਰੋਟੀ ਟੁੱਕ ਤਿਆਰ ਸੀ	2dg 5rot	2DG-5ROT		1.0
+male		fourties	pa-IN	ਉਹਦ ਸ ਮ ਬੜ ਰ ਗ ਨ ਹ ਦ ਸ 	ਉਹਦੀ ਸ਼ਾਮ ਬੜੀ ਰੰਗੀਨ ਹੁੰਦੀ ਸੀ	odi shah madi rangine hundisi	Odi Shah Madi Rangine Hundisi		1.0
+male		fourties	pa-IN	ਚਲ ਇਨ ਹ ਲ ਡਰ ਭ ਲ ਮ ਨ ਤ ਸਹ 	ਚਲੋ ਇਨ੍ਹਾਂ ਲੀਡਰਾਂ ਭੁੱਲ ਮੰਨੀ ਤਾਂ ਸਹੀ	let us go to the next video	let us go to the next video		1.0
+male		fourties	pa-IN	ਉਸ ਦ ਕ ਮ ਟਰ ਵ ਚ ਹ ਸ ਖ ਡ ਵ ਚਲਦ 	ਉਸ ਦੀ ਕੁਮੈਂਟਰੀ ਵਿਚ ਹਾਸਾ ਖੇਡਾ ਵੀ ਚਲਦੈ	osd command tree which has a sakhe da vi jal da	OSD command tree which has a sakhe da vi jal da		1.0
+male		fourties	pa-IN	ਇਹ ਉਮਰ ਬਗ ਵਤ ਵ ਲ ਹ ਦ ਹ 	ਇਹ ਉਮਰ ਬਗਾਵਤ ਵਾਲੀ ਹੁੰਦੀ ਹੈ	1 omar bagava tawali hundi	1. Omar Bagava Tawali hundi		1.0
+male		fourties	pa-IN	ਸਤ ਕ ਰ ਯ ਗ ਸ ਪ ਦਕ ਜ ਸਤ ਸ ਰ ਅਕ ਲ	ਸਤਿਕਾਰ ਯੋਗ ਸੰਪਾਦਕ ਜੀ ਸਤਿ ਸ੍ਰੀ ਅਕਾਲ	satakaar yog sampadakji satishri akal	Satakaar Yog Sampadakji Satishri Akal		1.0
+male		fourties	pa-IN	ਇਹ ਆਖ ਕ ਪਰ ਦ ਰਸ ਈ ਵ ਲ ਗ ਆ	ਇਹ ਆਖ ਕੇ ਪਰਿੰਦਾ ਰਸੋਈ ਵੱਲ ਗਿਆ	a a k parindar zoival gia 	A, A, K, Parindar, Zoival, Gia.		1.0
+male		fourties	pa-IN	ਇਹ ਰ ਸ ਟਰਪਤ ਜ ਰਦ ਰ ਅਤ ਉਨ ਹ ਦ ਸ ਦ ਸ ਹ 	ਇਹੀ ਰਾਸ਼ਟਰਪਤੀ ਜ਼ਰਦਾਰੀ ਅਤੇ ਉਨ੍ਹਾਂ ਦਾ ਸੰਦੇਸ਼ ਹੈ	aheel astropathy zaldaadi te unanda sndesh hai	Aheel Astropathy zaldaadi te unanda sndesh hai		1.0
+male		fourties	pa-IN	ਉਹਨ ਦ ਨ ਦ ਆ ਯ ਦ ਅਭ ਲ ਹਨ	ਉਹਨਾਂ ਦਿਨਾਂ ਦੀਆਂ ਯਾਦਾਂ ਅਭੁੱਲ ਹਨ	we na adena diya yada apoh lahan	we na adena diya yada apoh lahan		1.0
+			pa-IN	ਇਹ ਉਸ ਦ ਨ ਵ ਸ ਹ ਦ ਹ 	ਇਹ ਉਸ ਦਾ ਨਿਵੇਸ਼ ਹੁੰਦਾ ਹੈ	ahe os diner viesh funda hai	Ahe os diner viesh funda hai		1.0
+			pa-IN	ਜ ਹੜ ਸ ਰ ਹ ਝ ਠ ਸਨ	ਜਿਹੜੇ ਸਾਰੇ ਹੀ ਝੂਠੇ ਸਨ	zsrh2	ZSRH2		1.0
+			pa-IN	ਮਰਦ ਅਗ ਮੜ ਉ ਚ ਦ ਪ ਰਵਰਗ 	ਮਰਦ ਅਗੰਮੜੇ ਉੱਚ ਦ ੇਪੀਰਵਰਗੀ	marda agamade ochi de pilwar ghi	Marda Agamade Ochi De Pilwar Ghi		1.0
+			pa-IN	ਪਹ ਲ ਰ ਸ ਤ ਦ ਰ ਦ ਸਤ ਦ ਮ ਦਦ ਲਵ 	ਪਹਿਲਾਂ ਰਿਸ਼ਤੇਦਾਰਾਂ ਦੋਸਤਾ ਦੀ ਮੱਦਦ ਲਵੋ	pellar este daara dosa ni makela lovo	Pellar este daara dosa ni makela lovo		1.0
+			pa-IN	ਮ ਰ ਇ ਕ ਸ ਗ ਵਰਗ ਕਰ ਲ 	ਮੇਰੇ ਇੱਕ ਸਿੰਗੇ ਵਰਗਾ ਕਰ ਲੈ	me rexhingi wa gakarla	Me rexhingi wa gakarla		1.0
+male		thirties	pa-IN	ਹ ਟ ਅ ਦਰ ਬ ਠ ਉਹ ਚਕਰ ਜ ਹ ਗ ਆ	ਹੱਟੀ ਅੰਦਰ ਬੈਠਾ ਉਹ ਚਕਰਾ ਜਿਹਾ ਗਿਆ	patti andrew bittha o chikra jheha gya	Patti Andrew Bittha O Chikra Jheha Gya		1.0
+male		thirties	pa-IN	ਇਹ ਸਤ ਹ ਦ ਵ ਲ ਨ ਢ ਕ ਲ ਦ ਆ ਹਨ	ਇਹ ਸਤ੍ਹਾ ਦੇ ਵਾਲਾਂ ਨੂੰ ਢੱਕ ਲੈਂਦੀਆਂ ਹਨ	this is the first time we have seen this 	This is the first time we have seen this.		1.0
+male		thirties	pa-IN	ਲ ਕ ਕ ਮ ਛ ਡ ਕ ਚਲ ਗਏ ਹਨ	ਲੋਕ ਕੰਮ ਛੱਡ ਕੇ ਚਲੇ ਗਏ ਹਨ	lok kam chattu gichali gaihan	Lok kam chattu gichali gaihan		1.0
+male		thirties	pa-IN	ਅਸ ਦ ਧ ਪ ਣ ਨ ਤਰਸ ਜ ਦ 	ਅਸੀਂ ਦੁੱਧ ਪੀਣ ਨੂੰ ਤਰਸ ਜਾਂਦੇ	asi dot pinu tarjande	Asi dot pinu tarjande		1.0
+male		thirties	pa-IN	ਇਹ ਟ ਲ ਫ ਨ ਕ ਲ ਤ ਨ ਪ ਰਕ ਰ ਦ ਆ ਸਨ	ਇਹ ਟੈਲੀਫੋਨ ਕਾਲਾਂ ਤਿੰਨ ਪ੍ਰਕਾਰ ਦੀਆਂ ਸਨ	8 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 	8.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.		7.466666666666667
+male		twenties	pa-IN	ਛ ਟ ਆ ਦ ਆ ਗ ਲ ਵ ਲ ਧ ਆਨ ਨ ਦ ਓ	ਛੋਟਿਆਂ ਦੀਆਂ ਗੱਲਾਂ ਵੱਲ ਧਿਆਨ ਨਾ ਦਿਓ	chalky on you below i ll find out 	Chalky on you below, I'll find out.		1.0
+male		twenties	pa-IN	ਇਹ ਜ ਗ ਅਫਗ ਨ ਸਤ ਨ ਤ ਇਰ ਕ ਦ ਆ ਸਨ	ਇਹ ਜੰਗਾਂ ਅਫਗਾਨਿਸਤਾਨ ਤੇ ਇਰਾਕ ਦੀਆਂ ਸਨ	today we will meet again with another video 	Today we will meet again with another video.		1.0
+male		twenties	pa-IN	ਜ ਰ ਰ ਕ ਮ ਵ ਚ ਉਸ ਦ ਸਲ ਹ ਲਓ	ਜ਼ਰੂਰੀ ਕੰਮਾਂ ਵਿਚ ਉਸ ਦੀ ਸਲਾਹ ਲਓ	janurika maavati pursa dheesala aleyo	Janurika Maavati Pursa Dheesala Aleyo		1.0
+male		twenties	pa-IN	ਉਸਨ ਸ ਟ ਕ ਸਲ ਦ ਪ ਸ ਵ ਅਰਥ ਕ ਤ 	ਉਸਨੇ ਸਿਟੀ ਕੌਂਸਲ ਦਾ ਪੈਸਾ ਵਿਅਰਥ ਕੀਤਾ	osnaisetry console da pensar weird ki ta	osnaisetry console da pensar weird ki ta		1.0
+male		twenties	pa-IN	ਉਸਨ ਕ ਮ ਕ ਰ ਤ ਹ ਕ ਈ ਨਹ ਸ 	ਉਸਨੂੰ ਕੰਮ ਕਾਰ ਤਾਂ ਹੈ ਕੋਈ ਨਹੀਂ ਸੀ	karmkart	karmkart		1.0
+male		twenties	pa-IN	ਉਹ ਕਹ ਰ ਹ ਸ ਤੜਕ ਪਹ ਲ ਬ ਸ ਤ ਸ ਹ ਰ ਜ ਣ ਲਈ	ਉਹ ਕਹਿ ਰਿਹਾ ਸੀ… ਤੜਕੇ ਪਹਿਲੀ ਬੱਸ ਤੇ ਸ਼ਹਿਰ ਜਾਣ ਲਈ	okar hasi talikeh pelibaste share jaalme	Okar hasi talikeh, pelibaste share jaalme		1.0
+male		twenties	pa-IN	ਕ ਝ ਸਮ ਸ ਖਵ ਦਰ ਨ ਵ ਕ ਮ ਟਰ ਕ ਤ 	ਕੁਝ ਸਮਾਂ ਸੁਖਵਿੰਦਰ ਨੇ ਵੀ ਕੁਮੈਂਟਰੀ ਕੀਤੀ	kudisama so kudendon nae vika maangri pithi	kudisama so kudendon nae vika maangri pithi		1.0
+			pa-IN	ਇਸ ਨ ਬਰਦ ਸ ਤ ਨਹ ਕ ਤ ਜ ਵ ਗ 	ਇਸ ਨੂੰ ਬਰਦਾਸ਼ਤ ਨਹੀਂ ਕੀਤਾ ਜਾਵੇਗਾ	e	e		1.0
+			pa-IN	ਜ ਦ ਨ ਕ ਸ ਕ ਸਹ ੜ 	ਜਿੰਦੇ ਨੀ ਕੀ ਸਾਕ ਸਹੇੜੇ	jinde ni ki sak su hede	Jinde ni ki sak su hede		1.0
+			pa-IN	ਉਥ ਸ ਖ ਖ ਡ ਰ ਆ ਨ ਗ ਲ ਦ ਗ ਸਨ	ਉਥੇ ਸਿੱਖ ਖਿਡਾਰੀਆਂ ਨੇ ਗੋਲ ਦਾਗੇ ਸਨ	othsic kidariane goal dagesan	OTHSIC KIDARIANE GOAL DAGESAN		1.0
+			pa-IN	ਦ ਸਤ ਨ ਫ ਨ ਕਰਕ ਬ ਲ ਉਣ ਐ	ਦੋਸਤ ਨੂੰ ਫੋਨ ਕਰਕੇ ਬੁਲਾਉਣਾ ਐ	2 3 phone	2-3 phone		1.0
+			pa-IN	ਦਸ ਜ ਹਰ ਸ ਉਨ ਹ ਜਵ ਨ ਆ ਨ 	ਦਸੇ ਜ਼ੌਹਰ ਸੀ ਉਨ੍ਹਾਂ ਜਵਾਨੀਆਂ ਨੇ	dasse zoharsi ona javanya ne	Dasse zoharsi ona javanya ne		1.0
+			pa-IN	ਮ ਇਹ ਪ ਸ ਲ ਣ ਨਹ ਸ ਚ ਹ ਦ 	ਮੈਂ ਇਹ ਪੈਸੇ ਲੈਣੇ ਨਹੀਂ ਸੀ ਚਾਹੁੰਦਾ	i have a better laden i need to go	i have a better laden i need to go		1.0
+			pa-IN	ਸ ਇਰ ਨ ਟ ਇ ਕ ਔਰਤ ਵ ਹ 	ਸ਼ਾਇਰਾ ਨੀਟਾ ਇੱਕ ਔਰਤ ਵੀ ਹੈ	scheiran nita ik orat vi hhe	Scheiran Nita ik orat vi hhe		1.0
+			pa-IN	ਸ ਡ ਬਹ ਤ ਵ ਰ ਤ ਤ ਮ ਮ ਵ ਹ ਈ	ਸਾਡੀ ਬਹੁਤ ਵਾਰ ਤੂੰ ਤੂੰ ਮੈਂ ਮੈਂ ਵੀ ਹੋਈ	sadipohat var tu tu mene bhi hui	Sadipohat var tu tu mene bhi hui		1.0
+			pa-IN	ਅਜ ਦ ਪੜ ਹ ਈ ਮਨ ਵ ਗ ਆਨ ਅਧ ਰਤ ਹ 	ਅਜ ਦੀ ਪੜ੍ਹਾਈ ਮਨੋਵਿਗਿਆਨ ਅਧਾਰਤ ਹੈ	ajitipadayi manovaki anandarath	Ajitipadayi Manovaki Anandarath		1.0
+			pa-IN	ਥ ੜ ਹ ਵ ਡ ਘ ਰ ਵ ਲ ਸ ਟ ਪ ਉਣ ਚ ਹ ਦ ਹਨ	ਥੋੜ੍ਹੇ ਵੱਡੇ ਘੇਰੇ ਵਾਲੇ ਸੂਟ ਪਾਉਣੇ ਚਾਹੀਦੇ ਹਨ	3 4 10 krw 	3-4-10 kRw.		1.0
+			pa-IN	ਡਰ ਇਵ ਗ ਦ ਨ ਯਮ ਬਹ ਤ ਸਖ ਤ ਹਨ	ਡਰਾਇਵਿੰਗ ਦੇ ਨਿਯਮ ਬਹੁਤ ਸਖ਼ਤ ਹਨ	driving the neyam bahot saktan 	driving the neyam bahot saktan.		1.0
+			pa-IN	ਰ ਹ ਅਫ ਜ ਤ ਦ ਧ ਸ ਡ ਵਰਤ ਰ ਹ ਸ 	ਰੂਹ ਅਫ਼ਜ਼ਾ ਤੇ ਦੁੱਧ ਸੋਡਾ ਵਰਤ ਰਿਹਾ ਸੀ	2 hazat teyat to th soda varthreasi	2 hazat teyat to th soda varthreasi		1.0
+			pa-IN	ਬ ਲ ਨ ਸਰ ਹ ਦ ਤ ਲ ਮ ਗ ਲ ਆ	ਬਿੱਲੂ ਨੇ ਸਰ੍ਹੋਂ ਦਾ ਤੇਲ ਮੰਗਾ ਲਿਆ	bilrul nes saroda tel mangalea	Bilrul Nes Saroda Tel Mangalea		1.0
+			pa-IN	ਇਸ ਵ ਚ ਹਰ ਉਮਰ ਦ ਆ ਬ ਬ ਆ ਸ ਮਲ ਸਨ	ਇਸ ਵਿੱਚ ਹਰ ਉਮਰ ਦੀਆਂ ਬੀਬੀਆਂ ਸ਼ਾਮਲ ਸਨ	eswitch har omar diyambi biya shameltsan	Eswitch har Omar Diyambi biya shameltsan		1.0
+			pa-IN	ਸ ਰ ਦ ਨ ਮ ਹ ਵਰਦ ਰ ਹ 	ਸਾਰਾ ਦਿਨ ਮੀਂਹ ਵਰਦਾ ਰਿਹਾ	sara dinmi vertaria	Sara Dinmi Vertaria		1.0
+			pa-IN	ਜਪ ਨ ਵ ਚ ਸਰਦ ਦ ਮ ਸਮ ਹ 	ਜਪਾਨ ਵਿਚ ਸਰਦੀ ਦਾ ਮੌਸਮ ਹੈ	jepahan which sirthida masam hai	Jepahan which sirthida masam hai		1.0
+			pa-IN	ਪ ਲ ਬ ਟ ਮ ਦ ਠਹ ਰ ਜਲ ਧਰ	ਪੂਲ ਬੀ ਟੀਮਾਂ ਦੀ ਠਹਿਰ ਜਲੰਧਰ	pulse btmdthnr jlandr	Pulse BTMDTHNR JLANDR		1.0
+			pa-IN	ਆਓ ਨਜ ਰ ਮ ਰਦ ਹ ਇਨ ਹ ਬ ਰ ਆ ਆਦਤ ਤ 	ਆਓ ਨਜ਼ਰ ਮਾਰਦੇ ਹਾਂ ਇਨ੍ਹਾਂ ਬੁਰੀਆਂ ਆਦਤਾਂ ਤੇ	aul nasir maathe hina burya adh tante	Aul nasir maathe hina burya adh tante		1.0
+			pa-IN	ਅਸ ਰਵ ਦ ਲ ਣ ਸ ਰਨ ਚ ਪਹ ਚ ਰਹ ਨ ਤ 	ਅਸ਼ੀਰਵਾਦ ਲੈਣ ਸ਼ਰਨ ਚ ਪਹੁੰਚ ਰਹੇ ਨੇਤਾ	ashi wa d lan sharanj ponga rahini ta	Ashi wa d'Lan Sharanj ponga rahini ta		1.0
+			pa-IN	ਪਰ ਕ ਕ ਸਮਝਦ ਸ ਕ ਇਹ ਹਰ ਵ ਰ ਦ ਤਰ ਹ ਇਕ ਬਹ ਨ ਹ ਹ 	ਪਰ ਕਾਕੂ ਸਮਝਦਾ ਸੀ ਕਿ ਇਹ ਹਰ ਵਾਰ ਦੀ ਤਰ੍ਹਾਂ ਇਕ ਬਹਾਨਾ ਹੀ ਹੈ	because a kusamista sin ki e harvaarti tara ikbohana lihe	Because a kusamista sin ki e harvaarti tara ikbohana lihe		1.0
+			pa-IN	ਤ ਹ ਡ ਸ ਰ ਸ ਲ ਦ ਨ ਟ ਸ ਆਫ ਅਸ ਸਮ ਟ	ਤੁਹਾਡੇ ਸਾਰੇ ਸਾਲਾਂ ਦੇ ਨੋਟਿਸ ਆਫ ਅਸੈਸਮੈਂਟ	sari sallam 	Sari sallam,		1.0
+			pa-IN	ਕਦ ਖ ਡਦ ਸ ਅ ਬਰ ਚ ਦ ਨ ਲ	ਕਦੇ ਖੇਡਦਾ ਸਾਂ ਅੰਬਰੀਂ ਚੰਦ ਨਾਲ	kadek heidas na ambri chandit nah	kadek heidas na ambri chandit nah		1.0
+			pa-IN	ਸਰਕ ਜ ਦ ਸਰ ਨ ਬਰ ਤ ਚ ਲ ਰਹ ਹਨ	ਸਰਕੋਜ਼ੀ ਦੂਸਰੇ ਨੰਬਰ ਤੇ ਚੱਲ ਰਹੇ ਹਨ	sirko ji 2 3 6 4 4	Sirko ji, 2-3-6-4-4		1.0
+			pa-IN	ਲ ਕ ਦ ਫਤਵ ਨ ਵਧ ਈਆ ਚ ਣ ਤ ਆ 	ਲੋਕਾਂ ਦੇ ਫਤਵੇ ਨੇ ਵਧਾਈਆਂ ਚੁਣੌਤੀਆਂ	lokandef at vene vada yatchanotya	Lokandef at vene vada yatchanotya		1.0
+			pa-IN	ਰ ਤ ਵ ਲ ਦ ਵ ਪ ਸ ਲ ਈਨਰ ਲਗ ਓ	ਰਾਤ ਵੇਲੇ ਦੋਵੇਂ ਪਾਸੇ ਲਾਈਨਰ ਲਗਾਓ	rath will lay 2 5 6 liner lagau	Rath will lay 2-5-6 liner lagau		1.0
+			pa-IN	ਤ ਹ ਡ ਚ ਹਰ ਮ ਖਣ ਵ ਗ ਮ ਲ ਇਮ ਹ ਜ ਵ ਗ 	ਤੁਹਾਡਾ ਚਿਹਰਾ ਮੱਖਣ ਵਾਂਗ ਮੁਲਾਇਮ ਹੋ ਜਾਵੇਗਾ	3 4 makaranululai	3-4 makaranululai		1.0
+			pa-IN	ਕਲਸ ਮ ਦਰ ਦ ਨਜ ਰ ਆਉ ਦ ਨ 	ਕਲਸ਼ ਮੰਦਰਾਂ ਦੇ ਨਜ਼ਰ ਆਉਂਦੇ ਨੇ	kalci mandranden naya rande ni	Kalci Mandranden naya rande ni		1.0
+			pa-IN	ਤ ਸ ਵ ਉਸ ਨ ਪੜ ਹ ਆ ਕਰ 	ਤੁਸੀਂ ਵੀ ਉਸ ਨੂੰ ਪੜ੍ਹਿਆ ਕਰੋ	tu civiles nuva dea garo	Tu civiles nuva dea garo		1.0
+male		twenties	pa-IN	ਦ ਖਦ ਰਹ ਇਹ ਮ ਚ ਪ ਛ ਫ ਰ ਕ ਲ ਆ ਸ ਬ ਤ ਬਰਫ ਨ ਪ ਣਗ 	ਦੇਖਦੇ ਰਹੋ ਇਹ ਮੈਚ ਪਿੱਛੋਂ ਫੇਰ ਕੇਲਿਆਂ ਸੇਬਾਂ ਤੇ ਬਰਫੀ ਨੂੰ ਪੈਣਗੇ	 	. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .		1.0
+male		twenties	pa-IN	ਪ ਸ ਜਰ ਟਰ ਨ ਦ ਵ ਪ ਰਸਤ ਵ ਹ 	ਪੈਸੰਜਰ ਟਰੇਨਾਂ ਦਾ ਵੀ ਪ੍ਰਸਤਾਵ ਹੈ	pesanjir treinat al vi persta avhe	pesanjir treinat al vi persta avhe		1.0
+male		twenties	pa-IN	ਗ ਲਬ ਤ ਵ ਕਈ ਬਹ ਤ ਲ ਬ ਹ ਗਈ ਸ 	ਗੱਲਬਾਤ ਵਾਕਈ ਬਹੁਤ ਲੰਬੀ ਹੋ ਗਈ ਸੀ	garpa tava kaipo at numdi hovee si	garpa tava kaipo at numdi hovee si		1.0
+male		twenties	pa-IN	ਮ ਲਗ ਤ ਰ ਸ ਕ ਕਰ ਰਹ ਸ 	ਮਾਂ ਲਗਾਤਾਰ ਸ਼ੱਕ ਕਰ ਰਹੀ ਸੀ	mahanda gataar shakkar rezi	Mahanda Gataar Shakkar Rezi		1.0
+male		twenties	pa-IN	ਤ ਆਪਣ ਆਪ ਨ ਨ ਵ ਨ ਸਮਝ	ਤੂੰ ਆਪਣੇ ਆਪ ਨੂੰ ਨੀਵਾਂ ਨਾ ਸਮਝ	tu apa niyaa penu ni wa na samad	tu apa niyaa penu ni wa na samad		1.0
+male		twenties	pa-IN	ਸ ਬ ਦ ਰਨ ਵ ਅ ਤ ਦ ਉਦ ਸ ਸ 	ਸੂਬੇਦਾਰਨੀ ਵੀ ਅੱਤ ਦੀ ਉਦਾਸ ਸੀ	so bedad ni vi atati udasi	So bedad ni vi atati udasi		1.0
+male		twenties	pa-IN	ਹਰਦਮ ਲੜ ਗ ਰ ਸ ਨ ਦ ਭ ਲ ਲਈ	ਹਰਦਮ ਲੜਾਂਗਾ ਰੋਸ਼ਨੀ ਦੀ ਭਾਲ ਲਈ	hardambaranga rosni deeparlay	Hardambaranga Rosni Deeparlay		1.0
+male		twenties	pa-IN	ਹ ਸਕ ਝੜਪ ਦ ਕ ਰਨ ਨ ਜ ਇਜ ਸਬ ਧ ਹ ਹ 	ਹਿੰਸਕ ਝੜਪ ਦਾ ਕਾਰਨ ਨਾਜਾਇਜ਼ ਸਬੰਧ ਹੀ ਹੈ	hilsa kuchad abda karan na jaya sabande hih hai	Hilsa kuchad Abda karan na jaya sabande hih hai		1.0
+male		twenties	pa-IN	ਜ ਨ ਆਪਣ ਪ ਚ ਸ ਲ ਦ ਡ ਸ ਕ ਰ ਆਰ ਵ ਚ	ਜਿਨਾਂ ਆਪਣੇ ਪੱਚੀ ਸਾਲਾਂ ਦੇ ਡਾਂਸ ਕੈਰੀਆਰ ਵਿੱਚ	jinnah apne 5 6 6 8 taskar	Jinnah apne 5-6-6-8 taskar		1.0
+male		twenties	pa-IN	ਖ ਸ ਹ ਲ ਦ ਅਸ ਸ ਰ ਕ ਮਨ ਕਰਦ ਹ 	ਖੁਸ਼ਹਾਲੀ ਦੀ ਅਸੀਂ ਸਾਰੇ ਕਾਮਨਾ ਕਰਦੇ ਹਾਂ	kushahali di asin saare kamnakar deha	Kushahali di asin saare kamnakar deha		1.0
+male		twenties	pa-IN	ਇਸ ਨ ਲ ਉਸਨ ਪ ਸ ਵ ਮ ਲ ਜ ਦ 	ਇਸ ਨਾਲ ਉਸਨੂੰ ਪੈਸੇ ਵੀ ਮਿਲ ਜਾਂਦੇ	this nail is no passive image 	This nail is no passive image.		1.0
+male		twenties	pa-IN	ਇਥ ਦ ਗੜ ਵ ਚੜ ਹ ਈਆ ਜ ਦ ਆ ਹਨ	ਇਥੇ ਦੋਗੜਾਂ ਵੀ ਚੜ੍ਹਾਈਆਂ ਜਾਂਦੀਆਂ ਹਨ	1 2個月	1-2個月		1.0
+male		twenties	pa-IN	ਅ ਮ ਰ ਤਸਰ ਵ ਅਖ ੜ ਆ ਨ ਲ ਭਰ ਆ ਪ ਆ ਸ 	ਅੰਮ੍ਰਿਤਸਰ ਵੀ ਅਖਾੜਿਆਂ ਨਾਲ ਭਰਿਆ ਪਿਆ ਸੀ	amritsarvi akhadiya nautarya piazi	Amritsarvi Akhadiya Nautarya Piazi		1.0
+male		twenties	pa-IN	ਉਦ ਉਹਦ ਸ ਨ ਦ ਕੜ ਗ ਇਬ ਸ 	ਉਦੋਂ ਉਹਦਾ ਸੋਨੇ ਦਾ ਕੜਾ ਗ਼ਾਇਬ ਸੀ	oda oda sonyaq karagayabse	Oda Oda Sonyaq Karagayabse		1.0
+male		twenties	pa-IN	ਉਹ ਹਮ ਸ ਸਵ ਲ ਦ ਘ ਰ ਤ ੜਕ 	ਉਹ ਹਮੇਸ਼ਾਂ ਸਵਾਲਾਂ ਦੇ ਘੇਰੇ ਤੋੜਕੇ	oho ha me shaa sawanna de kere torke	oho ha me shaa sawanna de kere torke		1.0
+male		twenties	pa-IN	ਜ ਨ ਹ ਕ ਲ ਧ ਨ ਹ ਉ ਨ ਹ ਵਲ ਧ ਨ ਦ ਤ ਆਗ ਕਰਨ ਬਹ ਤ ਚ ਗ ਗ ਲ ਹ 	ਜਿਨਾ੍ਹਂ ਕੋਲ ਧੰਨ ਹੈ ਉਂਨਾ੍ਹਂ ਵਲੋਂ ਧੰਨ ਦਾ ਤਿਆਗ ਕਰਨਾ ਬਹੁਤ ਚੰਗੀ ਗੱਲ ਹੈ	gina colton ona vallokthanda tiyakkarna bohcangi 	Gina Colton, ona Vallokthanda, Tiyakkarna, bohcangi,		1.0
+male		twenties	pa-IN	ਆਈਟਮ ਸ ਗ ਦ ਪ ਕ ਪਹ ਲ ਵ ਰ ਨਹ ਕਰ ਰਹ 	ਆਈਟਮ ਸਾਂਗ ਦੀਪਿਕਾ ਪਹਿਲੀ ਵਾਰ ਨਹੀਂ ਕਰ ਰਹੀ	item song dithika pelly war nahi karri	item song, dithika pelly war nahi karri		1.0
+male		twenties	pa-IN	ਸ ਚ ਦ ਚ ਨਣ ਦ ਦ ਤ ਛ ਟ 	ਸੱਚ ਦੇ ਚਾਨਣ ਦਾ ਦਿੱਤਾ ਛਿੱਟਾ	sucha day chanada daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daad	sucha day chanada daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daadit daad		7.6
+male		twenties	pa-IN	ਪਰ ਕ ੜ ਵ ਲ ਆ ਨ ਭ ਲ ਪਸ ਦ ਆ ਗ ਆ	ਪਰ ਕੁੜੀ ਵਾਲਿਆਂ ਨੂੰ ਭੋਲਾ ਪਸੰਦ ਆ ਗਿਆ	perkuri varianu puna kusandagya	Perkuri varianu puna kusandagya		1.0
+male		twenties	pa-IN	ਇਸ ਤਰ ਹ ਦ ਸ ਗ ਲ ਰ ਟ ਯ ਨ ਵਰਸ ਟ ਹ 	ਇਸ ਤਰ੍ਹਾਂ ਦੀ ਸਿੰਗੂਲੈਰਿਟੀ ਯੂਨੀਵਰਸਿਟੀ ਹੈ	this is the same thing as the same thing 	This is the same thing as the same thing.		1.0
+male		twenties	pa-IN	ਕਟਨ ਲਈ ਸ ਉਹ ਠ ਢ ਠ ਰ ਆਇਆ	ਕਟਨ ਲਈ ਸੀ ਉਹ ਠੰਢੀ ਠਾਰ ਆਇਆ	katan lisiohot handithar aya	Katan Lisiohot Handithar Aya		1.0
+			pa-IN	ਕ ਸ ਨ ਲ ਖ ਦਕਬ ਜ ਨਹ ਸ ਕ ਤ 	ਕਿਸੇ ਨਾਲ ਖੁੰਦਕਬਾਜ਼ੀ ਨਹੀਂ ਸੀ ਕੀਤੀ	kese nahl kundak basi nangsi kittim	kese nahl kundak basi nangsi kittim		1.0
+			pa-IN	ਇਹ ਉਪਲਬਧ ਆ ਮ ਰ ਇ ਕਲ ਦ ਆ ਨਹ ਹਨ	ਇਹ ਉਪਲਬਧੀਆਂ ਮੇਰੇ ਇੱਕਲੇ ਦੀਆਂ ਨਹੀਂ ਹਨ	1 oupilabdia my recalidia nahinhan	1 oupilabdia, my recalidia nahinhan		1.0
+			pa-IN	ਸ ਡ ਲ ਕ ਬਹ ਤ ਦ ਖ ਵ ਕਰਨ ਵ ਲ ਹਨ	ਸਾਡੇ ਲੋਕ ਬਹੁਤ ਦਿਖਾਵਾ ਕਰਨ ਵਾਲੇ ਹਨ	shadelo buhan dikhaba karan valihan	Shadelo, buhan dikhaba karan valihan		1.0
+			pa-IN	ਬਰ ਜ ਲ ਗ ਈ ਡ ਮ ਟ ਗ ਪ ਰਧ ਨ ਮ ਤਰ 	ਬਰਾਜ਼ੀਲ ਗੁਈ ਡੋ ਮੇਟੇਗਾ ਪ੍ਰਧਾਨ ਮੰਤਰੀ	brazil gui doh netega pratan mantri	Brazil Gui Doh Netega Pratan Mantri		1.0
+			pa-IN	ਅ ਜ ਵ ਖ ਧਰਮ ਦ ਖ ਤਰ	ਅੱਜ ਵੇਖੋ ਧਰਮ ਦੀ ਖ਼ਾਤਰ	a c v k d k d k d k d k d k d k d k d k d k d k d k d k d k d k d k d k d k d k d k d k d k d k d k d k d k d k d k d k d k d k d k d k d k d k d k d k d k d k d k d k d k d k d k d k d k d k d k d k d k d k d k d k d k d k 	A.C.V.K.D.K.D.K.D.K.D.K.D.K.D.K.D.K.D.K.D.K.D.K.D.K.D.K.D.K.D.K.D.K.D.K.D.K.D.K.D.K.D.K.D.K.D.K.D.K.D.K.D.K.D.K.D.K.D.K.D.K.D.K.D.K.D.K.D.K.D.K.D.K.D.K.D.K.D.K.D.K.D.K.D.K.D.K.D.K.D.K.D.K.D.K.D.K.D.K.D.K.D.K.D.K.D.K.D.K.D.K.		14.0
+			pa-IN	ਹਰ ਕ ਪ ਰਸ ਨ ਨ ਨ ਰਧ ਰ ਤ ਸਮ ਦ ਓ	ਹਰੇਕ ਪ੍ਰਸ਼ਨ ਨੂੰ ਨਿਰਧਾਰਿਤ ਸਮਾਂ ਦਿਓ	hare krishna nurtarit samadhyo	Hare Krishna Nurtarit Samadhyo		1.0
+			pa-IN	ਫ ਰ ਉਸ ਦ ਮ ੜ ਦ ਨ ਆ ਗਏ	ਫਿਰ ਉਸ ਦੇ ਮਾੜੇ ਦਿਨ ਆ ਗਏ	firmos te mare din agai	Firmos te mare din agai		1.0
+			pa-IN	ਦ ਲ ਕਮ ਟ ਤ ਵ ਉਹਨ ਨ ਵ ਖ ਕਰ ਦ ਤ ਜ ਵ ਗ 	ਦਿਲੀ ਕਮੇਟੀ ਤੋਂ ਵੀ ਉਹਨਾਂ ਨੂੰ ਵੱਖ ਕਰ ਦਿੱਤਾ ਜਾਵੇਗਾ	delhi committee tobi una nau bakkar dittajavela	Delhi Committee, Tobi, Una Nau, Bakkar Dittajavela		1.0
+			pa-IN	ਉਹ ਚ ਪਚ ਪ ਗ ਲ ਸ ਭਰਨ ਲ ਗ ਗਈ	ਉਹ ਚੁੱਪਚਾਪ ਗਿਲਾਸ ਭਰਨ ਲੱਗ ਗਈ	o chop chap kelas parandla kei	O chop chap kelas parandla kei		1.0
+			pa-IN	ਜਵ ਬ ਜ ਹ ਜ ਰ ਰ ਹ ਸਕਦ ਹ 	ਜਵਾਬ ਜੀ ਹਾਂ ਜ਼ਰੂਰ ਹੋ ਸਕਦਾ ਹੈ	jawaab jiha zerur kosa ka hai	Jawaab jiha zerur kosa ka hai		1.0
+			pa-IN	ਪਤ ਨਹ ਮ ਕ ਕਰ ਬ ਠ ਸ 	ਪਤਾ ਨਹੀਂ ਮੈਂ ਕੀ ਕਰ ਬੈਠਾ ਸੀ	bata nahi meki kar bethasi	bata nahi meki kar bethasi		1.0
+			pa-IN	ਮ ਲ ਤ ਕ ਡ ਆਲ ਦ ਸ ਇਰ ਹ ਰਹ ਹ 	ਮੱਲਾਂ ਤੇ ਕੌਡਿਆਲਾਂ ਦੀ ਸ਼ਾਇਰੀ ਹੋ ਰਹੀ ਹੈ	mullah te kordiara tishayri hurhi hai	Mullah, te kordiara, tishayri hurhi hai		1.0
+			pa-IN	ਉਸ ਨ ਟ ਲਸਟ ਏ ਨ ਲ ਚ ਠ ਪ ਤਰ ਕ ਤ 	ਉਸ ਨੇ ਟਾਲਸਟਾਏ ਨਾਲ ਚਿੱਠੀ ਪੱਤਰ ਕੀਤਾ	os ne kalsta enar chitti batterghi ta	os ne kalsta enar chitti batterghi ta		1.0
+			pa-IN	ਉਸਨ ਵ ਰ ਨ ਸ ਨਲ ਅਵ ਰਡ ਪ ਰ ਪਤ ਹ ਇਆ ਹ 	ਉਸਨੂੰ ਵਾਰ ਨੈਸ਼ਨਲ ਅਵਾਰਡ ਪ੍ਰਾਪਤ ਹੋਇਆ ਹੈ	ustnu var nashnil var prapt huyaha hai	ustnu var nashnil var prapt huyaha hai		1.0
+			pa-IN	ਨ ਲ ਬ ਢ ਨਰੜ ਆ ਤ ਸ ਮ ਨ ਹ ਥ 	ਨਾਲ ਬੁੱਢੇ ਨਰੜਿਆਂ ਤੁਸੀਂ ਮੈਨੂੰ ਹੱਥੀਂ	naal bhute narea so see menu hadhtheen 	Naal Bhute Narea, so see menu hadhtheen.		1.0
+			pa-IN	ਬ ਪ ਦ ਗਰ ਵ ਚ ਰਹ ਕ 	ਬਾਪੂ ਦੇ ਗਰਾਂ ਵਿੱਚ ਰਹਿ ਕੇ	ba pude garavich reki	Ba pude garavich reki		1.0
+			pa-IN	ਬ ਬਈ ਅ ਜ ਵ ਉਸ ਤਰ ਹ ਹ ਕ ਇਮ ਹ 	ਬੰਬਈ ਅੱਜ ਵੀ ਉਸ ਤਰਾ੍ਹਂ ਹੀ ਕਾਇਮ ਹੈ	bombay ajvi oztara hiayam	Bombay Ajvi Oztara Hiayam		1.0
+			pa-IN	ਛ ਸ ਜ ਆ ਨ ਮ ਹ ਲ ਨ ਸ ਗ ਤਮਈ ਬਣ ਦ ਤ 	ਛੇ ਸਾਜ਼ੀਆਂ ਨੇ ਮਾਹੌਲ ਨੂੰ ਸੰਗੀਤਮਈ ਬਣਾ ਦਿੱਤਾ	jai sardine nae mahalu sang itma i bunaadeta	Jai sardine nae mahalu sang itma i bunaadeta		1.0
+			pa-IN	ਉਹ ਮਤ ਬ ਵ ਗ ਜਗ ਰਹ ਆ ਸਨ	ਉਹ ਮਤਾਬੀ ਵਾਂਗ ਜਗ ਰਹੀਆਂ ਸਨ	o matapi vang jagraya san 	O Matapi Vang Jagraya San.		1.0
+			pa-IN	ਮ ਅ ਤਵ ਦ ਖ ਲ ਫ ਲੜ ਈ ਲੜ ਐ	ਮੈਂ ਅੱਤਵਾਦ ਖਿਲਾਫ਼ ਲੜਾਈ ਲੜੀ ਐ	may at word killaf lada i rari hai	May at word killaf lada i rari hai		1.0
+			pa-IN	ਦ ਹ ਦ ਆ ਸ ਟ ਪ ਜ ਪ ਜ ਹਜ ਰ ਹਨ	ਦੋਹਾਂ ਦੀਆਂ ਸੀਟਾਂ ਪੰਜ ਪੰਜ ਹਜ਼ਾਰ ਹਨ	2 3 3 5 5 5 5 5	2-3-3-5-5-5-5-5		1.0
+			pa-IN	ਨ ਲ ਖ ਵ ਪ ਵ ਗ ਨ ਲ ਗ ਲ ਕਰ ਗ 	ਨਾਲੇ ਖਾਵਾਂ ਪੀਵਾਂਗੇ ਨਾਲੇ ਗੱਲਾਂ ਕਰਾਂਗੇ	nale khava pivangi nale ke lakarangi	nale khava pivangi nale ke lakarangi		1.0
+			pa-IN	ਲ ਤ ਤ ਚਲ ਨਹ ਸ ਹ ਰ ਹ 	ਲੱਤਾਂ ਤੋਂ ਚਲ ਨਹੀਂ ਸੀ ਹੋ ਰਿਹਾ	la tamto jal nesee horeha	La tamto, jal nesee horeha		1.0
+			pa-IN	ਇਹ ਸਥ ਤ ਅ ਕ ਤਕ ਬਣ ਰਹ 	ਇਹ ਸਥਿਤੀ ਅੰਕਾਂ ਤਕ ਬਣੀ ਰਹੀ	kesthiti ankata kbanirahi	kesthiti Ankata kbanirahi		1.0
+			pa-IN	ਰ ਗ ਦਰਦ ਅਤ ਕਸ ਟ ਤ ਬ ਹ ਦ ਬ ਚ ਨ ਹ ਜ ਦ ਹ 	ਰੋਗੀ ਦਰਦ ਅਤੇ ਕਸ਼ਟ ਤੋਂ ਬੇਹੱਦ ਬੇਚੈਨ ਹੋ ਜਾਂਦਾ ਹੈ	rogi dhar ati kast tom behat bejyan hojandah hai	Rogi dhar ati kast tom, behat bejyan hojandah hai		1.0
+			pa-IN	ਘਰ ਦ ਵ ਚ ਕ ਨ ਈਕ ਊਟ ਹ 	ਘਰ ਦੇ ਵਿੱਚ ਕਿੰਨੀ ਈਕੀਊਟੀ ਹੈ	karda which kidney equity	Karda which kidney equity		1.0
+			pa-IN	ਇਹ ਮਨ ਚ ਚਲ ਵਸ ਨ ਆਵ 	ਇਹ ਮਨੁ ਚੰਚਲ ਵਸਿ ਨ ਆਵੈ	e money tent chill vassanara ve	e-money tent chill vassanara ve		1.0
+			pa-IN	ਮ ਚ ਮ ਕਣ ਚ ਪ ਜ ਮ ਟ ਰਹ ਗਏ	ਮੈਚ ਮੁੱਕਣ ਚ ਪੰਜ ਮਿੰਟ ਰਹਿ ਗਏ	meat mukunch 5m	Meat Mukunch 5M		1.0
+			pa-IN	ਪ ਦਰ ਥ ਲ ਆ ਧ ਕ ਖ ਕ ਹ ਥ ਆਈਆ 	ਪੰਦਰਾਂ ਥੈਲੀਆਂ ਧੱਕੇ ਖਾ ਕੇ ਹੱਥ ਆਈਆਂ	bandra delhi take ka kihatanya	Bandra Delhi take ka kihatanya		1.0
+			pa-IN	ਤ ਚ ਦਰਮ ਵ ਗ ਪਤ ਨਹ ਕ ਥ 	ਤੂੰ ਚੰਦਰਮਾਂ ਵਾਂਗ ਪਤਾ ਨਹੀਂ ਕਿੱਥੇ	you know what 	You know what?		1.0
+			pa-IN	ਅਫ ਜ ਲ ਹ ਸਰ ਪ ਰਲ ਮ ਟ ਤ ਹਮਲ ਦ ਯ ਜਨ ਮ ਹ ਬਣ ਈ ਸ 	ਅਫ਼ਜ਼ਲ ਹਾਂ ਸਰ ਪਾਰਲੀਮੈਂਟ ਤੇ ਹਮਲੇ ਦੀ ਯੋਜਨਾ ਮੈਂ ਹੀ ਬਣਾਈ ਸੀ	hafizal har sir parli med tehamledi joujna mehi bani si 	Hafizal har sir, parli med tehamledi joujna, mehi bani si.		1.0
+			pa-IN	ਪ ਛਲ ਹਫਤ ਚ ਹ ਮ ਤ ਹ ਚ ਕ ਆ ਹਨ	ਪਿਛਲੇ ਹਫਤੇ ਚ ਹੀ ਮੌਤਾਂ ਹੋ ਚੁੱਕੀਆਂ ਹਨ	pitchi leh hafte jhimo dao jhpian	Pitchi leh hafte jhimo dao jhpian		1.0
+			pa-IN	ਕਬ ਰ ਜਹ ਗ ਆਨ ਤਹ ਧਰਮ ਹ 	ਕਬੀਰ ਜਹਾ ਗਿਆਨੁ ਤਹ ਧਰਮ ਹੈ	kabir jaha ghaanetaha tarma hai	Kabir jaha ghaanetaha tarma hai		1.0
+			pa-IN	ਪ ੜ ਵ ਚ ਬ ਹਲ ਉਤ ਦ ੜ ਵ ਛ ਕ ਸ ਤ ਜ ਸਕਦ ਸ 	ਪਿੜਾਂ ਵਿਚ ਬੋਹਲ ਉਤੇ ਦੋੜਾ ਵਿਛਾ ਕੇ ਸੁੱਤਾ ਜਾ ਸਕਦਾ ਸੀ	we love it both 	We love it both.		1.0
+			pa-IN	ਕ ਉ ਕ ਇਹ ਅਕ ਲ ਭ ਜਪ ਸਰਕ ਰ ਦ ਅ ਤਮ ਸ ਲ ਹ ਵ ਗ 	ਕਿਉਂਕਿ ਇਹ ਅਕਾਲੀ ਭਾਜਪਾ ਸਰਕਾਰ ਦਾ ਅੰਤਮ ਸਾਲ ਹੋਵੇਗਾ	because this is a kali page per sur kaatah hantam sallu viga 	Because this is a kali page per sur kaatah, hantam sallu viga.		1.0
+			pa-IN	ਆਮ ਕ ਪੜ ਆ ਵ ਚ ਦ ਪ ਲ ਸ ਕਰਮਚ ਰ ਸਨ	ਆਮ ਕੱਪੜਿਆਂ ਵਿੱਚ ਦੋ ਪੁਲਿਸ ਕਰਮਚਾਰੀ ਸਨ	am ka preya vetsu do polus karam cari san	Am ka preya vetsu do polus karam cari san		1.0
+			pa-IN	ਸ ਖ ਵ ਚ ਕਈ ਗਰ ਪ ਜ ਸ ਖ ਵ ਬਣ ਆ 	ਸਿੱਖਾਂ ਵਿਚ ਕਈ ਗਰੁੱਪ ਜਾਂ ਸ਼ਾਖਾਵਾਂ ਬਣੀਆਂ	sikhavit kailgrup jaa shakava banyat 	Sikhavit Kailgrup jaa Shakava Banyat.		1.0
+			pa-IN	ਅਸ ਤ ਪ ਲ ਆ ਤ ਪ ਲ 	ਅਸੀਂ ਤਾਂ ਪਾ ਲਿਆ ਤੂੰ ਪਾ ਲੈ	arfine daapaliya tumpaalya 	Arfine daapaliya, tumpaalya.		1.0
+			pa-IN	ਜਦ ਜ ਗਲ ਵ ਚ ਤ ਆ ਵੜ ਆ	ਜਦ ਜੰਗਲਾਂ ਵਿੱਚ ਤੂੰ ਆ ਵੜਿਆ	jadj jagra vichu tu maabu riya	Jadj Jagra vichu, tu maabu riya		1.0
+			pa-IN	ਮ ਸ ਲ ਓਬ ਮ ਬ ਚ ਆ ਨ ਲ ਨ ਚ ਅਤ ਪ ਚ ਖ ਡ 	ਮਿਸ਼ੇਲ ਓਬਾਮਾ ਬੱਚਿਆਂ ਨਾਲ ਨੱਚੀ ਅਤੇ ਪੀਚੋ ਖੇਡੀ	mishainu vang ma pa jana nab jite pichok kedi	mishainu vang ma pa jana nab jite pichok kedi		1.0
+			pa-IN	ਰ ਸ ਨ ਭ ਰਤ ਫ ਜ ਨ ਵਧ ਆ ਹਥ ਆਰ ਉਪਲਬਧ ਕਰਵ ਏ	ਰੂਸ ਨੇ ਭਾਰਤੀ ਫ਼ੌਜ ਨੂੰ ਵਧੀਆ ਹਥਿਆਰ ਉਪਲਬਧ ਕਰਵਾਏ	rus ne parti fos numva dia hat hayaru plap decaroi	RUS NE PARTI FOS NUMVA DIA HAT HAYARU PLAP DECAROI		1.0
+			pa-IN	ਇਹ ਰ ਪ ਵ ਹ ਲ ਹ ਲ ਕ ਰਦ ਗਏ	ਇਹ ਰੁਪੈ ਵੀ ਹੌਲੀ ਹੌਲੀ ਕਿਰਦੇ ਗਏ	aero bayervi hollywood caretaker	Aero Bayervi, Hollywood caretaker		1.0
+			pa-IN	ਕਦ ਅਜ ਮ ਅ ਕ ਵ ਖ ਲਵ 	ਕਦੇ ਅਜ਼ਮਾਅ ਕੇ ਵੇਖ ਲਵੋ	kade asma ka viklovo	kade asma ka viklovo		1.0
+			pa-IN	ਉਹਦ ਵ ਚ ਮ ਗਫਲ ਤ ਮ ਕ ਦ ਦ ਣ ਕ ਢਦ 	ਉਹਦੇ ਵਿਚੋਂ ਮੂੰਗਫਲੀ ਤੇ ਮੱਕੀ ਦੇ ਦਾਣੇ ਕੱਢਦਾ	odevichan homofritae mokide dane kadda	Odevichan homofritae mokide dane kadda		1.0
+			pa-IN	ਤ ਰ ਜ ਅ ਕਰ ਪ ਡ ਮ ੜ ਆਈ 	ਤੇਰਾ ਜੀਅ ਕਰੇ ਪਿੰਡੋਂ ਮੁੜ ਆਈਂ	teraji karim pindomurai	Teraji Karim Pindomurai		1.0
+			pa-IN	ਸ ਇਰ ਦ ਹ ਲ ਸ ਹ ਵ ਸ ਮ ਰ 	ਸ਼ਾਇਰੀ ਦਾ ਹਾਲ ਸ੍ਹਾਵੇਂ ਸੀ ਮਿਰੇ	shahiri 的 hal samati miru	Shahiri 的 hal samati miru		1.0
+			pa-IN	ਗ ਤ ਖ ਸ ਦ ਤ ਗ ਉ ਦ ਨ 	ਗੀਤ ਖ਼ੁਸ਼ੀ ਦੇ ਤਾਂ ਗਾਉਂਦੇ ਨੇ	ghi tu kushi de ta bha zhe ne	Ghi tu kushi de ta bha zhe ne		1.0
+			pa-IN	ਤ ਨ ਮ ਤਰ ਆ ਦ ਦਰਜ ਵਧ ਦ ਤ ਹ 	ਤਿੰਨ ਮੰਤਰੀਆਂ ਦਾ ਦਰਜਾ ਵਧਾ ਦਿੱਤਾ ਹੈ	tenu mantriyanda dajab dajadda dajta	TENU MANTRIYANDA DAJAB DAJADDA DAJTA		1.0
+			pa-IN	ਤ ਰ ਲ ਡਲ ਅ ਜ ਰ ਟ ਨਹ ਖ ਦ 	ਤੇਰਾ ਲਾਡਲਾ ਅੱਜ ਰੋਟੀ ਨਹੀ ਖਾਂਦਾ	tera lajla ajro tini sanda	Tera Lajla Ajro Tini Sanda		1.0
+			pa-IN	ਦ ਕ ਨਦ ਰ ਨ ਢ ਲ ਦ ਰ ਨ ਮ ਹ ਮ ਗ ਆ ਕ ਮਤ ਵਸ ਲ ਆ 	ਦੁਕਾਨਦਾਰਾਂ ਨੇ ਢਿੱਲ ਦੌਰਾਨ ਮੂੰਹ ਮੰਗੀਆਂ ਕੀਮਤਾਂ ਵਸੂਲੀਆਂ	kandara netr trenmum matiya kintal suttinya	Kandara NETR, Trenmum, Matiya Kintal, Suttinya		1.0
+			pa-IN	ਕ ਥ ਧ ਦ ਕਰ ਏ ਸ ਦ 	ਕਿਥੇ ਧੀ ਦੀ ਕਰੀਏ ਸ਼ਾਦੀ	ktdkhd	KTDKHD		1.0
+			pa-IN	ਉਹ ਮ ਰ ਸਨਮ ਨ ਵ ਚ ਲ ਚ ਦ ਰਹ ਸਨ	ਉਹ ਮੇਰੇ ਸਨਮਾਨ ਵਿਚ ਲੰਚ ਦੇ ਰਹੇ ਸਨ	oh my dear salman my dear salman 	Oh, my dear, Salman, my dear, Salman.		1.0
+			pa-IN	ਪ ਤ ਜ ਇਦ ਦ ਮ ਗਦ ਧ ਆ ਮ ਗਦ ਆ ਸ ਖ ਬ ਪ ਤ ਰ 	ਪੁੱਤ ਜਾਇਦਾਦ ਮੰਗਦੇ ਧੀਆਂ ਮੰਗਦੀਆਂ ਸੁੱਖ ਬਾਪੂ ਤੇਰਾ	good to get out of my day 	Good to get out of my day.		1.0
+			pa-IN	ਕਲ ਸ ਨ ਬ ਟ ਮਨ ਟਰ ਪੜ ਹ ਰ ਹ ਸ 	ਕਲਾਸ ਨੂੰ ਬਿੱਟੂ ਮਨੀਟਰ ਪੜ੍ਹਾਂ ਰਿਹਾ ਸੀ	kulas no tepto minitra parahari ashi	Kulas no tepto minitra parahari ashi		1.0
+			pa-IN	ਇਹ ਦ ਨ ਆ ਤ ਨ ਲ ਨ ਸ ਨ ਜ ਦ 	ਇਹ ਦੁਨੀਆਂ ਤੋਂ ਨਾਲ ਨੇ ਸ਼ਾਨ ਜਾਂਦੇ	etonyato naune shanjadee	Etonyato naune shanjadee		1.0
+			pa-IN	ਅਸਮ ਨ ਸ ਫ ਸ ਜ ਮ ਲ ਲਈ ਸ ਭ ਸ ਗਨ ਸ 	ਅਸਮਾਨ ਸਾਫ ਸੀ ਜੋ ਮੇਲੇ ਲਈ ਸ਼ੁਭ ਸ਼ਗਨ ਸੀ	assalam o alas hafsi yo me mille hli short bir siagat	Assalam O Alas Hafsi, yo me mille hli, short bir siagat		1.0
+			pa-IN	ਇਹ ਬਹ ਤ ਮਹ ਨ ਪ ਥਕ ਸ ਵ ਹ 	ਇਹ ਬਹੁਤ ਮਹਾਨ ਪੰਥਕ ਸੇਵਾ ਹੈ	eb behut mahan antakseva hai	eb behut mahan antakseva hai		1.0
+			pa-IN	ਜਨਮ ਜ ਤ ਮਤ ਪ ਛ ਏ ਕ ਜ ਤ ਅਰ ਪ ਤ	ਜਨਮ ਜਾਤ ਮਤ ਪੂਛੀਏ ਕਾ ਜਾਤ ਅਰੁ ਪਾਤ	jannam jattam atapuqhi kaajattam atapuqhi kaajattam atapuqhi kaajattam atapuqhi kaajattam atapuqhi kaajattam atapuqhi kaajattam atapuqhi kaajattam atapuqhi kaajattam atapuqhi kaajattam atapuqhi kaajattam atapuqhi kaajattam atapuqhi kaajattam atapuqhi kaajattam atapuqhi kaajattam atapuqhi kaajattam atapuqhi kaajattam atapuqhi kaajattam atapuqhi kaajattam atapuqhi kaajattam atapuqhi kaajattam atapuqhi kaajattam atapuqhi kaaj	Jannam jattam atapuqhi, kaajattam atapuqhi, kaajattam atapuqhi, kaajattam atapuqhi, kaajattam atapuqhi, kaajattam atapuqhi, kaajattam atapuqhi, kaajattam atapuqhi, kaajattam atapuqhi, kaajattam atapuqhi, kaajattam atapuqhi, kaajattam atapuqhi, kaajattam atapuqhi, kaajattam atapuqhi, kaajattam atapuqhi, kaajattam atapuqhi, kaajattam atapuqhi, kaajattam atapuqhi, kaajattam atapuqhi, kaajattam atapuqhi, kaajattam atapuqhi, kaajattam atapuqhi, kaaj		3.5384615384615383
+			pa-IN	ਲ ਖ ਕ ਵ ਚ ਰ ਤ ਹ ਨ ਦ ਸਕਣ	ਲਿਖ ਕੇ ਵਿਚਾਰ ਤੁਹਾਨੂੰ ਦੇ ਸਕਣ	gmqr	Gmqr		1.0
+			pa-IN	ਉ ਝ ਅਸ ਬਹ ਤ ਤਰ ਕ ਕਰ ਲਈ ਹ 	ਉਂਝ ਅਸੀਂ ਬਹੁਤ ਤਰੱਕੀ ਕਰ ਲਈ ਹੈ	onj asim bohut trakikar nahiya	Onj asim, bohut trakikar nahiya		1.0
+			pa-IN	ਕ ਈ ਉਸਦ ਪ ਠ ਨ ਚ ਮਦ ਹ 	ਕੋਈ ਉਸਦੀ ਪਿੱਠ ਨੂੰ ਚੁੰਮਦੀ ਹੈ	koi pruskhi petanu cymdi 	Koi, Pruskhi, Petanu, Cymdi.		1.0
+			pa-IN	ਪ ਰ ਫ ਸ ਨ ਕ ਈ ਵ ਹ ਵ ਮ ਹਨਤ ਜ ਰ ਰ ਹ 	ਪ੍ਰੋਫੈਸ਼ਨ ਕੋਈ ਵੀ ਹੋਵੇ ਮਿਹਨਤ ਜ਼ਰੂਰੀ ਹੈ	prostrashan kweenhwoveh mennath dhiroreh 	Prostrashan Kweenhwoveh, Mennath Dhiroreh.		1.0
+			pa-IN	ਸ ਰ ਦ ਵ ਜ ਹੜ ਛ ਤ ਸ 	ਸਿਰ ਦੀ ਵੀ ਜਿਹੜੀ ਛੱਤ ਸੀ	sert david jadi shatsu	Sert David Jadi, Shatsu		1.0
+			pa-IN	ਔਰਤ ਔਰਤ ਦ ਵ ਡ ਦ ਸ ਮਣ ਹ 	ਔਰਤ ਔਰਤ ਦੀ ਵੱਡੀ ਦੁਸ਼ਮਣ ਹੈ	orte di mati dosi var	Orte di mati dosi var		1.0
+			pa-IN	ਉਦ ਇਹ ਮਸ ਬ ਰ ਹ ਤ ਰ ਹ ਸ ਲ ਦ ਸ 	ਉਦੋਂ ਇਹ ਮਸਾਂ ਬਾਰ੍ਹਾਂ ਤੇਰ੍ਹਾਂ ਸਾਲਾਂ ਦੀ ਸੀ	hodo wa ima sa baratir asaadu sa	Hodo wa ima sa baratir asaadu sa		1.0
+			pa-IN	ਹ ਣ ਹ ਣ ਖ ਲ ਹ ਪ ਰਕ ਸ ਦ ਅੜ 	ਹੁਣ ਹੁਣ ਖੁਲ੍ਹੇ ਪ੍ਰਕਾਸ਼ੀ ਦਾਅੜੇ	on a honk on the way to the kashi garik 	On a honk, on the way to the kashi garik.		1.0
+			pa-IN	ਪ ਛ ਮ ਪ ਤ ਨ ਲ ਭਦ ਰਹ ਦ 	ਪਿੱਛੋਂ ਮਾਂ ਪੁੱਤ ਨੂੰ ਲੱਭਦੇ ਰਹਿੰਦੇ	kucyama vottamurapirendu	Kucyama, vottamurapirendu		1.0
+			pa-IN	ਉਹ ਅਖ ਬ ਰ ਮ ਘਰ ਲ ਆ ਕ ਦ ਖ ਈ	ਉਹ ਅਖ਼ਬਾਰ ਮੈਂ ਘਰ ਲਿਆ ਕੇ ਦਿਖਾਈ	oh come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come	Oh come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come on come		18.666666666666668
+			pa-IN	ਭ ਜਨ ਨ ਕ ਹਲ ਚ ਨ ਖ ਓ	ਭੋਜਨ ਨੂੰ ਕਾਹਲੀ ਚ ਨਾ ਖਾਓ	poojanum kahlij naakhao	Poojanum, Kahlij, Naakhao		1.0
+			pa-IN	ਓਸ ਆਖਦ ਹ ਜ ਦਗ ਰ ਜ ਬਦਲਦ ਹ 	ਓਸ਼ੋ ਆਖਦਾ ਹੈ ਜ਼ਿੰਦਗੀ ਰੋਜ਼ ਬਦਲਦੀ ਹੈ	pushu aktahe zendagi peruz badal dihai	Pushu Aktahe Zendagi Peruz Badal Dihai		1.0
+			pa-IN	ਕ ਰ ਚ ਬ ਠਦ ਆ ਹ ਮ ਪ ਕ ਗ ਉਤ ਰ 	ਕਾਰ ਚ ਬੈਠਦਿਆਂ ਹੀ ਮੈਂ ਪੈਕਿੰਗ ਉਤਾਰੀ	karchu berdeahim me peking utari	Karchu berdeahim me peking utari		1.0
+			pa-IN	ਹਵ ਲ ਤ ਵ ਚ ਪ ਜ ਛ ਇਖ ਲ ਕ ਮ ਜਰਮ ਸਨ	ਹਵਾਲਾਤ ਵਿੱਚ ਪੰਜ ਛੇ ਇਖ਼ਲਾਕੀ ਮੁਜਰਮ ਸਨ	habalat which panchichi a khillat ki madramsan	Habalat which Panchichi, a khillat ki madramsan		1.0
+male		thirties	pa-IN	ਬਈ ਵ ਹ ਮਰਨ ਚ ਜ ਨ ਪ ਦ ਤ 	ਬਈ ਵਾਹ ਮਰਨ ਚ ਜਾਨ ਪਾ ਦਿੱਤੀ	bhaiva maranche jan padatti	Bhaiva Maranche Jan Padatti		1.0
+male		thirties	pa-IN	ਉਸ ਦ ਇਕ ਹ ਲੜਕ ਸ 	ਉਸ ਦੀ ਇਕ ਹੀ ਲੜਕੀ ਸੀ	osdi ekhi larkisi	osdi ekhi larkisi		1.0
+male		thirties	pa-IN	ਮ ਨ ਵ ਚ ਠ ਜ ਅ ਹਲ ਲ ਗਣ ਲ ਗ ਪਈ	ਮੈਨੂੰ ਵੀ ਚਿੱਠੀ ਜਾਅ੍ਹਲੀ ਲੱਗਣ ਲੱਗ ਪਈ	menovicyothejali lagan lagpai	Menovicyothejali lagan lagpai		1.0
+male		thirties	pa-IN	ਮ ਰ ਨ ਨਕ ਇਸ ਸਕ ਲ ਦ ਨ ੜ ਸਨ	ਮੇਰੇ ਨਾਨਕੇ ਇਸ ਸਕੂਲ ਦੇ ਨੇੜੇ ਸਨ	my name is kool de nedezon 	My name is Kool De Nedezon.		1.0
+male		thirties	pa-IN	ਉਥ ਉਹ ਇਕ ਮਕ ਨ ਕਲ ਐਨਜ ਨ ਅਰ ਸਨ	ਉਥੇ ਉਹ ਇਕ ਮਕੈਨੀਕਲ ਐਨਜੀਨੀਅਰ ਸਨ	othoek maganical injiniersan	OTHOEK MAGANICAL INJINIERSAN		1.0
+male		thirties	pa-IN	ਸ ਡ ਪਰ ਵ ਰ ਦ ਕ ਸ ਤਰ ਹ ਵ ਧ ਤ ਵ ਧ ਸ ਫ ਹ ਵ ਗ 	ਸਾਡੇ ਪਰਿਵਾਰ ਦਾ ਕਿਸ ਤਰ੍ਹਾਂ ਵੱਧ ਤੋਂ ਵੱਧ ਸੈਫ਼ ਹੋਵੇਗਾ	saaday parivata kistram batu vad sef huviga	Saaday parivata kistram batu vad sef huviga		1.0
+male		thirties	pa-IN	ਇਕ ਪ ਸ ਦਸਤ ਰਬ ਦ ਦ ਮ ਕ ਬਲ ਹ ਰ ਹ ਸ 	ਇਕ ਪਾਸੇ ਦਸਤਾਰਬੰਦੀ ਦਾ ਮੁਕਾਬਲਾ ਹੋ ਰਿਹਾ ਸੀ	1 pass vid 4 banditam kaplah oriasi	1 pass vid 4 banditam kaplah oriasi		1.0
+male		thirties	pa-IN	ਤਈਯਬ ਸ ਹ ਗ ਲ ਨ ਕਬ ਡ ਕ ਮ ਟ ਟਰ ਸ 	ਤਈਯਬ ਸ਼ਾਹ ਗਿਲਾਨੀ ਕਬੱਡੀ ਕੁਮੈਂਟੇਟਰ ਸੀ	tayabshagilani kabadi kumentater	TAYABSHAGILANI KABADI KUMENTATER		1.0
+male		thirties	pa-IN	ਸ ਰ ਮ ਸ ਰਣ ਨ ਚ ਗ ਤਰ ਹ ਮ ਲ ਲਓ	ਸਾਰੇ ਮਿਸ਼ਰਣ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਮਿਲਾ ਲਓ	sarim ishran nu changitra millaalau	Sarim ishran nu changitra millaalau		1.0
+male		thirties	pa-IN	ਕਰ ੜ ਦ ਗ ਣਤ ਵ ਚ ਕਤਲ ਮ ਹ ਦ ਹ 	ਕਰੋੜਾਂ ਦੀ ਗਿਣਤੀ ਵਿੱਚ ਕਤਲਾਮ ਹੁੰਦਾ ਹੈੇ	krodha in the ginti which katlaam hunda hai	Krodha in the Ginti which katlaam hunda hai		1.0
+male		thirties	pa-IN	ਪਰ ਅਸਲ ਅਤ ਇਹ ਸ ਕ ਸ ਡ ਹ ਥ ਹ ਣ ਖ ਲ ਹ ਨਹ ਸ ਰਹ ਗ ਆ	ਪਰ ਅਸਲੀਅਤ ਇਹ ਸੀ ਕਿ ਸਾਡਾ ਹੱਥ ਹੁਣ ਖੁੱਲ੍ਹਾ ਨਹੀਂ ਸੀ ਰਹਿ ਗਿਆ	per asliat ack sarda hathoun kula nisi raya	per asliat ACK sarda hathoun kula nisi raya		1.0
+male		thirties	pa-IN	ਕਬ ਡ ਕ ਪ ਦ ਇਹ ਫ ਈਨਲ ਮ ਚ ਸ 	ਕਬੱਡੀ ਕੱਪ ਦਾ ਇਹ ਫਾਈਨਲ ਮੈਚ ਸੀ	kabadikopada final match c 	Kabadikopada Final Match C.		1.0
+male		thirties	pa-IN	ਅਹ ਮ ਘਟਨ ਵ ਦ ਵ ਡ ਓਗ ਰ ਫ ਵ ਹ ਵ ਗ 	ਅਹਿਮ ਘਟਨਾਵਾਂ ਦੀ ਵੀਡੀਓਗ੍ਰਾਫੀ ਵੀ ਹੋਵੇਗੀ	eham katna amadi videography vhov	eham katna amadi videography vhov		1.0
+male		thirties	pa-IN	ਲ ਕ ਸ ਚ ਵ ਚ ਰਹ ਦ ਨ 	ਲੋਕ ਸੋਚਾਂ ਵਿਚ ਰਹਿੰਦੇ ਨੇ	lok sucha mit randene	Lok sucha mit randene		1.0
+male		thirties	pa-IN	ਡ ਕਟਰ ਸ ਹ ਬ ਸ ਡ ਵ ਚ ਨਹ ਰਹ 	ਡਾਕਟਰ ਸਾਹਿਬ ਸਾਡੇ ਵਿਚ ਨਹੀਂ ਰਹੇ	bacter sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib sahib	Bacter Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib Sahib		20.272727272727277
+male		thirties	pa-IN	ਅਕ ਲ ਦਲ ਅਤ ਭ ਜਪ ਵ ਚ ਪ ਣ ਲ ਗ ਆ ਤਰ ੜ 	ਅਕਾਲੀ ਦਲ ਅਤੇ ਭਾਜਪਾ ਵਿਚ ਪੈਣ ਲੱਗੀਆਂ ਤਰੇੜਾਂ	a kali dal ati paa chpa vich pand ghian trida	A kali dal, ati paa chpa vich pand ghian trida		1.0
+male		thirties	pa-IN	ਵ ਚ ਵ ਚ ਲ ਦ ਗ ਲ ਕਰ ਗ ਆ	ਵਿਚ ਵਿਚਾਲੇ ਦੀ ਗੱਲ ਕਰ ਗਿਆ	vetsu vichale di gol karga	Vetsu Vichale di gol karga		1.0
+male		thirties	pa-IN	ਸ ਹਬ ਹ ਤ ਹ ਸ ਮ ਹ ਤ ਹ 	ਸੁਹਬੇ ਹੋਤੀ ਹੈ ਸ਼ਾਮ ਹੋਤੀ ਹੈ	sube otiya sham otiya	sube otiya sham otiya		1.0
+male		thirties	pa-IN	ਚ ਣ ਕਮ ਸ ਨ ਇਕ ਸ ਵ ਧ ਨ ਕ ਸ ਸਥ ਹ 	ਚੋਣ ਕਮਿਸ਼ਨ ਇਕ ਸੰਵੀਧਾਨਿਕ ਸੰਸਥਾਂ ਹੈ	john commission x sam vidar link sans ta hai	John commission x sam vidar link sans ta hai		1.0
+male		thirties	pa-IN	ਅ ਗ ਡਰ ਵਰ ਦ ਅੜਵ ਗ ਟ ਕਰ 	ਅੱਗੋਂ ਡਰੈਵਰ ਦੀ ਅੜਵੈਂਗ ਟੱਕਰੇ	agoon driver the advanced kre	Agoon driver the advanced kre		1.0
+male		thirties	pa-IN	ਮ ਅਸਪ ਨ ਜ ਤਬ ਲਖ ਕਰ ਐਸ ਯ ਕ ਮ	ਮੈ ਅਸਪਾਨਿਜ ਤਬ ਲਖੋ ਕਰੋ ਐਸ ਯੋ ਕਾਮ	may a spanish tablaku kuru seokam	May a Spanish tablaku kuru SEOKam		1.0
+male		thirties	pa-IN	ਲ ਕ ਖ ਸ ਅ ਦਰ ਖ ਵ ਹ ਏ ਚ ਤ ਰ ਕ	ਲੋਕ ਖੁਸ਼ੀ ਅੰਦਰ ਖੀਵੇ ਹੋਏ ਚਾਤ੍ਰਿਕ	locushi andrkiveh hohechatrik	Locushi Andrkiveh Hohechatrik		1.0
+male		thirties	pa-IN	ਦ ਖਣ ਅਮਰ ਕ ਦ ਵਸ ਲ ਪ ਰ ਤਰ ਹ ਅਮਰ ਕ ਦ ਕ ਟਰ ਲ ਵ ਚ ਸਨ	ਦੱਖਣੀ ਅਮਰੀਕਾ ਦੇ ਵਸੀਲੇ ਪੂਰੀ ਤਰ੍ਹਾਂ ਅਮਰੀਕਾ ਦੇ ਕੰਟਰੋਲ ਵਿਚ ਸਨ	the klim rikadev silepuritra amrikadek control with sun	The Klim Rikadev Silepuritra Amrikadek Control with Sun		1.0
+male		thirties	pa-IN	ਭ ਵ ਉਹ ਆਪਣ ਲੜਦ ਮਰਦ ਰਹ ਣ	ਭਾਵੇਂ ਉਹ ਆਪਣੇ ਲੜਦੇ ਮਰਦੇ ਰਹਿਣ	pami maapni lardim martirian	Pami maapni lardim martirian		1.0
+male		thirties	pa-IN	ਕਰਨ ਦ ਮ ਨ ਮ ਰ ਉਦ ਸ ਦ ਸਫ ਰ	ਕਰਨ ਦੇ ਮੈਨੂੰ ਮੇਰੀ ਉਦਾਸੀ ਦਾ ਸਫ਼ਰ	karande menumeri udha sida safer	Karande menumeri udha sida safer		1.0
+male		thirties	pa-IN	ਉਸ ਦ ਕ ਰਗ ਜ ਰ ਲ ਸ ਨ ਸ 	ਉਸ ਦੀ ਕਾਰਗੁਜ਼ਾਰੀ ਲਾਸਾਨੀ ਸੀ	usti karguzari lasani si	Usti karguzari lasani si		1.0
+male		thirties	pa-IN	ਭ ਰਤ ਕਮਜ ਰ ਤ ਨ ਤ ਣ ਹ ਗਏ ਸਨ	ਭਾਰਤੀ ਕਮਜ਼ੋਰ ਤੇ ਨਿਤਾਣੇ ਹੋ ਗਏ ਸਨ	parti kam zothin itani hukesan	Parti kam zothin itani hukesan		1.0
+male		thirties	pa-IN	ਬ ਦ ਕ ਈ ਵ ਮ ੜ ਨਹ ਹ 	ਬੰਦਾ ਕੋਈ ਵੀ ਮਾੜਾਂ ਨਹੀਂ ਹੈ	bandha koi bhi madhan hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai	Bandha, koi bhi, madhan, hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai		24.11111111111111
+male		thirties	pa-IN	ਬਚਪਨ ਦ ਆ ਗ ਲ ਵ ਚ ਗ ਆਚ ਜ ਦ ਹ 	ਬਚਪਨ ਦੀਆਂ ਗੱਲਾਂ ਵਿਚ ਗੁਆਚ ਜਾਂਦੇ ਹਾਂ	bach pandiyang allah which koad jande haha	Bach pandiyang Allah which koad jande haha		1.0
+male		thirties	pa-IN	ਭ ਵ ਚ ਸ ਰਜ ਭ ਵ ਚ ਚ ਦ 	ਭੈ ਵਿਚਿ ਸੂਰਜੁ ਭੈ ਵਿਚਿ ਚੰਦੁ	pavit suraj pavit chand	Pavit Suraj Pavit Chand		1.0
+male		thirties	pa-IN	ਖ ਲ ਹ ਦ ਲ ਮ ਚਦ ਪ ਥਰ ਰ ਖਵ ਦ ਆ 	ਖੋਲ੍ਹ ਦਿੱਲ ਮੇਚਦਾ ਪੱਥਰ ਰੱਖਵਾ ਦਿਆਂ	kol delme jejada pathar akhmadya	kol delme jejada pathar akhmadya		1.0
+male		thirties	pa-IN	ਬ ਬ ਰ ਮਦ ਵ ਦ ਗ ਧ ਪਰ ਵ ਰ ਵ ਲ ਛ ਡ ਆ ਬ ਣ	ਬਾਬਾ ਰਾਮਦੇਵ ਦਾ ਗਾਂਧੀ ਪਰਿਵਾਰ ਵੱਲ ਛੱਡਿਆ ਬਾਣ	baba ram dev daghandi prahgar valkyra devarn	Baba Ram Dev Daghandi Prahgar Valkyra Devarn		1.0
+male		thirties	pa-IN	ਇਹ ਗਰ ਪ ਪ ਕ ਸਤ ਨ ਵ ਚ ਨਹ ਸ ਬਣ ਆ	ਇਹ ਗਰੁਪ ਪਾਕਿਸਤਾਨ ਵਿੱਚ ਨਹੀਂ ਸੀ ਬਣਿਆ	1 group pakistan which is not in japan 	1 group Pakistan which is not in Japan.		1.0
+male		thirties	pa-IN	ਏਸ ਆਈ ਤ ਓਲ ਪ ਕ ਖ ਡ ਦ ਇਤ ਹ ਸ ਲ ਖ ਆ ਹ 	ਏਸ਼ਿਆਈ ਤੇ ਓਲੰਪਿਕ ਖੇਡਾਂ ਦਾ ਇਤਿਹਾਸ ਲਿਖਿਆ ਹੈ	acaete lampic kirdanite has leke	ACAETE & Lampic Kirdanite has leke		1.0
+male		thirties	pa-IN	ਜ ਮਣ ਮਰਨ ਤ ਕ ਕਈ ਰ ਸ ਤ ਹ ਢ ਵ 	ਜੰਮਣ ਮਰਨ ਤੱਕ ਕਈ ਰਿਸ਼ਤੇ ਹੰਢਾਵੇਂ	jaman maranta kairish te hundave	jaman maranta kairish te hundave		1.0
+male		thirties	pa-IN	ਨ ਅ ਗ ਦ ਸ ਕ ਦ ਭ ਸ ਹ ਦ ਹ 	ਨਾ ਅੱਗ ਦੇ ਸੇਕ ਦੀ ਭਾਸ਼ਾ ਹੁੰਦੀ ਹੈ	nah agdaes ekdi pa shaham di hai	nah agdaes ekdi pa shaham di hai		1.0
+male		thirties	pa-IN	ਉਹ ਕ ਠ ਤ ਖੜ ਹ ਹ ਦ ਸ 	ਉਹ ਕੋਠੇ ਤੇ ਖੜ੍ਹੀ ਹੁੰਦੀ ਸੀ	okurte kari hundisi	Okurte kari hundisi		1.0
+male		thirties	pa-IN	ਅਮਲ ਫ ਰ ਕ ਹੜ ਪ ਠ ਉਤ ਕਰਨ ਸ 	ਅਮਲ ਫੇਰ ਕਿਹੜੇ ਪਾਠ ਉਤੇ ਕਰਨਾ ਸੀ	amal fare kede part hute karna si	Amal fare kede part hute karna si		1.0
+male		thirties	pa-IN	ਹ ਣ ਜ ਥ ਤ ਹ ਡ ਕਰਸਰ ਹ ਉ ਥ ਟ ਈਪ ਕਰ 	ਹੁਣ ਜਿੱਥੇ ਤੁਹਾਡਾ ਕਰਸਰ ਹੈ ਉੱਥੇ ਟਾਈਪ ਕਰੋ	hong jithi adhakaarjar hai othetait karu	hong jithi adhakaarjar hai othetait karu		1.0
+male		thirties	pa-IN	ਅਗਰ ਕ ਈ ਰ ਫ ਡ ਬਣਦ ਹ ਤ ਜ ਰ ਰ ਮ ਲ ਗ 	ਅਗਰ ਕੋਈ ਰੀਫੰਡ ਬਣਦਾ ਹੈ ਤਾਂ ਜ਼ਰੂਰ ਮਿਲੇਗਾ	if any refund is found then it will be in zerur 	If any refund is found, then it will be in Zerur.		1.0
+male		thirties	pa-IN	ਹ ਲ ਅਤ ਮਹ ਲ ਦ ਵ ਖ ਵ ਖਰ ਸ ਬਦ ਹਨ	ਹੋਲਾ ਅਤੇ ਮਹੱਲਾ ਦੋ ਵੱਖੋ ਵੱਖਰੇ ਸ਼ਬਦ ਹਨ	khulati maladu vaku vakri shabdhan	khulati maladu vaku vakri shabdhan		1.0
+male		thirties	pa-IN	ਬ ਤ ਵਕਤ ਦ ਪ ਰਦਰਸ ਲ ਖ ਜ ਖ 	ਬੀਤੇ ਵਕਤਾਂ ਦਾ ਪਾਰਦਰਸ਼ੀ ਲੇਖਾ ਜੋਖਾ	bite vaktanda par dar shi le ka juka	Bite vaktanda par dar shi le ka juka		1.0
+male		thirties	pa-IN	ਯ ਤਰ ਕ ਰ ਏ ਵ ਚ ਕ ਈ ਵ ਧ ਨਹ 	ਯਾਤਰੀ ਕਿਰਾਏ ਵਿਚ ਕੋਈ ਵਾਧਾ ਨਹੀਂ	iatri kravich ko iva da negi	Iatri kravich ko iva da negi		1.0
+male		thirties	pa-IN	ਉਸਨ ਲਖਬ ਰ ਨ ਹਰ ਤਰ ਹ ਦ ਸ ਖ ਦ ਤ 	ਉਸਨੇ ਲਖਬੀਰ ਨੂੰ ਹਰ ਤਰ੍ਹਾਂ ਦਾ ਸੁਖ ਦਿੱਤਾ	usnay lagbir nu hatterana suktita	Usnay lagbir nu hatterana suktita		1.0
+male		thirties	pa-IN	ਦ ਰ ਦ ਦ ਲ ਨ ਅ ਗ ਲ ਗ ਗਈ	ਦਾਰੇ ਦੇ ਦਿਲ ਨੂੰ ਅੱਗ ਲੱਗ ਗਈ	darede deleun agla gay	Darede Deleun Agla Gay		1.0
+male		thirties	pa-IN	ਸ ਰ ਉਸ ਦ ਦ ਆਲ ਹ ਜ ਦ 	ਸਾਰੇ ਉਸ ਦੇ ਦੁਆਲੇ ਹੋ ਜਾਦੇ	sarayu s de dhuali hojande	Sarayu's De Dhuali Hojande		1.0
+male		thirties	pa-IN	ਉਹ ਸ ਡ ਤਮ ਸ ਦ ਖ ਰਹ ਹਨ	ਉਹ ਸਾਡਾ ਤਮਾਸ਼ਾ ਦੇਖ ਰਹੇ ਹਨ	o sarda tumasya dikre hihan	O sarda tumasya dikre hihan		1.0
+male		thirties	pa-IN	ਰ ਲਵ ਭਰਤ ਬ ਰਡ ਦ ਸਮ ਖ ਆ ਹ ਵ ਗ 	ਰੇਲਵੇਭਰਤੀ ਬੋਰਡ ਦੀ ਸਮੀਖਿਆ ਹੋਵੇਗੀ	railway party board this mickey 하고 vegi	Railway Party board this Mickey 하고 vegi		1.0
+male		thirties	pa-IN	ਅਮਰ ਦਰ ਸ ਘ ਦ ਬਰਖ ਸਤਗ ਦ ਇਹ ਪਰ ਨ ਤ ਹ ਵ ਗ 	ਅਮਰਿੰਦਰ ਸਿੰਘ ਦੀ ਬਰਖਾਸਤਗੀ ਦੀ ਇਹ ਪਰਿਨੀਤੀ ਹੋਵੇਗੀ	amrender singhdi berkhasgdf parniti hvl	Amrender Singhdi berkhaSGDF Parniti HVL		1.0
+male		thirties	pa-IN	ਪਰ ਉਹ ਹ ਲ ਵ ਕ ਫ ਕ ਝ ਪ ਰ ਪਤ ਕਰਨ ਚ ਹ ਦ ਹਨ	ਪਰ ਉਹ ਹਾਲੇ ਵੀ ਕਾਫ਼ੀ ਕੁਝ ਪ੍ਰਾਪਤ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹਨ	paro halevi kafi kuch praap te karna chondi han	Paro halevi kafi kuch praap te karna chondi han		1.0
+male		thirties	pa-IN	ਡ ਰ ਨ ਦ ਸਫ ਈ ਨਹ ਹ ਰਹ 	ਡ੍ਰੇਨਾਂ ਦੀ ਸਫਾਈ ਨਹੀਂ ਹੋ ਰਹੀ	draena this file is not over 	Draena this file is not over.		1.0
+male		thirties	pa-IN	ਦ ਖਦ ਦ ਖਦ ਝਗੜ ਹ ਰ ਵਧ ਗ ਆ	ਦੇਖਦੇ ਦੇਖਦੇ ਝਗੜਾ ਹੋਰ ਵਧ ਗਿਆ	see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see see 	See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See, See,		11.2
+male		thirties	pa-IN	ਰ ਬ ਦ ਸਦ ਏ ਵ ਚ ਤ ਰ ਸ ਰਤ	ਰੱਬ ਦਿਸਦਾ ਏ ਵਿੱਚ ਤੇਰੀ ਸੂਰਤ	arab destai v4 surat	Arab-Destai V4 Surat		1.0
+male		thirties	pa-IN	ਤ ਹ ਡ ਜ ਵਨਸ ਲ ਸਰਬਸ ਖ ਦ ਕ ਮਨ ਬਣ ਇਹ ਹ ਮ ਰ ਦ ਲ ਕ ਮਨ ਏ	ਤੁਹਾਡੀ ਜੀਵਨਸ਼ੈਲੀ ਸਰਬਸੁੱਖ ਦੀ ਕਾਮਨ ਬਣੇ ਇਹ ਹੀ ਮੇਰੀ ਦਿਲੀ ਕਾਮਨਾ ਏ	so hadi jeevan shali surb sukti kaman bani ehi miri dali kaman hai	So, hadi jeevan shali surb sukti kaman bani, ehi miri dali kaman hai		1.0
+male		thirties	pa-IN	ਪਰ ਚ ਧਰ ਆ ਦ ਬ ਕ ਬ ਲ ਸ ਨ ਉ ਚ ਉਠ ਇਆ	ਪਰ ਚੌਧਰੀਆਂ ਦੇ ਬੈਂਕ ਬੈਲੰਸ ਨੂੰ ਉੱਚਾ ਉਠਾਇਆ	4 jadriyaan de bank balance nu uchau taya	4. Jadriyaan de bank balance nu uchau taya		1.0
+male		thirties	pa-IN	ਉਸ ਨ ਵ ਨਜ ਰਅ ਦ ਜ ਕ ਤ ਗ ਆ ਹ 	ਉਸ ਨੂੰ ਵੀ ਨਜ਼ਰਅੰਦਾਜ਼ ਕੀਤਾ ਗਿਆ ਹੈ	usnu v nezarandhaz ki tagi hai hai	Usnu v nezarandhaz ki tagi hai hai		1.0
+male		thirties	pa-IN	ਅਸ ਆਹ ਕਰ ਗ ਅਸ ਔਹ ਕਰ ਗ 	ਅਸੀਂ ਆਹ ਕਰਾਂਗੇ ਅਸੀਂ ਔਹ ਕਰਾਂਗੇ	ac	AC		1.0
+male		thirties	pa-IN	ਜ ਤ ਬ ਣ ਪਨ ਦ ਬ ਮ ਰ ਤ ਪ ੜਤ ਹ 	ਜੋਤੀ ਬੌਣੇਪਨ ਦੀ ਬਿਮਾਰੀ ਤੋਂ ਪੀੜਤ ਹੈ	joti bane pandevi mari dont pude thai	Joti bane pandevi mari, dont pude thai		1.0
+male		thirties	pa-IN	ਸ ਡ ਇਸ ਬ ਰ ਰ ਏ ਮ ਗ ਗਈ ਸ 	ਸਾਡੀ ਇਸ ਬਾਰੇ ਰਾਏ ਮੰਗੀ ਗਈ ਸੀ	sardis barei rai manghi gayi sai	Sardis Barei Rai Manghi Gayi Sai		1.0
+male		thirties	pa-IN	ਨਵ ਸ ਲ ਵ ਲ ਅਸ ਪਰਚ ਛਪ ਉਣ ਆ	ਨਵੇਂ ਸਾਲ ਵਾਲੇ ਅਸੀਂ ਪਰਚੇ ਛਪਾਉਣੇ ਆ	namesal valiyosin paakshaponeya	namesal valiyosin paakshaponeya		1.0
+male		thirties	pa-IN	ਅਸ ਤ ਤ ਨ ਪ ਠ ਨਹ ਦ ਤ 	ਅਸੀਂ ਤਾਂ ਤੈਨੂੰ ਪਿੱਠ ਨਹੀਂ ਦਿੱਤੀ	asim da te no pit na hindutti	Asim da te no pit na hindutti		1.0
+male		thirties	pa-IN	ਜਦ ਸ ਰ ਸ ਰ ਤ ਤ ਰ ਕ 	ਜਦੋਂ ਸਿਰ ਸਿਰ ਤੋਂ ਤੁਰ ਕੇ	jadon sir sir tuntur ki	Jadon sir sir, tuntur ki		1.0
+male		thirties	pa-IN	ਰ ਪ ਕ ਰ ਦ ਆ ਸ ਮ ਵ ਨ ਸ ਚ ਤ ਨਹ ਕ ਤ ਆ ਜ ਸਕਦ ਆ 	ਰੂਪਾਕਾਰ ਦੀਆਂ ਸੀਮਾਵਾਂ ਨਿਸ਼ਚਿਤ ਨਹੀਂ ਕੀਤੀਆਂ ਜਾ ਸਕਦੀਆਂ	rupa kaardinya simaa neshtet nahin ki tian jasa dian	Rupa kaardinya simaa neshtet nahin ki tian jasa dian		1.0
+male		thirties	pa-IN	ਮ ਰ ਰ ੜ ਹ ਦ ਹ ਡ ਚ ਪ ਰ ਬਲਮ ਐ	ਮੇਰੀ ਰੀੜ੍ਹ ਦੀ ਹੱਡੀ ਚ ਪ੍ਰਾਬਲਮ ਐ	mary read the herdeece problem	Mary read the herdeece problem		1.0
+male		thirties	pa-IN	ਜ ਹ ਬ ਜ ਸ ਲ ਣ ਕਰਮ ਸ ਦੜ ਖ ਤ 	ਜੇਹਾ ਬੀਜੈ ਸੋ ਲੁਣੇ ਕਰਮਾਂ ਸੰਦੜਾ ਖੇਤੁ	jihab vijay solune karma sundraakheet	Jihab Vijay Solune Karma Sundraakheet		1.0
+male		thirties	pa-IN	ਗਰ ਊ ਡ ਲ ਗਲ ਵ ਡ ਚ ਰ ਹ ਚ	ਗਰਾਊਂਡ ਲਾਗਲੇ ਵੱਡੇ ਚੁਰਾਹੇ ਚ	ground lagle by detra h 	Ground lagle by detra h.		1.0
+male		thirties	pa-IN	ਇਸ ਨ ਲ ਦ ਵ ਪਰ ਵ ਰ ਤ ਵ ਡ ਆ ਮ ਸ ਬਤ ਦ ਪਹ ੜ ਟ ਟ ਪਏ	ਇਸ ਨਾਲ ਦੋਵਾਂ ਪਰਿਵਾਰਾਂ ਤੇ ਵੱਡੀਆਂ ਮੁਸੀਬਤਾਂ ਦੇ ਪਹਾੜ ਟੁੱਟ ਪਏ	2 5mm nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd	2.5mm nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd nd		5.333333333333333
+male		thirties	pa-IN	ਅ ਲ ਹ ਬ ਰਹਮ ਵ ਸ ਨ ਜ ਨ ਭਗਵ ਨ ਸ ਰ 	ਅੱਲ੍ਹਾ ਬ੍ਰਹਮਾਂ ਵਿਸ਼ਨੂੰ ਜਿਨੇਂ ਭਗਵਾਨ ਸਾਰੇ	allah brahma vishnu jineepa gwansari	Allah Brahma Vishnu, Jineepa Gwansari		1.0
+			pa-IN	ਇਨ ਹ ਨ ਡ ਲ ਰ ਗ ਪ ਉਣ ਚ ਹ ਦ ਹਨ	ਇਨ੍ਹਾਂ ਨੂੰ ਡੱਲ ਰੰਗ ਪਾਉਣੇ ਚਾਹੀਦੇ ਹਨ	in a new dalarang bau ne chahi dekhar	In a new dalarang bau ne chahi dekhar		1.0
+			pa-IN	ਕ ਝ ਹ ਦ ਨ ਵ ਚ ਫਰਕ ਪ ਜ ਵ ਗ 	ਕੁਝ ਹੀ ਦਿਨਾਂ ਵਿਚ ਫਰਕ ਪੈ ਜਾਵੇਗਾ	kodi videonan več park paja bega	Kodi videonan več park paja bega		1.0
+male		twenties	pa-IN	ਅਣਖ ਪ ਜ ਬ ਦ ਅਣਖ ਮਰ ਮ ਕ ਗਈ ਹ 	ਅਣਖੀ ਪੰਜਾਬ ਦੀ ਅਣਖ ਮਰ ਮੁੱਕ ਗਈ ਹੈ	bara kipan jahadir adakmar bara kipan jahadir adakmar bara kipan jahadir adakmar bara kipan jahadir adakmar bara kipan jahadir adakmar bara kipan jahadir adakmar bara kipan jahadir adakmar bara kipan jahadir adakmar bara kipan jahadir adakmar bara kipan jahadir adakmar bara kipan jahadir adakmar bara kipan jahadir adakmar bara kipan jahadir adakmar bara kipan jahadir adakmar bara kipan jahadir adakmar bara kipan jahadir adakmar bara kipan jahadir adakmar bara kipan jahadir adakmar bara kipan jahad	bara kipan jahadir adakmar bara kipan jahadir adakmar bara kipan jahadir adakmar bara kipan jahadir adakmar bara kipan jahadir adakmar bara kipan jahadir adakmar bara kipan jahadir adakmar bara kipan jahadir adakmar bara kipan jahadir adakmar bara kipan jahadir adakmar bara kipan jahadir adakmar bara kipan jahadir adakmar bara kipan jahadir adakmar bara kipan jahadir adakmar bara kipan jahadir adakmar bara kipan jahadir adakmar bara kipan jahadir adakmar bara kipan jahadir adakmar bara kipan jahad		6.818181818181818
+			pa-IN	ਹ ਣ ਸ ਖ ਜ ਤ ਪ ਤ ਤ ਉਪਰ ਹ 	ਹੁਣ ਸਿਖ ਜਾਤਾਂ ਪਾਤਾਂ ਤੋਂ ਉਪਰ ਹੈ	pornasik jata patanda operaya	pornasik jata patanda operaya		1.0
+			pa-IN	ਕਰਫ ਊ ਗ ਰਸਤ ਇਲ ਕ ਆ ਚ ਮ ਹ ਲ ਡਰ ਉਣ ਹ 	ਕਰਫ਼ਿਊ ਗ੍ਰਸਤ ਇਲਾਕਿਆਂ ਚ ਮਾਹੌਲ ਡਰਾਉਣਾ ਹੈ	karfiu gress lack and jumni hall 	Karfiu, Gress, Lack, and Jumni Hall.		1.0
+			pa-IN	ਅ ਜ ਭ ਜਪ ਨ ਇਹ ਢ ਗ ਅਪਣ ਇਆ ਹ ਇਆ ਹ 	ਅੱਜ ਭਾਜਪਾ ਨੇ ਇਹੋ ਢੰਗ ਅਪਣਾਇਆ ਹੋਇਆ ਹੈ	rajpa rajpa has not yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet	Rajpa Rajpa has not yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet yet		17.076923076923077
+			pa-IN	ਦ ਜ ਪ ਸ ਇ ਡਸਟਰ ਦ ਬਹ ਤ ਸ ਰ 	ਦੂਜੇ ਪਾਸੇ ਇੰਡਸਟਰੀ ਦੇ ਬਹੁਤ ਸਾਰੇ	2jp saindustrydebhatsari	2JP saindustrydebhatsari		1.0
+			pa-IN	ਸ ਰ ਗ ਰ ਵ ਲਮ ਕ ਨ ਮ ਹ ਬ ਤ ਉਣ 	ਸ੍ਰੀ ਗੁਰੂ ਵਾਲਮੀਕ ਨਾਮ ਹੀ ਬਿਤਾਉਣਾ	3 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 	3.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.		8.615384615384615
+			pa-IN	ਬੜ ਯ ਦਗ ਰ ਜ ਫ ਤ ਧ ਵ ਵ ਖਣ ਨ ਮ ਲ 	ਬੜੇ ਯਾਦਗੀਰੀ ਜੱਫੇ ਤੇ ਧਾਵੇ ਵੇਖਣ ਨੂੰ ਮਿਲੇ	baleyaad kariyaad feltis paveli kaunable	Baleyaad Kariyaad Feltis Paveli Kaunable		1.0
+			pa-IN	ਸਬਰ ਸ ਕਰ ਹ ਅਸ ਦ ਇ ਕ ਨ ਹਰ 	ਸਬਰ ਸ਼ੁਕਰ ਹੈ ਅਸਾਂ ਦਾ ਇੱਕ ਨਾਹਰਾ	sabar shukar harsana ikunnara	sabar shukar harsana ikunnara		1.0
+			pa-IN	ਪਰ ਗ ਲ ਅਖ ਰ ਸ ਹਮਣ ਆ ਗਈ	ਪਰ ਗੱਲ ਅਖੀਰ ਸਾਹਮਣੇ ਆ ਗਈ	bye bye	Bye bye		1.0
+			pa-IN	ਇਹ ਅਪ ਲ ਪ ਛਲ ਵਰ ਹ ਦ ਇਰ ਕ ਤ ਆ ਗਈਆ ਸਨ	ਇਹ ਅਪੀਲਾਂ ਪਿਛਲੇ ਵਰ੍ਹੇ ਦਾਇਰ ਕੀਤੀਆਂ ਗਈਆਂ ਸਨ	pnp slever lfk 10 	PNP-Slever LFK-10.		1.0
+			pa-IN	ਕ ਝ ਇਕਨ ਦ ਮ ਣ ਸਨਮ ਨ ਵ ਹ ਵ ਗ 	ਕੁਝ ਇਕਨਾਂ ਦਾ ਮਾਣ ਸਨਮਾਨ ਵੀ ਹੋਵੇਗਾ	khojena da man samman numi hovega	Khojena da man samman numi hovega		1.0
+			pa-IN	ਅ ਜ ਤ ਇਹ ਜ ਮ ਵ ਰ ਤ ਸ ਸ ਭ ਲਓ	ਅੱਜ ਤੋਂ ਇਹ ਜਿੰਮੇਵਾਰੀ ਤੁਸੀਂ ਸਾਂਭ ਲਓ	hidhah hidhah hidhah hidhah hidhah hidhah hidhah hidhah hidhah hidhah hidhah hidhah hidhah hidhah hidhah hidhah hidhah hidhah hidhah hidhah hidhah hidhah hidhah hidhah hidhah hidhah hidhah hidhah hidhah hidhah hidhah hidhah hidhah hidhah hidhah hidhah hidhah hidhah hidhah hidhah hidhah hidhah hidhah hidhah hidhah	Hidhah, Hidhah, Hidhah, Hidhah, Hidhah, Hidhah, Hidhah, Hidhah, Hidhah, Hidhah, Hidhah, Hidhah, Hidhah, Hidhah, Hidhah, Hidhah, Hidhah, Hidhah, Hidhah, Hidhah, Hidhah, Hidhah, Hidhah, Hidhah, Hidhah, Hidhah, Hidhah, Hidhah, Hidhah, Hidhah, Hidhah, Hidhah, Hidhah, Hidhah, Hidhah, Hidhah, Hidhah, Hidhah, Hidhah, Hidhah, Hidhah, Hidhah, Hidhah, Hidhah, Hidhah		3.4615384615384617
+			pa-IN	ਉਹ ਪ ਨ ਦ ਕ ਰਜ ਲਈ ਦ ੜਦ ਹ 	ਉਹ ਪੁੰਨ ਦੇ ਕਾਰਜਾਂ ਲਈ ਦੌੜਦਾ ਹੈ	oponadek janei tuhrta hai	Oponadek, janei tuhrta hai		1.0
+			pa-IN	ਇਕ ਮ ਟ ਪ ਛ ਇਸ ਚ ਪ ਰਵ ਸ ਕਰ 	ਇਕ ਮਿੰਟ ਪਿੱਛੋਂ ਇਸ ਚ ਪ੍ਰਵੇਸ਼ ਕਰੋ	pichah is with per vegetable	pichah is with per vegetable		1.0
+			pa-IN	ਸ ਧ ਬਲਰ ਜ ਅ ਜ ਯ ਕ ਵ ਚ ਬ ਠ 	ਸਿੱਧੂ ਬਲਰਾਜ ਅੱਜ ਯੂ ਕੇ ਵਿਚ ਬੈਠਾ	situ barraja azduyukh kavit baita 	Situ barraja, Azduyukh, Kavit, Baita.		1.0
+			pa-IN	ਹ ਇਹ ਯ ਗ ਸ ਇਰਨ ਨਕ ਪ ਰ ਵਰਗ 	ਹੈ ਇਹ ਯੁੱਗ ਸ਼ਇਰਨਾਨਕ ਪੀਰ ਵਰਗੀ	hey hey juku shire nonakhi wa rp 	Hey, hey, juku, shire, nonakhi, wa rp.		1.0
+			pa-IN	ਭ ਰ ਸ ਟ ਚ ਰ ਵ ਰ ਧ ਜਨ ਲ ਕਪ ਲ ਬ ਲ ਲ ਆਉਣ ਬ ਕ ਹ 	ਭ੍ਰਿਸ਼ਟਾਚਾਰ ਵਿਰੋਧੀ ਜਨ ਲੋਕਪਾਲ ਬਿਲ ਲਿਆਉਣਾ ਬਾਕੀ ਹੈ	we will start over at the channel 	We will start over at the channel.		1.0
+			pa-IN	ਇਨ ਹ ਦ ਸ ਲ ਨ ਖਰਚ ਅਰਬ ਡ ਲਰ ਹ 	ਇਨ੍ਹਾਂ ਦਾ ਸਾਲਾਨਾ ਖਰਚ ਅਰਬ ਡਾਲਰ ਹੈ	inada sala nakhar arbuttal rehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehe	Inada Sala Nakhar Arbuttal Rehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehe		1.0
+			pa-IN	ਉਥ ਅਮਰ ਕ ਕ ਹੜ ਜ ਕ ਜ ਜ ਲ ਗ ਜ ਣ ਸ 	ਉਥੇ ਅਮਰੀਕਾ ਕਿਹੜਾ ਜਾ ਕੇ ਜੱਜ ਲੱਗ ਜਾਣਾ ਸੀ	oathaya amerika kera jakaya jatilla be jana si	Oathaya amerika kera jakaya jatilla be jana si		1.0
+			pa-IN	ਕ ਝ ਲ ਕ ਅਧ ਆਤਮਕ ਵ ਦ ਦ ਗਲ ਕਰਦ ਹਨ	ਕੁਝ ਲੋਕ ਅਧਿਆਤਮਕ ਵਾਦ ਦੀ ਗਲ ਕਰਦੇ ਹਨ	kodilu adhiyat makwad di kalkar dihan	Kodilu adhiyat makwad di kalkar dihan		1.0
+			pa-IN	ਸ ਰ ਉਮਰ ਤਨਖ ਹ ਲ ਦ ਰਹ ਹ 	ਸਾਰੀ ਉਮਰ ਤਨਖ਼ਾਹਾਂ ਲੈਂਦੇ ਰਹੇ ਹੋ	sari omar tanakaan nendira hevo	Sari Omar Tanakaan Nendira Hevo		1.0
+			pa-IN	ਕਲ ਬ ਵ ਲ ਉਹਨ ਹ ਥ ਛ ਵ ਕਰਦ ਸਨ	ਕਲੱਬ ਵਾਲੇ ਉਹਨੂੰ ਹੱਥੀਂ ਛਾਵਾਂ ਕਰਦੇ ਸਨ	ke labu baalit ba min atin chava kardesam	ke labu baalit ba min atin chava kardesam		1.0
+			pa-IN	ਕ ੜ ਆ ਉਸ ਨ ਬ ਰ ਆ ਚ ਵ ਖਦ ਆ 	ਕੁੜੀਆਂ ਉਸ ਨੂੰ ਬਾਰੀਆਂ ਚੋਂ ਵੇਖਦੀਆਂ	koreanya osmobaniya vichon vichon	koreanya osmobaniya vichon vichon		1.0
+male		thirties	pa-IN	ਬ ਢ ਮ ਪ ਉ ਨ ਭ ਰ ਸਮਝ ਆ ਜ ਦ ਹ 	ਬੁੱਢੇ ਮਾਂ ਪਿਉ ਨੂੰ ਭਾਰ ਸਮਝਿਆ ਜਾਂਦਾ ਹੈ	burde maapyanu par samje janda hai	Burde Maapyanu par samje janda hai		1.0
+male		thirties	pa-IN	ਕ ਵ ਉਹਨ ਨ ਕ ਸ ਦ ਸ ਨ ਰ ਖ 	ਕਿਵੇਂ ਉਹਨਾਂ ਨੇ ਕੇਸਾਂ ਦੀ ਸ਼ਾਨ ਰੱਖੀ	keme onnan ek kesan di shandraki	keme onnan ek kesan di shandraki		1.0
+male		thirties	pa-IN	ਉਸ ਨ ਕ ਝ ਕ ਤ ਬ ਵ ਲ ਖ ਆ ਹਨ	ਉਸ ਨੇ ਕੁਝ ਕਿਤਾਬਾਂ ਵੀ ਲਿਖੀਆਂ ਹਨ	usnaykuji ktabaa vi likiya hanna	Usnaykuji ktabaa vi likiya hanna		1.0
+male		thirties	pa-IN	ਅ ਜ ਫ ਰ ਉਸ ਹ ਦ ਸ ਵ ਚ	ਅੱਜ ਫਿਰ ਉਸ ਹੀ ਦੇਸ਼ ਵਿਚ	adjafir osa hede shwetj	Adjafir osa hede shwetj		1.0
+male		thirties	pa-IN	ਗ ਲ ਵ ਲ ਬ ਤ ਬਹ ਤ ਮ ਠ ਲ ਗ ਸ 	ਗੋਲੀ ਵਾਲਾ ਬੱਤਾ ਬਹੁਤ ਮਿੱਠਾ ਲੱਗਾ ਸੀ	golivala bhatabhoth methala ka si	Golivala bhatabhoth methala ka si		1.0
+male		thirties	pa-IN	ਫ ਲਹ ਲ ਸ ਰ ਖ ਆ ਏਜ ਸ ਆ ਉਸ ਤ ਪ ਛਗ ਛ ਕਰ ਰਹ ਆ ਹਨ	ਫ਼ਿਲਹਾਲ ਸੁਰੱਖਿਆ ਏਜੰਸੀਆਂ ਉਸ ਤੋਂ ਪੁੱਛਗਿੱਛ ਕਰ ਰਹੀਆਂ ਹਨ	filhald surakayaan siyaunstopu chviška rynya han	Filhald surakayaan siyaunstopu chviška rynya han		1.0
+male		thirties	pa-IN	ਪ ਰ ਤਣ ਕਥ ਵ ਚਕ ਸਟ ਜ ਦ ਸ ਗ ਰ ਹ ਇਆ ਕਰਦ ਸਨ	ਪੁਰਾਤਣ ਕਥਾ ਵਾਚਕ ਸਟੇਜ ਦਾ ਸਿੰਗਾਰ ਹੋਇਆ ਕਰਦੇ ਸਨ	kuraten ka kathamajikustis dashingar vaya kathisan	kuraten ka kathamajikustis dashingar vaya kathisan		1.0
+male		thirties	pa-IN	ਕ ਕ ਔਰਤ ਨ ਲ ਰ ਸ ਤ ਦ 	ਕਿ ਕੀ ਔਰਤ ਨਾਲ ਰਿਸ਼ਤੇ ਦਾ	ghi ghi orta non resteeta	Ghi, Ghi orta non-resteeta		1.0
+male		thirties	pa-IN	ਨਹ ਉਣ ਪ ਛ ਕ ਈ ਬ ਡ ਲ ਸ ਨ ਲਗ ਓ	ਨਹਾਉਣ ਪਿਛੋਂ ਕੋਈ ਬਾਡੀ ਲੋਸ਼ਨ ਲਗਾਓ	nahoon pitchu koi body lotion lago	Nahoon pitchu koi body lotion lago		1.0
+female		thirties	pa-IN	ਪ ਣ ਉਬ ਲ ਕ ਹ ਪ ਣ ਚ ਹ ਦ ਹ 	ਪਾਣੀ ਉਬਾਲ ਕੇ ਹੀ ਪੀਣਾ ਚਾਹੀਦਾ ਹੈ	pani obal ke hi pina cha hi da hai	Pani obal ke hi pina cha hi da hai		1.0
+female		thirties	pa-IN	ਸ ਰ ਪ ਲ ਨ ਹ ਈ ਖ ਬਸ ਰਤ ਸ ਰ ਰਤ ਦ ਸ ਕ ਰ	ਸਾਰਾ ਪਾਲਿਨ ਹੋਈ ਖੁਬਸੂਰਤ ਸ਼ਰਾਰਤ ਦਾ ਸਿ਼ਕਾਰ	saanapalin hoi kub sura ceratta si kar	Saanapalin hoi kub sura ceratta si kar		1.0

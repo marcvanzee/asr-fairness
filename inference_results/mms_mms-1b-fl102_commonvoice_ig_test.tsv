@@ -1,3 +1,3 @@
-reference_original	inferred_original	age	gender	accent	locale	reference	inferred	wer
-"""Dayọsiisi Awka Echenwòóla Ndị Nne n'Ihu Chineke, Dogharịa Ha Nsọ"""	vayasis ọka echenwuula ndị nne n'ihu chileke dọgharia ha nso				ig	"""Dayọsiisi Awka Echenwòóla Ndị Nne n'Ihu Chineke, Dogharịa Ha Nsọ"""	vayasis ọka echenwuula ndị nne n'ihu chileke dọgharia ha nso	1.0
-ụlọọrụ ụgbọala e ji ebu ndị njem	ụlọ ọrụ ụgbọ ala eji ebu ndị njem	twenties	male		ig	ụlọọrụ ụgbọala e ji ebu ndị njem	ụlọ ọrụ ụgbọ ala eji ebu ndị njem	0.7142857142857143
+reference_original	inferred_original	age	gender	accent	locale	reference	inferred	date	wer
+"""Dayọsiisi Awka Echenwòóla Ndị Nne n'Ihu Chineke, Dogharịa Ha Nsọ"""	vayasis ọka echenwuula ndị nne n'ihu chileke dọgharia ha nso				ig	"""Dayọsiisi Awka Echenwòóla Ndị Nne n'Ihu Chineke, Dogharịa Ha Nsọ"""	vayasis ọka echenwuula ndị nne n'ihu chileke dọgharia ha nso		1.0
+ụlọọrụ ụgbọala e ji ebu ndị njem	ụlọ ọrụ ụgbọ ala eji ebu ndị njem	twenties	male		ig	ụlọọrụ ụgbọala e ji ebu ndị njem	ụlọ ọrụ ụgbọ ala eji ebu ndị njem		0.7142857142857143

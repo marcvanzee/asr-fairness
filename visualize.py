@@ -6,6 +6,11 @@ from absl import app
 from collections import OrderedDict
 from scipy import stats
 from tabulate import tabulate
+from generate_eval_data import EvalInfo
+import os
+import collections
+import dataclasses
+
 
 MODEL_PARAMETERS = OrderedDict({
     "whisper_tiny": 39000000,
@@ -97,7 +102,7 @@ def make_heatmap(intersectionality_significant_results, total_runs):
 
 
 def read_results():
-  with open('results/wers.json', 'r') as f:
+  with open('results/eval_data.json') as f:
     return json.load(f)
 
 
@@ -145,9 +150,10 @@ def get_significance(results, gender_disparity=True, intersectionality_disparity
 
         try:
           wers = {}
-          for demographic_group in results[dataset][model][language].keys():
-            if demographic_group == "total": continue
-            wers[demographic_group] = results[dataset][model][language][demographic_group]
+          dem_group_to_eval_data = results[dataset][model][language]
+          for demographic_group, wer_res in dem_group_to_eval_data.items():
+            if demographic_group == "all": continue
+            wers[demographic_group] = wer_res
             #if len(wers[demographic_group]) < 10: print(language, demographic_group)
 
           if gender_disparity:
@@ -163,7 +169,6 @@ def get_significance(results, gender_disparity=True, intersectionality_disparity
             if not "female_" in string_demographic_groups and "male_" in string_demographic_groups: continue
             
             intersectionality_groups = [x for x in wers.keys() if "_" in x]
-            print(intersectionality_groups)
             for demographic_group in intersectionality_groups:
               intersec_sign = do_significance_testing(wers, demographic_group, "all")
                 
@@ -182,9 +187,49 @@ def get_significance(results, gender_disparity=True, intersectionality_disparity
   if intersectionality_disparity:
     make_heatmap(intersectionality_significant_results, total_runs)
 
+
+@dataclasses.dataclass
+class WerInfo:
+  total_updates: int = 0
+  total_ref_len: int = 0
+  
+  def add_eval_results(self, eval_info: EvalInfo):
+    self.total_updates += eval_info.wer * eval_info.ref_len
+    self.total_ref_len += eval_info.ref_len
+  
+  @property
+  def wer(self):
+    return self.total_updates / self.total_ref_len
+   
+
+def get_wer_analysis(results):
+  # Make WER table: rows=model, cols=[wer_male, wer_female, wer_diff], one table/dataset
+   
+  # Things we want:
+  # - x=time, y=wer_diff_m/f: one plot/dataset, one line/model.
+  # only for voxpopuli
+  for dataset, model_dict in results.items():
+    for model, lang_dict in model_dict.items():
+      total_wer_info = WerInfo()
+      wer_info_by_year = collections.defaultdict(WerInfo)
+      for lang, eval_info_dict in lang_dict.items():
+        for eval_info_data in eval_info_dict['all']:
+          eval_info = EvalInfo(*eval_info_data)
+          total_wer_info.add_eval_results(eval_info)
+          if eval_info.date:
+            year = int(eval_info.date[:4])
+            wer_info_by_year[year].add_eval_results(eval_info)
+
+      print(f'{dataset=}, {model=}, {total_wer_info.wer=}')
+      if dataset == 'voxpopuli':
+        for year, wer_info in wer_info_by_year.items():
+          print(f'{year=}, {wer_info.wer}')
+
+
 def main(_):
   results = read_results()
-  get_significance(results, gender_disparity=True, intersectionality_disparity=True)
+  #get_significance(results, gender_disparity=True, intersectionality_disparity=True)
+  get_wer_analysis(results)
 
 
 if __name__ == '__main__':

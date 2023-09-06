@@ -11,12 +11,12 @@ import json
 import os
 
 from absl import app
-from jiwer import wer
+
+
+EvalInfo = collections.namedtuple('EvalInfo', ['ref_len', 'wer', 'date'])
 
 
 def get_data(filename):
-  # Get a list of demographics [female, female20] per example
-  
   with open(filename) as f:
     data = csv.DictReader(f, delimiter='\t')
     for row in data:
@@ -24,15 +24,17 @@ def get_data(filename):
       demographic_groups = [row['gender']]
       if 'commonvoice' in filename and row['age']:
         demographic_groups.append(row['gender'] + '_' + row['age'])
-      yield demographic_groups, row['reference'], row['inferred']
+      eval_info = EvalInfo(len(row['reference']), float(row['wer']), row['date'])
+      yield demographic_groups, eval_info
 
-def save_results(results, directory='wer_results'):
+def save_results(results, directory='results'):
   if not os.path.isdir(directory):
     os.makedirs(directory)
-  path = os.path.join(directory, 'wers.join')
+  path = os.path.join(directory, 'eval_data.json')
   with open(path, 'w') as f:
-     f.write(json.dumps(results, indent=0))
+     f.write(json.dumps(results, indent=None))
   print('Wrote results to', path)
+
 
 def main(_):
   # dataset/model_modelsize/language = {totalWER: x, femaleWER: y, female20: z}
@@ -41,22 +43,20 @@ def main(_):
     'voxpopuli': collections.defaultdict(dict)
   }
 
-  for filename in glob.glob("inference_results/*.tsv")[:2]:
+  for filename in glob.glob("inference_results/*.tsv"):
     elements = filename.split("/")[1].split(".")[0].split("_")
     print('PROCESSING', elements)
     model, modelsize, dataset, language, _ = elements
+    model_info = f"{model}_{modelsize}"
 
-    key = f"{model}_{modelsize}"
-    results[dataset][key][language] = collections.defaultdict(list)
+    results[dataset][model_info][language] = collections.defaultdict(list)
+    dem_group_to_eval_data = results[dataset][model_info][language]
 
-    for demographic_groups, reference, inferred in get_data(filename):
-      try:
-        wer_score = wer(reference, inferred)
-      except ValueError: # some ref or inf are empty strings
-        continue
-      
+    for demographic_groups, eval_info in get_data(filename):
+      # store all eval data in the 'all' field.
+      dem_group_to_eval_data['all'].append(eval_info)
       for demographic_group in demographic_groups:
-        results[dataset][key][language][demographic_group].append(wer_score)
+        dem_group_to_eval_data[demographic_group].append(eval_info.wer)
   save_results(results)
 
 

@@ -273,6 +273,7 @@ def main(_):
   print( '|-------------------------------------------------------------------')
 
   state = ModelState(model=None, preprocess_fn=None)
+  executed_run = False
 
   # First iterate over model size so we can keep the same model in memory for
   # all languages -- dataset loading is quite fast once it is cached.
@@ -303,10 +304,11 @@ def main(_):
       results['inferred'] = normalize(results['inferred_original'])
 
       save_results(result_path, results, FLAGS.dataset, lang)
+      executed_run = True
 
-      if FLAGS.single_run:
+      if FLAGS.single_run and executed_run:
         break
-    if FLAGS.single_run:
+    if FLAGS.single_run and executed_run:
       break
 
 

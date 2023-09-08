@@ -29,7 +29,7 @@ def get_data(filename):
       if 'commonvoice' in filename and row['age']:
         demographic_groups.append(row['gender'] + '_' + row['age'])
       ref_len = len(row['reference'].split())
-      eval_info = EvalInfo(ref_len, float(row['wer']), row['date'])
+      eval_info = EvalInfo(ref_len, float(row['wer']), row.get('date', ''))
       yield demographic_groups, eval_info
 
 def save_results(results, directory='results'):

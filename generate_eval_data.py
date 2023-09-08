@@ -12,6 +12,10 @@ import os
 
 from absl import app
 
+from scipy.stats import shapiro 
+
+import matplotlib.pyplot as plt
+
 
 EvalInfo = collections.namedtuple('EvalInfo', ['ref_len', 'wer', 'date'])
 
@@ -24,7 +28,8 @@ def get_data(filename):
       demographic_groups = [row['gender']]
       if 'commonvoice' in filename and row['age']:
         demographic_groups.append(row['gender'] + '_' + row['age'])
-      eval_info = EvalInfo(len(row['reference']), float(row['wer']), row['date'])
+      ref_len = len(row['reference'].split())
+      eval_info = EvalInfo(ref_len, float(row['wer']), row['date'])
       yield demographic_groups, eval_info
 
 def save_results(results, directory='results'):
@@ -37,7 +42,6 @@ def save_results(results, directory='results'):
 
 
 def main(_):
-  # dataset/model_modelsize/language = {totalWER: x, femaleWER: y, female20: z}
   results = {
     'commonvoice': collections.defaultdict(dict),
     'voxpopuli': collections.defaultdict(dict)
@@ -53,10 +57,8 @@ def main(_):
     dem_group_to_eval_data = results[dataset][model_info][language]
 
     for demographic_groups, eval_info in get_data(filename):
-      # store all eval data in the 'all' field.
-      dem_group_to_eval_data['all'].append(eval_info)
       for demographic_group in demographic_groups:
-        dem_group_to_eval_data[demographic_group].append(eval_info.wer)
+        dem_group_to_eval_data[demographic_group].append(eval_info)
   save_results(results)
 
 

@@ -241,59 +241,134 @@ def write_wer_table(results, dataset):
   print(tabulate(table, headers='firstrow', tablefmt='latex'))
 
 
-def plot_wer_over_time(results, model_filter):
+def plot_wer_by_year(results, model_filter):
   # Plots time (x)/wer rate (y) per model
   models = get_available_models(results.keys())
 
+  def filter_fn(model):
+    if not model_filter: return False
+    if isinstance(model_filter, str) and model_filter not in model: return True
+    if isinstance(model_filter, list) and model not in model_filter: return True
+    return False
+
+  years = list(range(2009, 2018))
+  years_labels = [years[i] for i in range(len(years)) if (i+1) % 2 == 0]
+
   plt.clf()
-  plt.title('Voxpopuli relative WER over time')
-  plt.axhline(y = 0, color = 'r', linestyle = '--')
-  years = list(range(2009, 2020))
+  plt.figure(figsize = (8,4))
+  plt.suptitle(f'WER by year on Voxpopuli')
+
+  plt.subplot(1, 2, 1) # row 1, col 2 index 1 --> absolute WERS
+
+  plt.title(f'Absolute WER')
+
   for model in models:
-    if model_filter and model_filter not in model: 
+    if filter_fn(model):
       continue
-    years_to_plot = []
-    wers_to_plot = []
+    print(model)
+    years_wers_to_plot_m = []
+    years_wers_to_plot_f = []
+    for year in years:
+      wer_info_f = results[model]['all'].get(f'female_{year}', None)
+      wer_info_m = results[model]['all'].get(f'male_{year}', None)
+      if wer_info_f:
+        years_wers_to_plot_f.append((year, wer_info_f.wer))
+      if wer_info_m:
+        years_wers_to_plot_m.append((year, wer_info_m.wer))
+    p, = plt.plot(*zip(*years_wers_to_plot_f), label=model+'_female')
+    plt.plot(*zip(*years_wers_to_plot_m), label=model+'_male',
+             color=p.get_color(), linestyle='--')
+
+  plt.xlabel('Year')
+  plt.xticks(years_labels, rotation=45)
+  plt.ylabel(f'absolute WER')
+  plt.legend(loc='upper right', fontsize='8')
+
+  plt.subplot(1, 2, 2) # index 2 --> relative WERS
+  
+  plt.title(f'Relative WER female-male')
+  plt.axhline(y = 0, color = 'k', linestyle = '--') 
+
+  for model in models:
+    if filter_fn(model):
+      continue
+    years_wers_to_plot = []
     for year in years:
       wer_info_f = results[model]['all'].get(f'female_{year}', None)
       wer_info_m = results[model]['all'].get(f'male_{year}', None)
       if not (f:=wer_info_f) or not (m:=wer_info_m):
         print(f'{model=}, {year=} missing gender {"male" if f else "male"}')
         continue
-      years_to_plot.append(year)
-      wers_to_plot.append(rel_wer_diff(wer_info_f.wer, wer_info_m.wer))
-                   
-    plt.plot(years_to_plot, wers_to_plot, label=model)
+      rel_wer_d = rel_wer_diff(wer_info_f.wer, wer_info_m.wer)
+      years_wers_to_plot.append((year, rel_wer_d))
+    plt.plot(*zip(*years_wers_to_plot), label=model)
+  
   plt.xlabel('Year')
+  plt.xticks(years_labels, rotation=45)
   plt.ylabel('relative WER (f-m)')
   plt.legend(loc='upper right', fontsize='8')
-  plt.savefig(os.path.join(OUTPUT_DIR, f'rel_wer_by_year_{model_filter}.png'))
+  plt.tight_layout()
+  filename = f'rel_wer_by_year_{model_filter}.png'
+  plt.savefig(os.path.join(OUTPUT_DIR, filename))
+  print('Wrote to', filename)
 
 
 def plot_wer_by_model_size(results, dataset):
   results = results[dataset]
   models = [x for x in get_available_models(results.keys()) if 'whisper' in x]
 
-  model_sizes_to_plot = []
-  wers_to_plot = []
+  plt.clf() 
+  plt.figure(figsize = (8,4))
+  plt.suptitle(f'WER by model size (Whisper on {dataset})')
+  plt.subplot(1, 2, 1) # row 1, col 2 index 1 --> absolute WERS
 
-  plt.clf()
-  plt.title(f'{dataset} relative WER by model size (log scale)')
+  plt.title(f'Absolute WER')
+
+  sizes_and_wers_m_to_plot = []
+  sizes_and_wers_f_to_plot = []
+
+  for model in models:
+    wer_info_f = results[model]['all'].get(f'female', None)
+    if wer_info_f:
+      sizes_and_wers_f_to_plot.append((
+        MODEL_PARAMETERS[model],
+        wer_info_f.wer))
+    wer_info_m = results[model]['all'].get(f'male', None)
+    if wer_info_m:
+      sizes_and_wers_m_to_plot.append((
+        MODEL_PARAMETERS[model],
+        wer_info_m.wer))
+    
+  p, = plt.plot(*zip(*sizes_and_wers_f_to_plot), label='wer_female')
+  plt.plot(*zip(*sizes_and_wers_m_to_plot), label='wer_male',
+           color=p.get_color(), linestyle='--')
+  plt.xlabel('Model parameters')
+  plt.ylabel('WER')
+  plt.xscale("log")
+  plt.legend(loc='upper right', fontsize='8')
+
+  plt.subplot(1, 2, 2) # row 1, col 2 index 1 --> relative WERS
+
+  plt.title(f'Relative WER female-male')
   plt.axhline(y = 0, color = 'r', linestyle = '--')
 
+  sizes_and_wers_to_plot = []
   for model in models:
     wer_info_f = results[model]['all'].get(f'female', None)
     wer_info_m = results[model]['all'].get(f'male', None)
     if not (f:=wer_info_f) or not (m:=wer_info_m):
       print(f'{model=} missing gender {"male" if f else "male"}')
       continue
-    model_sizes_to_plot.append(MODEL_PARAMETERS[model])
-    wers_to_plot.append(rel_wer_diff(wer_info_f.wer, wer_info_m.wer))
+    sizes_and_wers_to_plot.append((
+      MODEL_PARAMETERS[model],
+      rel_wer_diff(wer_info_f.wer, wer_info_m.wer)))
   
-  plt.plot(model_sizes_to_plot, wers_to_plot, label='wer')
+  plt.plot(*zip(*sizes_and_wers_to_plot), label='wer')
   plt.xlabel('Model parameters')
   plt.ylabel('relative WER (f-m)')
   plt.xscale("log")
+  plt.legend(loc='upper right', fontsize='8')
+  plt.tight_layout()
   plt.savefig(os.path.join(OUTPUT_DIR, f'rel_wer_by_model_size_{dataset}.png'))
 
 
@@ -364,23 +439,26 @@ def get_wer_analysis(results):
       
       outputs[dataset][model]['all'] = all_wer_info
 
-  # less than 1000 in test.
-  small_langs = ['ha', 'sr', 'pa-IN', 'hy-AM', 'kk', 'as', 'nn-NO', 'az', 'ml', 'mk']
-
-  # more than 10.000 in test.
-  big_langs = ['ca', 'fr', 'de', 'be', 'es', 'it', 'ba', 'uz', 'ta', 'th', 'nl', 'ar']
-
   for dataset in ['commonvoice', 'voxpopuli']:
     print('------', dataset)
-    # write_wer_table(outputs, dataset)
-    # plot_wer_by_model_size(outputs, dataset)
+    write_wer_table(outputs, dataset)
+    plot_wer_by_model_size(outputs, dataset)
 
     plot_wer_by_model_size_per_lang(outputs, dataset)
-    plot_wer_by_model_size_per_lang(outputs, dataset, small_langs, 'small_langs')
-    plot_wer_by_model_size_per_lang(outputs, dataset, big_langs, 'big_langs')
+    # plot_wer_by_model_size_per_lang(outputs, dataset, small_langs, 'small_langs')
+    # plot_wer_by_model_size_per_lang(outputs, dataset, big_langs, 'big_langs')
 
-  # for model in ['whisper', 'mms']:
-    # plot_wer_over_time(outputs['voxpopuli'], model)
+  # One graph for all Whisper models and one for all MMS models.
+  for model in ['whisper', 'mms']:
+    plot_wer_by_year(outputs['voxpopuli'], model)
+
+  for models_to_compare in [
+    ['whisper_large-v2', 'mms_mms-1b-all'],
+    ['whisper_tiny', 'whisper_large-v2'],
+    ['mms_mms-1b-fl102', 'mms_mms-1b-all']]:
+    plot_wer_by_year(outputs['voxpopuli'], models_to_compare)
+
+  plot_wer_by_year(outputs['voxpopuli'], 'whisper')
 
 
 def main(_):

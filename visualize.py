@@ -287,28 +287,32 @@ def plot_wer_by_year(results, model_filter):
   plt.subplot(1, 2, 2) # index 2 --> relative WERS
   
   plt.title(f'Relative WER female-male')
-  plt.axhline(y = 0, color = 'k', linestyle = '--') 
+  plt.axhline(y = 0, color = 'k', linestyle = '--')
 
   for model in models:
     if filter_fn(model):
       continue
     years_wers_to_plot = []
-    for year in years:
+    markerson = []
+    for i, year in enumerate(years):
       wer_info_f = results[model]['all'].get(f'female_{year}', None)
       wer_info_m = results[model]['all'].get(f'male_{year}', None)
       if not (f:=wer_info_f) or not (m:=wer_info_m):
         print(f'{model=}, {year=} missing gender {"male" if f else "male"}')
         continue
+      if stats.ttest_ind(wer_info_f.wers, wer_info_m.wers).pvalue < 0.05:
+        markerson.append(i)
       rel_wer_d = rel_wer_diff(wer_info_f.wer, wer_info_m.wer)
       years_wers_to_plot.append((year, rel_wer_d))
-    plt.plot(*zip(*years_wers_to_plot), label=model)
+    plt.plot(*zip(*years_wers_to_plot), label=model, marker='o',
+             markevery=markerson)
   
   plt.xlabel('Year')
   plt.xticks(years_labels, rotation=45)
   plt.ylabel('relative WER (f-m)')
   plt.legend(loc='upper right', fontsize='8')
   plt.tight_layout()
-  filename = f'rel_wer_by_year_{model_filter}.png'
+  filename = f'wer_by_year_{model_filter}.png'
   plt.savefig(os.path.join(OUTPUT_DIR, filename))
   print('Wrote to', filename)
 
@@ -353,23 +357,28 @@ def plot_wer_by_model_size(results, dataset):
   plt.axhline(y = 0, color = 'r', linestyle = '--')
 
   sizes_and_wers_to_plot = []
-  for model in models:
+  markerson = []
+  for i, model in enumerate(models):
     wer_info_f = results[model]['all'].get(f'female', None)
     wer_info_m = results[model]['all'].get(f'male', None)
     if not (f:=wer_info_f) or not (m:=wer_info_m):
       print(f'{model=} missing gender {"male" if f else "male"}')
       continue
+    if stats.ttest_ind(wer_info_f.wers, wer_info_m.wers).pvalue < 0.05:
+      markerson.append(i)
+
     sizes_and_wers_to_plot.append((
       MODEL_PARAMETERS[model],
       rel_wer_diff(wer_info_f.wer, wer_info_m.wer)))
   
-  plt.plot(*zip(*sizes_and_wers_to_plot), label='wer')
+  plt.plot(*zip(*sizes_and_wers_to_plot), marker='o', label='wer',
+           markevery=markerson)
   plt.xlabel('Model parameters')
   plt.ylabel('relative WER (f-m)')
   plt.xscale("log")
   plt.legend(loc='upper right', fontsize='8')
   plt.tight_layout()
-  plt.savefig(os.path.join(OUTPUT_DIR, f'rel_wer_by_model_size_{dataset}.png'))
+  plt.savefig(os.path.join(OUTPUT_DIR, f'wer_by_model_size_{dataset}.png'))
 
 
 def plot_wer_by_model_size_per_lang(results, dataset, langs_to_show=None, name=None):
@@ -407,9 +416,9 @@ def plot_wer_by_model_size_per_lang(results, dataset, langs_to_show=None, name=N
     plt.xscale("log")
     plt.legend(loc='upper right', fontsize='8')
 
-  fig_name = f'rel_wer_by_model_size_{dataset}_per_lang.png'
+  fig_name = f'wer_by_model_size_{dataset}_per_lang.png'
   if langs_to_show:
-    fig_name = f'rel_wer_by_model_size_{dataset}_per_lang_{name}.png'
+    fig_name = f'wer_by_model_size_{dataset}_per_lang_{name}.png'
 
   plt.savefig(os.path.join(OUTPUT_DIR, fig_name))
 

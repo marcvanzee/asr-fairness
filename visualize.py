@@ -123,12 +123,7 @@ def do_significance_testing(wers, x_demo, z_demo):
   else:
     test_result = stats.ttest_ind(wers[x_demo], wers[z_demo])
   
-  if test_result[1] < 0.05:
-    #ensure min 10 sentences for a demographic group.
-    if len(wers[x_demo]) < 10:
-      print(x_demo, len(wers[x_demo]), wers[x_demo])
-      return None
-    
+  if test_result[1] < 0.05:    
     # negative t-value means that x_demo has the lowest mean. Z-demo is negatively disparate.
     if test_result[0] < 0:
       return z_demo

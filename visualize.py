@@ -20,16 +20,19 @@ MODEL_PARAMETERS = OrderedDict({
     'whisper_small': 244000000,
     'whisper_medium': 769000000,
     'whisper_large': 1550000000,
-    'whisper_large-v2': 1550000000
-}) # 'mms_mms-1b-all': 1000000000, (between whipser_medium and whisper_large)
+    'whisper_large-v2': 1550000000,
+    'mms_mms-1b-fl102': 1000000000,
+    'mms_mms-1b-l1107': 1000000000,
+    'mms_mms-1b-all': 1000000000,
+}) 
 
 OUTPUT_DIR = './visualizations/'
 
 
 def make_plot_genderdiff(gender_significant_results, total_runs):
   # Plots modelsize (x)/disparaty rate (y)
-  models = list(MODEL_PARAMETERS.keys())
-  x = list(MODEL_PARAMETERS.values())
+  models = [m for m in MODEL_PARAMETERS.keys() if "whisper" in m]
+  x = [p for m, p in MODEL_PARAMETERS.items() if "whisper" in m]
   y = [100*((gender_significant_results[model]['female']+gender_significant_results[model]['male'])/total_runs[model]) for model in models]
 
   plt.plot(x, y, 'go-')  
@@ -116,8 +119,6 @@ def do_significance_testing(wers, x_demo, z_demo):
     
     test_result = stats.ttest_ind(wers[x_demo], all_other_wers)
 
-
-  
   # gender
   else:
     test_result = stats.ttest_ind(wers[x_demo], wers[z_demo])

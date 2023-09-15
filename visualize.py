@@ -323,10 +323,10 @@ def plot_wer_by_model_size(results, dataset):
 
   plt.clf() 
   plt.figure(figsize = (8,4))
-  plt.suptitle(f'WER by model size (Whisper on {dataset})')
+  plt.suptitle(f'Performance (WER) by Whisper family model size')
   plt.subplot(1, 2, 1) # row 1, col 2 index 1 --> absolute WERS
 
-  plt.title(f'Absolute WER')
+  plt.title(f'Performance (WER)')
 
   sizes_and_wers_m_to_plot = []
   sizes_and_wers_f_to_plot = []
@@ -343,17 +343,17 @@ def plot_wer_by_model_size(results, dataset):
         MODEL_PARAMETERS[model],
         wer_info_m.wer))
     
-  p, = plt.plot(*zip(*sizes_and_wers_f_to_plot), label='wer_female')
-  plt.plot(*zip(*sizes_and_wers_m_to_plot), label='wer_male',
+  p, = plt.plot(*zip(*sizes_and_wers_f_to_plot), label='female')
+  plt.plot(*zip(*sizes_and_wers_m_to_plot), label='male',
            color=p.get_color(), linestyle='--')
   plt.xlabel('Model parameters')
-  plt.ylabel('WER')
+  plt.ylabel('Performance (WER)')
   plt.xscale("log")
   plt.legend(loc='upper right', fontsize='8')
 
   plt.subplot(1, 2, 2) # row 1, col 2 index 1 --> relative WERS
 
-  plt.title(f'Relative WER female-male')
+  plt.title(f'Disparity') # female-male
   plt.axhline(y = 0, color = 'r', linestyle = '--')
 
   sizes_and_wers_to_plot = []
@@ -374,7 +374,7 @@ def plot_wer_by_model_size(results, dataset):
   plt.plot(*zip(*sizes_and_wers_to_plot), marker='o', label='wer',
            markevery=markerson)
   plt.xlabel('Model parameters')
-  plt.ylabel('relative WER (f-m)')
+  plt.ylabel('Disparity (f-m)')
   plt.xscale("log")
   plt.legend(loc='upper right', fontsize='8')
   plt.tight_layout()

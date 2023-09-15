@@ -199,7 +199,7 @@ class WerInfo:
     self.total_updates += eval_info.wer * eval_info.ref_len
     self.total_ref_len += eval_info.ref_len
     self.wers.append(eval_info.wer)
-  
+
   @property
   def wer(self):
     return self.total_updates / self.total_ref_len
@@ -426,25 +426,37 @@ def plot_wer_by_model_size_per_lang(results, dataset, langs_to_show=None, name=N
 def get_wer_analysis(results):
   outputs = {
     'commonvoice': collections.defaultdict(dict),
-    'voxpopuli': collections.defaultdict(dict)
+    'voxpopuli': collections.defaultdict(dict),
+    'all': collections.defaultdict(dict),
   }
+
+  def _add_to_all_output(model, lang, gender, eval_info):
+    def _add(lang):
+      if lang not in outputs['all'][model]:
+        outputs['all'][model][lang] = collections.defaultdict(WerInfo)
+      outputs['all'][model][lang][gender].add_eval_result(eval_info)
+    _add(lang)
+    _add('all')
+
   for dataset, model_dict in results.items():
     for model, lang_dict in model_dict.items():
       all_wer_info = collections.defaultdict(WerInfo)
       for lang, eval_info_dict in lang_dict.items():
-        lang_wer_info = collections.defaultdict(WerInfo)
+        wer_info_by_gender = collections.defaultdict(WerInfo)
         for gender in ['male', 'female']:
           if gender not in eval_info_dict:
             continue
           for x in eval_info_dict[gender]:
             eval_info = EvalInfo(*x)
             all_wer_info[gender].add_eval_result(eval_info)
-            lang_wer_info[gender].add_eval_result(eval_info)
+            wer_info_by_gender[gender].add_eval_result(eval_info)
+            _add_to_all_output(model, lang, gender, eval_info)
             if dataset == 'voxpopuli':
               year = eval_info.date[:4]
               all_wer_info[f'{gender}_{year}'].add_eval_result(eval_info)
-              lang_wer_info[f'{gender}_{year}'].add_eval_result(eval_info)
-        outputs[dataset][model][lang] = lang_wer_info
+              wer_info_by_gender[f'{gender}_{year}'].add_eval_result(eval_info)
+              _add_to_all_output(model, lang, gender, eval_info)
+        outputs[dataset][model][lang] = wer_info_by_gender
       
       outputs[dataset][model]['all'] = all_wer_info
 
@@ -456,6 +468,8 @@ def get_wer_analysis(results):
     plot_wer_by_model_size_per_lang(outputs, dataset)
     # plot_wer_by_model_size_per_lang(outputs, dataset, small_langs, 'small_langs')
     # plot_wer_by_model_size_per_lang(outputs, dataset, big_langs, 'big_langs')
+
+  plot_wer_by_model_size(outputs, 'all')
 
   # One graph for all Whisper models and one for all MMS models.
   for model in ['whisper', 'mms']:

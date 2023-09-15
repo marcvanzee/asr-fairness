@@ -61,7 +61,7 @@ def make_heatmap(intersectionality_significant_results, total_runs):
   
   models = list(MODEL_PARAMETERS.keys())
   models_results = []
-  intersectionality_groups = ['female_teens', 'male_teens', 'other_teens', 'female_twenties', 'male_twenties', 'other_twenties', 'female_thirties', 'male_thirties', 'other_thirties', 'female_fourties', 'male_fourties', 'other_fourties', 'female_fifties', 'male_fifties', 'female_sixties', 'male_sixties', 'male_seventies', 'female_eighties', 'male_nineties']
+  intersectionality_groups = ['female_teens', 'male_teens', 'other_teens', 'female_twenties', 'male_twenties', 'other_twenties', 'female_thirties', 'male_thirties', 'other_thirties', 'female_fourties', 'male_fourties', 'other_fourties', 'female_fifties', 'male_fifties', 'female_sixties', 'male_sixties', 'male_seventies'] #, 'female_eighties', 'male_nineties']
 
   # for model in models:
   #   for demographic_group in intersectionality_significant_results[model]:
@@ -106,20 +106,29 @@ def read_results():
 
 
 def do_significance_testing(wers, x_demo, z_demo):
-
+  
   # intersectionality
   if z_demo == 'all':
+    
     other_demographic_groups = [x for x in wers.keys() if x != 'female' and x != 'male' and x != x_demo]
     wers_other_demographic_groups = [wers[x] for x in other_demographic_groups]
     all_other_wers = [item for row in wers_other_demographic_groups for item in row]
+    
     test_result = stats.ttest_ind(wers[x_demo], all_other_wers)
+
+
   
   # gender
   else:
     test_result = stats.ttest_ind(wers[x_demo], wers[z_demo])
   
   if test_result[1] < 0.05:
-    # negative t-value:
+    #ensure min 10 sentences for a demographic group.
+    if len(wers[x_demo]) < 10:
+      print(x_demo, len(wers[x_demo]), wers[x_demo])
+      return None
+    
+    # negative t-value means that x_demo has the lowest mean. Z-demo is negatively disparate.
     if test_result[0] < 0:
       return z_demo
     elif test_result[0] > 0:
@@ -152,9 +161,12 @@ def get_significance(results, gender_disparity=True, intersectionality_disparity
           wers = {}
           dem_group_to_eval_data = results[dataset][model][language]
           for demographic_group, wer_res in dem_group_to_eval_data.items():
+            # if len(wer_res) < 5:
+            #   print(language, demographic_group, wer_res)
             wers[demographic_group] = [EvalInfo(*x).wer for x in wer_res]
 
           if gender_disparity:
+
             gender_sign = do_significance_testing(wers, 'female', 'male')
             if gender_sign:
               gender_significant_results[model][f'{gender_sign}'] += 1
@@ -171,16 +183,22 @@ def get_significance(results, gender_disparity=True, intersectionality_disparity
               intersec_sign = do_significance_testing(wers, demographic_group, 'all')
                 
               if intersec_sign:
-                if intersec_sign == 'all': continue
+                #if intersec_sign == 'all': continue
                 if demographic_group not in intersectionality_significant_results[model].keys():
                   intersectionality_significant_results[model][f'{demographic_group}'] = 0
                 intersectionality_significant_results[model][f'{demographic_group}'] += 1
          
         except KeyError: continue
 
+  f_sig = sum([gender_significant_results[model]['female'] for model in gender_significant_results.keys()])
+  m_sig = sum([gender_significant_results[model]['male'] for model in gender_significant_results.keys()])
+  total = sum(total_runs.values())
+
+  print(f"There are {total} experiments. Of these {(f_sig+m_sig)/total} % are significant. {f_sig/total} are disparate against women, {m_sig/total} are disparate against men.")
+
   if gender_disparity:
     make_plot_genderdiff(gender_significant_results, total_runs)
-    visualize_per_model_significance(gender_significant_results, total_runs) 
+    #visualize_per_model_significance(gender_significant_results, total_runs) 
 
   if intersectionality_disparity:
     make_heatmap(intersectionality_significant_results, total_runs)

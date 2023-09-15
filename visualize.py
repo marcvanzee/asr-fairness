@@ -31,10 +31,6 @@ def make_plot_genderdiff(gender_significant_results, total_runs):
   models = list(MODEL_PARAMETERS.keys())
   x = list(MODEL_PARAMETERS.values())
   y = [100*((gender_significant_results[model]['female']+gender_significant_results[model]['male'])/total_runs[model]) for model in models]
-  
-  print('x', x)
-  print('y', y)
-  print('labels', models)
 
   plt.plot(x, y, 'go-')  
   plt.xlabel('Model size')
@@ -123,6 +119,7 @@ def do_significance_testing(wers, x_demo, z_demo):
     test_result = stats.ttest_ind(wers[x_demo], wers[z_demo])
   
   if test_result[1] < 0.05:
+    # negative t-value:
     if test_result[0] < 0:
       return z_demo
     elif test_result[0] > 0:
@@ -486,8 +483,8 @@ def get_wer_analysis(results):
 
 def main(_):
   results = read_results()
-  # get_significance(results, gender_disparity=True, intersectionality_disparity=True)
-  get_wer_analysis(results)
+  get_significance(results, gender_disparity=True, intersectionality_disparity=True)
+  #get_wer_analysis(results)
 
 
 if __name__ == '__main__':

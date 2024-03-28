@@ -60,6 +60,7 @@ def visualize_per_model_significance(gender_significant_results, total_runs):
   print(tabulate(table, headers='firstrow', tablefmt='latex'))
 
 
+
 def make_heatmap(intersectionality_significant_results, total_runs):
   
   models = list(MODEL_PARAMETERS.keys())
@@ -116,9 +117,8 @@ def do_significance_testing(wers, x_demo, z_demo):
     other_demographic_groups = [x for x in wers.keys() if x != 'female' and x != 'male' and x != x_demo]
     wers_other_demographic_groups = [wers[x] for x in other_demographic_groups]
     all_other_wers = [item for row in wers_other_demographic_groups for item in row]
-    
     test_result = stats.ttest_ind(wers[x_demo], all_other_wers)
-
+    
   # gender
   else:
     test_result = stats.ttest_ind(wers[x_demo], wers[z_demo])
@@ -137,6 +137,7 @@ def get_significance(results, gender_disparity=True, intersectionality_disparity
 
   gender_significant_results = {}
   intersectionality_significant_results = {} # counter per model
+  wer_table_input = {}
   total_runs = {}
 
   for dataset in results: # cv vp
@@ -149,16 +150,19 @@ def get_significance(results, gender_disparity=True, intersectionality_disparity
           gender_significant_results[model] = {'female': 0, 'male': 0}
         if model not in intersectionality_significant_results.keys():
           intersectionality_significant_results[model] = {}
+          wer_table_input[model] = {}
       
-      for language in results[dataset][model]: # nl, fr
+      for language in results[dataset][model]: 
         total_runs[model] += 1
+        if language not in wer_table_input[model]:
+          wer_table_input[model][language] = []
 
         try:
           wers = {}
           dem_group_to_eval_data = results[dataset][model][language]
           for demographic_group, wer_res in dem_group_to_eval_data.items():
-            # if len(wer_res) < 5:
-            #   print(language, demographic_group, wer_res)
+            if len(wer_res) < 5:
+               continue
             wers[demographic_group] = [EvalInfo(*x).wer for x in wer_res]
 
           if gender_disparity:
@@ -176,12 +180,15 @@ def get_significance(results, gender_disparity=True, intersectionality_disparity
             
             intersectionality_groups = [x for x in wers.keys() if '_' in x]
             for demographic_group in intersectionality_groups:
+              wer_table_input[model][language]
+              
               intersec_sign = do_significance_testing(wers, demographic_group, 'all')
                 
               if intersec_sign:
                 #if intersec_sign == 'all': continue
                 if demographic_group not in intersectionality_significant_results[model].keys():
                   intersectionality_significant_results[model][f'{demographic_group}'] = 0
+
                 intersectionality_significant_results[model][f'{demographic_group}'] += 1
          
         except KeyError: continue
@@ -200,6 +207,48 @@ def get_significance(results, gender_disparity=True, intersectionality_disparity
     make_heatmap(intersectionality_significant_results, total_runs)
 
 
+def appendix(results):
+
+  no_tables = 0
+  for dataset in results.keys():
+    print(f"-------- {dataset} --------")
+    if dataset == "commonvoice":
+      demographic_groups = ['female', 'male']
+      header = ["Language"] + demographic_groups + ["diff"]
+    else:
+      continue
+    # if dataset == "voxpopuli":
+    #   demographic_groups = ['female', 'male']
+    #   header = ["Language"] + demographic_groups + ["diff"]
+    # else:
+    #   demographic_groups = ['female_teens', 'male_teens', 'female_twenties', 'male_twenties', 'female_thirties', 'male_thirties', 'female_fourties', 'male_fourties', 'female_fifties', 'male_fifties', 'female_sixties', 'male_sixties', 'male_seventies'] #, 'female_eighties', 'male_nineties']
+    #   header = ["Language"] + demographic_groups + ["diff"]
+    
+    for model in get_available_models(results[dataset].keys()):
+
+      table = []
+
+      for language in results[dataset][model]:
+        row = [language]
+        for demo in demographic_groups:
+          try:
+            demo_wers = [EvalInfo(*x).wer for x in results[dataset][model][language][demo]]
+            row.append(round(sum(demo_wers)/len(demo_wers),3))
+          except KeyError:
+            row.append(None)
+        if dataset == "voxpopuli":
+          row.append(row[1]-row[2])
+
+        print(row)
+        table.append(row)
+  
+      print(f"MODEL: {model}\nDATASET: {dataset}")
+      print(tabulate(table, headers=header, tablefmt='latex'))
+      print()
+      no_tables+=1
+
+  print(f"There are {no_tables} tables")
+   #
 @dataclasses.dataclass
 class WerInfo:
   total_ref_len: int = 0
@@ -250,82 +299,6 @@ def write_wer_table(results, dataset):
       model, wer_info_male.wer, wer_info_female.wer, wer_diff, rel_diff])
   
   print(tabulate(table, headers='firstrow', tablefmt='latex'))
-
-
-def plot_wer_by_year(results, model_filter):
-  # Plots time (x)/wer rate (y) per model
-  models = get_available_models(results.keys())
-
-  def filter_fn(model):
-    if not model_filter: return False
-    if isinstance(model_filter, str) and model_filter not in model: return True
-    if isinstance(model_filter, list) and model not in model_filter: return True
-    return False
-
-  years = list(range(2009, 2018))
-  years_labels = [years[i] for i in range(len(years)) if (i+1) % 2 == 0]
-
-  plt.clf()
-  plt.figure(figsize = (8,4))
-  plt.suptitle(f'WER by year on Voxpopuli')
-
-  plt.subplot(1, 2, 1) # row 1, col 2 index 1 --> absolute WERS
-
-  plt.title(f'Absolute WER')
-
-  for model in models:
-    if filter_fn(model):
-      continue
-    print(model)
-    years_wers_to_plot_m = []
-    years_wers_to_plot_f = []
-    for year in years:
-      wer_info_f = results[model]['all'].get(f'female_{year}', None)
-      wer_info_m = results[model]['all'].get(f'male_{year}', None)
-      if wer_info_f:
-        years_wers_to_plot_f.append((year, wer_info_f.wer))
-      if wer_info_m:
-        years_wers_to_plot_m.append((year, wer_info_m.wer))
-    p, = plt.plot(*zip(*years_wers_to_plot_f), label=model+'_female')
-    plt.plot(*zip(*years_wers_to_plot_m), label=model+'_male',
-             color=p.get_color(), linestyle='--')
-
-  plt.xlabel('Year')
-  plt.xticks(years_labels, rotation=45)
-  plt.ylabel(f'absolute WER')
-  plt.legend(loc='upper right', fontsize='8')
-
-  plt.subplot(1, 2, 2) # index 2 --> relative WERS
-  
-  plt.title(f'Relative WER female-male')
-  plt.axhline(y = 0, color = 'k', linestyle = '--')
-
-  for model in models:
-    if filter_fn(model):
-      continue
-    years_wers_to_plot = []
-    markerson = []
-    for i, year in enumerate(years):
-      wer_info_f = results[model]['all'].get(f'female_{year}', None)
-      wer_info_m = results[model]['all'].get(f'male_{year}', None)
-      if not (f:=wer_info_f) or not (m:=wer_info_m):
-        print(f'{model=}, {year=} missing gender {"male" if f else "male"}')
-        continue
-      if stats.ttest_ind(wer_info_f.wers, wer_info_m.wers).pvalue < 0.05:
-        markerson.append(i)
-      rel_wer_d = rel_wer_diff(wer_info_f.wer, wer_info_m.wer)
-      years_wers_to_plot.append((year, rel_wer_d))
-    plt.plot(*zip(*years_wers_to_plot), label=model, marker='o',
-             markevery=markerson)
-  
-  plt.xlabel('Year')
-  plt.xticks(years_labels, rotation=45)
-  plt.ylabel('relative WER (f-m)')
-  plt.legend(loc='upper right', fontsize='8')
-  plt.tight_layout()
-  filename = f'wer_by_year_{model_filter}.png'
-  plt.savefig(os.path.join(OUTPUT_DIR, filename))
-  print('Wrote to', filename)
 
 
 def plot_wer_by_model_size(results, dataset):
@@ -434,6 +407,78 @@ def plot_wer_by_model_size_per_lang(results, dataset, langs_to_show=None, name=N
   plt.savefig(os.path.join(OUTPUT_DIR, fig_name))
 
 
+def plot_wer_by_year(results, model_filter, ax_idx):
+  # Plots time (x)/wer rate (y) per model
+  models = get_available_models(results.keys())
+  model_title = 'Whisper' if model_filter =='whisper' else 'MMS'
+
+  def filter_fn(model):
+    if not model_filter: return False
+    if isinstance(model_filter, str) and model_filter not in model: return True
+    if isinstance(model_filter, list) and model not in model_filter: return True
+    return False
+
+  years = list(range(2009, 2018))
+  years_labels = [years[i] for i in range(len(years)) if (i+1) % 2 == 0]
+
+
+  plt.subplot(2, 2, ax_idx)
+
+  plt.title(f'Performance (WER) ({model_title})')
+  for model in models:
+    if filter_fn(model):
+      continue
+    years_wers_to_plot_m = []
+    years_wers_to_plot_f = []
+    for year in years:
+      wer_info_f = results[model]['all'].get(f'female_{year}', None)
+      wer_info_m = results[model]['all'].get(f'male_{year}', None)
+      if wer_info_f:
+        years_wers_to_plot_f.append((year, wer_info_f.wer))
+      if wer_info_m:
+        years_wers_to_plot_m.append((year, wer_info_m.wer))
+    p, = plt.plot(*zip(*years_wers_to_plot_f), label=model) #+'_female')
+    plt.plot(*zip(*years_wers_to_plot_m), color=p.get_color(), linestyle='--') # label=model+'_male',
+
+  plt.xlabel('Year')
+  plt.xticks(years_labels, rotation=45)
+  plt.ylabel(f'Absolute WER')
+
+  plt.subplot(2, 2, ax_idx+1)
+
+  print(ax_idx+1)
+  
+  plt.title(f'Gender Disparity ({model_title})')
+  plt.axhline(y = 0, color = 'k', linestyle = '--')
+
+  for model in models:
+    if filter_fn(model):
+      continue
+    years_wers_to_plot = []
+    markerson = []
+    for i, year in enumerate(years):
+      wer_info_f = results[model]['all'].get(f'female_{year}', None)
+      wer_info_m = results[model]['all'].get(f'male_{year}', None)
+      if not (f:=wer_info_f) or not (m:=wer_info_m):
+        print(f'{model=}, {year=} missing gender {"male" if f else "male"}')
+        continue
+      if stats.ttest_ind(wer_info_f.wers, wer_info_m.wers).pvalue < 0.05:
+        markerson.append(i)
+      rel_wer_d = rel_wer_diff(wer_info_f.wer, wer_info_m.wer)
+      years_wers_to_plot.append((year, rel_wer_d))
+    model_label = model.replace('whisper_', '').replace('mms_mms-', '')
+    plt.plot(*zip(*years_wers_to_plot), label=model_label, marker='o',
+             markevery=markerson)
+  
+  plt.xlabel('Year')
+  plt.xticks(years_labels, rotation=45)
+  plt.ylabel('Relative WER (f-m)')
+  plt.legend(bbox_to_anchor=(1.3, 1),
+             handlelength=0,
+             ncols=1)
+  plt.tight_layout()
+
+
 def get_wer_analysis(results):
   outputs = {
     'commonvoice': collections.defaultdict(dict),
@@ -473,32 +518,42 @@ def get_wer_analysis(results):
 
   for dataset in ['commonvoice', 'voxpopuli']:
     print('------', dataset)
-    write_wer_table(outputs, dataset)
-    plot_wer_by_model_size(outputs, dataset)
+    #write_wer_table(outputs, dataset)
+  #   plot_wer_by_model_size(outputs, dataset)
 
-    plot_wer_by_model_size_per_lang(outputs, dataset)
-    # plot_wer_by_model_size_per_lang(outputs, dataset, small_langs, 'small_langs')
-    # plot_wer_by_model_size_per_lang(outputs, dataset, big_langs, 'big_langs')
+  #   plot_wer_by_model_size_per_lang(outputs, dataset)
+  #   # plot_wer_by_model_size_per_lang(outputs, dataset, small_langs, 'small_langs')
+  #   # plot_wer_by_model_size_per_lang(outputs, dataset, big_langs, 'big_langs')
 
-  plot_wer_by_model_size(outputs, 'all')
+  # plot_wer_by_model_size(outputs, 'all')
 
   # One graph for all Whisper models and one for all MMS models.
-  for model in ['whisper', 'mms']:
-    plot_wer_by_year(outputs['voxpopuli'], model)
+  # fig = plt.figure()
+  # plt.clf()
+  # plt.figure(figsize = (10, 8))
 
-  for models_to_compare in [
-    ['whisper_large-v2', 'mms_mms-1b-all'],
-    ['whisper_tiny', 'whisper_large-v2'],
-    ['mms_mms-1b-fl102', 'mms_mms-1b-all']]:
-    plot_wer_by_year(outputs['voxpopuli'], models_to_compare)
+  # for i, model in enumerate(['whisper', 'mms']):
+  #   plot_wer_by_year(outputs['voxpopuli'], model, i*2+1)
 
-  plot_wer_by_year(outputs['voxpopuli'], 'whisper')
+  # filename = f'wer_by_year_vp.png'
+  # plt.savefig(os.path.join(OUTPUT_DIR, filename))
+  # print('Wrote to', filename)
+
+  # for models_to_compare in [
+  #   ['whisper_large-v2', 'mms_mms-1b-all'],
+  #   ['whisper_tiny', 'whisper_large-v2'],
+  #   ['mms_mms-1b-fl102', 'mms_mms-1b-all']]:
+  #   plot_wer_by_year(outputs['voxpopuli'], models_to_compare)
+
+  # plot_wer_by_year(outputs['voxpopuli'], 'whisper')
 
 
 def main(_):
   results = read_results()
   get_significance(results, gender_disparity=True, intersectionality_disparity=True)
-  #get_wer_analysis(results)
+  appendix(results)
+  
+  # get_wer_analysis(results)
 
 
 if __name__ == '__main__':
